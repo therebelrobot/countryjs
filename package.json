@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/therebelrobot/country.js.git"
+    "url": "https://github.com/therebelrobot/country.git"
   },
   "keywords": [
     "country",
@@ -22,9 +22,9 @@
   "author": "Trent Oswald <trentoswald@therebelrobot.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/therebelrobot/country.js/issues"
+    "url": "https://github.com/therebelrobot/country/issues"
   },
-  "homepage": "https://github.com/therebelrobot/country.js",
+  "homepage": "https://github.com/therebelrobot/country",
   "dependencies": {
     "lodash": "^2.4.1"
   }
