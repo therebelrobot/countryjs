@@ -1,14 +1,22 @@
 {
   "name": "countryjs",
   "version": "1.0.0",
-  "description": "A Node.js module for returning data about countries, ISO info and states/provinces within them.",
+  "description": "A utility library for returning countrie data, ISO info and states/provinces within them.",
   "main": "country.js",
+  "author": "Trent Oswald <trentoswald@therebelrobot.com> (http://therebelrobot.com)",
+  "license": "MIT",
+  "contributors": [
+    "Trent Oswald <trentoswald@therebelrobot.com> (http://therebelrobot.com)"
+  ],
+  "repository": "therebelrobot/countryjs",
+  "engines": ["node"],
+  "files": [
+    "README.md",
+    "country.js",
+    "list.js"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/therebelrobot/countryjs.git"
   },
   "keywords": [
     "country",
@@ -19,8 +27,6 @@
     "state",
     "province"
   ],
-  "author": "Trent Oswald <trentoswald@therebelrobot.com>",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/therebelrobot/countryjs/issues"
   },
