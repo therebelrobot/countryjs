@@ -83,5 +83,4 @@ var Country = {
     return _returnData;
   }
 }
-console.log(Country.all());
 module.exports = Country;
