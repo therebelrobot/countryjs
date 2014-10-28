@@ -76,17 +76,12 @@ var Country = {
   },
   all: function() {
     var _returnData = _countryList.map(function(obj) {
-      var newObj = {
-        name: obj.name,
-        ISO2: obj.ISO[2],
-        ISO3: obj.ISO[3],
-        ISOnum: obj.ISO.numeric,
-        ISOcode: obj.ISO.code,
-        stateCount: obj.provinces.length
-      }
-      return newObj;
+      obj.stateCount = obj.provinces.length;
+      obj = _.omit(obj, 'provinces');
+      return obj;
     });
     return _returnData;
   }
 }
+console.log(Country.all());
 module.exports = Country;
