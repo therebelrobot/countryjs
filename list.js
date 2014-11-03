@@ -9,6 +9,5 @@ module.exports = function() {
   _.forEach(fileList, function(file) {
     totalList.push(require(file));
   });
-  // console.log(totalList);
   return totalList;
 }
