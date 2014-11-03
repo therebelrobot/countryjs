@@ -1,5 +1,5 @@
 var _ = require('lodash');
-var _countryList = require(__dirname + '/list.json');
+var _countryList = require(__dirname + '/list')();
 
 var Country = {
   info: function(country, type) {

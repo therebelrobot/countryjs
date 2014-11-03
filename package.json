@@ -9,7 +9,9 @@
     "Trent Oswald <trentoswald@therebelrobot.com> (http://therebelrobot.com)"
   ],
   "repository": "therebelrobot/countryjs",
-  "engines": ["node"],
+  "engines": [
+    "node"
+  ],
   "files": [
     "README.md",
     "country.js",
@@ -32,6 +34,7 @@
   },
   "homepage": "https://github.com/therebelrobot/countryjs",
   "dependencies": {
+    "glob": "^4.0.6",
     "lodash": "^2.4.1"
   }
 }
