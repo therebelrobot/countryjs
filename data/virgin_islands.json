@@ -1,0 +1,10 @@
+{
+  "name": "Virgin Islands",
+  "ISO": {
+    "2": "VI",
+    "3": "VIR",
+    "numeric": 850,
+    "code": "ISO 3166-2:VI"
+  },
+  "provinces": ["Saint Croix", "Saint John", "Saint Thomas"]
+}
