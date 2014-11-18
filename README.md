@@ -1,4 +1,5 @@
 #country.js
+[![NPM](https://nodei.co/npm/countryjs.png)](https://nodei.co/npm/countryjs/)
 
 A Node.js module for returning data about countries, ISO info and states/provinces within them.
 
