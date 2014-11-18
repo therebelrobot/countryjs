@@ -51,6 +51,11 @@ country.states('US'); // Defaults to ISO2
 //  ...
 // ]
 ```
+## TODO
+I'm looking at adding the following to the API:
+- currency
+- languages
+- wikipedia article
 ## Contributing
 Feel free to fork and create a pull request. 2 space tabs, spaces only. Try to adhere to the form of the current code.
 ## License
