@@ -1,6 +1,8 @@
 #country.js
 [![NPM](https://nodei.co/npm/countryjs.png)](https://nodei.co/npm/countryjs/)
 
+[![Code Climate](https://codeclimate.com/github/therebelrobot/countryjs/badges/gpa.svg)](https://codeclimate.com/github/therebelrobot/countryjs)
+
 A Node.js module for returning data about countries, ISO info and states/provinces within them.
 
 ##Install
