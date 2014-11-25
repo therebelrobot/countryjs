@@ -72,7 +72,6 @@ var Country = {
     }
     _returnData = _returnData.provinces;
     return _returnData;
-
   },
   all: function() {
     var _returnData = _countryList.map(function(obj) {
@@ -81,6 +80,33 @@ var Country = {
       return obj;
     });
     return _returnData;
+  },
+  currency: function(country, type, reverse) {
+
+  },
+  flag: function(country, type, reverse) {
+
+  },
+  languages: function(country, type, reverse) {
+
+  },
+  wiki: function(country, type, reverse) {
+
+  },
+  callingCode: function(country, type, reverse) {
+
+  },
+  ioc: function(country, type, reverse) {
+
+  },
+  tld: function(country, type, reverse) {
+
+  },
+  coordinates: function(country, type, reverse) {
+
+  },
+  timezone: function(country, type, reverse) {
+
   }
 }
 module.exports = Country;

@@ -1,1 +1,39 @@
-{"name":"Afghanistan","ISO":{"2":"AF","3":"AFG","numeric":4,"code":"ISO 3166-2:AF"},"provinces":["Badakhshan","Badghis","Baghlan","Balkh","Bamian","Farah","Faryab","Ghazni","Ghowr","Helmand","Herat","Jowzjan","Kabol","Kandahar","Kapisa","Konar","Kondoz","Laghman","Lowgar","Nangarhar","Nimruz","Oruzgan","Paktia","Paktika","Parvan","Samangan","Sar-e Pol","Takhar","Vardak","Zabol"]}
+{
+  "name": "Afghanistan",
+  "ISO": {
+    "2": "AF",
+    "3": "AFG",
+    "numeric": 4,
+    "code": "ISO 3166-2:AF"
+  },
+  "provinces": ["Badakhshan", "Badghis", "Baghlan", "Balkh", "Bamian", "Farah", "Faryab", "Ghazni", "Ghowr", "Helmand", "Herat", "Jowzjan", "Kabol", "Kandahar", "Kapisa", "Konar", "Kondoz", "Laghman", "Lowgar", "Nangarhar", "Nimruz", "Oruzgan", "Paktia", "Paktika", "Parvan", "Samangan", "Sar-e Pol", "Takhar", "Vardak", "Zabol"],
+  "currency": {
+    "name": "afghani",
+    "ISO": "AFN",
+    "symbol": [
+      "؋"
+      "Af"
+    ]
+  },
+  "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg",
+  "languages": [{
+    "name": "Pashto",
+    "ISO6391": "ps",
+    "ISO6392": "pus",
+    "ISO6393": "pus",
+    "Glottolog": "pash1269",
+    "Linguasphere": "58-ABD-a"
+  }, {
+    "name": "Dari",
+    "ISO6393": "prs",
+    "Linguasphere": "58-AAC-ce (Dari) + 58-AAC-cdo & cdp (Hazaragi) + 58-AAC-ck (Aimaq)"
+  }],
+  "wiki": "http://en.wikipedia.org/wiki/afghanistan",
+  "callingCode": "+93",
+  "ioc": "",
+  "tld": [".af", "افغانستان."],
+  "coordinates": "",
+  "timezone": [
+    "D† (UTC+4:30)"
+  ]
+}

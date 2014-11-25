@@ -1,1 +1,33 @@
-{"name":"Albania","ISO":{"2":"AL","3":"ALB","numeric":8,"code":"ISO 3166-2:AL"},"provinces":["Berat","Bulqize","Delvine","Devoll (Bilisht)","Diber (Peshkopi)","Durres","Elbasan","Fier","Gjirokaster","Gramsh","Has (Krume)","Kavaje","Kolonje (Erseke)","Korce","Kruje","Kucove","Kukes","Kurbin","Lezhe","Librazhd","Lushnje","Malesi e Madhe (Koplik)","Mallakaster (Ballsh)","Mat (Burrel)","Mirdite (Rreshen)","Peqin","Permet","Pogradec","Puke","Sarande","Shkoder","Skrapar (Corovode)","Tepelene","Tirane (Tirana)","Tirane (Tirana)","Tropoje (Bajram Curri)","Vlore"]}
+{
+  "name": "Albania",
+  "ISO": {
+    "2": "AL",
+    "3": "ALB",
+    "numeric": 8,
+    "code": "ISO 3166-2:AL"
+  },
+  "provinces": ["Berat", "Bulqize", "Delvine", "Devoll (Bilisht)", "Diber (Peshkopi)", "Durres", "Elbasan", "Fier", "Gjirokaster", "Gramsh", "Has (Krume)", "Kavaje", "Kolonje (Erseke)", "Korce", "Kruje", "Kucove", "Kukes", "Kurbin", "Lezhe", "Librazhd", "Lushnje", "Malesi e Madhe (Koplik)", "Mallakaster (Ballsh)", "Mat (Burrel)", "Mirdite (Rreshen)", "Peqin", "Permet", "Pogradec", "Puke", "Sarande", "Shkoder", "Skrapar (Corovode)", "Tepelene", "Tirane (Tirana)", "Tirane (Tirana)", "Tropoje (Bajram Curri)", "Vlore"],
+  "currency": {
+    "name": "lek",
+    "ISO": "ALL",
+    "symbol": "L"
+  },
+  "flag": "http://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg",
+  "languages": [{
+    "name": "Albanian",
+    "ISO6391": "sq",
+    "ISO6392": "alb",
+    "ISO6393": "sqi",
+    "Glottolog": "alba1267",
+    "Linguasphere": "55-AAA-aaa to 55-AAA-ahe (25 varieties)"
+  }],
+  "wiki": "http://en.wikipedia.org/wiki/albania",
+  "callingCode": "355",
+  "ioc": "",
+  "tld": [".al"],
+  "coordinates": "",
+  "timezone": [
+    "CET (UTC+1)",
+    "CEST (UTC+2)"
+  ]
+}
