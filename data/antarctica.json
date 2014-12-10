@@ -6,7 +6,16 @@
     "numeric": 8,
     "code": "ISO 3166-2:AQ"
   },
-  "provinces": ["Antartica"],
+  "provinces": ["British Antarctic Territory",
+    "Ross Dependency",
+    "Adélie Land",
+    "Peter I Island",
+    "Australian Antarctic Territory",
+    "Queen Maud Land",
+    "Antártica",
+    "Argentine Antarctica",
+    "Marie Byrd Land"
+  ],
   "currency": {
     "name": "",
     "ISO": "",
@@ -16,9 +25,7 @@
   "languages": [],
   "wiki": "http://en.wikipedia.org/wiki/antarctica",
   "callingCode": "",
-  "ioc": "",
   "tld": [],
-  "coordinates": "",
   "timezone": [],
   "geoJSON": {
     "type": "FeatureCollection",

@@ -1,1 +1,29 @@
-{"name":"Anguilla","ISO":{"2":"AI","3":"AIA","numeric":660,"code":"ISO 3166-2:AI"},"provinces":["Anguilla"],"currency":{"name":"","ISO":"","symbol":""},"flag":"","languages":[],"wiki":"http://en.wikipedia.org/wiki/anguilla","callingCode":"","ioc":"","tld":[],"coordinates":"","timezone":[],"geoJSON":{}}
+{
+  "name": "Anguilla",
+  "ISO": {
+    "2": "AI",
+    "3": "AIA",
+    "numeric": 660,
+    "code": "ISO 3166-2:AI"
+  },
+  "provinces": ["Anguilla"],
+  "currency": {
+    "name": "East Caribbean dollar",
+    "ISO": "XCD",
+    "symbol": "$"
+  },
+  "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Anguilla.svg",
+  "languages": [{
+    "name": "English",
+    "ISO6391": "en",
+    "ISO6392": "eng",
+    "ISO6393": "eng",
+    "Glottolog": "stan1293",
+    "Linguasphere": "52-ABA"
+  }],
+  "wiki": "http://en.wikipedia.org/wiki/anguilla",
+  "callingCode": "+1-264",
+  "tld": [".ai"],
+  "timezone": ["(UTC-4)"],
+  "geoJSON": {}
+}

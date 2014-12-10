@@ -85,8 +85,8 @@ SOFTWARE.
 - ✔ algeria
 - american_samoa
 - angola
-- anguilla
-- antarctica
+- ✔ anguilla
+- ✔ antarctica
 - antigua_and_barbuda
 - argentina
 - armenia
