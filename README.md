@@ -93,8 +93,8 @@ SOFTWARE.
 - ✔ aruba
 - ✔ ashmore_and_cartier_island
 - ✔ australia
-- austria
-- azerbaijan
+- ✔ austria
+- ✔ azerbaijan
 - bahamas
 - bahrain
 - bangladesh
