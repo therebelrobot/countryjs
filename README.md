@@ -87,8 +87,8 @@ SOFTWARE.
 - angola
 - ✔ anguilla
 - ✔ antarctica
-- antigua_and_barbuda
-- argentina
+- ✔ antigua_and_barbuda
+- ✔ argentina
 - armenia
 - aruba
 - ashmore_and_cartier_island
