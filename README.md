@@ -91,8 +91,8 @@ SOFTWARE.
 - ✔ argentina
 - ✔ armenia
 - ✔ aruba
-- ashmore_and_cartier_island
-- australia
+- ✔ ashmore_and_cartier_island
+- ✔ australia
 - austria
 - azerbaijan
 - bahamas
