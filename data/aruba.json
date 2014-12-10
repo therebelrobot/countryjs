@@ -1,1 +1,35 @@
-{"name":"Aruba","ISO":{"2":"AW","3":"ABW","numeric":533,"code":"ISO 3166-2:AW"},"provinces":["Aruba"],"currency":{"name":"","ISO":"","symbol":""},"flag":"","languages":[],"wiki":"http://en.wikipedia.org/wiki/aruba","callingCode":"","ioc":"","tld":[],"coordinates":"","timezone":[],"geoJSON":{}}
+{
+  "name": "Aruba",
+  "ISO": {
+    "2": "AW",
+    "3": "ABW",
+    "numeric": 533,
+    "code": "ISO 3166-2:AW"
+  },
+  "provinces": ["Aruba"],
+  "currency": {
+    "name": "Aruban florin",
+    "ISO": "AWG",
+    "symbol": "Afl."
+  },
+  "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Aruba.svg",
+  "languages": [{
+    "name": "Dutch",
+    "ISO6391": "nl",
+    "ISO6392": "dut",
+    "ISO6393": "nld",
+    "Glottolog": "mode1257",
+    "Linguasphere": "52-ACB-a"
+  }, {
+    "name": "Papiamento",
+    "ISO6392": "pap",
+    "ISO6393": "pap",
+    "Glottolog": "papi1253",
+    "Linguasphere": "51-AAC-be"
+  }],
+  "wiki": "http://en.wikipedia.org/wiki/aruba",
+  "callingCode": "+297",
+  "tld": [".aw"],
+  "timezone": ["AST (UTC−4)"],
+  "geoJSON": {}
+}

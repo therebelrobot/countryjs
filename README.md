@@ -89,8 +89,8 @@ SOFTWARE.
 - ✔ antarctica
 - ✔ antigua_and_barbuda
 - ✔ argentina
-- armenia
-- aruba
+- ✔ armenia
+- ✔ aruba
 - ashmore_and_cartier_island
 - australia
 - austria
