@@ -55,6 +55,8 @@ country.states('US'); // Defaults to ISO2
 Special thanks to johan for his work on [johan/world.geo.json](https://github.com/johan/world.geo.json), who made the geojson portion of this build possible.
 ## Contributing
 Feel free to fork and create a pull request. 2 space tabs, spaces only. Try to adhere to the form of the current code.
+## Disclaimer
+This is being maintained in the contributor's free time, and as such, may contain minor errors in regards to some countries. Most of the information included in this library is what is listed on Wikipedia. If there is an error, please let me know and I will do my best to correct it.
 ## License
 The MIT License (MIT)
 
