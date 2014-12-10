@@ -51,6 +51,8 @@ country.states('US'); // Defaults to ISO2
 //  ...
 // ]
 ```
+## Special Thanks
+Special thanks to johan for his work on [johan/world.geo.json](https://github.com/johan/world.geo.json), who made the geojson portion of this build possible.
 ## Contributing
 Feel free to fork and create a pull request. 2 space tabs, spaces only. Try to adhere to the form of the current code.
 ## License
