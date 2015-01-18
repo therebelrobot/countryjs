@@ -1,5 +1,5 @@
 var _ = require('lodash');
-var _countryList = require('./list')();
+var _countryList = require('countryjs/list')();
 
 var Country = {
   all: function() {
