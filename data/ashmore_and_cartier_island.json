@@ -1,17 +1,1 @@
-{
-  "name": "Ashmore and Cartier Island",
-  "ISO": {},
-  "provinces": ["Ashmore and Cartier Island"],
-  "currency": {
-    "name": "",
-    "ISO": "",
-    "symbol": ""
-  },
-  "flag": "",
-  "languages": [],
-  "wiki": "http://en.wikipedia.org/wiki/Ashmore_and_Cartier_Islands",
-  "callingCode": "",
-  "tld": [],
-  "timezone": [],
-  "geoJSON": {}
-}
+{"name":"Ashmore and Cartier Island","ISO":{},"provinces":["Ashmore and Cartier Island"],"currency":{"name":"","ISO":"","symbol":""},"flag":"","languages":[],"wiki":"http://en.wikipedia.org/wiki/Ashmore_and_Cartier_Islands","callingCode":"","tld":[],"timezone":[],"geoJSON":{},"status":404,"message":"Not Found"}

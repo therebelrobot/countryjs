@@ -82,7 +82,39 @@ var Country = {
     return _returnData;
   },
   currency: function(country, type, reverse) {
-
+    var _returnData;
+    switch (type) {
+      case 'name':
+        _returnData = _.where(_countryList, {
+          name: country
+        })[0];
+        break;
+      case 'ISO3':
+        _returnData = _.where(_countryList, function(obj) {
+          return obj.ISO[3] === country;
+        })[0];
+        break;
+      case 'numeric':
+        _returnData = _.where(_countryList, function(obj) {
+          return obj.ISO.numeric === country;
+        })[0];
+        break;
+      case 'code':
+        _returnData = _.where(_countryList, function(obj) {
+          return obj.ISO.code === country;
+        })[0];
+        break;
+      default:
+        _returnData = _.where(_countryList, function(obj) {
+          return obj.ISO[2] === country;
+        })[0];
+        break;
+    }
+    if (_.isUndefined(_returnData)) {
+      return false;
+    }
+    _returnData = _returnData.currency;
+    return _returnData;
   },
   flag: function(country, type, reverse) {
 
@@ -110,3 +142,39 @@ var Country = {
   }
 }
 module.exports = Country;
+
+function _returnObj(subobj, country, type, reverse) {
+  var _returnData;
+  switch (type) {
+    case 'name':
+      _returnData = _.where(_countryList, {
+        name: country
+      })[0];
+      break;
+    case 'ISO3':
+      _returnData = _.where(_countryList, function(obj) {
+        return obj.ISO[3] === country;
+      })[0];
+      break;
+    case 'numeric':
+      _returnData = _.where(_countryList, function(obj) {
+        return obj.ISO.numeric === country;
+      })[0];
+      break;
+    case 'code':
+      _returnData = _.where(_countryList, function(obj) {
+        return obj.ISO.code === country;
+      })[0];
+      break;
+    default:
+      _returnData = _.where(_countryList, function(obj) {
+        return obj.ISO[2] === country;
+      })[0];
+      break;
+  }
+  if (_.isUndefined(_returnData)) {
+    return false;
+  }
+  _returnData = _returnData[subobj];
+  return _returnData;
+}
