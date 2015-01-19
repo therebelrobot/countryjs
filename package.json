@@ -1,12 +1,13 @@
 {
   "name": "countryjs",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A utility library for returning country data, ISO info and states/provinces within them.",
   "main": "country.js",
   "author": "Trent Oswald <trentoswald@therebelrobot.com> (http://therebelrobot.com)",
   "license": "ISC",
   "contributors": [
-    "Trent Oswald <trentoswald@therebelrobot.com> (http://therebelrobot.com)"
+    "Trent Oswald <trentoswald@therebelrobot.com> (http://therebelrobot.com)",
+    "Scott Hillman <hillmanov@gmail.com>"
   ],
   "repository": "therebelrobot/countryjs",
   "engines": [
@@ -15,7 +16,7 @@
   "files": [
     "README.md",
     "country.js",
-    "list.json"
+    "list.js"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
