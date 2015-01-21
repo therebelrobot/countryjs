@@ -1,6 +1,6 @@
 {
   "name": "countryjs",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "A utility library for returning country data, ISO info and states/provinces within them.",
   "main": "country.js",
   "author": "Trent Oswald <trentoswald@therebelrobot.com> (http://therebelrobot.com)",
@@ -9,7 +9,7 @@
     "Trent Oswald <trentoswald@therebelrobot.com> (http://therebelrobot.com)",
     "Scott Hillman <hillmanov@gmail.com>"
   ],
-  "repository": "therebelrobot/countryjs",
+  "repository": "Growmies/countryjs",
   "engines": [
     "node"
   ],
@@ -26,9 +26,9 @@
     "province"
   ],
   "bugs": {
-    "url": "https://github.com/therebelrobot/countryjs/issues"
+    "url": "https://github.com/Growmies/countryjs/issues"
   },
-  "homepage": "https://github.com/therebelrobot/countryjs",
+  "homepage": "https://github.com/Growmies/countryjs",
   "dependencies": {
     "glob": "^4.0.6",
     "lodash": "^2.4.1"
