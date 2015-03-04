@@ -1,4 +1,5 @@
-#country.js
+# country.js
+
 [![NPM](https://nodei.co/npm/countryjs.png?downloads=true)](https://nodei.co/npm/countryjs/)
 [![NPM](https://nodei.co/npm-dl/countryjs.png?months=3&height=2)](https://nodei.co/npm/countryjs/)
 
@@ -7,51 +8,51 @@
 
 A Node.js module for returning data about countries, ISO info and states/provinces within them.
 
-##Install
+## Table of Contents
+
+* [Install]()
+* [API]()
+  * [`.info()`]()
+  * [`.states()`]()
+  * [`.name()`]()
+  * [`.altSpellings()`]()
+  * [`.area()`]()
+  * [`.borders()`]()
+  * [`.callingCodes()`]()
+  * [`.capital()`]()
+  * [`.currencies()`]()
+  * [`.demonym()`]()
+  * [`.flag()`]()
+  * [`.geoJSON()`]()
+  * [`.ISOcodes()`]()
+  * [`.languages()`]()
+  * [`.latlng()`]()
+  * [`.nativeName()`]()
+  * [`.population()`]()
+  * [`.region()`]()
+  * [`.subregion()`]()
+  * [`.timezones()`]()
+  * [`.tld()`]()
+  * [`.translations()`]()
+  * [`.wiki()`]()
+  * [`.all()`]()
+* [Special Thanks]()
+* [Contributing]()
+* [Disclaimer]()
+* [License (ISC)]()
+
+## Install
+
 ```bash
 npm install countryjs
 ```
-##API
-###.all()
-```JavaScript
-var country = require('countryjs');
-country.all();
-// returns array of objects,
-// [{
-//     "name": "United States",
-//     "altSpellings": ["US", "USA", "United States of America"],
-//     "area": 9629091,
-//     "borders": ["CAN", "MEX"],
-//     "callingCodes": ["1"],
-//     "capital": "Washington D.C.",
-//     "currencies": ["USD", "USN", "USS"],
-//     "demonym": "American",
-//     "flag": "", // Flag API is incomplete
-//     "geoJSON": {} //GeoJSON data,
-//     "ISO": {
-//         "alpha2": "US",
-//         "alpha3": "USA"
-//     },
-//     "languages": ["en"],
-//     "latlng": [38, -97],
-//     "nativeName": "United States",
-//     "population": 319259000,
-//     "provinces": [], // State/Province list
-//     "region": "Americas",
-//     "subregion": "Northern America",
-//     "timezones": [], // TimeZone list
-//     "tld": [".us"],
-//     "translations": {
-//         "de": "Vereinigte Staaten von Amerika",
-//         "es": "Estados Unidos",
-//         "fr": "États-Unis",
-//         "ja": "アメリカ合衆国",
-//         "it": "Stati Uniti D'America"
-//     },
-//     "wiki": "http://en.wikipedia.org/wiki/united_states_of_america"
-// }...]
-```
-###.info()
+
+## API
+
+### `.info()`
+
+Returns all available information for a specified country.
+
 ```JavaScript
 var country = require('countryjs');
 country.info('US', 'ISO2'); // 'ISO2', 'ISO3', 'name'
@@ -91,7 +92,11 @@ country.info('US'); // Defaults to ISO2
 //     "wiki": "http://en.wikipedia.org/wiki/united_states_of_america"
 // }
 ```
-###.states()
+
+### `.states()`
+
+Returns all states/provinces for a specified country.
+
 ```JavaScript
 var country = require('countryjs');
 country.states('USA', 'ISO3'); // 'ISO2', 'ISO3', 'name'
@@ -102,7 +107,15 @@ country.states('US'); // Defaults to ISO2
 //  ...
 // ]
 ```
-###.name()
+
+### `.provinces()`
+
+Alias of [`.states()`]()
+
+### `.name()`
+
+Returns name for a specified country
+
 ```javascript
 var country = require('countryjs');
 country.name('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
@@ -110,7 +123,11 @@ country.name('USA') // Defaults to 'ISO2'
 // returns string
 // "United States"
 ```
-###.altSpellings()
+
+### `.altSpellings()`
+
+Returns alternate spellings for the name of a specified country
+
 ```javascript
 var country = require('countryjs');
 country.altSpellings('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
@@ -118,15 +135,23 @@ country.altSpellings('USA') // Defaults to 'ISO2'
 // returns array of strings, alternate names
 // ["US", "USA", "United States of America"]
 ```
-###.area()
+
+### `.area()`
+
+Returns area (km²) for a specified country
+
 ```javascript
 var country = require('countryjs');
 country.area('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
 country.area('USA') // Defaults to 'ISO2'
-// returns number of square mile area
+// returns number of square kilometer area
 // 9629091
 ```
-###.borders()
+
+### `.borders()`
+
+Returns bordering countries (ISO3) for a specified country
+
 ```javascript
 var country = require('countryjs');
 country.borders('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
@@ -134,7 +159,11 @@ country.borders('USA') // Defaults to 'ISO2'
 // returns array of strings, ISO3 codes of countries that border the given country
 // ["CAN", "MEX"]
 ```
-###.callingCodes()
+
+### `.callingCodes()`
+
+Returns international calling codes for a specified country
+
 ```javascript
 var country = require('countryjs');
 country.callingCodes('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
@@ -142,7 +171,11 @@ country.callingCodes('USA') // Defaults to 'ISO2'
 // returns array of calling code strings
 // ["1"]
 ```
-###.capital()
+
+### `.capital()`
+
+Returns capital city for a specified country
+
 ```javascript
 var country = require('countryjs');
 country.capital('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
@@ -150,7 +183,11 @@ country.capital('USA') // Defaults to 'ISO2'
 // returns string
 // "Washington D.C."
 ```
-###.currencies()
+
+### `.currencies()`
+
+Returns official currencies for a specified country
+
 ```javascript
 var country = require('countryjs');
 country.currencies('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
@@ -158,7 +195,11 @@ country.currencies('USA') // Defaults to 'ISO2'
 // returns array of strings, currencies
 // ["USD", "USN", "USS"]
 ```
-###.demonym()
+
+### `.demonym()`
+
+Returns the [demonyms](http://en.wikipedia.org/wiki/Demonym) for a specified country
+
 ```javascript
 var country = require('countryjs');
 country.demonym('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
@@ -166,21 +207,33 @@ country.demonym('USA') // Defaults to 'ISO2'
 // returns string, name of residents
 // "American"
 ```
-###.flag() - INCOMPLETE
+
+### `.flag() - INCOMPLETE`
+
+Returns SVG link of the official flag for a specified country
+
 ```javascript
 var country = require('countryjs');
 country.flag('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
 country.flag('USA') // Defaults to 'ISO2'
 // returns string URL of CC licensed svg flag
 ```
-###.geoJSON()
+
+### `.geoJSON()`
+
+Returns [geoJSON](http://en.wikipedia.org/wiki/GeoJSON) for a specified country
+
 ```javascript
 var country = require('countryjs');
 country.geoJSON('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
 country.geoJSON('USA') // Defaults to 'ISO2'
 // returns object of GeoJSON data
 ```
-###.ISOcodes()
+
+### `.ISOcodes()`
+
+Returns ISO codes for a specified country
+
 ```javascript
 var country = require('countryjs');
 country.ISOcodes('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
@@ -191,7 +244,11 @@ country.ISOcodes('USA') // Defaults to 'ISO2'
 //   "alpha3": "USA"
 // }
 ```
-###.languages()
+
+### `.languages()`
+
+Returns official languages for a specified country
+
 ```javascript
 var country = require('countryjs');
 country.languages('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
@@ -199,7 +256,11 @@ country.languages('USA') // Defaults to 'ISO2'
 // returns array of language codes
 // ["en"]
 ```
-###.latlng()
+
+### `.latlng()`
+
+Returns approx latitude and longitude for a specified country
+
 ```javascript
 var country = require('countryjs');
 country.latlng('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
@@ -207,7 +268,11 @@ country.latlng('USA') // Defaults to 'ISO2'
 // returns array, approx latitude and longitude for country
 // [38, -97]
 ```
-###.nativeName()
+
+### `.nativeName()`
+
+Returns the name of the country in its native tongue
+
 ```javascript
 var country = require('countryjs');
 country.nativeName('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
@@ -215,7 +280,11 @@ country.nativeName('USA') // Defaults to 'ISO2'
 // returns string, name of country in native language
 // "United States"
 ```
-###.population()
+
+### `.population()`
+
+Returns approximate population for a specified country
+
 ```javascript
 var country = require('countryjs');
 country.population('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
@@ -223,7 +292,11 @@ country.population('USA') // Defaults to 'ISO2'
 // returns number, approx population
 // 319259000
 ```
-###.region()
+
+### `.region()`
+
+Returns general region for a specified country
+
 ```javascript
 var country = require('countryjs');
 country.region('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
@@ -231,7 +304,11 @@ country.region('USA') // Defaults to 'ISO2'
 // returns string
 // "Americas"
 ```
-###.subregion()
+
+### `.subregion()`
+
+Returns a more specific region for a specified country
+
 ```javascript
 var country = require('countryjs');
 country.subregion('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
@@ -239,14 +316,22 @@ country.subregion('USA') // Defaults to 'ISO2'
 // returns string
 // "Northern America"
 ```
-###.timezones()
+
+### `.timezones()`
+
+Returns all timezones for a specified country
+
 ```javascript
 var country = require('countryjs');
 country.timezones('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
 country.timezones('USA') // Defaults to 'ISO2'
 // returns array of timezones
 ```
-###.tld()
+
+### `.tld()`
+
+Returns official [top level domains](http://en.wikipedia.org/wiki/Top-level_domain) for a specified country
+
 ```javascript
 var country = require('countryjs');
 country.tld('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
@@ -254,7 +339,11 @@ country.tld('USA') // Defaults to 'ISO2'
 // returns array of top level domains specific to the country
 // [".us"]
 ```
-###.translations()
+
+### `.translations()`
+
+Returns translations for a specified country name in popular languages
+
 ```javascript
 var country = require('countryjs');
 country.translations('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
@@ -268,7 +357,11 @@ country.translations('USA') // Defaults to 'ISO2'
 //   "it": "Stati Uniti D'America"
 // }
 ```
-###.wiki()
+
+### `.wiki()`
+
+Returns link to wikipedia page for a specified country
+
 ```javascript
 var country = require('countryjs');
 country.wiki('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
@@ -277,15 +370,65 @@ country.wiki('USA') // Defaults to 'ISO2'
 // "http://en.wikipedia.org/wiki/united_states_of_america"
 ```
 
+### `.all()`
+
+Return all country data. This will be super big. Not recommended.
+
+```JavaScript
+var country = require('countryjs');
+country.all();
+// returns array of objects,
+// [{
+//     "name": "United States",
+//     "altSpellings": ["US", "USA", "United States of America"],
+//     "area": 9629091,
+//     "borders": ["CAN", "MEX"],
+//     "callingCodes": ["1"],
+//     "capital": "Washington D.C.",
+//     "currencies": ["USD", "USN", "USS"],
+//     "demonym": "American",
+//     "flag": "", // Flag API is incomplete
+//     "geoJSON": {} //GeoJSON data,
+//     "ISO": {
+//         "alpha2": "US",
+//         "alpha3": "USA"
+//     },
+//     "languages": ["en"],
+//     "latlng": [38, -97],
+//     "nativeName": "United States",
+//     "population": 319259000,
+//     "provinces": [], // State/Province list
+//     "region": "Americas",
+//     "subregion": "Northern America",
+//     "timezones": [], // TimeZone list
+//     "tld": [".us"],
+//     "translations": {
+//         "de": "Vereinigte Staaten von Amerika",
+//         "es": "Estados Unidos",
+//         "fr": "États-Unis",
+//         "ja": "アメリカ合衆国",
+//         "it": "Stati Uniti D'America"
+//     },
+//     "wiki": "http://en.wikipedia.org/wiki/united_states_of_america"
+// }...]
+```
+
 ## Special Thanks
+
 Special thanks to johan for his work on [johan/world.geo.json](https://github.com/johan/world.geo.json), who made the geojson portion of this build possible.
+
 ## Contributing
-If you find errors or have requests, please open a Github Issue. Also, feel free to fork and create a pull request.
+
+If you find errors or have requests, please open a Github Issue. Also, feel free to fork and create a pull request. Make sure you include the proper tests in `test/` and that it and all others pass correctly.
 2 space tabs, spaces only. Try to adhere to the form of the current code.
+
 ## Disclaimer
+
 This is being maintained in the contributor's free time, and as such, may contain minor errors in regards to some countries.
 Most of the information included in this library is what is listed on Wikipedia. If there is an error, please let me know and I will do my best to correct it.
+
 ## License (ISC)
+
 Copyright (c) 2015, Trent Oswald <trentoswald@therebelrobot.com>
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted,
