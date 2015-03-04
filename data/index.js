@@ -11,8 +11,6 @@
 // DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS
 // ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
-var fs = require('fs');
-var path = require('path');
 var glob = require("glob");
 var _ = require('lodash');
 
@@ -20,9 +18,9 @@ module.exports = function() {
   var totalList = [];
   var fileList = glob.sync(__dirname + "/*.json");
   _.forEach(fileList, function(file) {
-    var file = file.split('/');
+    file = file.split('/');
     file = file[file.length-1];
     totalList.push(require('./'+file));
   });
   return totalList;
-}
+};
