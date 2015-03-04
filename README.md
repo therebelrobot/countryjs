@@ -120,7 +120,7 @@ Returns name for a specified country
 ```javascript
 var country = require('countryjs');
 country.name('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
-country.name('USA') // Defaults to 'ISO2'
+country.name('US') // Defaults to 'ISO2'
 // returns string
 // "United States"
 ```
@@ -132,7 +132,7 @@ Returns alternate spellings for the name of a specified country
 ```javascript
 var country = require('countryjs');
 country.altSpellings('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
-country.altSpellings('USA') // Defaults to 'ISO2'
+country.altSpellings('US') // Defaults to 'ISO2'
 // returns array of strings, alternate names
 // ["US", "USA", "United States of America"]
 ```
@@ -144,7 +144,7 @@ Returns area (km²) for a specified country
 ```javascript
 var country = require('countryjs');
 country.area('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
-country.area('USA') // Defaults to 'ISO2'
+country.area('US') // Defaults to 'ISO2'
 // returns number of square kilometer area
 // 9629091
 ```
@@ -156,7 +156,7 @@ Returns bordering countries (ISO3) for a specified country
 ```javascript
 var country = require('countryjs');
 country.borders('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
-country.borders('USA') // Defaults to 'ISO2'
+country.borders('US') // Defaults to 'ISO2'
 // returns array of strings, ISO3 codes of countries that border the given country
 // ["CAN", "MEX"]
 ```
@@ -168,7 +168,7 @@ Returns international calling codes for a specified country
 ```javascript
 var country = require('countryjs');
 country.callingCodes('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
-country.callingCodes('USA') // Defaults to 'ISO2'
+country.callingCodes('US') // Defaults to 'ISO2'
 // returns array of calling code strings
 // ["1"]
 ```
@@ -180,7 +180,7 @@ Returns capital city for a specified country
 ```javascript
 var country = require('countryjs');
 country.capital('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
-country.capital('USA') // Defaults to 'ISO2'
+country.capital('US') // Defaults to 'ISO2'
 // returns string
 // "Washington D.C."
 ```
@@ -192,7 +192,7 @@ Returns official currencies for a specified country
 ```javascript
 var country = require('countryjs');
 country.currencies('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
-country.currencies('USA') // Defaults to 'ISO2'
+country.currencies('US') // Defaults to 'ISO2'
 // returns array of strings, currencies
 // ["USD", "USN", "USS"]
 ```
@@ -204,7 +204,7 @@ Returns the [demonyms](http://en.wikipedia.org/wiki/Demonym) for a specified cou
 ```javascript
 var country = require('countryjs');
 country.demonym('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
-country.demonym('USA') // Defaults to 'ISO2'
+country.demonym('US') // Defaults to 'ISO2'
 // returns string, name of residents
 // "American"
 ```
@@ -216,7 +216,7 @@ Returns SVG link of the official flag for a specified country
 ```javascript
 var country = require('countryjs');
 country.flag('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
-country.flag('USA') // Defaults to 'ISO2'
+country.flag('US') // Defaults to 'ISO2'
 // returns string URL of CC licensed svg flag
 ```
 
@@ -227,7 +227,7 @@ Returns [geoJSON](http://en.wikipedia.org/wiki/GeoJSON) for a specified country
 ```javascript
 var country = require('countryjs');
 country.geoJSON('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
-country.geoJSON('USA') // Defaults to 'ISO2'
+country.geoJSON('US') // Defaults to 'ISO2'
 // returns object of GeoJSON data
 ```
 
@@ -238,7 +238,7 @@ Returns ISO codes for a specified country
 ```javascript
 var country = require('countryjs');
 country.ISOcodes('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
-country.ISOcodes('USA') // Defaults to 'ISO2'
+country.ISOcodes('US') // Defaults to 'ISO2'
 // returns object of ISO codes
 // {
 //   "alpha2": "US",
@@ -253,7 +253,7 @@ Returns official languages for a specified country
 ```javascript
 var country = require('countryjs');
 country.languages('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
-country.languages('USA') // Defaults to 'ISO2'
+country.languages('US') // Defaults to 'ISO2'
 // returns array of language codes
 // ["en"]
 ```
@@ -265,7 +265,7 @@ Returns approx latitude and longitude for a specified country
 ```javascript
 var country = require('countryjs');
 country.latlng('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
-country.latlng('USA') // Defaults to 'ISO2'
+country.latlng('US') // Defaults to 'ISO2'
 // returns array, approx latitude and longitude for country
 // [38, -97]
 ```
@@ -277,7 +277,7 @@ Returns the name of the country in its native tongue
 ```javascript
 var country = require('countryjs');
 country.nativeName('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
-country.nativeName('USA') // Defaults to 'ISO2'
+country.nativeName('US') // Defaults to 'ISO2'
 // returns string, name of country in native language
 // "United States"
 ```
@@ -289,7 +289,7 @@ Returns approximate population for a specified country
 ```javascript
 var country = require('countryjs');
 country.population('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
-country.population('USA') // Defaults to 'ISO2'
+country.population('US') // Defaults to 'ISO2'
 // returns number, approx population
 // 319259000
 ```
@@ -301,7 +301,7 @@ Returns general region for a specified country
 ```javascript
 var country = require('countryjs');
 country.region('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
-country.region('USA') // Defaults to 'ISO2'
+country.region('US') // Defaults to 'ISO2'
 // returns string
 // "Americas"
 ```
@@ -313,7 +313,7 @@ Returns a more specific region for a specified country
 ```javascript
 var country = require('countryjs');
 country.subregion('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
-country.subregion('USA') // Defaults to 'ISO2'
+country.subregion('US') // Defaults to 'ISO2'
 // returns string
 // "Northern America"
 ```
@@ -325,7 +325,7 @@ Returns all timezones for a specified country
 ```javascript
 var country = require('countryjs');
 country.timezones('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
-country.timezones('USA') // Defaults to 'ISO2'
+country.timezones('US') // Defaults to 'ISO2'
 // returns array of timezones
 ```
 
@@ -336,7 +336,7 @@ Returns official [top level domains](http://en.wikipedia.org/wiki/Top-level_doma
 ```javascript
 var country = require('countryjs');
 country.tld('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
-country.tld('USA') // Defaults to 'ISO2'
+country.tld('US') // Defaults to 'ISO2'
 // returns array of top level domains specific to the country
 // [".us"]
 ```
@@ -348,7 +348,7 @@ Returns translations for a specified country name in popular languages
 ```javascript
 var country = require('countryjs');
 country.translations('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
-country.translations('USA') // Defaults to 'ISO2'
+country.translations('US') // Defaults to 'ISO2'
 // returns object of translations of country name in major languages
 // {
 //   "de": "Vereinigte Staaten von Amerika",
@@ -366,7 +366,7 @@ Returns link to wikipedia page for a specified country
 ```javascript
 var country = require('countryjs');
 country.wiki('USA','ISO3'); // 'ISO2', 'ISO3', 'name'
-country.wiki('USA') // Defaults to 'ISO2'
+country.wiki('US') // Defaults to 'ISO2'
 // returns string URL of wikipedia article on country
 // "http://en.wikipedia.org/wiki/united_states_of_america"
 ```
