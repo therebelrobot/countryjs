@@ -14,6 +14,7 @@ A Node.js module for returning data about countries, ISO info and states/provinc
 * [API](#api)
   * [`.info()`](#info)
   * [`.states()`](#states)
+  * [`.provinces()`](#provinces)
   * [`.name()`](#name)
   * [`.altSpellings()`](#altspellings)
   * [`.area()`](#area)

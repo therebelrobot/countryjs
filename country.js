@@ -20,6 +20,11 @@ var Country = {
     _returnData = _returnData.provinces;
     return _returnData;
   },
+  provinces: function(country, type) {
+    var _returnData = _returnCountry(country, type);
+    _returnData = _returnData.provinces;
+    return _returnData;
+  },
   altSpellings: function(country, type) {
     var _returnData = _returnCountry(country, type);
     _returnData = _returnData.altSpellings;
