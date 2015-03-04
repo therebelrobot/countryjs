@@ -1,35 +1,26 @@
-<!-- https://github.com/rstacruz/flatdoc -->
 <html>
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="viewport" content="width=device-width">
-    <title>CountryJS</title>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-    <!-- Flatdoc -->
-    <script src='legacy.js'></script>
-    <script src='flatdoc.js'></script>
-    <!-- Flatdoc theme (optional) -->
-    <link  href='theme-white/style.css' rel='stylesheet'>
-      <script src='theme-white/script.js'></script>
-      <!-- Initializer -->
-      <script>
-      Flatdoc.run({
-      fetcher: Flatdoc.github('therebelrobot/countryjs')
-      });
-      </script>
-    </head>
-    <body role='flatdoc'>
-      <div class='header'>
-        <div class='left'>
-          <h1 role='flatdoc-title'></h1>
-        </div>
-      </div>
-      <div role='flatdoc' class='content-root'>
-        <div class='menubar'>
-          <div class='menu section' role='flatdoc-menu'></div>
-        </div>
-        <div role='flatdoc-content' class='content'></div>
-      </div>
-    </body>
-  </html>
+
+<head>
+  <!-- Flatdoc -->
+  <script src='https://cdn.rawgit.com/rstacruz/flatdoc/v0.9.0/legacy.js'></script>
+  <script src='https://cdn.rawgit.com/rstacruz/flatdoc/v0.9.0/flatdoc.js'></script>
+
+  <!-- Flatdoc theme (optional) -->
+  <link href='https://cdn.rawgit.com/rstacruz/flatdoc/v0.9.0/theme-white/style.css'
+  rel='stylesheet'>
+  <script src='https://cdn.rawgit.com/rstacruz/flatdoc/v0.9.0/theme-white/script.js'></script>
+
+  <!-- Initializer -->
+  <script>
+    Flatdoc.run({
+      fetcher: Flatdoc.github('Growmies/countryjs')
+    });
+  </script>
+</head>
+
+<body role='flatdoc'>
+  <div role='flatdoc-menu'></div>
+  <div role='flatdoc-content' class='content'></div>
+</body>
+
+</html>
