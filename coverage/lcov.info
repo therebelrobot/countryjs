@@ -1,5 +1,5 @@
 TN:
-SF:/home/therebelrobot/git/growmies/countryjs/index.js
+SF:./index.js
 FNF:0
 FNH:0
 DA:14,1
@@ -9,7 +9,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/home/therebelrobot/git/growmies/countryjs/lib/countryjs.js
+SF:./lib/countryjs.js
 FN:17,(anonymous_1)
 FN:18,(anonymous_2)
 FN:26,(anonymous_3)
@@ -218,7 +218,7 @@ BRF:10
 BRH:10
 end_of_record
 TN:
-SF:/home/therebelrobot/git/growmies/countryjs/data/index.js
+SF:./data/index.js
 FN:19,(anonymous_1)
 FN:22,(anonymous_2)
 FNF:2
