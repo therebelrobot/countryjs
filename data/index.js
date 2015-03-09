@@ -20,7 +20,10 @@ module.exports = function() {
   _.forEach(fileList, function(file) {
     file = file.split('/');
     file = file[file.length-1];
-    totalList.push(require('./'+file));
+    file = require('./'+file);
+    file.ISO[2] = file.ISO.alpha2;
+    file.ISO[3] = file.ISO.alpha3;
+    totalList.push(file);
   });
   return totalList;
 };
