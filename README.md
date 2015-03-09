@@ -421,13 +421,24 @@ Special thanks to johan for his work on [johan/world.geo.json](https://github.co
 
 ## Contributing
 
-If you find errors or have requests, please open a Github Issue. Also, feel free to fork and create a pull request. Make sure you include the proper tests in `test/` and that it and all others pass correctly.
+If you find errors or have requests, please open a Github Issue. Alternatively, feel free to contribute to the codebase.
+
+To contribute code to this repo, first fork this repo. Once in your account, create a new branch with a name 
+briefly describing your change (e.g. `updated-canada-data`). Install the dev dependencies by running `npm install --dev`.
+Make the changes you want, then add a new 
+test in `test/countryjs.test.js` to test your change. Make sure the rest of the tests pass by running 
+`mocha` or `npm run test`. If you would like, run `npm run testCoverage`, and take a look at the code 
+coverage report in `coverage/lcov-report/index.html`.
+
+Once satisfied with your changes, create a new pull request, and include a description of why you made the change.
+
 2 space tabs, spaces only. Try to adhere to the form of the current code.
 
 ## Disclaimer
 
 This is being maintained in the contributor's free time, and as such, may contain minor errors in regards to some countries.
-Most of the information included in this library is what is listed on Wikipedia. If there is an error, please let me know and I will do my best to correct it.
+Most of the information included in this library is what is listed on Wikipedia. If there is an error, 
+please let me know and I will do my best to correct it.
 
 ## License (ISC)
 
