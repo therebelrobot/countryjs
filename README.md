@@ -3,6 +3,7 @@
 [![NPM](https://nodei.co/npm/countryjs.png?downloads=true)](https://nodei.co/npm/countryjs/)
 [![NPM](https://nodei.co/npm-dl/countryjs.png?months=3&height=2)](https://nodei.co/npm/countryjs/)
 
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/feross/standard)
 [![Dependency Status](https://david-dm.org/Growmies/countryjs.svg)](https://david-dm.org/Growmies/countryjs)
 [![Code Climate](https://codeclimate.com/github/Growmies/countryjs/badges/gpa.svg)](https://codeclimate.com/github/Growmies/countryjs)
 [![Test Coverage](https://codeclimate.com/github/Growmies/countryjs/badges/coverage.svg)](https://codeclimate.com/github/Growmies/countryjs)
