@@ -1,6 +1,6 @@
 {
   "name": "countryjs",
-  "version": "1.3.5",
+  "version": "1.3.6",
   "description": "A utility library for returning country data, ISO info and states/provinces within them.",
   "main": "index.js",
   "author": "Trent Oswald <trentoswald@therebelrobot.com> (http://therebelrobot.com)",
