@@ -41,6 +41,7 @@ A Node.js module for returning data about countries, ISO info and states/provinc
   * [`.all()`](#all)
 * [Special Thanks](#special-thanks)
 * [Contributing](#contributing)
+* [Changelog](#changelog)
 * [Disclaimer](#disclaimer)
 * [License (ISC)](#license-isc)
 
@@ -422,18 +423,54 @@ Special thanks to johan for his work on [johan/world.geo.json](https://github.co
 
 ## Contributing
 
-If you find errors or have requests, please open a Github Issue. Alternatively, feel free to contribute to the codebase.
+*This project adheres to [Javascript Standard style](https://github.com/feross/standard)*
 
-To contribute code to this repo, first fork this repo. Once in your account, create a new branch with a name 
-briefly describing your change (e.g. `updated-canada-data`). Install the dev dependencies by running `npm install --dev`.
-Make the changes you want, then add a new 
-test in `test/countryjs.test.js` to test your change. Make sure the rest of the tests pass by running 
-`mocha` or `npm run test`. If you would like, run `npm run testCoverage`, and take a look at the code 
-coverage report in `coverage/lcov-report/index.html`.
+To contribute code to this module, please follow this workflow: 
 
-Once satisfied with your changes, create a new pull request, and include a description of why you made the change.
+1. fork the repo
+2. make sure to install dev dependencies using
 
-2 space tabs, spaces only. Try to adhere to the form of the current code.
+  ```bash
+  npm install --dev
+  ```
+
+3. Make the changes you desire
+4. Ensure all changes have a new test in the `test/` folder, and run:
+
+  ```bash
+  npm test
+  ```
+
+  This will check do the following:
+  * Check your code against [feross/standard style](https://github.com/feross/standard) and notify of any issues.
+  * Run all mocha tests listed in `test/`
+  * Run all code through [istanbul's code coverage runner](https://github.com/gotwarlost/istanbul). You can check the coverage afterwards the coverage report page: `coverage/lcov-report/index.html`
+
+5. After making changes in your fork, open a pull request.
+
+Please note that if your code updates do not pass JS Standard style, mocha tests and code coverage, your PR may be rejected and you'll need to fix any issues listed in it.
+
+## Changelog
+
+All notable changes to this project will be documented in this file.
+
+*This project adheres to [Semantic Versioning](http://semver.org/) and [Keep A Changelog](http://keepachangelog.com/).*
+
+### Unreleased
+
+### v1.4.0 - 2015-03-13
+#### Added
+
+* `mocha.opts`
+* Added standard dev dep
+* Added Changelog to README
+* `.DS_STORE` to `.gitignore`
+
+#### Changed
+
+* Updated `test` script
+* Updated Contributing Doc
+
 
 ## Disclaimer
 
