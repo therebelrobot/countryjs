@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/Growmies/countryjs",
   "dependencies": {
-    "glob": "^5.0.0",
+    "bulk-require": "^0.2.1",
     "lodash": "^3.3.1"
   },
   "devDependencies": {
