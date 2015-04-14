@@ -464,6 +464,19 @@ All notable changes to this project will be documented in this file.
 
 ### Unreleased
 
+### v1.4.2 - 2015-04-14
+#### Added
+
+* `bulk-require` to deps
+
+#### Fixed
+
+* Browserify compatibility
+
+#### Removed
+
+* `glob` dep (replaced by `bulk-require`)
+
 ### v1.4.1 - 2015-04-14
 #### Added
 
