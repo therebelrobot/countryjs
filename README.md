@@ -450,6 +450,12 @@ To contribute code to this module, please follow this workflow:
 
 Please note that if your code updates do not pass JS Standard style, mocha tests and code coverage, your PR may be rejected and you'll need to fix any issues listed in it.
 
+### Contributors
+
+* Trent Oswald <a href="mailto:trentoswald@therebelrobot.com">trentoswald@therebelrobot.com</a> - [/therebelrobot](http://github.com/therebelrobot) - [therebelrobot.com](http://therebelrobot.com)
+* Scott Hillman <a href="mailto:hillmanov@gmail.com">hillmanov@gmail.com</a> - [/hillmanov](http://github.com/hillmanov)
+* Michael Scott Hertzberg <a href="mailto:mshertzberg@gmail.com">mshertzberg@gmail.com</a> - [/moimikey](http://github.com/moimonkey) - [michael.hertzberg.co](http://michael.hertzberg.co)
+
 ## Changelog
 
 All notable changes to this project will be documented in this file.
@@ -457,6 +463,21 @@ All notable changes to this project will be documented in this file.
 *This project adheres to [Semantic Versioning](http://semver.org/) and [Keep A Changelog](http://keepachangelog.com/).*
 
 ### Unreleased
+
+### v1.4.1 - 2015-04-14
+#### Added
+
+* Contributor section to README
+* @moimikey to contributor list (`package.json` and `README`)
+
+#### Fixed
+
+* Undefined ISO tags from certain countries (refer https://github.com/Growmies/countryjs/issues/19)
+
+#### Removed
+
+* Yugoslavia from country list, as it's not a country anymore
+
 
 ### v1.4.0 - 2015-03-13
 #### Added
