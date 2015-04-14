@@ -1,13 +1,14 @@
 {
   "name": "countryjs",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "A utility library for returning country data, ISO info and states/provinces within them.",
   "main": "index.js",
   "author": "Trent Oswald <trentoswald@therebelrobot.com> (http://therebelrobot.com)",
   "license": "ISC",
   "contributors": [
-    "Trent Oswald <trentoswald@therebelrobot.com> (http://therebelrobot.com)",
-    "Scott Hillman <hillmanov@gmail.com>"
+    "Trent Oswald <trentoswald@therebelrobot.com> [@therebelrobot] (http://therebelrobot.com)",
+    "Scott Hillman <hillmanov@gmail.com> [@hillmanov]",
+    "Michael Scott Hertzberg <mshertzberg@gmail.com> [@moimikey] (http://michael.hertzberg.co)"
   ],
   "repository": "Growmies/countryjs",
   "engines": [
