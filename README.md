@@ -13,6 +13,7 @@ A Node.js module for returning data about countries, ISO info and states/provinc
 ## Table of Contents
 
 * [Install](#install)
+  * [Using with browserify](#browserify)
 * [API](#api)
   * [`.info()`](#info)
   * [`.states()`](#states)
@@ -49,6 +50,24 @@ A Node.js module for returning data about countries, ISO info and states/provinc
 
 ```bash
 npm install countryjs
+```
+
+### Using with browserify
+
+To run in-browser, you'll need the `bulkify` transform for `browserify`, as it pairs with `bulk-require`, to staticly resolve each country JSON.
+
+```
+npm install bulkify
+```
+
+```
+var bulkify = require('bulkify')
+var bundle = browserify({
+  entries: [...],
+})
+.transform(bulkify, {
+  global: true
+})
 ```
 
 ## API
