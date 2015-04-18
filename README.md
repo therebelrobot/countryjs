@@ -7,7 +7,7 @@
 [![Dependency Status](https://david-dm.org/Growmies/countryjs.svg)](https://david-dm.org/Growmies/countryjs)
 [![Code Climate](https://codeclimate.com/github/Growmies/countryjs/badges/gpa.svg)](https://codeclimate.com/github/Growmies/countryjs)
 [![Test Coverage](https://codeclimate.com/github/Growmies/countryjs/badges/coverage.svg)](https://codeclimate.com/github/Growmies/countryjs)
-[![JS.ORG](https://img.shields.io/badge/js.org-country-ffb400.svg?style=flat-square)](http://js.org)
+[![JS.ORG](https://img.shields.io/badge/js.org-country-ffb400.svg?style=flat)](http://js.org)
 
 A Node.js module for returning data about countries, ISO info and states/provinces within them.
 
