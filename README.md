@@ -3,11 +3,11 @@
 [![NPM](https://nodei.co/npm/countryjs.png?downloads=true)](https://nodei.co/npm/countryjs/)
 [![NPM](https://nodei.co/npm-dl/countryjs.png?months=3&height=2)](https://nodei.co/npm/countryjs/)
 
-[![Join the chat at https://gitter.im/Growmies/countryjs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Growmies/countryjs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/therebelrobot/countryjs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/therebelrobot/countryjs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/feross/standard)
-[![Dependency Status](https://david-dm.org/Growmies/countryjs.svg)](https://david-dm.org/Growmies/countryjs)
-[![Code Climate](https://codeclimate.com/github/Growmies/countryjs/badges/gpa.svg)](https://codeclimate.com/github/Growmies/countryjs)
-[![Test Coverage](https://codeclimate.com/github/Growmies/countryjs/badges/coverage.svg)](https://codeclimate.com/github/Growmies/countryjs)
+[![Dependency Status](https://david-dm.org/therebelrobot/countryjs.svg)](https://david-dm.org/therebelrobot/countryjs)
+[![Code Climate](https://codeclimate.com/github/therebelrobot/countryjs/badges/gpa.svg)](https://codeclimate.com/github/therebelrobot/countryjs)
+[![Test Coverage](https://codeclimate.com/github/therebelrobot/countryjs/badges/coverage.svg)](https://codeclimate.com/github/therebelrobot/countryjs)
 [![JS.ORG](https://img.shields.io/badge/js.org-country-ffb400.svg?style=flat)](http://js.org)
 
 A Node.js module for returning data about countries, ISO info and states/provinces within them.
@@ -506,7 +506,7 @@ All notable changes to this project will be documented in this file.
 
 #### Fixed
 
-* Undefined ISO tags from certain countries (refer https://github.com/Growmies/countryjs/issues/19)
+* Undefined ISO tags from certain countries (refer https://github.com/therebelrobot/countryjs/issues/19)
 
 #### Removed
 
