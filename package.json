@@ -39,6 +39,9 @@
     "chai": "^2.1.0",
     "istanbul": "^0.3.7",
     "mocha": "^2.1.0",
-    "standard": "^2.11.0"
+    "standard": "^2.11.0",
+    "through2": "^2.0.0",
+    "to-snake-case": "^0.1.2",
+    "unirest": "^0.4.2"
   }
 }
