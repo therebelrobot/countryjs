@@ -177,6 +177,13 @@ describe('countryjs', function () {
     expect(tester).to.be.a('string')
     done()
   })
+  it('should get info for all countries under same ISO code', function (done) {
+    var tester = country.info('GB')
+    expect(tester).to.be.an('array')
+    expect(tester[0].name).to.equal('Scotland')
+    expect(tester[1].name).to.equal('United Kingdom')
+    done()
+  })
   it('should undefined for a mismatched country identifier', function (done) {
     var tester = country.info('UX')
     expect(tester).to.be.an('array')
