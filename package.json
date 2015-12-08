@@ -8,7 +8,8 @@
   "contributors": [
     "Trent Oswald <trentoswald@therebelrobot.com> [@therebelrobot] (http://therebelrobot.com)",
     "Scott Hillman <hillmanov@gmail.com> [@hillmanov]",
-    "Michael Scott Hertzberg <mshertzberg@gmail.com> [@moimikey] (http://michael.hertzberg.co)"
+    "Michael Scott Hertzberg <mshertzberg@gmail.com> [@moimikey] (http://michael.hertzberg.co)",
+    "Loris Guignard <loris.guignard@gmail.com> [@loris]"
   ],
   "repository": "therebelrobot/countryjs",
   "engines": [
