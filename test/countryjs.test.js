@@ -182,5 +182,9 @@ describe('countryjs', function () {
     expect(tester).to.be.an('undefined')
     done()
   })
-
+  it('should undefined for a mismatched country identifier (other methods)', function (done) {
+    var tester = country.name('UX')
+    expect(tester).to.be.an('undefined')
+    done()
+  })
 })
