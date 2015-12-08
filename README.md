@@ -473,9 +473,10 @@ Please note that if your code updates do not pass JS Standard style, mocha tests
 
 ### Contributors
 
-* Trent Oswald <a href="mailto:trentoswald@therebelrobot.com">trentoswald@therebelrobot.com</a> - [/therebelrobot](http://github.com/therebelrobot) - [therebelrobot.com](http://therebelrobot.com)
-* Scott Hillman <a href="mailto:hillmanov@gmail.com">hillmanov@gmail.com</a> - [/hillmanov](http://github.com/hillmanov)
-* Michael Scott Hertzberg <a href="mailto:mshertzberg@gmail.com">mshertzberg@gmail.com</a> - [/moimikey](http://github.com/moimonkey) - [michael.hertzberg.co](http://michael.hertzberg.co)
+* Trent Oswald <a href="mailto:trentoswald@therebelrobot.com">trentoswald@therebelrobot.com</a> - [/therebelrobot](https://github.com/therebelrobot) - [therebelrobot.com](http://therebelrobot.com)
+* Scott Hillman <a href="mailto:hillmanov@gmail.com">hillmanov@gmail.com</a> - [/hillmanov](https://github.com/hillmanov)
+* Michael Scott Hertzberg <a href="mailto:mshertzberg@gmail.com">mshertzberg@gmail.com</a> - [/moimikey](https://github.com/moimonkey) - [michael.hertzberg.co](http://michael.hertzberg.co)
+* Loris Guignard <a href="mailto:loris.guignard@gmail.com">loris.guignard@gmail.com</a> - [/loris](https://github.com/loris)
 
 ## Changelog
 
