@@ -182,5 +182,36 @@ describe('countryjs', function () {
     expect(tester).to.be.an('undefined')
     done()
   })
-
+  it('should undefined for a mismatched country identifier (other methods)', function (done) {
+    var methods = [
+      'states',
+      'provinces',
+      'name',
+      'altSpellings',
+      'area',
+      'borders',
+      'callingCodes',
+      'capital',
+      'currencies',
+      'demonym',
+      'flag',
+      'geoJSON',
+      'ISOcodes',
+      'languages',
+      'latlng',
+      'nativeName',
+      'population',
+      'region',
+      'subregion',
+      'timezones',
+      'tld',
+      'translations',
+      'wiki'
+    ]
+    methods.forEach(function (method) {
+      var tester = country[method]('UX')
+      expect(tester).to.be.an('undefined')
+    })
+    done()
+  })
 })
