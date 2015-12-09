@@ -42,17 +42,17 @@ describe('countryjs', function () {
     expect(tester).to.be.an('object')
     done()
   })
-  it('should get list of countries using fuzzy search', function (done) {
+  it('should get all available info using approximate string matching', function (done) {
     var searches = {
       'thailande': 'Thailand',
       'U.S.A': 'United States',
-      'THE GREAT BRITAIN': 'United Kingdom'
+      'THE GREAT BRITAIN': 'United Kingdom',
+      ' Bosnia herzegovina ': 'Bosnia and Herzegovina'
     }
     Object.keys(searches).forEach(function (search) {
-      var tester = country.search(search)
-      expect(tester).to.be.an('array')
-      expect(tester).to.not.be.empty
-      expect(tester[0].name).to.equal(searches[search])
+      var tester = country.info(search, 'name')
+      expect(tester).to.be.an('object')
+      expect(tester.name).to.equal(searches[search])
     })
     done()
   })
