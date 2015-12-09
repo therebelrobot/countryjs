@@ -42,6 +42,20 @@ describe('countryjs', function () {
     expect(tester).to.be.an('object')
     done()
   })
+  it('should get list of countries using fuzzy search', function (done) {
+    var searches = {
+      'thailande': 'Thailand',
+      'U.S.A': 'United States',
+      'THE GREAT BRITAIN': 'United Kingdom'
+    }
+    Object.keys(searches).forEach(function (search) {
+      var tester = country.search(search)
+      expect(tester).to.be.an('array')
+      expect(tester).to.not.be.empty
+      expect(tester[0].name).to.equal(searches[search])
+    })
+    done()
+  })
   it('should get list of states for United States', function (done) {
     var tester = country.states('US')
     expect(tester).to.be.an('array')
