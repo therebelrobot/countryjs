@@ -1,0 +1,17 @@
+{
+  "name": "Andorra",
+  "altSpellings": ["አንዶራ", "Principat d’Andorra", "Андорра"],
+  "ISO": {
+    "alpha2": "AD",
+    "alpha3": "AND"
+  },
+  "languages": ["ca"],
+  "tld": [".ad"],
+  "translations": {
+    "de": "Andorra",
+    "es": "Andorra",
+    "fr": "Andorra",
+    "it": "Andorra"
+  },
+  "wiki": "https://de.wikipedia.org/wiki/Andorra"
+}
