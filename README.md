@@ -16,6 +16,7 @@ A Node.js module for returning data about countries, ISO info and states/provinc
 
 * [Install](#install)
   * [Using with browserify](#browserify)
+* [Usage](#usage)
 * [API](#api)
   * [`.info()`](#info)
   * [`.states()`](#states)
@@ -71,6 +72,14 @@ var bundle = browserify({
   global: true
 })
 ```
+
+## Usage
+
+To access one of the country properties available, you'll need to use one of the API methods listed below and pass a country in either way:
+
+- Using the ISO-alpha2 code: `country.population('US', 'ISO2')` or `country.area('JP')` (defaults)
+- Using the ISO-alpha3 code: `country.capital('GBR', 'ISO3)`
+- Using the country name: `country.wiki('france', 'name')`. The matching is case-insensitive, against the native name, alternative spellings and available transalations.
 
 ## API
 
@@ -546,6 +555,3 @@ IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR 
 INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF
 THIS SOFTWARE.
-
-
-
