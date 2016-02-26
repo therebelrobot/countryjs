@@ -191,6 +191,24 @@ describe('countryjs', function () {
     expect(tester).to.be.a('string')
     done()
   })
+  it('should get info for United Kingdom in GB', function (done) {
+    var tester = country.info('United Kingdom', 'name')
+    expect(tester).to.be.a('object')
+    expect(tester.name).to.equal('United Kingdom')
+    done()
+  })
+  it('should get info for Scotland in GB', function (done) {
+    var tester = country.info('Scotland', 'name')
+    expect(tester).to.be.a('object')
+    expect(tester.name).to.equal('Scotland')
+    done()
+  })
+  it('should get info for Wales in GB', function (done) {
+    var tester = country.info('Wales', 'name')
+    expect(tester).to.be.a('object')
+    expect(tester.name).to.equal('Wales')
+    done()
+  })
   it('should undefined for a mismatched country identifier', function (done) {
     var tester = country.info('UX')
     expect(tester).to.be.an('undefined')
