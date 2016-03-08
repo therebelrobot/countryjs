@@ -1,1 +1,90 @@
-{"name":{"common":"British Indian Ocean Territory","official":"British Indian Ocean Territory","native":{"eng":{"official":"British Indian Ocean Territory","common":"British Indian Ocean Territory"}}},"tld":[".io"],"currency":["USD"],"callingCode":["246"],"capital":"Diego Garcia","altSpellings":["IO"],"region":"Africa","subregion":"Eastern Africa","languages":{"eng":"English"},"translations":{"cym":{"official":"British Indian Ocean Territory","common":"Tiriogaeth Brydeinig Cefnfor India"},"deu":{"official":"Britisch-Indischer Ozean","common":"Britisches Territorium im Indischen Ozean"},"fra":{"official":"Territoire britannique de l' océan Indien","common":"Territoire britannique de l'océan Indien"},"hrv":{"official":"British Indian Ocean Territory","common":"Britanski Indijskooceanski teritorij"},"ita":{"official":"Territorio britannico dell'Oceano Indiano","common":"Territorio britannico dell'oceano indiano"},"jpn":{"official":"イギリス領インド洋地域","common":"イギリス領インド洋地域"},"nld":{"official":"Brits Indische Oceaan Territorium","common":"Britse Gebieden in de Indische Oceaan"},"por":{"official":"British Indian Ocean Territory","common":"Território Britânico do Oceano Índico"},"rus":{"official":"Британская территория Индийского океана","common":"Британская территория в Индийском океане"},"spa":{"official":"Territorio Británico del Océano Índico","common":"Territorio Británico del Océano Índico"},"fin":{"official":"Brittiläinen Intian valtameren alue","common":"Brittiläinen Intian valtameren alue"}},"latlng":[-6,71.5],"demonym":"Indian","landlocked":false,"borders":[],"area":60,"codes":{"cca2":"IO","ccn3":"086","cca3":"IOT","cioc":""}}
+{
+  "name": {
+    "common": "British Indian Ocean Territory",
+    "official": "British Indian Ocean Territory",
+    "native": {
+      "eng": {
+        "official": "British Indian Ocean Territory",
+        "common": "British Indian Ocean Territory"
+      }
+    }
+  },
+  "tld": [
+    ".io"
+  ],
+  "currency": [
+    "USD"
+  ],
+  "callingCode": [
+    "246"
+  ],
+  "capital": "Diego Garcia",
+  "altSpellings": [
+    "IO"
+  ],
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "eng": "English"
+  },
+  "translations": {
+    "cym": {
+      "official": "British Indian Ocean Territory",
+      "common": "Tiriogaeth Brydeinig Cefnfor India"
+    },
+    "deu": {
+      "official": "Britisch-Indischer Ozean",
+      "common": "Britisches Territorium im Indischen Ozean"
+    },
+    "fra": {
+      "official": "Territoire britannique de l' océan Indien",
+      "common": "Territoire britannique de l'océan Indien"
+    },
+    "hrv": {
+      "official": "British Indian Ocean Territory",
+      "common": "Britanski Indijskooceanski teritorij"
+    },
+    "ita": {
+      "official": "Territorio britannico dell'Oceano Indiano",
+      "common": "Territorio britannico dell'oceano indiano"
+    },
+    "jpn": {
+      "official": "イギリス領インド洋地域",
+      "common": "イギリス領インド洋地域"
+    },
+    "nld": {
+      "official": "Brits Indische Oceaan Territorium",
+      "common": "Britse Gebieden in de Indische Oceaan"
+    },
+    "por": {
+      "official": "British Indian Ocean Territory",
+      "common": "Território Britânico do Oceano Índico"
+    },
+    "rus": {
+      "official": "Британская территория Индийского океана",
+      "common": "Британская территория в Индийском океане"
+    },
+    "spa": {
+      "official": "Territorio Británico del Océano Índico",
+      "common": "Territorio Británico del Océano Índico"
+    },
+    "fin": {
+      "official": "Brittiläinen Intian valtameren alue",
+      "common": "Brittiläinen Intian valtameren alue"
+    }
+  },
+  "latlng": [
+    -6,
+    71.5
+  ],
+  "demonym": "Indian",
+  "landlocked": false,
+  "borders": [],
+  "area": 60,
+  "codes": {
+    "cca2": "IO",
+    "ccn3": "086",
+    "cca3": "IOT",
+    "cioc": ""
+  }
+}

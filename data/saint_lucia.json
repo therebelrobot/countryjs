@@ -1,1 +1,107 @@
-{"name":{"common":"Saint Lucia","official":"Saint Lucia","native":{"eng":{"official":"Saint Lucia","common":"Saint Lucia"}}},"altSpellings":["LC"],"area":616,"borders":[],"capital":"Castries","demonym":"Saint Lucian","flag":"","geoJSON":{},"languages":{"eng":"English"},"latlng":[13.88333333,-60.96666666],"nativeName":"Saint Lucia","population":184000,"provinces":["Anse-la-Raye","Castries","Choiseul","Dauphin","Dennery","Gros Islet","Laborie","Micoud","Praslin","Soufriere","Vieux Fort"],"region":"Americas","subregion":"Caribbean","timezones":["UTC−04:00"],"tld":[".lc"],"translations":{"deu":{"official":"St. Lucia","common":"Saint Lucia"},"fra":{"official":"Sainte-Lucie","common":"Sainte-Lucie"},"hrv":{"official":"Sveta Lucija","common":"Sveta Lucija"},"ita":{"official":"Santa Lucia","common":"Santa Lucia"},"jpn":{"official":"セントルシア","common":"セントルシア"},"nld":{"official":"Saint Lucia","common":"Saint Lucia"},"por":{"official":"Santa Lúcia","common":"Santa Lúcia"},"rus":{"official":"Сент-Люсия","common":"Сент-Люсия"},"spa":{"official":"Santa Lucía","common":"Santa Lucía"},"fin":{"official":"Saint Lucia","common":"Saint Lucia"}},"wiki":"http://en.wikipedia.org/wiki/saint_lucia","currency":["XCD"],"callingCode":["1758"],"landlocked":false,"codes":{"cca2":"LC","ccn3":"662","cca3":"LCA","cioc":"LCA"}}
+{
+  "name": {
+    "common": "Saint Lucia",
+    "official": "Saint Lucia",
+    "native": {
+      "eng": {
+        "official": "Saint Lucia",
+        "common": "Saint Lucia"
+      }
+    }
+  },
+  "altSpellings": [
+    "LC"
+  ],
+  "area": 616,
+  "borders": [],
+  "capital": "Castries",
+  "demonym": "Saint Lucian",
+  "flag": "",
+  "geoJSON": {},
+  "languages": {
+    "eng": "English"
+  },
+  "latlng": [
+    13.88333333,
+    -60.96666666
+  ],
+  "nativeName": "Saint Lucia",
+  "population": 184000,
+  "provinces": [
+    "Anse-la-Raye",
+    "Castries",
+    "Choiseul",
+    "Dauphin",
+    "Dennery",
+    "Gros Islet",
+    "Laborie",
+    "Micoud",
+    "Praslin",
+    "Soufriere",
+    "Vieux Fort"
+  ],
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC−04:00"
+  ],
+  "tld": [
+    ".lc"
+  ],
+  "translations": {
+    "deu": {
+      "official": "St. Lucia",
+      "common": "Saint Lucia"
+    },
+    "fra": {
+      "official": "Sainte-Lucie",
+      "common": "Sainte-Lucie"
+    },
+    "hrv": {
+      "official": "Sveta Lucija",
+      "common": "Sveta Lucija"
+    },
+    "ita": {
+      "official": "Santa Lucia",
+      "common": "Santa Lucia"
+    },
+    "jpn": {
+      "official": "セントルシア",
+      "common": "セントルシア"
+    },
+    "nld": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "por": {
+      "official": "Santa Lúcia",
+      "common": "Santa Lúcia"
+    },
+    "rus": {
+      "official": "Сент-Люсия",
+      "common": "Сент-Люсия"
+    },
+    "spa": {
+      "official": "Santa Lucía",
+      "common": "Santa Lucía"
+    },
+    "fin": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    }
+  },
+  "wiki": "http://en.wikipedia.org/wiki/saint_lucia",
+  "currency": [
+    "XCD"
+  ],
+  "callingCode": [
+    "1758"
+  ],
+  "landlocked": false,
+  "codes": {
+    "cca2": "LC",
+    "ccn3": "662",
+    "cca3": "LCA",
+    "cioc": "LCA"
+  }
+}

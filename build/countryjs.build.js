@@ -58,7 +58,7 @@ function _buildCountry(filename, newData, oldData){
   delete oldData.cca3
   delete oldData.cioc
   console.log(filename,oldData)
-  var stringDataToWrite = JSON.stringify(oldData)
+  var stringDataToWrite = JSON.stringify(oldData, null, 2)
   var fullPath = path.resolve(process.cwd(), './data/' + filename + '.json')
   fs.writeFileSync(fullPath, stringDataToWrite)
 }

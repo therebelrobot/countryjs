@@ -1,1 +1,104 @@
-{"name":{"common":"Tonga","official":"Kingdom of Tonga","native":{"eng":{"official":"Kingdom of Tonga","common":"Tonga"},"ton":{"official":"Kingdom of Tonga","common":"Tonga"}}},"altSpellings":["TO"],"area":747,"borders":[],"capital":"Nuku'alofa","demonym":"Tongan","flag":"","geoJSON":{},"languages":{"eng":"English","ton":"Tongan"},"latlng":[-20,-175],"nativeName":"Tonga","population":103252,"provinces":["Ha'apai","Tongatapu","Vava'u"],"region":"Oceania","subregion":"Polynesia","timezones":["UTC+13:00"],"tld":[".to"],"translations":{"deu":{"official":"Königreich Tonga","common":"Tonga"},"fra":{"official":"Royaume des Tonga","common":"Tonga"},"hrv":{"official":"Kraljevina Tonga","common":"Tonga"},"ita":{"official":"Regno di Tonga","common":"Tonga"},"jpn":{"official":"トンガ王国","common":"トンガ"},"nld":{"official":"Koninkrijk Tonga","common":"Tonga"},"por":{"official":"Reino de Tonga","common":"Tonga"},"rus":{"official":"Королевство Тонга","common":"Тонга"},"spa":{"official":"Reino de Tonga","common":"Tonga"},"fin":{"official":"Tongan kuningaskunta","common":"Tonga"}},"wiki":"http://en.wikipedia.org/wiki/tonga","currency":["TOP"],"callingCode":["676"],"landlocked":false,"codes":{"cca2":"TO","ccn3":"776","cca3":"TON","cioc":"TGA"}}
+{
+  "name": {
+    "common": "Tonga",
+    "official": "Kingdom of Tonga",
+    "native": {
+      "eng": {
+        "official": "Kingdom of Tonga",
+        "common": "Tonga"
+      },
+      "ton": {
+        "official": "Kingdom of Tonga",
+        "common": "Tonga"
+      }
+    }
+  },
+  "altSpellings": [
+    "TO"
+  ],
+  "area": 747,
+  "borders": [],
+  "capital": "Nuku'alofa",
+  "demonym": "Tongan",
+  "flag": "",
+  "geoJSON": {},
+  "languages": {
+    "eng": "English",
+    "ton": "Tongan"
+  },
+  "latlng": [
+    -20,
+    -175
+  ],
+  "nativeName": "Tonga",
+  "population": 103252,
+  "provinces": [
+    "Ha'apai",
+    "Tongatapu",
+    "Vava'u"
+  ],
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "timezones": [
+    "UTC+13:00"
+  ],
+  "tld": [
+    ".to"
+  ],
+  "translations": {
+    "deu": {
+      "official": "Königreich Tonga",
+      "common": "Tonga"
+    },
+    "fra": {
+      "official": "Royaume des Tonga",
+      "common": "Tonga"
+    },
+    "hrv": {
+      "official": "Kraljevina Tonga",
+      "common": "Tonga"
+    },
+    "ita": {
+      "official": "Regno di Tonga",
+      "common": "Tonga"
+    },
+    "jpn": {
+      "official": "トンガ王国",
+      "common": "トンガ"
+    },
+    "nld": {
+      "official": "Koninkrijk Tonga",
+      "common": "Tonga"
+    },
+    "por": {
+      "official": "Reino de Tonga",
+      "common": "Tonga"
+    },
+    "rus": {
+      "official": "Королевство Тонга",
+      "common": "Тонга"
+    },
+    "spa": {
+      "official": "Reino de Tonga",
+      "common": "Tonga"
+    },
+    "fin": {
+      "official": "Tongan kuningaskunta",
+      "common": "Tonga"
+    }
+  },
+  "wiki": "http://en.wikipedia.org/wiki/tonga",
+  "currency": [
+    "TOP"
+  ],
+  "callingCode": [
+    "676"
+  ],
+  "landlocked": false,
+  "codes": {
+    "cca2": "TO",
+    "ccn3": "776",
+    "cca3": "TON",
+    "cioc": "TGA"
+  }
+}

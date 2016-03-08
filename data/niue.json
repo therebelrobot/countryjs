@@ -1,1 +1,100 @@
-{"name":{"common":"Niue","official":"Niue","native":{"eng":{"official":"Niue","common":"Niue"},"niu":{"official":"Niuē","common":"Niuē"}}},"altSpellings":["NU"],"area":260,"borders":[],"capital":"Alofi","demonym":"Niuean","flag":"","geoJSON":{},"languages":{"eng":"English","niu":"Niuean"},"latlng":[-19.03333333,-169.86666666],"nativeName":"Niuē","population":1613,"provinces":["Niue"],"region":"Oceania","subregion":"Polynesia","timezones":null,"tld":[".nu"],"translations":{"deu":{"official":"Niue","common":"Niue"},"fra":{"official":"Niue","common":"Niue"},"hrv":{"official":"Niue","common":"Niue"},"ita":{"official":"Niue","common":"Niue"},"jpn":{"official":"ニウエ","common":"ニウエ"},"nld":{"official":"Niue","common":"Niue"},"por":{"official":"Niue","common":"Niue"},"rus":{"official":"Ниуэ","common":"Ниуэ"},"spa":{"official":"Niue","common":"Niue"},"fin":{"official":"Niue","common":"Niue"}},"wiki":"http://en.wikipedia.org/wiki/niue","currency":["NZD"],"callingCode":["683"],"landlocked":false,"codes":{"cca2":"NU","ccn3":"570","cca3":"NIU","cioc":""}}
+{
+  "name": {
+    "common": "Niue",
+    "official": "Niue",
+    "native": {
+      "eng": {
+        "official": "Niue",
+        "common": "Niue"
+      },
+      "niu": {
+        "official": "Niuē",
+        "common": "Niuē"
+      }
+    }
+  },
+  "altSpellings": [
+    "NU"
+  ],
+  "area": 260,
+  "borders": [],
+  "capital": "Alofi",
+  "demonym": "Niuean",
+  "flag": "",
+  "geoJSON": {},
+  "languages": {
+    "eng": "English",
+    "niu": "Niuean"
+  },
+  "latlng": [
+    -19.03333333,
+    -169.86666666
+  ],
+  "nativeName": "Niuē",
+  "population": 1613,
+  "provinces": [
+    "Niue"
+  ],
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "timezones": null,
+  "tld": [
+    ".nu"
+  ],
+  "translations": {
+    "deu": {
+      "official": "Niue",
+      "common": "Niue"
+    },
+    "fra": {
+      "official": "Niue",
+      "common": "Niue"
+    },
+    "hrv": {
+      "official": "Niue",
+      "common": "Niue"
+    },
+    "ita": {
+      "official": "Niue",
+      "common": "Niue"
+    },
+    "jpn": {
+      "official": "ニウエ",
+      "common": "ニウエ"
+    },
+    "nld": {
+      "official": "Niue",
+      "common": "Niue"
+    },
+    "por": {
+      "official": "Niue",
+      "common": "Niue"
+    },
+    "rus": {
+      "official": "Ниуэ",
+      "common": "Ниуэ"
+    },
+    "spa": {
+      "official": "Niue",
+      "common": "Niue"
+    },
+    "fin": {
+      "official": "Niue",
+      "common": "Niue"
+    }
+  },
+  "wiki": "http://en.wikipedia.org/wiki/niue",
+  "currency": [
+    "NZD"
+  ],
+  "callingCode": [
+    "683"
+  ],
+  "landlocked": false,
+  "codes": {
+    "cca2": "NU",
+    "ccn3": "570",
+    "cca3": "NIU",
+    "cioc": ""
+  }
+}

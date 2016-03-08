@@ -1,1 +1,100 @@
-{"name":{"common":"Christmas Island","official":"Territory of Christmas Island","native":{"eng":{"official":"Territory of Christmas Island","common":"Christmas Island"}}},"altSpellings":["CX","Territory of Christmas Island"],"area":135,"borders":[],"capital":"Flying Fish Cove","demonym":"Christmas Island","flag":"","geoJSON":{},"languages":{"eng":"English"},"latlng":[-10.5,105.66666666],"nativeName":"Christmas Island","population":2072,"provinces":["Christmas Island"],"region":"Oceania","subregion":"Australia and New Zealand","timezones":null,"tld":[".cx"],"translations":{"cym":{"official":"Territory of Christmas Island","common":"Ynys y Nadolig"},"deu":{"official":"Gebiet der Weihnachtsinsel","common":"Weihnachtsinsel"},"fra":{"official":"Territoire de l'île Christmas","common":"Île Christmas"},"hrv":{"official":"Teritorij Božićni otok","common":"Božićni otok"},"ita":{"official":"Territorio di Christmas Island","common":"Isola di Natale"},"jpn":{"official":"クリスマス島の領土","common":"クリスマス島"},"nld":{"official":"Grondgebied van Christmas Island","common":"Christmaseiland"},"por":{"official":"Território da Ilha Christmas","common":"Ilha do Natal"},"rus":{"official":"Территория острова Рождества","common":"Остров Рождества"},"spa":{"official":"Territorio de la Isla de Navidad","common":"Isla de Navidad"},"fin":{"official":"Joulusaaren alue","common":"Joulusaari"}},"wiki":"http://en.wikipedia.org/wiki/christmas_island","currency":["AUD"],"callingCode":["61"],"landlocked":false,"codes":{"cca2":"CX","ccn3":"162","cca3":"CXR","cioc":""}}
+{
+  "name": {
+    "common": "Christmas Island",
+    "official": "Territory of Christmas Island",
+    "native": {
+      "eng": {
+        "official": "Territory of Christmas Island",
+        "common": "Christmas Island"
+      }
+    }
+  },
+  "altSpellings": [
+    "CX",
+    "Territory of Christmas Island"
+  ],
+  "area": 135,
+  "borders": [],
+  "capital": "Flying Fish Cove",
+  "demonym": "Christmas Island",
+  "flag": "",
+  "geoJSON": {},
+  "languages": {
+    "eng": "English"
+  },
+  "latlng": [
+    -10.5,
+    105.66666666
+  ],
+  "nativeName": "Christmas Island",
+  "population": 2072,
+  "provinces": [
+    "Christmas Island"
+  ],
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "timezones": null,
+  "tld": [
+    ".cx"
+  ],
+  "translations": {
+    "cym": {
+      "official": "Territory of Christmas Island",
+      "common": "Ynys y Nadolig"
+    },
+    "deu": {
+      "official": "Gebiet der Weihnachtsinsel",
+      "common": "Weihnachtsinsel"
+    },
+    "fra": {
+      "official": "Territoire de l'île Christmas",
+      "common": "Île Christmas"
+    },
+    "hrv": {
+      "official": "Teritorij Božićni otok",
+      "common": "Božićni otok"
+    },
+    "ita": {
+      "official": "Territorio di Christmas Island",
+      "common": "Isola di Natale"
+    },
+    "jpn": {
+      "official": "クリスマス島の領土",
+      "common": "クリスマス島"
+    },
+    "nld": {
+      "official": "Grondgebied van Christmas Island",
+      "common": "Christmaseiland"
+    },
+    "por": {
+      "official": "Território da Ilha Christmas",
+      "common": "Ilha do Natal"
+    },
+    "rus": {
+      "official": "Территория острова Рождества",
+      "common": "Остров Рождества"
+    },
+    "spa": {
+      "official": "Territorio de la Isla de Navidad",
+      "common": "Isla de Navidad"
+    },
+    "fin": {
+      "official": "Joulusaaren alue",
+      "common": "Joulusaari"
+    }
+  },
+  "wiki": "http://en.wikipedia.org/wiki/christmas_island",
+  "currency": [
+    "AUD"
+  ],
+  "callingCode": [
+    "61"
+  ],
+  "landlocked": false,
+  "codes": {
+    "cca2": "CX",
+    "ccn3": "162",
+    "cca3": "CXR",
+    "cioc": ""
+  }
+}

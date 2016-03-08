@@ -1,1 +1,88 @@
-{"name":{"common":"Micronesia","official":"Federated States of Micronesia","native":{"eng":{"official":"Federated States of Micronesia","common":"Micronesia"}}},"tld":[".fm"],"currency":["USD"],"callingCode":["691"],"capital":"Palikir","altSpellings":["FM","Federated States of Micronesia","Micronesia, Federated States of"],"region":"Oceania","subregion":"Micronesia","languages":{"eng":"English"},"translations":{"deu":{"official":"Föderierte Staaten von Mikronesien","common":"Mikronesien"},"fra":{"official":"États fédérés de Micronésie","common":"Micronésie"},"hrv":{"official":"Savezne Države Mikronezije","common":"Mikronezija"},"ita":{"official":"Stati federati di Micronesia","common":"Micronesia"},"jpn":{"official":"ミクロネシア連邦","common":"ミクロネシア連邦"},"nld":{"official":"Federale Staten van Micronesia","common":"Micronesië"},"por":{"official":"Estados Federados da Micronésia","common":"Micronésia"},"rus":{"official":"Федеративные Штаты Микронезии","common":"Федеративные Штаты Микронезии"},"spa":{"official":"Estados Federados de Micronesia","common":"Micronesia"},"fin":{"official":"Mikronesian liittovaltio","common":"Mikronesia"}},"latlng":[6.91666666,158.25],"demonym":"Micronesian","landlocked":false,"borders":[],"area":702,"codes":{"cca2":"FM","ccn3":"583","cca3":"FSM","cioc":"FSM"}}
+{
+  "name": {
+    "common": "Micronesia",
+    "official": "Federated States of Micronesia",
+    "native": {
+      "eng": {
+        "official": "Federated States of Micronesia",
+        "common": "Micronesia"
+      }
+    }
+  },
+  "tld": [
+    ".fm"
+  ],
+  "currency": [
+    "USD"
+  ],
+  "callingCode": [
+    "691"
+  ],
+  "capital": "Palikir",
+  "altSpellings": [
+    "FM",
+    "Federated States of Micronesia",
+    "Micronesia, Federated States of"
+  ],
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "languages": {
+    "eng": "English"
+  },
+  "translations": {
+    "deu": {
+      "official": "Föderierte Staaten von Mikronesien",
+      "common": "Mikronesien"
+    },
+    "fra": {
+      "official": "États fédérés de Micronésie",
+      "common": "Micronésie"
+    },
+    "hrv": {
+      "official": "Savezne Države Mikronezije",
+      "common": "Mikronezija"
+    },
+    "ita": {
+      "official": "Stati federati di Micronesia",
+      "common": "Micronesia"
+    },
+    "jpn": {
+      "official": "ミクロネシア連邦",
+      "common": "ミクロネシア連邦"
+    },
+    "nld": {
+      "official": "Federale Staten van Micronesia",
+      "common": "Micronesië"
+    },
+    "por": {
+      "official": "Estados Federados da Micronésia",
+      "common": "Micronésia"
+    },
+    "rus": {
+      "official": "Федеративные Штаты Микронезии",
+      "common": "Федеративные Штаты Микронезии"
+    },
+    "spa": {
+      "official": "Estados Federados de Micronesia",
+      "common": "Micronesia"
+    },
+    "fin": {
+      "official": "Mikronesian liittovaltio",
+      "common": "Mikronesia"
+    }
+  },
+  "latlng": [
+    6.91666666,
+    158.25
+  ],
+  "demonym": "Micronesian",
+  "landlocked": false,
+  "borders": [],
+  "area": 702,
+  "codes": {
+    "cca2": "FM",
+    "ccn3": "583",
+    "cca3": "FSM",
+    "cioc": "FSM"
+  }
+}

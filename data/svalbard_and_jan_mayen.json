@@ -1,1 +1,87 @@
-{"name":{"common":"Svalbard and Jan Mayen","official":"Svalbard og Jan Mayen","native":{"nor":{"official":"Svalbard og Jan Mayen","common":"Svalbard og Jan Mayen"}}},"tld":[".sj"],"currency":["NOK"],"callingCode":["4779"],"capital":"Longyearbyen","altSpellings":["SJ","Svalbard and Jan Mayen Islands"],"region":"Europe","subregion":"Northern Europe","languages":{"nor":"Norwegian"},"translations":{"deu":{"official":"Inselgruppe Spitzbergen","common":"Spitzbergen"},"fra":{"official":"Jan Mayen Svalbard","common":"Svalbard et Jan Mayen"},"hrv":{"official":"Svalbard og Jan Mayen","common":"Svalbard i Jan Mayen"},"ita":{"official":"Svalbard og Jan Mayen","common":"Svalbard e Jan Mayen"},"jpn":{"official":"スバールバル諸島OGヤンマイエン","common":"スヴァールバル諸島およびヤンマイエン島"},"nld":{"official":"Svalbard og Jan Mayen","common":"Svalbard en Jan Mayen"},"por":{"official":"Svalbard og Jan Mayen","common":"Ilhas Svalbard e Jan Mayen"},"rus":{"official":"Свальбарда ог Ян-Майен","common":"Шпицберген и Ян-Майен"},"spa":{"official":"Svalbard og Jan Mayen","common":"Islas Svalbard y Jan Mayen"},"fin":{"official":"Huippuvuoret","common":"Huippuvuoret"}},"latlng":[78,20],"demonym":"Norwegian","landlocked":false,"borders":[],"area":-1,"codes":{"cca2":"SJ","ccn3":"744","cca3":"SJM","cioc":""}}
+{
+  "name": {
+    "common": "Svalbard and Jan Mayen",
+    "official": "Svalbard og Jan Mayen",
+    "native": {
+      "nor": {
+        "official": "Svalbard og Jan Mayen",
+        "common": "Svalbard og Jan Mayen"
+      }
+    }
+  },
+  "tld": [
+    ".sj"
+  ],
+  "currency": [
+    "NOK"
+  ],
+  "callingCode": [
+    "4779"
+  ],
+  "capital": "Longyearbyen",
+  "altSpellings": [
+    "SJ",
+    "Svalbard and Jan Mayen Islands"
+  ],
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "languages": {
+    "nor": "Norwegian"
+  },
+  "translations": {
+    "deu": {
+      "official": "Inselgruppe Spitzbergen",
+      "common": "Spitzbergen"
+    },
+    "fra": {
+      "official": "Jan Mayen Svalbard",
+      "common": "Svalbard et Jan Mayen"
+    },
+    "hrv": {
+      "official": "Svalbard og Jan Mayen",
+      "common": "Svalbard i Jan Mayen"
+    },
+    "ita": {
+      "official": "Svalbard og Jan Mayen",
+      "common": "Svalbard e Jan Mayen"
+    },
+    "jpn": {
+      "official": "スバールバル諸島OGヤンマイエン",
+      "common": "スヴァールバル諸島およびヤンマイエン島"
+    },
+    "nld": {
+      "official": "Svalbard og Jan Mayen",
+      "common": "Svalbard en Jan Mayen"
+    },
+    "por": {
+      "official": "Svalbard og Jan Mayen",
+      "common": "Ilhas Svalbard e Jan Mayen"
+    },
+    "rus": {
+      "official": "Свальбарда ог Ян-Майен",
+      "common": "Шпицберген и Ян-Майен"
+    },
+    "spa": {
+      "official": "Svalbard og Jan Mayen",
+      "common": "Islas Svalbard y Jan Mayen"
+    },
+    "fin": {
+      "official": "Huippuvuoret",
+      "common": "Huippuvuoret"
+    }
+  },
+  "latlng": [
+    78,
+    20
+  ],
+  "demonym": "Norwegian",
+  "landlocked": false,
+  "borders": [],
+  "area": -1,
+  "codes": {
+    "cca2": "SJ",
+    "ccn3": "744",
+    "cca3": "SJM",
+    "cioc": ""
+  }
+}

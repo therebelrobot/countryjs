@@ -1,1 +1,234 @@
-{"name":{"common":"Iceland","official":"Iceland","native":{"isl":{"official":"Ísland","common":"Ísland"}}},"altSpellings":["IS","Island","Republic of Iceland","Lýðveldið Ísland"],"area":103000,"borders":[],"capital":"Reykjavik","demonym":"Icelander","flag":"","geoJSON":{"type":"FeatureCollection","features":[{"type":"Feature","id":"ISL","properties":{"name":"Iceland"},"geometry":{"type":"Polygon","coordinates":[[[-14.508695,66.455892],[-14.739637,65.808748],[-13.609732,65.126671],[-14.909834,64.364082],[-17.794438,63.678749],[-18.656246,63.496383],[-19.972755,63.643635],[-22.762972,63.960179],[-21.778484,64.402116],[-23.955044,64.89113],[-22.184403,65.084968],[-22.227423,65.378594],[-24.326184,65.611189],[-23.650515,66.262519],[-22.134922,66.410469],[-20.576284,65.732112],[-19.056842,66.276601],[-17.798624,65.993853],[-16.167819,66.526792],[-14.508695,66.455892]]]}}]},"languages":{"isl":"Icelandic"},"latlng":[65,-18],"nativeName":"Ísland","population":328170,"provinces":["Akranes","Akureyri","Arnessysla","Austur-Bardhastrandarsysla","Austur-Hunavatnssysla","Austur-Skaftafellssysla","Borgarfjardharsysla","Dalasysla","Eyjafjardharsysla","Gullbringusysla","Hafnarfjordhur","Husavik","Isafjordhur","Keflavik","Kjosarsysla","Kopavogur","Myrasysla","Neskaupstadhur","Nordhur-Isafjardharsysla","Nordhur-Mulasys-la","Nordhur-Thingeyjarsysla","Olafsfjordhur","Rangarvallasysla","Reykjavik","Saudharkrokur","Seydhisfjordhur","Siglufjordhur","Skagafjardharsysla","Snaefellsnes-og Hnappadalssysla","Strandasysla","Sudhur-Mulasysla","Sudhur-Thingeyjarsysla","Vesttmannaeyjar","Vestur-Bardhastrandarsysla","Vestur-Hunavatnssysla","Vestur-Isafjardharsysla","Vestur-Skaftafellssysla"],"region":"Europe","subregion":"Northern Europe","timezones":["UTC"],"tld":[".is"],"translations":{"deu":{"official":"Island","common":"Island"},"fra":{"official":"République d'Islande","common":"Islande"},"hrv":{"official":"Island","common":"Island"},"ita":{"official":"Islanda","common":"Islanda"},"jpn":{"official":"アイスランド","common":"アイスランド"},"nld":{"official":"IJsland","common":"IJsland"},"por":{"official":"Islândia","common":"Islândia"},"rus":{"official":"Исландия","common":"Исландия"},"spa":{"official":"Islandia","common":"Islandia"},"fin":{"official":"Islanti","common":"Islanti"}},"wiki":"http://en.wikipedia.org/wiki/iceland","currency":["ISK"],"callingCode":["354"],"landlocked":false,"codes":{"cca2":"IS","ccn3":"352","cca3":"ISL","cioc":"ISL"}}
+{
+  "name": {
+    "common": "Iceland",
+    "official": "Iceland",
+    "native": {
+      "isl": {
+        "official": "Ísland",
+        "common": "Ísland"
+      }
+    }
+  },
+  "altSpellings": [
+    "IS",
+    "Island",
+    "Republic of Iceland",
+    "Lýðveldið Ísland"
+  ],
+  "area": 103000,
+  "borders": [],
+  "capital": "Reykjavik",
+  "demonym": "Icelander",
+  "flag": "",
+  "geoJSON": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "ISL",
+        "properties": {
+          "name": "Iceland"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -14.508695,
+                66.455892
+              ],
+              [
+                -14.739637,
+                65.808748
+              ],
+              [
+                -13.609732,
+                65.126671
+              ],
+              [
+                -14.909834,
+                64.364082
+              ],
+              [
+                -17.794438,
+                63.678749
+              ],
+              [
+                -18.656246,
+                63.496383
+              ],
+              [
+                -19.972755,
+                63.643635
+              ],
+              [
+                -22.762972,
+                63.960179
+              ],
+              [
+                -21.778484,
+                64.402116
+              ],
+              [
+                -23.955044,
+                64.89113
+              ],
+              [
+                -22.184403,
+                65.084968
+              ],
+              [
+                -22.227423,
+                65.378594
+              ],
+              [
+                -24.326184,
+                65.611189
+              ],
+              [
+                -23.650515,
+                66.262519
+              ],
+              [
+                -22.134922,
+                66.410469
+              ],
+              [
+                -20.576284,
+                65.732112
+              ],
+              [
+                -19.056842,
+                66.276601
+              ],
+              [
+                -17.798624,
+                65.993853
+              ],
+              [
+                -16.167819,
+                66.526792
+              ],
+              [
+                -14.508695,
+                66.455892
+              ]
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  "languages": {
+    "isl": "Icelandic"
+  },
+  "latlng": [
+    65,
+    -18
+  ],
+  "nativeName": "Ísland",
+  "population": 328170,
+  "provinces": [
+    "Akranes",
+    "Akureyri",
+    "Arnessysla",
+    "Austur-Bardhastrandarsysla",
+    "Austur-Hunavatnssysla",
+    "Austur-Skaftafellssysla",
+    "Borgarfjardharsysla",
+    "Dalasysla",
+    "Eyjafjardharsysla",
+    "Gullbringusysla",
+    "Hafnarfjordhur",
+    "Husavik",
+    "Isafjordhur",
+    "Keflavik",
+    "Kjosarsysla",
+    "Kopavogur",
+    "Myrasysla",
+    "Neskaupstadhur",
+    "Nordhur-Isafjardharsysla",
+    "Nordhur-Mulasys-la",
+    "Nordhur-Thingeyjarsysla",
+    "Olafsfjordhur",
+    "Rangarvallasysla",
+    "Reykjavik",
+    "Saudharkrokur",
+    "Seydhisfjordhur",
+    "Siglufjordhur",
+    "Skagafjardharsysla",
+    "Snaefellsnes-og Hnappadalssysla",
+    "Strandasysla",
+    "Sudhur-Mulasysla",
+    "Sudhur-Thingeyjarsysla",
+    "Vesttmannaeyjar",
+    "Vestur-Bardhastrandarsysla",
+    "Vestur-Hunavatnssysla",
+    "Vestur-Isafjardharsysla",
+    "Vestur-Skaftafellssysla"
+  ],
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "timezones": [
+    "UTC"
+  ],
+  "tld": [
+    ".is"
+  ],
+  "translations": {
+    "deu": {
+      "official": "Island",
+      "common": "Island"
+    },
+    "fra": {
+      "official": "République d'Islande",
+      "common": "Islande"
+    },
+    "hrv": {
+      "official": "Island",
+      "common": "Island"
+    },
+    "ita": {
+      "official": "Islanda",
+      "common": "Islanda"
+    },
+    "jpn": {
+      "official": "アイスランド",
+      "common": "アイスランド"
+    },
+    "nld": {
+      "official": "IJsland",
+      "common": "IJsland"
+    },
+    "por": {
+      "official": "Islândia",
+      "common": "Islândia"
+    },
+    "rus": {
+      "official": "Исландия",
+      "common": "Исландия"
+    },
+    "spa": {
+      "official": "Islandia",
+      "common": "Islandia"
+    },
+    "fin": {
+      "official": "Islanti",
+      "common": "Islanti"
+    }
+  },
+  "wiki": "http://en.wikipedia.org/wiki/iceland",
+  "currency": [
+    "ISK"
+  ],
+  "callingCode": [
+    "354"
+  ],
+  "landlocked": false,
+  "codes": {
+    "cca2": "IS",
+    "ccn3": "352",
+    "cca3": "ISL",
+    "cioc": "ISL"
+  }
+}

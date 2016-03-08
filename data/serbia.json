@@ -1,1 +1,100 @@
-{"name":{"common":"Serbia","official":"Republic of Serbia","native":{"srp":{"official":"Република Србија","common":"Србија"}}},"tld":[".rs",".срб"],"currency":["RSD"],"callingCode":["381"],"capital":"Belgrade","altSpellings":["RS","Srbija","Republic of Serbia","Република Србија","Republika Srbija"],"region":"Europe","subregion":"Southern Europe","languages":{"srp":"Serbian"},"translations":{"deu":{"official":"Republik Serbien","common":"Serbien"},"fra":{"official":"République de Serbie","common":"Serbie"},"hrv":{"official":"Republika Srbija","common":"Srbija"},"ita":{"official":"Repubblica di Serbia","common":"Serbia"},"jpn":{"official":"セルビア共和国","common":"セルビア"},"nld":{"official":"Republiek Servië","common":"Servië"},"por":{"official":"República da Sérvia","common":"Sérvia"},"rus":{"official":"Республика Сербия","common":"Сербия"},"spa":{"official":"República de Serbia","common":"Serbia"},"fin":{"official":"Serbian tasavalta","common":"Serbia"}},"latlng":[44,21],"demonym":"Serbian","landlocked":true,"borders":["BIH","BGR","HRV","HUN","KOS","MKD","MNE","ROU"],"area":88361,"codes":{"cca2":"RS","ccn3":"688","cca3":"SRB","cioc":"SRB"}}
+{
+  "name": {
+    "common": "Serbia",
+    "official": "Republic of Serbia",
+    "native": {
+      "srp": {
+        "official": "Република Србија",
+        "common": "Србија"
+      }
+    }
+  },
+  "tld": [
+    ".rs",
+    ".срб"
+  ],
+  "currency": [
+    "RSD"
+  ],
+  "callingCode": [
+    "381"
+  ],
+  "capital": "Belgrade",
+  "altSpellings": [
+    "RS",
+    "Srbija",
+    "Republic of Serbia",
+    "Република Србија",
+    "Republika Srbija"
+  ],
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "languages": {
+    "srp": "Serbian"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Serbien",
+      "common": "Serbien"
+    },
+    "fra": {
+      "official": "République de Serbie",
+      "common": "Serbie"
+    },
+    "hrv": {
+      "official": "Republika Srbija",
+      "common": "Srbija"
+    },
+    "ita": {
+      "official": "Repubblica di Serbia",
+      "common": "Serbia"
+    },
+    "jpn": {
+      "official": "セルビア共和国",
+      "common": "セルビア"
+    },
+    "nld": {
+      "official": "Republiek Servië",
+      "common": "Servië"
+    },
+    "por": {
+      "official": "República da Sérvia",
+      "common": "Sérvia"
+    },
+    "rus": {
+      "official": "Республика Сербия",
+      "common": "Сербия"
+    },
+    "spa": {
+      "official": "República de Serbia",
+      "common": "Serbia"
+    },
+    "fin": {
+      "official": "Serbian tasavalta",
+      "common": "Serbia"
+    }
+  },
+  "latlng": [
+    44,
+    21
+  ],
+  "demonym": "Serbian",
+  "landlocked": true,
+  "borders": [
+    "BIH",
+    "BGR",
+    "HRV",
+    "HUN",
+    "KOS",
+    "MKD",
+    "MNE",
+    "ROU"
+  ],
+  "area": 88361,
+  "codes": {
+    "cca2": "RS",
+    "ccn3": "688",
+    "cca3": "SRB",
+    "cioc": "SRB"
+  }
+}

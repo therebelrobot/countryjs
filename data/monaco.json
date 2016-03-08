@@ -1,1 +1,104 @@
-{"name":{"common":"Monaco","official":"Principality of Monaco","native":{"fra":{"official":"Principauté de Monaco","common":"Monaco"}}},"altSpellings":["MC","Principality of Monaco","Principauté de Monaco"],"area":2.02,"borders":["FRA"],"capital":"Monaco","demonym":"Monegasque","flag":"","geoJSON":{},"languages":{"fra":"French"},"latlng":[43.73333333,7.4],"nativeName":"Monaco","population":36950,"provinces":["Fontvieille","La Condamine","Monaco-Ville","Monte-Carlo"],"region":"Europe","subregion":"Western Europe","timezones":["UTC+01:00"],"tld":[".mc"],"translations":{"deu":{"official":"Fürstentum Monaco","common":"Monaco"},"fra":{"official":"Principauté de Monaco","common":"Monaco"},"hrv":{"official":"Kneževina Monako","common":"Monako"},"ita":{"official":"Principato di Monaco","common":"Principato di Monaco"},"jpn":{"official":"モナコ公国","common":"モナコ"},"nld":{"official":"Vorstendom Monaco","common":"Monaco"},"por":{"official":"Principado do Mónaco","common":"Mónaco"},"rus":{"official":"Княжество Монако","common":"Монако"},"spa":{"official":"Principado de Mónaco","common":"Mónaco"},"fin":{"official":"Monacon ruhtinaskunta","common":"Monaco"}},"wiki":"http://en.wikipedia.org/wiki/monaco","currency":["EUR"],"callingCode":["377"],"landlocked":false,"codes":{"cca2":"MC","ccn3":"492","cca3":"MCO","cioc":"MON"}}
+{
+  "name": {
+    "common": "Monaco",
+    "official": "Principality of Monaco",
+    "native": {
+      "fra": {
+        "official": "Principauté de Monaco",
+        "common": "Monaco"
+      }
+    }
+  },
+  "altSpellings": [
+    "MC",
+    "Principality of Monaco",
+    "Principauté de Monaco"
+  ],
+  "area": 2.02,
+  "borders": [
+    "FRA"
+  ],
+  "capital": "Monaco",
+  "demonym": "Monegasque",
+  "flag": "",
+  "geoJSON": {},
+  "languages": {
+    "fra": "French"
+  },
+  "latlng": [
+    43.73333333,
+    7.4
+  ],
+  "nativeName": "Monaco",
+  "population": 36950,
+  "provinces": [
+    "Fontvieille",
+    "La Condamine",
+    "Monaco-Ville",
+    "Monte-Carlo"
+  ],
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "tld": [
+    ".mc"
+  ],
+  "translations": {
+    "deu": {
+      "official": "Fürstentum Monaco",
+      "common": "Monaco"
+    },
+    "fra": {
+      "official": "Principauté de Monaco",
+      "common": "Monaco"
+    },
+    "hrv": {
+      "official": "Kneževina Monako",
+      "common": "Monako"
+    },
+    "ita": {
+      "official": "Principato di Monaco",
+      "common": "Principato di Monaco"
+    },
+    "jpn": {
+      "official": "モナコ公国",
+      "common": "モナコ"
+    },
+    "nld": {
+      "official": "Vorstendom Monaco",
+      "common": "Monaco"
+    },
+    "por": {
+      "official": "Principado do Mónaco",
+      "common": "Mónaco"
+    },
+    "rus": {
+      "official": "Княжество Монако",
+      "common": "Монако"
+    },
+    "spa": {
+      "official": "Principado de Mónaco",
+      "common": "Mónaco"
+    },
+    "fin": {
+      "official": "Monacon ruhtinaskunta",
+      "common": "Monaco"
+    }
+  },
+  "wiki": "http://en.wikipedia.org/wiki/monaco",
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "377"
+  ],
+  "landlocked": false,
+  "codes": {
+    "cca2": "MC",
+    "ccn3": "492",
+    "cca3": "MCO",
+    "cioc": "MON"
+  }
+}

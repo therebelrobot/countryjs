@@ -1,1 +1,102 @@
-{"name":{"common":"Norfolk Island","official":"Territory of Norfolk Island","native":{"eng":{"official":"Territory of Norfolk Island","common":"Norfolk Island"},"pih":{"official":"Teratri of Norf'k Ailen","common":"Norf'k Ailen"}}},"altSpellings":["NF","Territory of Norfolk Island","Teratri of Norf'k Ailen"],"area":36,"borders":[],"capital":"Kingston","demonym":"Norfolk Islander","flag":"","geoJSON":{},"languages":{"eng":"English","pih":"Norfuk"},"latlng":[-29.03333333,167.95],"nativeName":"Norfolk Island","population":2302,"provinces":["Norfolk Island"],"region":"Oceania","subregion":"Australia and New Zealand","timezones":null,"tld":[".nf"],"translations":{"deu":{"official":"Gebiet der Norfolk-Insel","common":"Norfolkinsel"},"fra":{"official":"Territoire de l'île Norfolk","common":"Île Norfolk"},"hrv":{"official":"Teritorij Norfolk Island","common":"Otok Norfolk"},"ita":{"official":"Territorio di Norfolk Island","common":"Isola Norfolk"},"jpn":{"official":"ノーフォーク島の領土","common":"ノーフォーク島"},"nld":{"official":"Grondgebied van Norfolk Island","common":"Norfolkeiland"},"por":{"official":"Território da Ilha Norfolk","common":"Ilha Norfolk"},"rus":{"official":"Территория острова Норфолк","common":"Норфолк"},"spa":{"official":"Territorio de la Isla Norfolk","common":"Isla de Norfolk"},"fin":{"official":"Norfolkinsaaren territorio","common":"Norfolkinsaari"}},"wiki":"http://en.wikipedia.org/wiki/norfolk_island","currency":["AUD"],"callingCode":["672"],"landlocked":false,"codes":{"cca2":"NF","ccn3":"574","cca3":"NFK","cioc":""}}
+{
+  "name": {
+    "common": "Norfolk Island",
+    "official": "Territory of Norfolk Island",
+    "native": {
+      "eng": {
+        "official": "Territory of Norfolk Island",
+        "common": "Norfolk Island"
+      },
+      "pih": {
+        "official": "Teratri of Norf'k Ailen",
+        "common": "Norf'k Ailen"
+      }
+    }
+  },
+  "altSpellings": [
+    "NF",
+    "Territory of Norfolk Island",
+    "Teratri of Norf'k Ailen"
+  ],
+  "area": 36,
+  "borders": [],
+  "capital": "Kingston",
+  "demonym": "Norfolk Islander",
+  "flag": "",
+  "geoJSON": {},
+  "languages": {
+    "eng": "English",
+    "pih": "Norfuk"
+  },
+  "latlng": [
+    -29.03333333,
+    167.95
+  ],
+  "nativeName": "Norfolk Island",
+  "population": 2302,
+  "provinces": [
+    "Norfolk Island"
+  ],
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "timezones": null,
+  "tld": [
+    ".nf"
+  ],
+  "translations": {
+    "deu": {
+      "official": "Gebiet der Norfolk-Insel",
+      "common": "Norfolkinsel"
+    },
+    "fra": {
+      "official": "Territoire de l'île Norfolk",
+      "common": "Île Norfolk"
+    },
+    "hrv": {
+      "official": "Teritorij Norfolk Island",
+      "common": "Otok Norfolk"
+    },
+    "ita": {
+      "official": "Territorio di Norfolk Island",
+      "common": "Isola Norfolk"
+    },
+    "jpn": {
+      "official": "ノーフォーク島の領土",
+      "common": "ノーフォーク島"
+    },
+    "nld": {
+      "official": "Grondgebied van Norfolk Island",
+      "common": "Norfolkeiland"
+    },
+    "por": {
+      "official": "Território da Ilha Norfolk",
+      "common": "Ilha Norfolk"
+    },
+    "rus": {
+      "official": "Территория острова Норфолк",
+      "common": "Норфолк"
+    },
+    "spa": {
+      "official": "Territorio de la Isla Norfolk",
+      "common": "Isla de Norfolk"
+    },
+    "fin": {
+      "official": "Norfolkinsaaren territorio",
+      "common": "Norfolkinsaari"
+    }
+  },
+  "wiki": "http://en.wikipedia.org/wiki/norfolk_island",
+  "currency": [
+    "AUD"
+  ],
+  "callingCode": [
+    "672"
+  ],
+  "landlocked": false,
+  "codes": {
+    "cca2": "NF",
+    "ccn3": "574",
+    "cca3": "NFK",
+    "cioc": ""
+  }
+}

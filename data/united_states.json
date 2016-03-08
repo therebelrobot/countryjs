@@ -1,1 +1,93 @@
-{"name":{"common":"United States","official":"United States of America","native":{"eng":{"official":"United States of America","common":"United States"}}},"tld":[".us"],"currency":["USD","USN","USS"],"callingCode":["1"],"capital":"Washington D.C.","altSpellings":["US","USA","United States of America"],"region":"Americas","subregion":"Northern America","languages":{"eng":"English"},"translations":{"deu":{"official":"Vereinigte Staaten von Amerika","common":"Vereinigte Staaten von Amerika"},"fra":{"official":"Les états-unis d'Amérique","common":"États-Unis"},"hrv":{"official":"Sjedinjene Države Amerike","common":"Sjedinjene Američke Države"},"ita":{"official":"Stati Uniti d'America","common":"Stati Uniti d'America"},"jpn":{"official":"アメリカ合衆国","common":"アメリカ合衆国"},"nld":{"official":"Verenigde Staten van Amerika","common":"Verenigde Staten"},"por":{"official":"Estados Unidos da América","common":"Estados Unidos"},"rus":{"official":"Соединенные Штаты Америки","common":"Соединённые Штаты Америки"},"spa":{"official":"Estados Unidos de América","common":"Estados Unidos"},"fin":{"official":"Amerikan yhdysvallat","common":"Yhdysvallat"}},"latlng":[38,-97],"demonym":"American","landlocked":false,"borders":["CAN","MEX"],"area":9372610,"codes":{"cca2":"US","ccn3":"840","cca3":"USA","cioc":"USA"}}
+{
+  "name": {
+    "common": "United States",
+    "official": "United States of America",
+    "native": {
+      "eng": {
+        "official": "United States of America",
+        "common": "United States"
+      }
+    }
+  },
+  "tld": [
+    ".us"
+  ],
+  "currency": [
+    "USD",
+    "USN",
+    "USS"
+  ],
+  "callingCode": [
+    "1"
+  ],
+  "capital": "Washington D.C.",
+  "altSpellings": [
+    "US",
+    "USA",
+    "United States of America"
+  ],
+  "region": "Americas",
+  "subregion": "Northern America",
+  "languages": {
+    "eng": "English"
+  },
+  "translations": {
+    "deu": {
+      "official": "Vereinigte Staaten von Amerika",
+      "common": "Vereinigte Staaten von Amerika"
+    },
+    "fra": {
+      "official": "Les états-unis d'Amérique",
+      "common": "États-Unis"
+    },
+    "hrv": {
+      "official": "Sjedinjene Države Amerike",
+      "common": "Sjedinjene Američke Države"
+    },
+    "ita": {
+      "official": "Stati Uniti d'America",
+      "common": "Stati Uniti d'America"
+    },
+    "jpn": {
+      "official": "アメリカ合衆国",
+      "common": "アメリカ合衆国"
+    },
+    "nld": {
+      "official": "Verenigde Staten van Amerika",
+      "common": "Verenigde Staten"
+    },
+    "por": {
+      "official": "Estados Unidos da América",
+      "common": "Estados Unidos"
+    },
+    "rus": {
+      "official": "Соединенные Штаты Америки",
+      "common": "Соединённые Штаты Америки"
+    },
+    "spa": {
+      "official": "Estados Unidos de América",
+      "common": "Estados Unidos"
+    },
+    "fin": {
+      "official": "Amerikan yhdysvallat",
+      "common": "Yhdysvallat"
+    }
+  },
+  "latlng": [
+    38,
+    -97
+  ],
+  "demonym": "American",
+  "landlocked": false,
+  "borders": [
+    "CAN",
+    "MEX"
+  ],
+  "area": 9372610,
+  "codes": {
+    "cca2": "US",
+    "ccn3": "840",
+    "cca3": "USA",
+    "cioc": "USA"
+  }
+}

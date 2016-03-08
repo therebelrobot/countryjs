@@ -1,1 +1,93 @@
-{"name":{"common":"South Sudan","official":"Republic of South Sudan","native":{"eng":{"official":"Republic of South Sudan","common":"South Sudan"}}},"tld":[".ss"],"currency":["SSP"],"callingCode":["211"],"capital":"Juba","altSpellings":["SS"],"region":"Africa","subregion":"Middle Africa","languages":{"eng":"English"},"translations":{"deu":{"official":"Republik Südsudan","common":"Südsudan"},"fra":{"official":"République du Soudan du Sud","common":"Soudan du Sud"},"hrv":{"official":"Republika Južni Sudan","common":"Južni Sudan"},"ita":{"official":"Repubblica del Sudan del Sud","common":"Sudan del sud"},"jpn":{"official":"南スーダン共和国","common":"南スーダン"},"nld":{"official":"Republiek Zuid-Soedan","common":"Zuid-Soedan"},"por":{"official":"República do Sudão do Sul","common":"Sudão do Sul"},"rus":{"official":"Республика Южный Судан","common":"Южный Судан"},"spa":{"official":"República de Sudán del Sur","common":"Sudán del Sur"},"fin":{"official":"Etelä-Sudanin tasavalta","common":"Etelä-Sudan"}},"latlng":[7,30],"demonym":"South Sudanese","landlocked":true,"borders":["CAF","COD","ETH","KEN","SDN","UGA"],"area":619745,"codes":{"cca2":"SS","ccn3":"728","cca3":"SSD","cioc":""}}
+{
+  "name": {
+    "common": "South Sudan",
+    "official": "Republic of South Sudan",
+    "native": {
+      "eng": {
+        "official": "Republic of South Sudan",
+        "common": "South Sudan"
+      }
+    }
+  },
+  "tld": [
+    ".ss"
+  ],
+  "currency": [
+    "SSP"
+  ],
+  "callingCode": [
+    "211"
+  ],
+  "capital": "Juba",
+  "altSpellings": [
+    "SS"
+  ],
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "languages": {
+    "eng": "English"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Südsudan",
+      "common": "Südsudan"
+    },
+    "fra": {
+      "official": "République du Soudan du Sud",
+      "common": "Soudan du Sud"
+    },
+    "hrv": {
+      "official": "Republika Južni Sudan",
+      "common": "Južni Sudan"
+    },
+    "ita": {
+      "official": "Repubblica del Sudan del Sud",
+      "common": "Sudan del sud"
+    },
+    "jpn": {
+      "official": "南スーダン共和国",
+      "common": "南スーダン"
+    },
+    "nld": {
+      "official": "Republiek Zuid-Soedan",
+      "common": "Zuid-Soedan"
+    },
+    "por": {
+      "official": "República do Sudão do Sul",
+      "common": "Sudão do Sul"
+    },
+    "rus": {
+      "official": "Республика Южный Судан",
+      "common": "Южный Судан"
+    },
+    "spa": {
+      "official": "República de Sudán del Sur",
+      "common": "Sudán del Sur"
+    },
+    "fin": {
+      "official": "Etelä-Sudanin tasavalta",
+      "common": "Etelä-Sudan"
+    }
+  },
+  "latlng": [
+    7,
+    30
+  ],
+  "demonym": "South Sudanese",
+  "landlocked": true,
+  "borders": [
+    "CAF",
+    "COD",
+    "ETH",
+    "KEN",
+    "SDN",
+    "UGA"
+  ],
+  "area": 619745,
+  "codes": {
+    "cca2": "SS",
+    "ccn3": "728",
+    "cca3": "SSD",
+    "cioc": ""
+  }
+}

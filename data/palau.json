@@ -1,1 +1,121 @@
-{"name":{"common":"Palau","official":"Republic of Palau","native":{"eng":{"official":"Republic of Palau","common":"Palau"},"pau":{"official":"Beluu er a Belau","common":"Belau"}}},"altSpellings":["PW","Republic of Palau","Beluu er a Belau"],"area":459,"borders":[],"capital":"Ngerulmud","demonym":"Palauan","flag":"","geoJSON":{},"languages":{"eng":"English","pau":"Palauan"},"latlng":[7.5,134.5],"nativeName":"Palau","population":20901,"provinces":["Aimeliik","Airai","Angaur","Hatobohei","Kayangel","Koror","Melekeok","Ngaraard","Ngarchelong","Ngardmau","Ngatpang","Ngchesar","Ngeremlengui","Ngiwal","Palau Island","Peleliu","Sonsoral","Tobi"],"region":"Oceania","subregion":"Micronesia","timezones":["UTC+09:00"],"tld":[".pw"],"translations":{"deu":{"official":"Palau","common":"Palau"},"fra":{"official":"République des Palaos (Palau)","common":"Palaos (Palau)"},"hrv":{"official":"Republika Palau","common":"Palau"},"ita":{"official":"Repubblica di Palau","common":"Palau"},"jpn":{"official":"パラオ共和国","common":"パラオ"},"nld":{"official":"Republiek van Palau","common":"Palau"},"por":{"official":"República de Palau","common":"Palau"},"rus":{"official":"Республика Палау","common":"Палау"},"spa":{"official":"República de Palau","common":"Palau"},"fin":{"official":"Palaun tasavalta","common":"Palau"}},"wiki":"http://en.wikipedia.org/wiki/palau","currency":["USD"],"callingCode":["680"],"landlocked":false,"codes":{"cca2":"PW","ccn3":"585","cca3":"PLW","cioc":"PLW"}}
+{
+  "name": {
+    "common": "Palau",
+    "official": "Republic of Palau",
+    "native": {
+      "eng": {
+        "official": "Republic of Palau",
+        "common": "Palau"
+      },
+      "pau": {
+        "official": "Beluu er a Belau",
+        "common": "Belau"
+      }
+    }
+  },
+  "altSpellings": [
+    "PW",
+    "Republic of Palau",
+    "Beluu er a Belau"
+  ],
+  "area": 459,
+  "borders": [],
+  "capital": "Ngerulmud",
+  "demonym": "Palauan",
+  "flag": "",
+  "geoJSON": {},
+  "languages": {
+    "eng": "English",
+    "pau": "Palauan"
+  },
+  "latlng": [
+    7.5,
+    134.5
+  ],
+  "nativeName": "Palau",
+  "population": 20901,
+  "provinces": [
+    "Aimeliik",
+    "Airai",
+    "Angaur",
+    "Hatobohei",
+    "Kayangel",
+    "Koror",
+    "Melekeok",
+    "Ngaraard",
+    "Ngarchelong",
+    "Ngardmau",
+    "Ngatpang",
+    "Ngchesar",
+    "Ngeremlengui",
+    "Ngiwal",
+    "Palau Island",
+    "Peleliu",
+    "Sonsoral",
+    "Tobi"
+  ],
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "timezones": [
+    "UTC+09:00"
+  ],
+  "tld": [
+    ".pw"
+  ],
+  "translations": {
+    "deu": {
+      "official": "Palau",
+      "common": "Palau"
+    },
+    "fra": {
+      "official": "République des Palaos (Palau)",
+      "common": "Palaos (Palau)"
+    },
+    "hrv": {
+      "official": "Republika Palau",
+      "common": "Palau"
+    },
+    "ita": {
+      "official": "Repubblica di Palau",
+      "common": "Palau"
+    },
+    "jpn": {
+      "official": "パラオ共和国",
+      "common": "パラオ"
+    },
+    "nld": {
+      "official": "Republiek van Palau",
+      "common": "Palau"
+    },
+    "por": {
+      "official": "República de Palau",
+      "common": "Palau"
+    },
+    "rus": {
+      "official": "Республика Палау",
+      "common": "Палау"
+    },
+    "spa": {
+      "official": "República de Palau",
+      "common": "Palau"
+    },
+    "fin": {
+      "official": "Palaun tasavalta",
+      "common": "Palau"
+    }
+  },
+  "wiki": "http://en.wikipedia.org/wiki/palau",
+  "currency": [
+    "USD"
+  ],
+  "callingCode": [
+    "680"
+  ],
+  "landlocked": false,
+  "codes": {
+    "cca2": "PW",
+    "ccn3": "585",
+    "cca3": "PLW",
+    "cioc": "PLW"
+  }
+}

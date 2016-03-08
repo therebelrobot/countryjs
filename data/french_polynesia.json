@@ -1,1 +1,102 @@
-{"name":{"common":"French Polynesia","official":"French Polynesia","native":{"fra":{"official":"Polynésie française","common":"Polynésie française"}}},"altSpellings":["PF","Polynésie française","French Polynesia","Pōrīnetia Farāni"],"area":4167,"borders":[],"capital":"Papeetē","demonym":"French Polynesian","flag":"","geoJSON":{},"languages":{"fra":"French"},"latlng":[-15,-140],"nativeName":"Polynésie française","population":268270,"provinces":["Archipel des Marquises","Archipel des Tuamotu","Archipel des Tubuai","Iles du Vent","Iles Sous-le-Vent"],"region":"Oceania","subregion":"Polynesia","timezones":null,"tld":[".pf"],"translations":{"deu":{"official":"Französisch-Polynesien","common":"Französisch-Polynesien"},"fra":{"official":"Polynésie française","common":"Polynésie française"},"hrv":{"official":"Francuska Polinezija","common":"Francuska Polinezija"},"ita":{"official":"Polinesia Francese","common":"Polinesia Francese"},"jpn":{"official":"フランス領ポリネシア","common":"フランス領ポリネシア"},"nld":{"official":"Frans-Polynesië","common":"Frans-Polynesië"},"por":{"official":"Polinésia Francesa","common":"Polinésia Francesa"},"rus":{"official":"Французская Полинезия","common":"Французская Полинезия"},"spa":{"official":"Polinesia francés","common":"Polinesia Francesa"},"fin":{"official":"Ranskan Polynesia","common":"Ranskan Polynesia"}},"wiki":"http://en.wikipedia.org/wiki/french_polynesia","currency":["XPF"],"callingCode":["689"],"landlocked":false,"codes":{"cca2":"PF","ccn3":"258","cca3":"PYF","cioc":""}}
+{
+  "name": {
+    "common": "French Polynesia",
+    "official": "French Polynesia",
+    "native": {
+      "fra": {
+        "official": "Polynésie française",
+        "common": "Polynésie française"
+      }
+    }
+  },
+  "altSpellings": [
+    "PF",
+    "Polynésie française",
+    "French Polynesia",
+    "Pōrīnetia Farāni"
+  ],
+  "area": 4167,
+  "borders": [],
+  "capital": "Papeetē",
+  "demonym": "French Polynesian",
+  "flag": "",
+  "geoJSON": {},
+  "languages": {
+    "fra": "French"
+  },
+  "latlng": [
+    -15,
+    -140
+  ],
+  "nativeName": "Polynésie française",
+  "population": 268270,
+  "provinces": [
+    "Archipel des Marquises",
+    "Archipel des Tuamotu",
+    "Archipel des Tubuai",
+    "Iles du Vent",
+    "Iles Sous-le-Vent"
+  ],
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "timezones": null,
+  "tld": [
+    ".pf"
+  ],
+  "translations": {
+    "deu": {
+      "official": "Französisch-Polynesien",
+      "common": "Französisch-Polynesien"
+    },
+    "fra": {
+      "official": "Polynésie française",
+      "common": "Polynésie française"
+    },
+    "hrv": {
+      "official": "Francuska Polinezija",
+      "common": "Francuska Polinezija"
+    },
+    "ita": {
+      "official": "Polinesia Francese",
+      "common": "Polinesia Francese"
+    },
+    "jpn": {
+      "official": "フランス領ポリネシア",
+      "common": "フランス領ポリネシア"
+    },
+    "nld": {
+      "official": "Frans-Polynesië",
+      "common": "Frans-Polynesië"
+    },
+    "por": {
+      "official": "Polinésia Francesa",
+      "common": "Polinésia Francesa"
+    },
+    "rus": {
+      "official": "Французская Полинезия",
+      "common": "Французская Полинезия"
+    },
+    "spa": {
+      "official": "Polinesia francés",
+      "common": "Polinesia Francesa"
+    },
+    "fin": {
+      "official": "Ranskan Polynesia",
+      "common": "Ranskan Polynesia"
+    }
+  },
+  "wiki": "http://en.wikipedia.org/wiki/french_polynesia",
+  "currency": [
+    "XPF"
+  ],
+  "callingCode": [
+    "689"
+  ],
+  "landlocked": false,
+  "codes": {
+    "cca2": "PF",
+    "ccn3": "258",
+    "cca3": "PYF",
+    "cioc": ""
+  }
+}

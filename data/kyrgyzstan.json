@@ -1,1 +1,276 @@
-{"name":{"common":"Kyrgyzstan","official":"Kyrgyz Republic","native":{"kir":{"official":"Кыргыз Республикасы","common":"Кыргызстан"},"rus":{"official":"Кыргызская Республика","common":"Киргизия"}}},"altSpellings":["KG","Киргизия","Kyrgyz Republic","Кыргыз Республикасы","Kyrgyz Respublikasy"],"area":199951,"borders":["CHN","KAZ","TJK","UZB"],"capital":"Bishkek","demonym":"Kirghiz","flag":"","geoJSON":{"type":"FeatureCollection","features":[{"type":"Feature","id":"KGZ","properties":{"name":"Kyrgyzstan"},"geometry":{"type":"Polygon","coordinates":[[[70.962315,42.266154],[71.186281,42.704293],[71.844638,42.845395],[73.489758,42.500894],[73.645304,43.091272],[74.212866,43.298339],[75.636965,42.8779],[76.000354,42.988022],[77.658392,42.960686],[79.142177,42.856092],[79.643645,42.496683],[80.25999,42.349999],[80.11943,42.123941],[78.543661,41.582243],[78.187197,41.185316],[76.904484,41.066486],[76.526368,40.427946],[75.467828,40.562072],[74.776862,40.366425],[73.822244,39.893973],[73.960013,39.660008],[73.675379,39.431237],[71.784694,39.279463],[70.549162,39.604198],[69.464887,39.526683],[69.55961,40.103211],[70.648019,39.935754],[71.014198,40.244366],[71.774875,40.145844],[73.055417,40.866033],[71.870115,41.3929],[71.157859,41.143587],[70.420022,41.519998],[71.259248,42.167711],[70.962315,42.266154]]]}}]},"languages":{"kir":"Kyrgyz","rus":"Russian"},"latlng":[41,75],"nativeName":"Кыргызстан","population":5776570,"provinces":["Batken Oblasty","Bishkek Shaary","Chuy Oblasty (Bishkek)","Jalal-Abad Oblasty","Naryn Oblasty","Osh Oblasty","Talas Oblasty","Ysyk-Kol Oblasty (Karakol)"],"region":"Asia","subregion":"Central Asia","timezones":["UTC+06:00"],"tld":[".kg"],"translations":{"deu":{"official":"Kirgisische Republik","common":"Kirgisistan"},"fra":{"official":"République kirghize","common":"Kirghizistan"},"hrv":{"official":"Kirgistanu","common":"Kirgistan"},"ita":{"official":"Kirghizistan","common":"Kirghizistan"},"jpn":{"official":"キルギス共和国","common":"キルギス"},"nld":{"official":"Kirgizische Republiek","common":"Kirgizië"},"por":{"official":"República do Quirguistão","common":"Quirguistão"},"rus":{"official":"Кыргызская Республика","common":"Киргизия"},"spa":{"official":"República Kirguisa","common":"Kirguizistán"},"fin":{"official":"Kirgisian tasavalta","common":"Kirgisia"}},"wiki":"http://en.wikipedia.org/wiki/kyrgyzstan","currency":["KGS"],"callingCode":["996"],"landlocked":true,"codes":{"cca2":"KG","ccn3":"417","cca3":"KGZ","cioc":"KGZ"}}
+{
+  "name": {
+    "common": "Kyrgyzstan",
+    "official": "Kyrgyz Republic",
+    "native": {
+      "kir": {
+        "official": "Кыргыз Республикасы",
+        "common": "Кыргызстан"
+      },
+      "rus": {
+        "official": "Кыргызская Республика",
+        "common": "Киргизия"
+      }
+    }
+  },
+  "altSpellings": [
+    "KG",
+    "Киргизия",
+    "Kyrgyz Republic",
+    "Кыргыз Республикасы",
+    "Kyrgyz Respublikasy"
+  ],
+  "area": 199951,
+  "borders": [
+    "CHN",
+    "KAZ",
+    "TJK",
+    "UZB"
+  ],
+  "capital": "Bishkek",
+  "demonym": "Kirghiz",
+  "flag": "",
+  "geoJSON": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "KGZ",
+        "properties": {
+          "name": "Kyrgyzstan"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                70.962315,
+                42.266154
+              ],
+              [
+                71.186281,
+                42.704293
+              ],
+              [
+                71.844638,
+                42.845395
+              ],
+              [
+                73.489758,
+                42.500894
+              ],
+              [
+                73.645304,
+                43.091272
+              ],
+              [
+                74.212866,
+                43.298339
+              ],
+              [
+                75.636965,
+                42.8779
+              ],
+              [
+                76.000354,
+                42.988022
+              ],
+              [
+                77.658392,
+                42.960686
+              ],
+              [
+                79.142177,
+                42.856092
+              ],
+              [
+                79.643645,
+                42.496683
+              ],
+              [
+                80.25999,
+                42.349999
+              ],
+              [
+                80.11943,
+                42.123941
+              ],
+              [
+                78.543661,
+                41.582243
+              ],
+              [
+                78.187197,
+                41.185316
+              ],
+              [
+                76.904484,
+                41.066486
+              ],
+              [
+                76.526368,
+                40.427946
+              ],
+              [
+                75.467828,
+                40.562072
+              ],
+              [
+                74.776862,
+                40.366425
+              ],
+              [
+                73.822244,
+                39.893973
+              ],
+              [
+                73.960013,
+                39.660008
+              ],
+              [
+                73.675379,
+                39.431237
+              ],
+              [
+                71.784694,
+                39.279463
+              ],
+              [
+                70.549162,
+                39.604198
+              ],
+              [
+                69.464887,
+                39.526683
+              ],
+              [
+                69.55961,
+                40.103211
+              ],
+              [
+                70.648019,
+                39.935754
+              ],
+              [
+                71.014198,
+                40.244366
+              ],
+              [
+                71.774875,
+                40.145844
+              ],
+              [
+                73.055417,
+                40.866033
+              ],
+              [
+                71.870115,
+                41.3929
+              ],
+              [
+                71.157859,
+                41.143587
+              ],
+              [
+                70.420022,
+                41.519998
+              ],
+              [
+                71.259248,
+                42.167711
+              ],
+              [
+                70.962315,
+                42.266154
+              ]
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  "languages": {
+    "kir": "Kyrgyz",
+    "rus": "Russian"
+  },
+  "latlng": [
+    41,
+    75
+  ],
+  "nativeName": "Кыргызстан",
+  "population": 5776570,
+  "provinces": [
+    "Batken Oblasty",
+    "Bishkek Shaary",
+    "Chuy Oblasty (Bishkek)",
+    "Jalal-Abad Oblasty",
+    "Naryn Oblasty",
+    "Osh Oblasty",
+    "Talas Oblasty",
+    "Ysyk-Kol Oblasty (Karakol)"
+  ],
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "timezones": [
+    "UTC+06:00"
+  ],
+  "tld": [
+    ".kg"
+  ],
+  "translations": {
+    "deu": {
+      "official": "Kirgisische Republik",
+      "common": "Kirgisistan"
+    },
+    "fra": {
+      "official": "République kirghize",
+      "common": "Kirghizistan"
+    },
+    "hrv": {
+      "official": "Kirgistanu",
+      "common": "Kirgistan"
+    },
+    "ita": {
+      "official": "Kirghizistan",
+      "common": "Kirghizistan"
+    },
+    "jpn": {
+      "official": "キルギス共和国",
+      "common": "キルギス"
+    },
+    "nld": {
+      "official": "Kirgizische Republiek",
+      "common": "Kirgizië"
+    },
+    "por": {
+      "official": "República do Quirguistão",
+      "common": "Quirguistão"
+    },
+    "rus": {
+      "official": "Кыргызская Республика",
+      "common": "Киргизия"
+    },
+    "spa": {
+      "official": "República Kirguisa",
+      "common": "Kirguizistán"
+    },
+    "fin": {
+      "official": "Kirgisian tasavalta",
+      "common": "Kirgisia"
+    }
+  },
+  "wiki": "http://en.wikipedia.org/wiki/kyrgyzstan",
+  "currency": [
+    "KGS"
+  ],
+  "callingCode": [
+    "996"
+  ],
+  "landlocked": true,
+  "codes": {
+    "cca2": "KG",
+    "ccn3": "417",
+    "cca3": "KGZ",
+    "cioc": "KGZ"
+  }
+}

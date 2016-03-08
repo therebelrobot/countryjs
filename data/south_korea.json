@@ -1,1 +1,91 @@
-{"name":{"common":"South Korea","official":"Republic of Korea","native":{"kor":{"official":"한국","common":"대한민국"}}},"tld":[".kr",".한국"],"currency":["KRW"],"callingCode":["82"],"capital":"Seoul","altSpellings":["KR","Korea, Republic of","Republic of Korea"],"region":"Asia","subregion":"Eastern Asia","languages":{"kor":"Korean"},"translations":{"deu":{"official":"Republik Korea","common":"Südkorea"},"fra":{"official":"République de Corée","common":"Corée du Sud"},"hrv":{"official":"Republika Koreja","common":"Južna Koreja"},"ita":{"official":"Repubblica di Corea","common":"Corea del Sud"},"jpn":{"official":"大韓民国","common":"大韓民国"},"nld":{"official":"Republiek Korea","common":"Zuid-Korea"},"por":{"official":"República da Coreia","common":"Coreia do Sul"},"rus":{"official":"Республика Корея","common":"Южная Корея"},"spa":{"official":"República de Corea","common":"Corea del Sur"},"fin":{"official":"Korean tasavalta","common":"Etelä-Korea"}},"latlng":[37,127.5],"demonym":"South Korean","landlocked":false,"borders":["PRK"],"area":100210,"codes":{"cca2":"KR","ccn3":"410","cca3":"KOR","cioc":"KOR"}}
+{
+  "name": {
+    "common": "South Korea",
+    "official": "Republic of Korea",
+    "native": {
+      "kor": {
+        "official": "한국",
+        "common": "대한민국"
+      }
+    }
+  },
+  "tld": [
+    ".kr",
+    ".한국"
+  ],
+  "currency": [
+    "KRW"
+  ],
+  "callingCode": [
+    "82"
+  ],
+  "capital": "Seoul",
+  "altSpellings": [
+    "KR",
+    "Korea, Republic of",
+    "Republic of Korea"
+  ],
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "languages": {
+    "kor": "Korean"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Korea",
+      "common": "Südkorea"
+    },
+    "fra": {
+      "official": "République de Corée",
+      "common": "Corée du Sud"
+    },
+    "hrv": {
+      "official": "Republika Koreja",
+      "common": "Južna Koreja"
+    },
+    "ita": {
+      "official": "Repubblica di Corea",
+      "common": "Corea del Sud"
+    },
+    "jpn": {
+      "official": "大韓民国",
+      "common": "大韓民国"
+    },
+    "nld": {
+      "official": "Republiek Korea",
+      "common": "Zuid-Korea"
+    },
+    "por": {
+      "official": "República da Coreia",
+      "common": "Coreia do Sul"
+    },
+    "rus": {
+      "official": "Республика Корея",
+      "common": "Южная Корея"
+    },
+    "spa": {
+      "official": "República de Corea",
+      "common": "Corea del Sur"
+    },
+    "fin": {
+      "official": "Korean tasavalta",
+      "common": "Etelä-Korea"
+    }
+  },
+  "latlng": [
+    37,
+    127.5
+  ],
+  "demonym": "South Korean",
+  "landlocked": false,
+  "borders": [
+    "PRK"
+  ],
+  "area": 100210,
+  "codes": {
+    "cca2": "KR",
+    "ccn3": "410",
+    "cca3": "KOR",
+    "cioc": "KOR"
+  }
+}

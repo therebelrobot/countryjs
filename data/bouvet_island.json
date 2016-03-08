@@ -1,1 +1,86 @@
-{"name":{"common":"Bouvet Island","official":"Bouvet Island","native":{"nor":{"official":"Bouvetøya","common":"Bouvetøya"}}},"tld":[".bv"],"currency":["NOK"],"callingCode":[],"capital":"","altSpellings":["BV","Bouvetøya","Bouvet-øya"],"region":"","subregion":"","languages":{"nor":"Norwegian"},"translations":{"deu":{"official":"Bouvet-Insel","common":"Bouvetinsel"},"fra":{"official":"Île Bouvet","common":"Île Bouvet"},"hrv":{"official":"Bouvet Island","common":"Otok Bouvet"},"ita":{"official":"Isola Bouvet","common":"Isola Bouvet"},"jpn":{"official":"ブーヴェ島","common":"ブーベ島"},"nld":{"official":"Bouvet Island","common":"Bouveteiland"},"por":{"official":"Ilha Bouvet","common":"Ilha Bouvet"},"rus":{"official":"Остров Буве","common":"Остров Буве"},"spa":{"official":"Isla Bouvet","common":"Isla Bouvet"},"fin":{"official":"Bouvet'nsaari","common":"Bouvet'nsaari"}},"latlng":[-54.43333333,3.4],"demonym":"","landlocked":false,"borders":[],"area":49,"codes":{"cca2":"BV","ccn3":"074","cca3":"BVT","cioc":""}}
+{
+  "name": {
+    "common": "Bouvet Island",
+    "official": "Bouvet Island",
+    "native": {
+      "nor": {
+        "official": "Bouvetøya",
+        "common": "Bouvetøya"
+      }
+    }
+  },
+  "tld": [
+    ".bv"
+  ],
+  "currency": [
+    "NOK"
+  ],
+  "callingCode": [],
+  "capital": "",
+  "altSpellings": [
+    "BV",
+    "Bouvetøya",
+    "Bouvet-øya"
+  ],
+  "region": "",
+  "subregion": "",
+  "languages": {
+    "nor": "Norwegian"
+  },
+  "translations": {
+    "deu": {
+      "official": "Bouvet-Insel",
+      "common": "Bouvetinsel"
+    },
+    "fra": {
+      "official": "Île Bouvet",
+      "common": "Île Bouvet"
+    },
+    "hrv": {
+      "official": "Bouvet Island",
+      "common": "Otok Bouvet"
+    },
+    "ita": {
+      "official": "Isola Bouvet",
+      "common": "Isola Bouvet"
+    },
+    "jpn": {
+      "official": "ブーヴェ島",
+      "common": "ブーベ島"
+    },
+    "nld": {
+      "official": "Bouvet Island",
+      "common": "Bouveteiland"
+    },
+    "por": {
+      "official": "Ilha Bouvet",
+      "common": "Ilha Bouvet"
+    },
+    "rus": {
+      "official": "Остров Буве",
+      "common": "Остров Буве"
+    },
+    "spa": {
+      "official": "Isla Bouvet",
+      "common": "Isla Bouvet"
+    },
+    "fin": {
+      "official": "Bouvet'nsaari",
+      "common": "Bouvet'nsaari"
+    }
+  },
+  "latlng": [
+    -54.43333333,
+    3.4
+  ],
+  "demonym": "",
+  "landlocked": false,
+  "borders": [],
+  "area": 49,
+  "codes": {
+    "cca2": "BV",
+    "ccn3": "074",
+    "cca3": "BVT",
+    "cioc": ""
+  }
+}

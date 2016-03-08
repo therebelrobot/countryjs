@@ -1,6 +1,6 @@
 {
   "name": "countryjs",
-  "version": "1.5.2",
+  "version": "2.0.0",
   "description": "A utility library for returning country data, ISO info and states/provinces within them.",
   "main": "index.js",
   "author": "Trent Oswald <trentoswald@therebelrobot.com> (http://therebelrobot.com)",
@@ -17,7 +17,8 @@
   ],
   "scripts": {
     "pretest": "./node_modules/standard/bin/cmd.js",
-    "test": "./node_modules/istanbul/lib/cli.js cover _mocha --"
+    "test": "./node_modules/istanbul/lib/cli.js cover _mocha --",
+    "build": "node build/countryjs.build.js"
   },
   "keywords": [
     "country",

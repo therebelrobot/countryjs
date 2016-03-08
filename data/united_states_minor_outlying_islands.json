@@ -1,1 +1,81 @@
-{"name":{"common":"United States Minor Outlying Islands","official":"United States Minor Outlying Islands","native":{"eng":{"official":"United States Minor Outlying Islands","common":"United States Minor Outlying Islands"}}},"tld":[".us"],"currency":["USD"],"callingCode":[],"capital":"","altSpellings":["UM"],"region":"Americas","subregion":"Northern America","languages":{"eng":"English"},"translations":{"deu":{"official":"USA, kleinere ausgelagerte Inseln","common":"Kleinere Inselbesitzungen der Vereinigten Staaten"},"fra":{"official":"Îles mineures éloignées des États-Unis","common":"Îles mineures éloignées des États-Unis"},"hrv":{"official":"Mali udaljeni otoci SAD-a","common":"Mali udaljeni otoci SAD-a"},"ita":{"official":"Stati Uniti Isole Minori","common":"Isole minori esterne degli Stati Uniti d'America"},"jpn":{"official":"アメリカ合衆国外諸島","common":"合衆国領有小離島"},"nld":{"official":"Kleine afgelegen eilanden van de Verenigde Staten","common":"Kleine afgelegen eilanden van de Verenigde Staten"},"por":{"official":"Estados Unidos Ilhas Menores Distantes","common":"Ilhas Menores Distantes dos Estados Unidos"},"rus":{"official":"Внешние малые острова США","common":"Внешние малые острова США"},"spa":{"official":"Estados Unidos Islas menores alejadas de","common":"Islas Ultramarinas Menores de Estados Unidos"},"fin":{"official":"Yhdysvaltain asumattomat saaret","common":"Yhdysvaltain asumattomat saaret"}},"latlng":[],"demonym":"American","landlocked":false,"borders":[],"area":34.2,"codes":{"cca2":"UM","ccn3":"581","cca3":"UMI","cioc":""}}
+{
+  "name": {
+    "common": "United States Minor Outlying Islands",
+    "official": "United States Minor Outlying Islands",
+    "native": {
+      "eng": {
+        "official": "United States Minor Outlying Islands",
+        "common": "United States Minor Outlying Islands"
+      }
+    }
+  },
+  "tld": [
+    ".us"
+  ],
+  "currency": [
+    "USD"
+  ],
+  "callingCode": [],
+  "capital": "",
+  "altSpellings": [
+    "UM"
+  ],
+  "region": "Americas",
+  "subregion": "Northern America",
+  "languages": {
+    "eng": "English"
+  },
+  "translations": {
+    "deu": {
+      "official": "USA, kleinere ausgelagerte Inseln",
+      "common": "Kleinere Inselbesitzungen der Vereinigten Staaten"
+    },
+    "fra": {
+      "official": "Îles mineures éloignées des États-Unis",
+      "common": "Îles mineures éloignées des États-Unis"
+    },
+    "hrv": {
+      "official": "Mali udaljeni otoci SAD-a",
+      "common": "Mali udaljeni otoci SAD-a"
+    },
+    "ita": {
+      "official": "Stati Uniti Isole Minori",
+      "common": "Isole minori esterne degli Stati Uniti d'America"
+    },
+    "jpn": {
+      "official": "アメリカ合衆国外諸島",
+      "common": "合衆国領有小離島"
+    },
+    "nld": {
+      "official": "Kleine afgelegen eilanden van de Verenigde Staten",
+      "common": "Kleine afgelegen eilanden van de Verenigde Staten"
+    },
+    "por": {
+      "official": "Estados Unidos Ilhas Menores Distantes",
+      "common": "Ilhas Menores Distantes dos Estados Unidos"
+    },
+    "rus": {
+      "official": "Внешние малые острова США",
+      "common": "Внешние малые острова США"
+    },
+    "spa": {
+      "official": "Estados Unidos Islas menores alejadas de",
+      "common": "Islas Ultramarinas Menores de Estados Unidos"
+    },
+    "fin": {
+      "official": "Yhdysvaltain asumattomat saaret",
+      "common": "Yhdysvaltain asumattomat saaret"
+    }
+  },
+  "latlng": [],
+  "demonym": "American",
+  "landlocked": false,
+  "borders": [],
+  "area": 34.2,
+  "codes": {
+    "cca2": "UM",
+    "ccn3": "581",
+    "cca3": "UMI",
+    "cioc": ""
+  }
+}

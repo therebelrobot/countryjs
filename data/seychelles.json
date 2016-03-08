@@ -1,1 +1,132 @@
-{"name":{"common":"Seychelles","official":"Republic of Seychelles","native":{"crs":{"official":"Repiblik Sesel","common":"Sesel"},"eng":{"official":"Republic of Seychelles","common":"Seychelles"},"fra":{"official":"République des Seychelles","common":"Seychelles"}}},"altSpellings":["SC","Republic of Seychelles","Repiblik Sesel","République des Seychelles"],"area":452,"borders":[],"capital":"Victoria","demonym":"Seychellois","flag":"","geoJSON":{},"languages":{"crs":"Seychellois Creole","eng":"English","fra":"French"},"latlng":[-4.58333333,55.66666666],"nativeName":"Seychelles","population":89949,"provinces":["Anse aux Pins","Anse Boileau","Anse Etoile","Anse Louis","Anse Royale","Baie Lazare","Baie Sainte Anne","Beau Vallon","Bel Air","Bel Ombre","Cascade","Glacis","Grand' Anse (on Mahe)","Grand' Anse (on Praslin)","La Digue","La Riviere Anglaise","Mont Buxton","Mont Fleuri","Plaisance","Pointe La Rue","Port Glaud","Saint Louis","Takamaka"],"region":"Africa","subregion":"Eastern Africa","timezones":["UTC+04:00"],"tld":[".sc"],"translations":{"deu":{"official":"Republik der Seychellen","common":"Seychellen"},"fra":{"official":"République des Seychelles","common":"Seychelles"},"hrv":{"official":"Republika Sejšeli","common":"Sejšeli"},"ita":{"official":"Repubblica delle Seychelles","common":"Seychelles"},"jpn":{"official":"セイシェル共和国","common":"セーシェル"},"nld":{"official":"Republiek der Seychellen","common":"Seychellen"},"por":{"official":"República das Seychelles","common":"Seicheles"},"rus":{"official":"Республика Сейшельские Острова","common":"Сейшельские Острова"},"spa":{"official":"República de las Seychelles","common":"Seychelles"},"fin":{"official":"Seychellien tasavalta","common":"Seychellit"}},"wiki":"http://en.wikipedia.org/wiki/seychelles","currency":["SCR"],"callingCode":["248"],"landlocked":false,"codes":{"cca2":"SC","ccn3":"690","cca3":"SYC","cioc":"SEY"}}
+{
+  "name": {
+    "common": "Seychelles",
+    "official": "Republic of Seychelles",
+    "native": {
+      "crs": {
+        "official": "Repiblik Sesel",
+        "common": "Sesel"
+      },
+      "eng": {
+        "official": "Republic of Seychelles",
+        "common": "Seychelles"
+      },
+      "fra": {
+        "official": "République des Seychelles",
+        "common": "Seychelles"
+      }
+    }
+  },
+  "altSpellings": [
+    "SC",
+    "Republic of Seychelles",
+    "Repiblik Sesel",
+    "République des Seychelles"
+  ],
+  "area": 452,
+  "borders": [],
+  "capital": "Victoria",
+  "demonym": "Seychellois",
+  "flag": "",
+  "geoJSON": {},
+  "languages": {
+    "crs": "Seychellois Creole",
+    "eng": "English",
+    "fra": "French"
+  },
+  "latlng": [
+    -4.58333333,
+    55.66666666
+  ],
+  "nativeName": "Seychelles",
+  "population": 89949,
+  "provinces": [
+    "Anse aux Pins",
+    "Anse Boileau",
+    "Anse Etoile",
+    "Anse Louis",
+    "Anse Royale",
+    "Baie Lazare",
+    "Baie Sainte Anne",
+    "Beau Vallon",
+    "Bel Air",
+    "Bel Ombre",
+    "Cascade",
+    "Glacis",
+    "Grand' Anse (on Mahe)",
+    "Grand' Anse (on Praslin)",
+    "La Digue",
+    "La Riviere Anglaise",
+    "Mont Buxton",
+    "Mont Fleuri",
+    "Plaisance",
+    "Pointe La Rue",
+    "Port Glaud",
+    "Saint Louis",
+    "Takamaka"
+  ],
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "timezones": [
+    "UTC+04:00"
+  ],
+  "tld": [
+    ".sc"
+  ],
+  "translations": {
+    "deu": {
+      "official": "Republik der Seychellen",
+      "common": "Seychellen"
+    },
+    "fra": {
+      "official": "République des Seychelles",
+      "common": "Seychelles"
+    },
+    "hrv": {
+      "official": "Republika Sejšeli",
+      "common": "Sejšeli"
+    },
+    "ita": {
+      "official": "Repubblica delle Seychelles",
+      "common": "Seychelles"
+    },
+    "jpn": {
+      "official": "セイシェル共和国",
+      "common": "セーシェル"
+    },
+    "nld": {
+      "official": "Republiek der Seychellen",
+      "common": "Seychellen"
+    },
+    "por": {
+      "official": "República das Seychelles",
+      "common": "Seicheles"
+    },
+    "rus": {
+      "official": "Республика Сейшельские Острова",
+      "common": "Сейшельские Острова"
+    },
+    "spa": {
+      "official": "República de las Seychelles",
+      "common": "Seychelles"
+    },
+    "fin": {
+      "official": "Seychellien tasavalta",
+      "common": "Seychellit"
+    }
+  },
+  "wiki": "http://en.wikipedia.org/wiki/seychelles",
+  "currency": [
+    "SCR"
+  ],
+  "callingCode": [
+    "248"
+  ],
+  "landlocked": false,
+  "codes": {
+    "cca2": "SC",
+    "ccn3": "690",
+    "cca3": "SYC",
+    "cioc": "SEY"
+  }
+}

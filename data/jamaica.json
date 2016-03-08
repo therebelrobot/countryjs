@@ -1,1 +1,177 @@
-{"name":{"common":"Jamaica","official":"Jamaica","native":{"eng":{"official":"Jamaica","common":"Jamaica"},"jam":{"official":"Jamaica","common":"Jamaica"}}},"altSpellings":["JM"],"area":10991,"borders":[],"capital":"Kingston","demonym":"Jamaican","flag":"","geoJSON":{"type":"FeatureCollection","features":[{"type":"Feature","id":"JAM","properties":{"name":"Jamaica"},"geometry":{"type":"Polygon","coordinates":[[[-77.569601,18.490525],[-76.896619,18.400867],[-76.365359,18.160701],[-76.199659,17.886867],[-76.902561,17.868238],[-77.206341,17.701116],[-77.766023,17.861597],[-78.337719,18.225968],[-78.217727,18.454533],[-77.797365,18.524218],[-77.569601,18.490525]]]}}]},"languages":{"eng":"English","jam":"Jamaican Patois"},"latlng":[18.25,-77.5],"nativeName":"Jamaica","population":2717991,"provinces":["Clarendon","Hanover","Kingston","Manchester","Portland","Saint Andrew","Saint Ann","Saint Catherine","Saint Elizabeth","Saint James","Saint Mary","Saint Thomas","Trelawny","Westmoreland"],"region":"Americas","subregion":"Caribbean","timezones":["UTC−05:00"],"tld":[".jm"],"translations":{"deu":{"official":"Jamaika","common":"Jamaika"},"fra":{"official":"Jamaïque","common":"Jamaïque"},"hrv":{"official":"Jamajka","common":"Jamajka"},"ita":{"official":"Giamaica","common":"Giamaica"},"jpn":{"official":"ジャマイカ","common":"ジャマイカ"},"nld":{"official":"Jamaica","common":"Jamaica"},"por":{"official":"Jamaica","common":"Jamaica"},"rus":{"official":"Ямайка","common":"Ямайка"},"spa":{"official":"Jamaica","common":"Jamaica"},"fin":{"official":"Jamaika","common":"Jamaika"}},"wiki":"http://en.wikipedia.org/wiki/jamaica","currency":["JMD"],"callingCode":["1876"],"landlocked":false,"codes":{"cca2":"JM","ccn3":"388","cca3":"JAM","cioc":"JAM"}}
+{
+  "name": {
+    "common": "Jamaica",
+    "official": "Jamaica",
+    "native": {
+      "eng": {
+        "official": "Jamaica",
+        "common": "Jamaica"
+      },
+      "jam": {
+        "official": "Jamaica",
+        "common": "Jamaica"
+      }
+    }
+  },
+  "altSpellings": [
+    "JM"
+  ],
+  "area": 10991,
+  "borders": [],
+  "capital": "Kingston",
+  "demonym": "Jamaican",
+  "flag": "",
+  "geoJSON": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "JAM",
+        "properties": {
+          "name": "Jamaica"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -77.569601,
+                18.490525
+              ],
+              [
+                -76.896619,
+                18.400867
+              ],
+              [
+                -76.365359,
+                18.160701
+              ],
+              [
+                -76.199659,
+                17.886867
+              ],
+              [
+                -76.902561,
+                17.868238
+              ],
+              [
+                -77.206341,
+                17.701116
+              ],
+              [
+                -77.766023,
+                17.861597
+              ],
+              [
+                -78.337719,
+                18.225968
+              ],
+              [
+                -78.217727,
+                18.454533
+              ],
+              [
+                -77.797365,
+                18.524218
+              ],
+              [
+                -77.569601,
+                18.490525
+              ]
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  "languages": {
+    "eng": "English",
+    "jam": "Jamaican Patois"
+  },
+  "latlng": [
+    18.25,
+    -77.5
+  ],
+  "nativeName": "Jamaica",
+  "population": 2717991,
+  "provinces": [
+    "Clarendon",
+    "Hanover",
+    "Kingston",
+    "Manchester",
+    "Portland",
+    "Saint Andrew",
+    "Saint Ann",
+    "Saint Catherine",
+    "Saint Elizabeth",
+    "Saint James",
+    "Saint Mary",
+    "Saint Thomas",
+    "Trelawny",
+    "Westmoreland"
+  ],
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "timezones": [
+    "UTC−05:00"
+  ],
+  "tld": [
+    ".jm"
+  ],
+  "translations": {
+    "deu": {
+      "official": "Jamaika",
+      "common": "Jamaika"
+    },
+    "fra": {
+      "official": "Jamaïque",
+      "common": "Jamaïque"
+    },
+    "hrv": {
+      "official": "Jamajka",
+      "common": "Jamajka"
+    },
+    "ita": {
+      "official": "Giamaica",
+      "common": "Giamaica"
+    },
+    "jpn": {
+      "official": "ジャマイカ",
+      "common": "ジャマイカ"
+    },
+    "nld": {
+      "official": "Jamaica",
+      "common": "Jamaica"
+    },
+    "por": {
+      "official": "Jamaica",
+      "common": "Jamaica"
+    },
+    "rus": {
+      "official": "Ямайка",
+      "common": "Ямайка"
+    },
+    "spa": {
+      "official": "Jamaica",
+      "common": "Jamaica"
+    },
+    "fin": {
+      "official": "Jamaika",
+      "common": "Jamaika"
+    }
+  },
+  "wiki": "http://en.wikipedia.org/wiki/jamaica",
+  "currency": [
+    "JMD"
+  ],
+  "callingCode": [
+    "1876"
+  ],
+  "landlocked": false,
+  "codes": {
+    "cca2": "JM",
+    "ccn3": "388",
+    "cca3": "JAM",
+    "cioc": "JAM"
+  }
+}

@@ -1,1 +1,89 @@
-{"name":{"common":"Åland Islands","official":"Åland Islands","native":{"swe":{"official":"Landskapet Åland","common":"Åland"}}},"tld":[".ax"],"currency":["EUR"],"callingCode":["358"],"capital":"Mariehamn","altSpellings":["AX","Aaland","Aland","Ahvenanmaa"],"region":"Europe","subregion":"Northern Europe","languages":{"swe":"Swedish"},"translations":{"deu":{"official":"Åland-Inseln","common":"Åland"},"fra":{"official":"Ahvenanmaa","common":"Ahvenanmaa"},"hrv":{"official":"Aland Islands","common":"Ålandski otoci"},"ita":{"official":"Isole Åland","common":"Isole Aland"},"jpn":{"official":"オーランド諸島","common":"オーランド諸島"},"nld":{"official":"Åland eilanden","common":"Ålandeilanden"},"por":{"official":"Ilhas Åland","common":"Alândia"},"rus":{"official":"Аландские острова","common":"Аландские острова"},"spa":{"official":"Islas Åland","common":"Alandia"},"fin":{"official":"Ahvenanmaan maakunta","common":"Ahvenanmaa"}},"latlng":[60.116667,19.9],"demonym":"Ålandish","landlocked":false,"borders":[],"area":1580,"codes":{"cca2":"AX","ccn3":"248","cca3":"ALA","cioc":""}}
+{
+  "name": {
+    "common": "Åland Islands",
+    "official": "Åland Islands",
+    "native": {
+      "swe": {
+        "official": "Landskapet Åland",
+        "common": "Åland"
+      }
+    }
+  },
+  "tld": [
+    ".ax"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "358"
+  ],
+  "capital": "Mariehamn",
+  "altSpellings": [
+    "AX",
+    "Aaland",
+    "Aland",
+    "Ahvenanmaa"
+  ],
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "languages": {
+    "swe": "Swedish"
+  },
+  "translations": {
+    "deu": {
+      "official": "Åland-Inseln",
+      "common": "Åland"
+    },
+    "fra": {
+      "official": "Ahvenanmaa",
+      "common": "Ahvenanmaa"
+    },
+    "hrv": {
+      "official": "Aland Islands",
+      "common": "Ålandski otoci"
+    },
+    "ita": {
+      "official": "Isole Åland",
+      "common": "Isole Aland"
+    },
+    "jpn": {
+      "official": "オーランド諸島",
+      "common": "オーランド諸島"
+    },
+    "nld": {
+      "official": "Åland eilanden",
+      "common": "Ålandeilanden"
+    },
+    "por": {
+      "official": "Ilhas Åland",
+      "common": "Alândia"
+    },
+    "rus": {
+      "official": "Аландские острова",
+      "common": "Аландские острова"
+    },
+    "spa": {
+      "official": "Islas Åland",
+      "common": "Alandia"
+    },
+    "fin": {
+      "official": "Ahvenanmaan maakunta",
+      "common": "Ahvenanmaa"
+    }
+  },
+  "latlng": [
+    60.116667,
+    19.9
+  ],
+  "demonym": "Ålandish",
+  "landlocked": false,
+  "borders": [],
+  "area": 1580,
+  "codes": {
+    "cca2": "AX",
+    "ccn3": "248",
+    "cca3": "ALA",
+    "cioc": ""
+  }
+}

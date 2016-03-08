@@ -1,1 +1,223 @@
-{"name":{"common":"Uruguay","official":"Oriental Republic of Uruguay","native":{"spa":{"official":"República Oriental del Uruguay","common":"Uruguay"}}},"altSpellings":["UY","Oriental Republic of Uruguay","República Oriental del Uruguay"],"area":181034,"borders":["ARG","BRA"],"capital":"Montevideo","demonym":"Uruguayan","flag":"","geoJSON":{"type":"FeatureCollection","features":[{"type":"Feature","id":"URY","properties":{"name":"Uruguay"},"geometry":{"type":"Polygon","coordinates":[[[-57.625133,-30.216295],[-56.976026,-30.109686],[-55.973245,-30.883076],[-55.60151,-30.853879],[-54.572452,-31.494511],[-53.787952,-32.047243],[-53.209589,-32.727666],[-53.650544,-33.202004],[-53.373662,-33.768378],[-53.806426,-34.396815],[-54.935866,-34.952647],[-55.67409,-34.752659],[-56.215297,-34.859836],[-57.139685,-34.430456],[-57.817861,-34.462547],[-58.427074,-33.909454],[-58.349611,-33.263189],[-58.132648,-33.040567],[-58.14244,-32.044504],[-57.874937,-31.016556],[-57.625133,-30.216295]]]}}]},"languages":{"spa":"Spanish"},"latlng":[-33,-56],"nativeName":"Uruguay","population":3404189,"provinces":["Artigas","Canelones","Cerro Largo","Colonia","Durazno","Flores","Florida","Lavalleja","Maldonado","Montevideo","Paysandu","Rio Negro","Rivera","Rocha","Salto","San Jose","Soriano","Tacuarembo","Treinta y Tres"],"region":"Americas","subregion":"South America","timezones":["UTC−03:00"],"tld":[".uy"],"translations":{"deu":{"official":"Republik Östlich des Uruguay","common":"Uruguay"},"fra":{"official":"République orientale de l'Uruguay","common":"Uruguay"},"hrv":{"official":"Orijentalna Republika Urugvaj","common":"Urugvaj"},"ita":{"official":"Repubblica Orientale dell'Uruguay","common":"Uruguay"},"jpn":{"official":"ウルグアイ東方共和国","common":"ウルグアイ"},"nld":{"official":"Oosterse Republiek Uruguay","common":"Uruguay"},"por":{"official":"República Oriental do Uruguai","common":"Uruguai"},"rus":{"official":"Восточной Республики Уругвай","common":"Уругвай"},"spa":{"official":"República Oriental del Uruguay","common":"Uruguay"},"fin":{"official":"Uruguayn itäinen tasavalta","common":"Uruguay"}},"wiki":"http://en.wikipedia.org/wiki/uruguay","currency":["UYI","UYU"],"callingCode":["598"],"landlocked":false,"codes":{"cca2":"UY","ccn3":"858","cca3":"URY","cioc":"URU"}}
+{
+  "name": {
+    "common": "Uruguay",
+    "official": "Oriental Republic of Uruguay",
+    "native": {
+      "spa": {
+        "official": "República Oriental del Uruguay",
+        "common": "Uruguay"
+      }
+    }
+  },
+  "altSpellings": [
+    "UY",
+    "Oriental Republic of Uruguay",
+    "República Oriental del Uruguay"
+  ],
+  "area": 181034,
+  "borders": [
+    "ARG",
+    "BRA"
+  ],
+  "capital": "Montevideo",
+  "demonym": "Uruguayan",
+  "flag": "",
+  "geoJSON": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "URY",
+        "properties": {
+          "name": "Uruguay"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -57.625133,
+                -30.216295
+              ],
+              [
+                -56.976026,
+                -30.109686
+              ],
+              [
+                -55.973245,
+                -30.883076
+              ],
+              [
+                -55.60151,
+                -30.853879
+              ],
+              [
+                -54.572452,
+                -31.494511
+              ],
+              [
+                -53.787952,
+                -32.047243
+              ],
+              [
+                -53.209589,
+                -32.727666
+              ],
+              [
+                -53.650544,
+                -33.202004
+              ],
+              [
+                -53.373662,
+                -33.768378
+              ],
+              [
+                -53.806426,
+                -34.396815
+              ],
+              [
+                -54.935866,
+                -34.952647
+              ],
+              [
+                -55.67409,
+                -34.752659
+              ],
+              [
+                -56.215297,
+                -34.859836
+              ],
+              [
+                -57.139685,
+                -34.430456
+              ],
+              [
+                -57.817861,
+                -34.462547
+              ],
+              [
+                -58.427074,
+                -33.909454
+              ],
+              [
+                -58.349611,
+                -33.263189
+              ],
+              [
+                -58.132648,
+                -33.040567
+              ],
+              [
+                -58.14244,
+                -32.044504
+              ],
+              [
+                -57.874937,
+                -31.016556
+              ],
+              [
+                -57.625133,
+                -30.216295
+              ]
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  "languages": {
+    "spa": "Spanish"
+  },
+  "latlng": [
+    -33,
+    -56
+  ],
+  "nativeName": "Uruguay",
+  "population": 3404189,
+  "provinces": [
+    "Artigas",
+    "Canelones",
+    "Cerro Largo",
+    "Colonia",
+    "Durazno",
+    "Flores",
+    "Florida",
+    "Lavalleja",
+    "Maldonado",
+    "Montevideo",
+    "Paysandu",
+    "Rio Negro",
+    "Rivera",
+    "Rocha",
+    "Salto",
+    "San Jose",
+    "Soriano",
+    "Tacuarembo",
+    "Treinta y Tres"
+  ],
+  "region": "Americas",
+  "subregion": "South America",
+  "timezones": [
+    "UTC−03:00"
+  ],
+  "tld": [
+    ".uy"
+  ],
+  "translations": {
+    "deu": {
+      "official": "Republik Östlich des Uruguay",
+      "common": "Uruguay"
+    },
+    "fra": {
+      "official": "République orientale de l'Uruguay",
+      "common": "Uruguay"
+    },
+    "hrv": {
+      "official": "Orijentalna Republika Urugvaj",
+      "common": "Urugvaj"
+    },
+    "ita": {
+      "official": "Repubblica Orientale dell'Uruguay",
+      "common": "Uruguay"
+    },
+    "jpn": {
+      "official": "ウルグアイ東方共和国",
+      "common": "ウルグアイ"
+    },
+    "nld": {
+      "official": "Oosterse Republiek Uruguay",
+      "common": "Uruguay"
+    },
+    "por": {
+      "official": "República Oriental do Uruguai",
+      "common": "Uruguai"
+    },
+    "rus": {
+      "official": "Восточной Республики Уругвай",
+      "common": "Уругвай"
+    },
+    "spa": {
+      "official": "República Oriental del Uruguay",
+      "common": "Uruguay"
+    },
+    "fin": {
+      "official": "Uruguayn itäinen tasavalta",
+      "common": "Uruguay"
+    }
+  },
+  "wiki": "http://en.wikipedia.org/wiki/uruguay",
+  "currency": [
+    "UYI",
+    "UYU"
+  ],
+  "callingCode": [
+    "598"
+  ],
+  "landlocked": false,
+  "codes": {
+    "cca2": "UY",
+    "ccn3": "858",
+    "cca3": "URY",
+    "cioc": "URU"
+  }
+}

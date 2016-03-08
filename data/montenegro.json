@@ -1,1 +1,93 @@
-{"name":{"common":"Montenegro","official":"Montenegro","native":{"srp":{"official":"Црна Гора","common":"Црна Гора"}}},"tld":[".me"],"currency":["EUR"],"callingCode":["382"],"capital":"Podgorica","altSpellings":["ME","Crna Gora"],"region":"Europe","subregion":"Southern Europe","languages":{"srp":"Montenegrin"},"translations":{"deu":{"official":"Montenegro","common":"Montenegro"},"fra":{"official":"Monténégro","common":"Monténégro"},"hrv":{"official":"Crna Gora","common":"Crna Gora"},"ita":{"official":"Montenegro","common":"Montenegro"},"jpn":{"official":"モンテネグロ","common":"モンテネグロ"},"nld":{"official":"Montenegro","common":"Montenegro"},"por":{"official":"Montenegro","common":"Montenegro"},"rus":{"official":"Черногория","common":"Черногория"},"spa":{"official":"Montenegro","common":"Montenegro"},"fin":{"official":"Montenegro","common":"Montenegro"}},"latlng":[42.5,19.3],"demonym":"Montenegrin","landlocked":false,"borders":["ALB","BIH","HRV","KOS","SRB"],"area":13812,"codes":{"cca2":"ME","ccn3":"499","cca3":"MNE","cioc":"MNE"}}
+{
+  "name": {
+    "common": "Montenegro",
+    "official": "Montenegro",
+    "native": {
+      "srp": {
+        "official": "Црна Гора",
+        "common": "Црна Гора"
+      }
+    }
+  },
+  "tld": [
+    ".me"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "382"
+  ],
+  "capital": "Podgorica",
+  "altSpellings": [
+    "ME",
+    "Crna Gora"
+  ],
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "languages": {
+    "srp": "Montenegrin"
+  },
+  "translations": {
+    "deu": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "fra": {
+      "official": "Monténégro",
+      "common": "Monténégro"
+    },
+    "hrv": {
+      "official": "Crna Gora",
+      "common": "Crna Gora"
+    },
+    "ita": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "jpn": {
+      "official": "モンテネグロ",
+      "common": "モンテネグロ"
+    },
+    "nld": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "por": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "rus": {
+      "official": "Черногория",
+      "common": "Черногория"
+    },
+    "spa": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    },
+    "fin": {
+      "official": "Montenegro",
+      "common": "Montenegro"
+    }
+  },
+  "latlng": [
+    42.5,
+    19.3
+  ],
+  "demonym": "Montenegrin",
+  "landlocked": false,
+  "borders": [
+    "ALB",
+    "BIH",
+    "HRV",
+    "KOS",
+    "SRB"
+  ],
+  "area": 13812,
+  "codes": {
+    "cca2": "ME",
+    "ccn3": "499",
+    "cca3": "MNE",
+    "cioc": "MNE"
+  }
+}

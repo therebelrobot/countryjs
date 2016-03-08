@@ -1,1 +1,136 @@
-{"name":{"common":"Marshall Islands","official":"Republic of the Marshall Islands","native":{"eng":{"official":"Republic of the Marshall Islands","common":"Marshall Islands"},"mah":{"official":"Republic of the Marshall Islands","common":"M̧ajeļ"}}},"altSpellings":["MH","Republic of the Marshall Islands","Aolepān Aorōkin M̧ajeļ"],"area":181,"borders":[],"capital":"Majuro","demonym":"Marshallese","flag":"","geoJSON":{},"languages":{"eng":"English","mah":"Marshallese"},"latlng":[9,168],"nativeName":"M̧ajeļ","population":56086,"provinces":["Ailinginae","Ailinglaplap","Ailuk","Arno","Aur","Bikar","Bikini","Bokak","Ebon","Enewetak","Erikub","Jabat","Jaluit","Jemo","Kili","Kwajalein","Lae","Lib","Likiep","Majuro","Maloelap","Mejit","Mili","Namorik","Namu","Rongelap","Rongrik","Toke","Ujae","Ujelang","Utirik","Wotho","Wotje"],"region":"Oceania","subregion":"Micronesia","timezones":["UTC+12:00"],"tld":[".mh"],"translations":{"deu":{"official":"Republik der Marshall-Inseln","common":"Marshallinseln"},"fra":{"official":"République des Îles Marshall","common":"Îles Marshall"},"hrv":{"official":"Republika Maršalovi Otoci","common":"Maršalovi Otoci"},"ita":{"official":"Repubblica delle Isole Marshall","common":"Isole Marshall"},"jpn":{"official":"マーシャル諸島共和国","common":"マーシャル諸島"},"nld":{"official":"Republiek van de Marshall-eilanden","common":"Marshalleilanden"},"por":{"official":"República das Ilhas Marshall","common":"Ilhas Marshall"},"rus":{"official":"Республика Маршалловы острова","common":"Маршалловы Острова"},"spa":{"official":"República de las Islas Marshall","common":"Islas Marshall"},"fin":{"official":"Marshallinsaarten tasavalta","common":"Marshallinsaaret"}},"wiki":"http://en.wikipedia.org/wiki/marshall_islands","currency":["USD"],"callingCode":["692"],"landlocked":false,"codes":{"cca2":"MH","ccn3":"584","cca3":"MHL","cioc":"MHL"}}
+{
+  "name": {
+    "common": "Marshall Islands",
+    "official": "Republic of the Marshall Islands",
+    "native": {
+      "eng": {
+        "official": "Republic of the Marshall Islands",
+        "common": "Marshall Islands"
+      },
+      "mah": {
+        "official": "Republic of the Marshall Islands",
+        "common": "M̧ajeļ"
+      }
+    }
+  },
+  "altSpellings": [
+    "MH",
+    "Republic of the Marshall Islands",
+    "Aolepān Aorōkin M̧ajeļ"
+  ],
+  "area": 181,
+  "borders": [],
+  "capital": "Majuro",
+  "demonym": "Marshallese",
+  "flag": "",
+  "geoJSON": {},
+  "languages": {
+    "eng": "English",
+    "mah": "Marshallese"
+  },
+  "latlng": [
+    9,
+    168
+  ],
+  "nativeName": "M̧ajeļ",
+  "population": 56086,
+  "provinces": [
+    "Ailinginae",
+    "Ailinglaplap",
+    "Ailuk",
+    "Arno",
+    "Aur",
+    "Bikar",
+    "Bikini",
+    "Bokak",
+    "Ebon",
+    "Enewetak",
+    "Erikub",
+    "Jabat",
+    "Jaluit",
+    "Jemo",
+    "Kili",
+    "Kwajalein",
+    "Lae",
+    "Lib",
+    "Likiep",
+    "Majuro",
+    "Maloelap",
+    "Mejit",
+    "Mili",
+    "Namorik",
+    "Namu",
+    "Rongelap",
+    "Rongrik",
+    "Toke",
+    "Ujae",
+    "Ujelang",
+    "Utirik",
+    "Wotho",
+    "Wotje"
+  ],
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "timezones": [
+    "UTC+12:00"
+  ],
+  "tld": [
+    ".mh"
+  ],
+  "translations": {
+    "deu": {
+      "official": "Republik der Marshall-Inseln",
+      "common": "Marshallinseln"
+    },
+    "fra": {
+      "official": "République des Îles Marshall",
+      "common": "Îles Marshall"
+    },
+    "hrv": {
+      "official": "Republika Maršalovi Otoci",
+      "common": "Maršalovi Otoci"
+    },
+    "ita": {
+      "official": "Repubblica delle Isole Marshall",
+      "common": "Isole Marshall"
+    },
+    "jpn": {
+      "official": "マーシャル諸島共和国",
+      "common": "マーシャル諸島"
+    },
+    "nld": {
+      "official": "Republiek van de Marshall-eilanden",
+      "common": "Marshalleilanden"
+    },
+    "por": {
+      "official": "República das Ilhas Marshall",
+      "common": "Ilhas Marshall"
+    },
+    "rus": {
+      "official": "Республика Маршалловы острова",
+      "common": "Маршалловы Острова"
+    },
+    "spa": {
+      "official": "República de las Islas Marshall",
+      "common": "Islas Marshall"
+    },
+    "fin": {
+      "official": "Marshallinsaarten tasavalta",
+      "common": "Marshallinsaaret"
+    }
+  },
+  "wiki": "http://en.wikipedia.org/wiki/marshall_islands",
+  "currency": [
+    "USD"
+  ],
+  "callingCode": [
+    "692"
+  ],
+  "landlocked": false,
+  "codes": {
+    "cca2": "MH",
+    "ccn3": "584",
+    "cca3": "MHL",
+    "cioc": "MHL"
+  }
+}

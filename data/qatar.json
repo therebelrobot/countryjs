@@ -1,1 +1,164 @@
-{"name":{"common":"Qatar","official":"State of Qatar","native":{"ara":{"official":"دولة قطر","common":"قطر"}}},"altSpellings":["QA","State of Qatar","Dawlat Qaṭar"],"area":11586,"borders":["SAU"],"capital":"Doha","demonym":"Qatari","flag":"","geoJSON":{"type":"FeatureCollection","features":[{"type":"Feature","id":"QAT","properties":{"name":"Qatar"},"geometry":{"type":"Polygon","coordinates":[[[50.810108,24.754743],[50.743911,25.482424],[51.013352,26.006992],[51.286462,26.114582],[51.589079,25.801113],[51.6067,25.21567],[51.389608,24.627386],[51.112415,24.556331],[50.810108,24.754743]]]}}]},"languages":{"ara":"Arabic"},"latlng":[25.5,51.25],"nativeName":"قطر","population":2269672,"provinces":["Ad Dawhah","Al Ghuwayriyah","Al Jumayliyah","Al Khawr","Al Wakrah","Ar Rayyan","Jarayan al Batinah","Madinat ash Shamal","Umm Salal"],"region":"Asia","subregion":"Western Asia","timezones":["UTC+03:00"],"tld":[".qa","قطر."],"translations":{"deu":{"official":"Staat Katar","common":"Katar"},"fra":{"official":"État du Qatar","common":"Qatar"},"hrv":{"official":"Država Katar","common":"Katar"},"ita":{"official":"Stato del Qatar","common":"Qatar"},"jpn":{"official":"カタール国","common":"カタール"},"nld":{"official":"Staat Qatar","common":"Qatar"},"por":{"official":"Estado do Qatar","common":"Catar"},"rus":{"official":"Государство Катар","common":"Катар"},"spa":{"official":"Estado de Qatar","common":"Catar"},"fin":{"official":"Qatarin valtio","common":"Qatar"}},"wiki":"http://en.wikipedia.org/wiki/qatar","currency":["QAR"],"callingCode":["974"],"landlocked":false,"codes":{"cca2":"QA","ccn3":"634","cca3":"QAT","cioc":"QAT"}}
+{
+  "name": {
+    "common": "Qatar",
+    "official": "State of Qatar",
+    "native": {
+      "ara": {
+        "official": "دولة قطر",
+        "common": "قطر"
+      }
+    }
+  },
+  "altSpellings": [
+    "QA",
+    "State of Qatar",
+    "Dawlat Qaṭar"
+  ],
+  "area": 11586,
+  "borders": [
+    "SAU"
+  ],
+  "capital": "Doha",
+  "demonym": "Qatari",
+  "flag": "",
+  "geoJSON": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "QAT",
+        "properties": {
+          "name": "Qatar"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                50.810108,
+                24.754743
+              ],
+              [
+                50.743911,
+                25.482424
+              ],
+              [
+                51.013352,
+                26.006992
+              ],
+              [
+                51.286462,
+                26.114582
+              ],
+              [
+                51.589079,
+                25.801113
+              ],
+              [
+                51.6067,
+                25.21567
+              ],
+              [
+                51.389608,
+                24.627386
+              ],
+              [
+                51.112415,
+                24.556331
+              ],
+              [
+                50.810108,
+                24.754743
+              ]
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  "languages": {
+    "ara": "Arabic"
+  },
+  "latlng": [
+    25.5,
+    51.25
+  ],
+  "nativeName": "قطر",
+  "population": 2269672,
+  "provinces": [
+    "Ad Dawhah",
+    "Al Ghuwayriyah",
+    "Al Jumayliyah",
+    "Al Khawr",
+    "Al Wakrah",
+    "Ar Rayyan",
+    "Jarayan al Batinah",
+    "Madinat ash Shamal",
+    "Umm Salal"
+  ],
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "timezones": [
+    "UTC+03:00"
+  ],
+  "tld": [
+    ".qa",
+    "قطر."
+  ],
+  "translations": {
+    "deu": {
+      "official": "Staat Katar",
+      "common": "Katar"
+    },
+    "fra": {
+      "official": "État du Qatar",
+      "common": "Qatar"
+    },
+    "hrv": {
+      "official": "Država Katar",
+      "common": "Katar"
+    },
+    "ita": {
+      "official": "Stato del Qatar",
+      "common": "Qatar"
+    },
+    "jpn": {
+      "official": "カタール国",
+      "common": "カタール"
+    },
+    "nld": {
+      "official": "Staat Qatar",
+      "common": "Qatar"
+    },
+    "por": {
+      "official": "Estado do Qatar",
+      "common": "Catar"
+    },
+    "rus": {
+      "official": "Государство Катар",
+      "common": "Катар"
+    },
+    "spa": {
+      "official": "Estado de Qatar",
+      "common": "Catar"
+    },
+    "fin": {
+      "official": "Qatarin valtio",
+      "common": "Qatar"
+    }
+  },
+  "wiki": "http://en.wikipedia.org/wiki/qatar",
+  "currency": [
+    "QAR"
+  ],
+  "callingCode": [
+    "974"
+  ],
+  "landlocked": false,
+  "codes": {
+    "cca2": "QA",
+    "ccn3": "634",
+    "cca3": "QAT",
+    "cioc": "QAT"
+  }
+}

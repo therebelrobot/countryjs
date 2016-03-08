@@ -1,1 +1,231 @@
-{"name":{"common":"Fiji","official":"Republic of Fiji","native":{"eng":{"official":"Republic of Fiji","common":"Fiji"},"fij":{"official":"Matanitu Tugalala o Viti","common":"Viti"},"hif":{"official":"रिपब्लिक ऑफ फीजी","common":"फिजी"}}},"altSpellings":["FJ","Viti","Republic of Fiji","Matanitu ko Viti","Fijī Gaṇarājya"],"area":18272,"borders":[],"capital":"Suva","demonym":"Fijian","flag":"","geoJSON":{"type":"FeatureCollection","features":[{"type":"Feature","id":"FJI","properties":{"name":"Fiji"},"geometry":{"type":"MultiPolygon","coordinates":[[[[178.3736,-17.33992],[178.71806,-17.62846],[178.55271,-18.15059],[177.93266,-18.28799],[177.38146,-18.16432],[177.28504,-17.72465],[177.67087,-17.38114],[178.12557,-17.50481],[178.3736,-17.33992]]],[[[179.364143,-16.801354],[178.725059,-17.012042],[178.596839,-16.63915],[179.096609,-16.433984],[179.413509,-16.379054],[180,-16.067133],[180,-16.555217],[179.364143,-16.801354]]],[[[-179.917369,-16.501783],[-180,-16.555217],[-180,-16.067133],[-179.79332,-16.020882],[-179.917369,-16.501783]]]]}}]},"languages":{"eng":"English","fij":"Fijian","hif":"Fiji Hindi"},"latlng":[-18,175],"nativeName":"Fiji","population":859178,"provinces":["Central","Eastern","Northern","Rotuma","Western"],"region":"Oceania","subregion":"Melanesia","timezones":["UTC+12:00"],"tld":[".fj"],"translations":{"deu":{"official":"Republik Fidschi","common":"Fidschi"},"fra":{"official":"République des Fidji","common":"Fidji"},"hrv":{"official":"Republika Fidži","common":"Fiđi"},"ita":{"official":"Repubblica di Figi","common":"Figi"},"jpn":{"official":"フィジー共和国","common":"フィジー"},"nld":{"official":"Republiek Fiji","common":"Fiji"},"por":{"official":"República de Fiji","common":"Fiji"},"rus":{"official":"Республика Фиджи","common":"Фиджи"},"spa":{"official":"República de Fiji","common":"Fiyi"},"fin":{"official":"Fidžin tasavalta","common":"Fidži"}},"wiki":"http://en.wikipedia.org/wiki/fiji","currency":["FJD"],"callingCode":["679"],"landlocked":false,"codes":{"cca2":"FJ","ccn3":"242","cca3":"FJI","cioc":"FIJ"}}
+{
+  "name": {
+    "common": "Fiji",
+    "official": "Republic of Fiji",
+    "native": {
+      "eng": {
+        "official": "Republic of Fiji",
+        "common": "Fiji"
+      },
+      "fij": {
+        "official": "Matanitu Tugalala o Viti",
+        "common": "Viti"
+      },
+      "hif": {
+        "official": "रिपब्लिक ऑफ फीजी",
+        "common": "फिजी"
+      }
+    }
+  },
+  "altSpellings": [
+    "FJ",
+    "Viti",
+    "Republic of Fiji",
+    "Matanitu ko Viti",
+    "Fijī Gaṇarājya"
+  ],
+  "area": 18272,
+  "borders": [],
+  "capital": "Suva",
+  "demonym": "Fijian",
+  "flag": "",
+  "geoJSON": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "FJI",
+        "properties": {
+          "name": "Fiji"
+        },
+        "geometry": {
+          "type": "MultiPolygon",
+          "coordinates": [
+            [
+              [
+                [
+                  178.3736,
+                  -17.33992
+                ],
+                [
+                  178.71806,
+                  -17.62846
+                ],
+                [
+                  178.55271,
+                  -18.15059
+                ],
+                [
+                  177.93266,
+                  -18.28799
+                ],
+                [
+                  177.38146,
+                  -18.16432
+                ],
+                [
+                  177.28504,
+                  -17.72465
+                ],
+                [
+                  177.67087,
+                  -17.38114
+                ],
+                [
+                  178.12557,
+                  -17.50481
+                ],
+                [
+                  178.3736,
+                  -17.33992
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  179.364143,
+                  -16.801354
+                ],
+                [
+                  178.725059,
+                  -17.012042
+                ],
+                [
+                  178.596839,
+                  -16.63915
+                ],
+                [
+                  179.096609,
+                  -16.433984
+                ],
+                [
+                  179.413509,
+                  -16.379054
+                ],
+                [
+                  180,
+                  -16.067133
+                ],
+                [
+                  180,
+                  -16.555217
+                ],
+                [
+                  179.364143,
+                  -16.801354
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  -179.917369,
+                  -16.501783
+                ],
+                [
+                  -180,
+                  -16.555217
+                ],
+                [
+                  -180,
+                  -16.067133
+                ],
+                [
+                  -179.79332,
+                  -16.020882
+                ],
+                [
+                  -179.917369,
+                  -16.501783
+                ]
+              ]
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  "languages": {
+    "eng": "English",
+    "fij": "Fijian",
+    "hif": "Fiji Hindi"
+  },
+  "latlng": [
+    -18,
+    175
+  ],
+  "nativeName": "Fiji",
+  "population": 859178,
+  "provinces": [
+    "Central",
+    "Eastern",
+    "Northern",
+    "Rotuma",
+    "Western"
+  ],
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "timezones": [
+    "UTC+12:00"
+  ],
+  "tld": [
+    ".fj"
+  ],
+  "translations": {
+    "deu": {
+      "official": "Republik Fidschi",
+      "common": "Fidschi"
+    },
+    "fra": {
+      "official": "République des Fidji",
+      "common": "Fidji"
+    },
+    "hrv": {
+      "official": "Republika Fidži",
+      "common": "Fiđi"
+    },
+    "ita": {
+      "official": "Repubblica di Figi",
+      "common": "Figi"
+    },
+    "jpn": {
+      "official": "フィジー共和国",
+      "common": "フィジー"
+    },
+    "nld": {
+      "official": "Republiek Fiji",
+      "common": "Fiji"
+    },
+    "por": {
+      "official": "República de Fiji",
+      "common": "Fiji"
+    },
+    "rus": {
+      "official": "Республика Фиджи",
+      "common": "Фиджи"
+    },
+    "spa": {
+      "official": "República de Fiji",
+      "common": "Fiyi"
+    },
+    "fin": {
+      "official": "Fidžin tasavalta",
+      "common": "Fidži"
+    }
+  },
+  "wiki": "http://en.wikipedia.org/wiki/fiji",
+  "currency": [
+    "FJD"
+  ],
+  "callingCode": [
+    "679"
+  ],
+  "landlocked": false,
+  "codes": {
+    "cca2": "FJ",
+    "ccn3": "242",
+    "cca3": "FJI",
+    "cioc": "FIJ"
+  }
+}

@@ -1,1 +1,119 @@
-{"name":{"common":"Nauru","official":"Republic of Nauru","native":{"eng":{"official":"Republic of Nauru","common":"Nauru"},"nau":{"official":"Republic of Nauru","common":"Nauru"}}},"altSpellings":["NR","Naoero","Pleasant Island","Republic of Nauru","Ripublik Naoero"],"area":21,"borders":[],"capital":"Yaren","demonym":"Nauruan","flag":"","geoJSON":{},"languages":{"eng":"English","nau":"Nauru"},"latlng":[-0.53333333,166.91666666],"nativeName":"Nauru","population":10084,"provinces":["Aiwo","Anabar","Anetan","Anibare","Baiti","Boe","Buada","Denigomodu","Ewa","Ijuw","Meneng","Nibok","Uaboe","Yaren"],"region":"Oceania","subregion":"Micronesia","timezones":["UTC+12:00"],"tld":[".nr"],"translations":{"deu":{"official":"Republik Nauru","common":"Nauru"},"fra":{"official":"République de Nauru","common":"Nauru"},"hrv":{"official":"Republika Nauru","common":"Nauru"},"ita":{"official":"Repubblica di Nauru","common":"Nauru"},"jpn":{"official":"ナウル共和国","common":"ナウル"},"nld":{"official":"Republiek Nauru","common":"Nauru"},"por":{"official":"República de Nauru","common":"Nauru"},"rus":{"official":"Республика Науру","common":"Науру"},"spa":{"official":"República de Nauru","common":"Nauru"},"fin":{"official":"Naurun tasavalta","common":"Nauru"}},"wiki":"http://en.wikipedia.org/wiki/nauru","currency":["AUD"],"callingCode":["674"],"landlocked":false,"codes":{"cca2":"NR","ccn3":"520","cca3":"NRU","cioc":"NRU"}}
+{
+  "name": {
+    "common": "Nauru",
+    "official": "Republic of Nauru",
+    "native": {
+      "eng": {
+        "official": "Republic of Nauru",
+        "common": "Nauru"
+      },
+      "nau": {
+        "official": "Republic of Nauru",
+        "common": "Nauru"
+      }
+    }
+  },
+  "altSpellings": [
+    "NR",
+    "Naoero",
+    "Pleasant Island",
+    "Republic of Nauru",
+    "Ripublik Naoero"
+  ],
+  "area": 21,
+  "borders": [],
+  "capital": "Yaren",
+  "demonym": "Nauruan",
+  "flag": "",
+  "geoJSON": {},
+  "languages": {
+    "eng": "English",
+    "nau": "Nauru"
+  },
+  "latlng": [
+    -0.53333333,
+    166.91666666
+  ],
+  "nativeName": "Nauru",
+  "population": 10084,
+  "provinces": [
+    "Aiwo",
+    "Anabar",
+    "Anetan",
+    "Anibare",
+    "Baiti",
+    "Boe",
+    "Buada",
+    "Denigomodu",
+    "Ewa",
+    "Ijuw",
+    "Meneng",
+    "Nibok",
+    "Uaboe",
+    "Yaren"
+  ],
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "timezones": [
+    "UTC+12:00"
+  ],
+  "tld": [
+    ".nr"
+  ],
+  "translations": {
+    "deu": {
+      "official": "Republik Nauru",
+      "common": "Nauru"
+    },
+    "fra": {
+      "official": "République de Nauru",
+      "common": "Nauru"
+    },
+    "hrv": {
+      "official": "Republika Nauru",
+      "common": "Nauru"
+    },
+    "ita": {
+      "official": "Repubblica di Nauru",
+      "common": "Nauru"
+    },
+    "jpn": {
+      "official": "ナウル共和国",
+      "common": "ナウル"
+    },
+    "nld": {
+      "official": "Republiek Nauru",
+      "common": "Nauru"
+    },
+    "por": {
+      "official": "República de Nauru",
+      "common": "Nauru"
+    },
+    "rus": {
+      "official": "Республика Науру",
+      "common": "Науру"
+    },
+    "spa": {
+      "official": "República de Nauru",
+      "common": "Nauru"
+    },
+    "fin": {
+      "official": "Naurun tasavalta",
+      "common": "Nauru"
+    }
+  },
+  "wiki": "http://en.wikipedia.org/wiki/nauru",
+  "currency": [
+    "AUD"
+  ],
+  "callingCode": [
+    "674"
+  ],
+  "landlocked": false,
+  "codes": {
+    "cca2": "NR",
+    "ccn3": "520",
+    "cca3": "NRU",
+    "cioc": "NRU"
+  }
+}

@@ -1,1 +1,87 @@
-{"name":{"common":"United States Virgin Islands","official":"Virgin Islands of the United States","native":{"eng":{"official":"Virgin Islands of the United States","common":"United States Virgin Islands"}}},"tld":[".vi"],"currency":["USD"],"callingCode":["1340"],"capital":"Charlotte Amalie","altSpellings":["VI","Virgin Islands, U.S."],"region":"Americas","subregion":"Caribbean","languages":{"eng":"English"},"translations":{"deu":{"official":"Jungferninseln der Vereinigten Staaten","common":"Amerikanische Jungferninseln"},"fra":{"official":"Îles Vierges des États-Unis","common":"Îles Vierges des États-Unis"},"hrv":{"official":"Djevičanski Otoci SAD","common":"Američki Djevičanski Otoci"},"ita":{"official":"Isole Vergini degli Stati Uniti","common":"Isole Vergini americane"},"jpn":{"official":"米国のバージン諸島","common":"アメリカ領ヴァージン諸島"},"nld":{"official":"Maagdeneilanden van de Verenigde Staten","common":"Amerikaanse Maagdeneilanden"},"por":{"official":"Ilhas Virgens dos Estados Unidos","common":"Ilhas Virgens dos Estados Unidos"},"rus":{"official":"Виргинские острова Соединенных Штатов","common":"Виргинские Острова"},"spa":{"official":"Islas Vírgenes de los Estados Unidos","common":"Islas Vírgenes de los Estados Unidos"},"fin":{"official":"Yhdysvaltain Neitsytsaaret","common":"Neitsytsaaret"}},"latlng":[18.35,-64.933333],"demonym":"Virgin Islander","landlocked":false,"borders":[],"area":347,"codes":{"cca2":"VI","ccn3":"850","cca3":"VIR","cioc":"ISV"}}
+{
+  "name": {
+    "common": "United States Virgin Islands",
+    "official": "Virgin Islands of the United States",
+    "native": {
+      "eng": {
+        "official": "Virgin Islands of the United States",
+        "common": "United States Virgin Islands"
+      }
+    }
+  },
+  "tld": [
+    ".vi"
+  ],
+  "currency": [
+    "USD"
+  ],
+  "callingCode": [
+    "1340"
+  ],
+  "capital": "Charlotte Amalie",
+  "altSpellings": [
+    "VI",
+    "Virgin Islands, U.S."
+  ],
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English"
+  },
+  "translations": {
+    "deu": {
+      "official": "Jungferninseln der Vereinigten Staaten",
+      "common": "Amerikanische Jungferninseln"
+    },
+    "fra": {
+      "official": "Îles Vierges des États-Unis",
+      "common": "Îles Vierges des États-Unis"
+    },
+    "hrv": {
+      "official": "Djevičanski Otoci SAD",
+      "common": "Američki Djevičanski Otoci"
+    },
+    "ita": {
+      "official": "Isole Vergini degli Stati Uniti",
+      "common": "Isole Vergini americane"
+    },
+    "jpn": {
+      "official": "米国のバージン諸島",
+      "common": "アメリカ領ヴァージン諸島"
+    },
+    "nld": {
+      "official": "Maagdeneilanden van de Verenigde Staten",
+      "common": "Amerikaanse Maagdeneilanden"
+    },
+    "por": {
+      "official": "Ilhas Virgens dos Estados Unidos",
+      "common": "Ilhas Virgens dos Estados Unidos"
+    },
+    "rus": {
+      "official": "Виргинские острова Соединенных Штатов",
+      "common": "Виргинские Острова"
+    },
+    "spa": {
+      "official": "Islas Vírgenes de los Estados Unidos",
+      "common": "Islas Vírgenes de los Estados Unidos"
+    },
+    "fin": {
+      "official": "Yhdysvaltain Neitsytsaaret",
+      "common": "Neitsytsaaret"
+    }
+  },
+  "latlng": [
+    18.35,
+    -64.933333
+  ],
+  "demonym": "Virgin Islander",
+  "landlocked": false,
+  "borders": [],
+  "area": 347,
+  "codes": {
+    "cca2": "VI",
+    "ccn3": "850",
+    "cca3": "VIR",
+    "cioc": "ISV"
+  }
+}

@@ -1,1 +1,95 @@
-{"name":{"common":"Andorra","official":"Principality of Andorra","native":{"cat":{"official":"Principat d'Andorra","common":"Andorra"}}},"tld":[".ad"],"currency":["EUR"],"callingCode":["376"],"capital":"Andorra la Vella","altSpellings":["AD","Principality of Andorra","Principat d'Andorra"],"region":"Europe","subregion":"Southern Europe","languages":{"cat":"Catalan"},"translations":{"cym":{"official":"Principality of Andorra","common":"Andorra"},"deu":{"official":"Fürstentum Andorra","common":"Andorra"},"fra":{"official":"Principauté d'Andorre","common":"Andorre"},"hrv":{"official":"Kneževina Andora","common":"Andora"},"ita":{"official":"Principato di Andorra","common":"Andorra"},"jpn":{"official":"アンドラ公国","common":"アンドラ"},"nld":{"official":"Prinsdom Andorra","common":"Andorra"},"por":{"official":"Principado de Andorra","common":"Andorra"},"rus":{"official":"Княжество Андорра","common":"Андорра"},"spa":{"official":"Principado de Andorra","common":"Andorra"},"fin":{"official":"Andorran ruhtinaskunta","common":"Andorra"}},"latlng":[42.5,1.5],"demonym":"Andorran","landlocked":true,"borders":["FRA","ESP"],"area":468,"codes":{"cca2":"AD","ccn3":"020","cca3":"AND","cioc":"AND"}}
+{
+  "name": {
+    "common": "Andorra",
+    "official": "Principality of Andorra",
+    "native": {
+      "cat": {
+        "official": "Principat d'Andorra",
+        "common": "Andorra"
+      }
+    }
+  },
+  "tld": [
+    ".ad"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "376"
+  ],
+  "capital": "Andorra la Vella",
+  "altSpellings": [
+    "AD",
+    "Principality of Andorra",
+    "Principat d'Andorra"
+  ],
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "languages": {
+    "cat": "Catalan"
+  },
+  "translations": {
+    "cym": {
+      "official": "Principality of Andorra",
+      "common": "Andorra"
+    },
+    "deu": {
+      "official": "Fürstentum Andorra",
+      "common": "Andorra"
+    },
+    "fra": {
+      "official": "Principauté d'Andorre",
+      "common": "Andorre"
+    },
+    "hrv": {
+      "official": "Kneževina Andora",
+      "common": "Andora"
+    },
+    "ita": {
+      "official": "Principato di Andorra",
+      "common": "Andorra"
+    },
+    "jpn": {
+      "official": "アンドラ公国",
+      "common": "アンドラ"
+    },
+    "nld": {
+      "official": "Prinsdom Andorra",
+      "common": "Andorra"
+    },
+    "por": {
+      "official": "Principado de Andorra",
+      "common": "Andorra"
+    },
+    "rus": {
+      "official": "Княжество Андорра",
+      "common": "Андорра"
+    },
+    "spa": {
+      "official": "Principado de Andorra",
+      "common": "Andorra"
+    },
+    "fin": {
+      "official": "Andorran ruhtinaskunta",
+      "common": "Andorra"
+    }
+  },
+  "latlng": [
+    42.5,
+    1.5
+  ],
+  "demonym": "Andorran",
+  "landlocked": true,
+  "borders": [
+    "FRA",
+    "ESP"
+  ],
+  "area": 468,
+  "codes": {
+    "cca2": "AD",
+    "ccn3": "020",
+    "cca3": "AND",
+    "cioc": "AND"
+  }
+}

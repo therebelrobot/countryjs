@@ -1,1 +1,110 @@
-{"name":{"common":"Northern Mariana Islands","official":"Commonwealth of the Northern Mariana Islands","native":{"cal":{"official":"Commonwealth of the Northern Mariana Islands","common":"Northern Mariana Islands"},"cha":{"official":"Sankattan Siha Na Islas Mariånas","common":"Na Islas Mariånas"},"eng":{"official":"Commonwealth of the Northern Mariana Islands","common":"Northern Mariana Islands"}}},"altSpellings":["MP","Commonwealth of the Northern Mariana Islands","Sankattan Siha Na Islas Mariånas"],"area":464,"borders":[],"capital":"Saipan","demonym":"American","flag":"","geoJSON":{},"languages":{"cal":"Carolinian","cha":"Chamorro","eng":"English"},"latlng":[15.2,145.75],"nativeName":"Northern Mariana Islands","population":53883,"provinces":["Northern Islands","Rota","Saipan","Tinian"],"region":"Oceania","subregion":"Micronesia","timezones":null,"tld":[".mp"],"translations":{"deu":{"official":"Commonwealth der Nördlichen Marianen","common":"Nördliche Marianen"},"fra":{"official":"Commonwealth des îles Mariannes du Nord","common":"Îles Mariannes du Nord"},"hrv":{"official":"Zajednica je Sjeverni Marijanski otoci","common":"Sjevernomarijanski otoci"},"ita":{"official":"Commonwealth delle Isole Marianne Settentrionali","common":"Isole Marianne Settentrionali"},"jpn":{"official":"北マリアナ諸島","common":"北マリアナ諸島"},"nld":{"official":"Commonwealth van de Noordelijke Marianen","common":"Noordelijke Marianeneilanden"},"por":{"official":"Comunidade das Ilhas Marianas do Norte","common":"Marianas Setentrionais"},"rus":{"official":"Содружество Северных Марианских островов","common":"Северные Марианские острова"},"spa":{"official":"Mancomunidad de las Islas Marianas del Norte","common":"Islas Marianas del Norte"},"fin":{"official":"Pohjois-Mariaanit","common":"Pohjois-Mariaanit"}},"wiki":"http://en.wikipedia.org/wiki/northern_mariana_islands","currency":["USD"],"callingCode":["1670"],"landlocked":false,"codes":{"cca2":"MP","ccn3":"580","cca3":"MNP","cioc":""}}
+{
+  "name": {
+    "common": "Northern Mariana Islands",
+    "official": "Commonwealth of the Northern Mariana Islands",
+    "native": {
+      "cal": {
+        "official": "Commonwealth of the Northern Mariana Islands",
+        "common": "Northern Mariana Islands"
+      },
+      "cha": {
+        "official": "Sankattan Siha Na Islas Mariånas",
+        "common": "Na Islas Mariånas"
+      },
+      "eng": {
+        "official": "Commonwealth of the Northern Mariana Islands",
+        "common": "Northern Mariana Islands"
+      }
+    }
+  },
+  "altSpellings": [
+    "MP",
+    "Commonwealth of the Northern Mariana Islands",
+    "Sankattan Siha Na Islas Mariånas"
+  ],
+  "area": 464,
+  "borders": [],
+  "capital": "Saipan",
+  "demonym": "American",
+  "flag": "",
+  "geoJSON": {},
+  "languages": {
+    "cal": "Carolinian",
+    "cha": "Chamorro",
+    "eng": "English"
+  },
+  "latlng": [
+    15.2,
+    145.75
+  ],
+  "nativeName": "Northern Mariana Islands",
+  "population": 53883,
+  "provinces": [
+    "Northern Islands",
+    "Rota",
+    "Saipan",
+    "Tinian"
+  ],
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "timezones": null,
+  "tld": [
+    ".mp"
+  ],
+  "translations": {
+    "deu": {
+      "official": "Commonwealth der Nördlichen Marianen",
+      "common": "Nördliche Marianen"
+    },
+    "fra": {
+      "official": "Commonwealth des îles Mariannes du Nord",
+      "common": "Îles Mariannes du Nord"
+    },
+    "hrv": {
+      "official": "Zajednica je Sjeverni Marijanski otoci",
+      "common": "Sjevernomarijanski otoci"
+    },
+    "ita": {
+      "official": "Commonwealth delle Isole Marianne Settentrionali",
+      "common": "Isole Marianne Settentrionali"
+    },
+    "jpn": {
+      "official": "北マリアナ諸島",
+      "common": "北マリアナ諸島"
+    },
+    "nld": {
+      "official": "Commonwealth van de Noordelijke Marianen",
+      "common": "Noordelijke Marianeneilanden"
+    },
+    "por": {
+      "official": "Comunidade das Ilhas Marianas do Norte",
+      "common": "Marianas Setentrionais"
+    },
+    "rus": {
+      "official": "Содружество Северных Марианских островов",
+      "common": "Северные Марианские острова"
+    },
+    "spa": {
+      "official": "Mancomunidad de las Islas Marianas del Norte",
+      "common": "Islas Marianas del Norte"
+    },
+    "fin": {
+      "official": "Pohjois-Mariaanit",
+      "common": "Pohjois-Mariaanit"
+    }
+  },
+  "wiki": "http://en.wikipedia.org/wiki/northern_mariana_islands",
+  "currency": [
+    "USD"
+  ],
+  "callingCode": [
+    "1670"
+  ],
+  "landlocked": false,
+  "codes": {
+    "cca2": "MP",
+    "ccn3": "580",
+    "cca3": "MNP",
+    "cioc": ""
+  }
+}

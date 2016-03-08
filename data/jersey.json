@@ -1,1 +1,108 @@
-{"name":{"common":"Jersey","official":"Bailiwick of Jersey","native":{"eng":{"official":"Bailiwick of Jersey","common":"Jersey"},"fra":{"official":"Bailliage de Jersey","common":"Jersey"},"nrf":{"official":"Bailliage dé Jèrri","common":"Jèrri"}}},"altSpellings":["JE","Bailiwick of Jersey","Bailliage de Jersey","Bailliage dé Jèrri"],"area":116,"borders":[],"capital":"Saint Helier","demonym":"Channel Islander","flag":"","geoJSON":{},"languages":{"eng":"English","fra":"French","nrf":"Jèrriais"},"latlng":[49.25,-2.16666666],"nativeName":"Jersey","population":99000,"provinces":["Jersey"],"region":"Europe","subregion":"Northern Europe","timezones":null,"tld":[".je"],"translations":{"deu":{"official":"Vogtei Jersey","common":"Jersey"},"fra":{"official":"Bailliage de Jersey","common":"Jersey"},"hrv":{"official":"Struka od Jersey","common":"Jersey"},"ita":{"official":"Baliato di Jersey","common":"Isola di Jersey"},"jpn":{"official":"ジャージの得意分野","common":"ジャージー"},"nld":{"official":"Baljuwschap Jersey","common":"Jersey"},"por":{"official":"Bailiado de Jersey","common":"Jersey"},"rus":{"official":"Коронное владение Джерси","common":"Джерси"},"spa":{"official":"Bailía de Jersey","common":"Jersey"},"fin":{"official":"Jersey","common":"Jersey"}},"wiki":"http://en.wikipedia.org/wiki/jersey","currency":["GBP"],"callingCode":["44"],"landlocked":false,"codes":{"cca2":"JE","ccn3":"832","cca3":"JEY","cioc":""}}
+{
+  "name": {
+    "common": "Jersey",
+    "official": "Bailiwick of Jersey",
+    "native": {
+      "eng": {
+        "official": "Bailiwick of Jersey",
+        "common": "Jersey"
+      },
+      "fra": {
+        "official": "Bailliage de Jersey",
+        "common": "Jersey"
+      },
+      "nrf": {
+        "official": "Bailliage dé Jèrri",
+        "common": "Jèrri"
+      }
+    }
+  },
+  "altSpellings": [
+    "JE",
+    "Bailiwick of Jersey",
+    "Bailliage de Jersey",
+    "Bailliage dé Jèrri"
+  ],
+  "area": 116,
+  "borders": [],
+  "capital": "Saint Helier",
+  "demonym": "Channel Islander",
+  "flag": "",
+  "geoJSON": {},
+  "languages": {
+    "eng": "English",
+    "fra": "French",
+    "nrf": "Jèrriais"
+  },
+  "latlng": [
+    49.25,
+    -2.16666666
+  ],
+  "nativeName": "Jersey",
+  "population": 99000,
+  "provinces": [
+    "Jersey"
+  ],
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "timezones": null,
+  "tld": [
+    ".je"
+  ],
+  "translations": {
+    "deu": {
+      "official": "Vogtei Jersey",
+      "common": "Jersey"
+    },
+    "fra": {
+      "official": "Bailliage de Jersey",
+      "common": "Jersey"
+    },
+    "hrv": {
+      "official": "Struka od Jersey",
+      "common": "Jersey"
+    },
+    "ita": {
+      "official": "Baliato di Jersey",
+      "common": "Isola di Jersey"
+    },
+    "jpn": {
+      "official": "ジャージの得意分野",
+      "common": "ジャージー"
+    },
+    "nld": {
+      "official": "Baljuwschap Jersey",
+      "common": "Jersey"
+    },
+    "por": {
+      "official": "Bailiado de Jersey",
+      "common": "Jersey"
+    },
+    "rus": {
+      "official": "Коронное владение Джерси",
+      "common": "Джерси"
+    },
+    "spa": {
+      "official": "Bailía de Jersey",
+      "common": "Jersey"
+    },
+    "fin": {
+      "official": "Jersey",
+      "common": "Jersey"
+    }
+  },
+  "wiki": "http://en.wikipedia.org/wiki/jersey",
+  "currency": [
+    "GBP"
+  ],
+  "callingCode": [
+    "44"
+  ],
+  "landlocked": false,
+  "codes": {
+    "cca2": "JE",
+    "ccn3": "832",
+    "cca3": "JEY",
+    "cioc": ""
+  }
+}

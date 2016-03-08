@@ -1,1 +1,114 @@
-{"name":{"common":"Samoa","official":"Independent State of Samoa","native":{"eng":{"official":"Independent State of Samoa","common":"Samoa"},"smo":{"official":"Malo Saʻoloto Tutoʻatasi o Sāmoa","common":"Sāmoa"}}},"altSpellings":["WS","Independent State of Samoa","Malo Saʻoloto Tutoʻatasi o Sāmoa"],"area":2842,"borders":[],"capital":"Apia","demonym":"Samoan","flag":"","geoJSON":{},"languages":{"eng":"English","smo":"Samoan"},"latlng":[-13.58333333,-172.33333333],"nativeName":"Samoa","population":187820,"provinces":["A'ana","Aiga-i-le-Tai","Atua","Fa'asaleleaga","Gaga'emauga","Gagaifomauga","Palauli","Satupa'itea","Tuamasaga","Va'a-o-Fonoti","Vaisigano"],"region":"Oceania","subregion":"Polynesia","timezones":["UTC+13:00"],"tld":[".ws"],"translations":{"deu":{"official":"Unabhängige Staat Samoa","common":"Samoa"},"fra":{"official":"Samoa","common":"Samoa"},"hrv":{"official":"Nezavisna Država Samoa","common":"Samoa"},"ita":{"official":"Stato indipendente di Samoa","common":"Samoa"},"jpn":{"official":"サモア独立国","common":"サモア"},"nld":{"official":"Onafhankelijke Staat Samoa","common":"Samoa"},"por":{"official":"Estado Independente de Samoa","common":"Samoa"},"rus":{"official":"Независимое Государство Самоа","common":"Самоа"},"spa":{"official":"Estado Independiente de Samoa","common":"Samoa"},"fin":{"official":"Samoan itsenäinen valtio","common":"Samoa"}},"wiki":"http://en.wikipedia.org/wiki/samoa","currency":["WST"],"callingCode":["685"],"landlocked":false,"codes":{"cca2":"WS","ccn3":"882","cca3":"WSM","cioc":"SAM"}}
+{
+  "name": {
+    "common": "Samoa",
+    "official": "Independent State of Samoa",
+    "native": {
+      "eng": {
+        "official": "Independent State of Samoa",
+        "common": "Samoa"
+      },
+      "smo": {
+        "official": "Malo Saʻoloto Tutoʻatasi o Sāmoa",
+        "common": "Sāmoa"
+      }
+    }
+  },
+  "altSpellings": [
+    "WS",
+    "Independent State of Samoa",
+    "Malo Saʻoloto Tutoʻatasi o Sāmoa"
+  ],
+  "area": 2842,
+  "borders": [],
+  "capital": "Apia",
+  "demonym": "Samoan",
+  "flag": "",
+  "geoJSON": {},
+  "languages": {
+    "eng": "English",
+    "smo": "Samoan"
+  },
+  "latlng": [
+    -13.58333333,
+    -172.33333333
+  ],
+  "nativeName": "Samoa",
+  "population": 187820,
+  "provinces": [
+    "A'ana",
+    "Aiga-i-le-Tai",
+    "Atua",
+    "Fa'asaleleaga",
+    "Gaga'emauga",
+    "Gagaifomauga",
+    "Palauli",
+    "Satupa'itea",
+    "Tuamasaga",
+    "Va'a-o-Fonoti",
+    "Vaisigano"
+  ],
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "timezones": [
+    "UTC+13:00"
+  ],
+  "tld": [
+    ".ws"
+  ],
+  "translations": {
+    "deu": {
+      "official": "Unabhängige Staat Samoa",
+      "common": "Samoa"
+    },
+    "fra": {
+      "official": "Samoa",
+      "common": "Samoa"
+    },
+    "hrv": {
+      "official": "Nezavisna Država Samoa",
+      "common": "Samoa"
+    },
+    "ita": {
+      "official": "Stato indipendente di Samoa",
+      "common": "Samoa"
+    },
+    "jpn": {
+      "official": "サモア独立国",
+      "common": "サモア"
+    },
+    "nld": {
+      "official": "Onafhankelijke Staat Samoa",
+      "common": "Samoa"
+    },
+    "por": {
+      "official": "Estado Independente de Samoa",
+      "common": "Samoa"
+    },
+    "rus": {
+      "official": "Независимое Государство Самоа",
+      "common": "Самоа"
+    },
+    "spa": {
+      "official": "Estado Independiente de Samoa",
+      "common": "Samoa"
+    },
+    "fin": {
+      "official": "Samoan itsenäinen valtio",
+      "common": "Samoa"
+    }
+  },
+  "wiki": "http://en.wikipedia.org/wiki/samoa",
+  "currency": [
+    "WST"
+  ],
+  "callingCode": [
+    "685"
+  ],
+  "landlocked": false,
+  "codes": {
+    "cca2": "WS",
+    "ccn3": "882",
+    "cca3": "WSM",
+    "cioc": "SAM"
+  }
+}

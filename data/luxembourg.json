@@ -1,1 +1,163 @@
-{"name":{"common":"Luxembourg","official":"Grand Duchy of Luxembourg","native":{"deu":{"official":"Großherzogtum Luxemburg","common":"Luxemburg"},"fra":{"official":"Grand-Duché de Luxembourg","common":"Luxembourg"},"ltz":{"official":"Groussherzogtum Lëtzebuerg","common":"Lëtzebuerg"}}},"altSpellings":["LU","Grand Duchy of Luxembourg","Grand-Duché de Luxembourg","Großherzogtum Luxemburg","Groussherzogtum Lëtzebuerg"],"area":2586,"borders":["BEL","FRA","DEU"],"capital":"Luxembourg","demonym":"Luxembourger","flag":"","geoJSON":{"type":"FeatureCollection","features":[{"type":"Feature","id":"LUX","properties":{"name":"Luxembourg"},"geometry":{"type":"Polygon","coordinates":[[[6.043073,50.128052],[6.242751,49.902226],[6.18632,49.463803],[5.897759,49.442667],[5.674052,49.529484],[5.782417,50.090328],[6.043073,50.128052]]]}}]},"languages":{"deu":"German","fra":"French","ltz":"Luxembourgish"},"latlng":[49.75,6.16666666],"nativeName":"Luxembourg","population":549700,"provinces":["Diekirch","Grevenmacher","Luxembourg"],"region":"Europe","subregion":"Western Europe","timezones":["UTC+01:00"],"tld":[".lu"],"translations":{"deu":{"official":"Großherzogtum Luxemburg,","common":"Luxemburg"},"fra":{"official":"Grand-Duché de Luxembourg","common":"Luxembourg"},"hrv":{"official":"Veliko Vojvodstvo Luksemburg","common":"Luksemburg"},"ita":{"official":"Granducato di Lussemburgo","common":"Lussemburgo"},"jpn":{"official":"ルクセンブルク大公国","common":"ルクセンブルク"},"nld":{"official":"Groothertogdom Luxemburg","common":"Luxemburg"},"por":{"official":"Grão-Ducado do Luxemburgo","common":"Luxemburgo"},"rus":{"official":"Великое Герцогство Люксембург","common":"Люксембург"},"spa":{"official":"Gran Ducado de Luxemburgo","common":"Luxemburgo"},"fin":{"official":"Luxemburgin suurherttuakunta","common":"Luxemburg"}},"wiki":"http://en.wikipedia.org/wiki/luxembourg","currency":["EUR"],"callingCode":["352"],"landlocked":true,"codes":{"cca2":"LU","ccn3":"442","cca3":"LUX","cioc":"LUX"}}
+{
+  "name": {
+    "common": "Luxembourg",
+    "official": "Grand Duchy of Luxembourg",
+    "native": {
+      "deu": {
+        "official": "Großherzogtum Luxemburg",
+        "common": "Luxemburg"
+      },
+      "fra": {
+        "official": "Grand-Duché de Luxembourg",
+        "common": "Luxembourg"
+      },
+      "ltz": {
+        "official": "Groussherzogtum Lëtzebuerg",
+        "common": "Lëtzebuerg"
+      }
+    }
+  },
+  "altSpellings": [
+    "LU",
+    "Grand Duchy of Luxembourg",
+    "Grand-Duché de Luxembourg",
+    "Großherzogtum Luxemburg",
+    "Groussherzogtum Lëtzebuerg"
+  ],
+  "area": 2586,
+  "borders": [
+    "BEL",
+    "FRA",
+    "DEU"
+  ],
+  "capital": "Luxembourg",
+  "demonym": "Luxembourger",
+  "flag": "",
+  "geoJSON": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "LUX",
+        "properties": {
+          "name": "Luxembourg"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                6.043073,
+                50.128052
+              ],
+              [
+                6.242751,
+                49.902226
+              ],
+              [
+                6.18632,
+                49.463803
+              ],
+              [
+                5.897759,
+                49.442667
+              ],
+              [
+                5.674052,
+                49.529484
+              ],
+              [
+                5.782417,
+                50.090328
+              ],
+              [
+                6.043073,
+                50.128052
+              ]
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  "languages": {
+    "deu": "German",
+    "fra": "French",
+    "ltz": "Luxembourgish"
+  },
+  "latlng": [
+    49.75,
+    6.16666666
+  ],
+  "nativeName": "Luxembourg",
+  "population": 549700,
+  "provinces": [
+    "Diekirch",
+    "Grevenmacher",
+    "Luxembourg"
+  ],
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "timezones": [
+    "UTC+01:00"
+  ],
+  "tld": [
+    ".lu"
+  ],
+  "translations": {
+    "deu": {
+      "official": "Großherzogtum Luxemburg,",
+      "common": "Luxemburg"
+    },
+    "fra": {
+      "official": "Grand-Duché de Luxembourg",
+      "common": "Luxembourg"
+    },
+    "hrv": {
+      "official": "Veliko Vojvodstvo Luksemburg",
+      "common": "Luksemburg"
+    },
+    "ita": {
+      "official": "Granducato di Lussemburgo",
+      "common": "Lussemburgo"
+    },
+    "jpn": {
+      "official": "ルクセンブルク大公国",
+      "common": "ルクセンブルク"
+    },
+    "nld": {
+      "official": "Groothertogdom Luxemburg",
+      "common": "Luxemburg"
+    },
+    "por": {
+      "official": "Grão-Ducado do Luxemburgo",
+      "common": "Luxemburgo"
+    },
+    "rus": {
+      "official": "Великое Герцогство Люксембург",
+      "common": "Люксембург"
+    },
+    "spa": {
+      "official": "Gran Ducado de Luxemburgo",
+      "common": "Luxemburgo"
+    },
+    "fin": {
+      "official": "Luxemburgin suurherttuakunta",
+      "common": "Luxemburg"
+    }
+  },
+  "wiki": "http://en.wikipedia.org/wiki/luxembourg",
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "352"
+  ],
+  "landlocked": true,
+  "codes": {
+    "cca2": "LU",
+    "ccn3": "442",
+    "cca3": "LUX",
+    "cioc": "LUX"
+  }
+}

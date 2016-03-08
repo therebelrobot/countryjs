@@ -1,1 +1,106 @@
-{"name":{"common":"Guam","official":"Guam","native":{"cha":{"official":"Guåhån","common":"Guåhån"},"eng":{"official":"Guam","common":"Guam"},"spa":{"official":"Guam","common":"Guam"}}},"altSpellings":["GU","Guåhån"],"area":549,"borders":[],"capital":"Hagåtña","demonym":"Guamanian","flag":"","geoJSON":{},"languages":{"cha":"Chamorro","eng":"English","spa":"Spanish"},"latlng":[13.46666666,144.78333333],"nativeName":"Guam","population":159358,"provinces":["Guam"],"region":"Oceania","subregion":"Micronesia","timezones":null,"tld":[".gu"],"translations":{"deu":{"official":"Guam","common":"Guam"},"fra":{"official":"Guam","common":"Guam"},"hrv":{"official":"Guam","common":"Guam"},"ita":{"official":"Guam","common":"Guam"},"jpn":{"official":"グアム","common":"グアム"},"nld":{"official":"Guam","common":"Guam"},"por":{"official":"Guam","common":"Guam"},"rus":{"official":"Гуам","common":"Гуам"},"spa":{"official":"Guam","common":"Guam"},"fin":{"official":"Guam","common":"Guam"}},"wiki":"http://en.wikipedia.org/wiki/guam","currency":["USD"],"callingCode":["1671"],"landlocked":false,"codes":{"cca2":"GU","ccn3":"316","cca3":"GUM","cioc":"GUM"}}
+{
+  "name": {
+    "common": "Guam",
+    "official": "Guam",
+    "native": {
+      "cha": {
+        "official": "Guåhån",
+        "common": "Guåhån"
+      },
+      "eng": {
+        "official": "Guam",
+        "common": "Guam"
+      },
+      "spa": {
+        "official": "Guam",
+        "common": "Guam"
+      }
+    }
+  },
+  "altSpellings": [
+    "GU",
+    "Guåhån"
+  ],
+  "area": 549,
+  "borders": [],
+  "capital": "Hagåtña",
+  "demonym": "Guamanian",
+  "flag": "",
+  "geoJSON": {},
+  "languages": {
+    "cha": "Chamorro",
+    "eng": "English",
+    "spa": "Spanish"
+  },
+  "latlng": [
+    13.46666666,
+    144.78333333
+  ],
+  "nativeName": "Guam",
+  "population": 159358,
+  "provinces": [
+    "Guam"
+  ],
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "timezones": null,
+  "tld": [
+    ".gu"
+  ],
+  "translations": {
+    "deu": {
+      "official": "Guam",
+      "common": "Guam"
+    },
+    "fra": {
+      "official": "Guam",
+      "common": "Guam"
+    },
+    "hrv": {
+      "official": "Guam",
+      "common": "Guam"
+    },
+    "ita": {
+      "official": "Guam",
+      "common": "Guam"
+    },
+    "jpn": {
+      "official": "グアム",
+      "common": "グアム"
+    },
+    "nld": {
+      "official": "Guam",
+      "common": "Guam"
+    },
+    "por": {
+      "official": "Guam",
+      "common": "Guam"
+    },
+    "rus": {
+      "official": "Гуам",
+      "common": "Гуам"
+    },
+    "spa": {
+      "official": "Guam",
+      "common": "Guam"
+    },
+    "fin": {
+      "official": "Guam",
+      "common": "Guam"
+    }
+  },
+  "wiki": "http://en.wikipedia.org/wiki/guam",
+  "currency": [
+    "USD"
+  ],
+  "callingCode": [
+    "1671"
+  ],
+  "landlocked": false,
+  "codes": {
+    "cca2": "GU",
+    "ccn3": "316",
+    "cca3": "GUM",
+    "cioc": "GUM"
+  }
+}

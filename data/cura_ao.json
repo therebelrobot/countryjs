@@ -1,1 +1,85 @@
-{"name":{"common":"Curaçao","official":"Country of Curaçao","native":{"eng":{"official":"Country of Curaçao","common":"Curaçao"},"nld":{"official":"Land Curaçao","common":"Curaçao"},"pap":{"official":"Pais Kòrsou","common":"Pais Kòrsou"}}},"tld":[".cw"],"currency":["ANG"],"callingCode":["5999"],"capital":"Willemstad","altSpellings":["CW","Curacao","Kòrsou","Country of Curaçao","Land Curaçao","Pais Kòrsou"],"region":"Americas","subregion":"Caribbean","languages":{"eng":"English","nld":"Dutch","pap":"Papiamento"},"translations":{"fra":{"official":"Curaçao","common":"Curaçao"},"nld":{"official":"Land Curaçao","common":"Curaçao"},"por":{"official":"País de Curaçao","common":"ilha da Curação"},"rus":{"official":"Страна Кюрасао","common":"Кюрасао"},"spa":{"official":"País de Curazao","common":"Curazao"},"fin":{"official":"Curaçao","common":"Curaçao"}},"latlng":[12.116667,-68.933333],"demonym":"Dutch","landlocked":false,"borders":[],"area":444,"codes":{"cca2":"CW","ccn3":"531","cca3":"CUW","cioc":""}}
+{
+  "name": {
+    "common": "Curaçao",
+    "official": "Country of Curaçao",
+    "native": {
+      "eng": {
+        "official": "Country of Curaçao",
+        "common": "Curaçao"
+      },
+      "nld": {
+        "official": "Land Curaçao",
+        "common": "Curaçao"
+      },
+      "pap": {
+        "official": "Pais Kòrsou",
+        "common": "Pais Kòrsou"
+      }
+    }
+  },
+  "tld": [
+    ".cw"
+  ],
+  "currency": [
+    "ANG"
+  ],
+  "callingCode": [
+    "5999"
+  ],
+  "capital": "Willemstad",
+  "altSpellings": [
+    "CW",
+    "Curacao",
+    "Kòrsou",
+    "Country of Curaçao",
+    "Land Curaçao",
+    "Pais Kòrsou"
+  ],
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English",
+    "nld": "Dutch",
+    "pap": "Papiamento"
+  },
+  "translations": {
+    "fra": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    },
+    "nld": {
+      "official": "Land Curaçao",
+      "common": "Curaçao"
+    },
+    "por": {
+      "official": "País de Curaçao",
+      "common": "ilha da Curação"
+    },
+    "rus": {
+      "official": "Страна Кюрасао",
+      "common": "Кюрасао"
+    },
+    "spa": {
+      "official": "País de Curazao",
+      "common": "Curazao"
+    },
+    "fin": {
+      "official": "Curaçao",
+      "common": "Curaçao"
+    }
+  },
+  "latlng": [
+    12.116667,
+    -68.933333
+  ],
+  "demonym": "Dutch",
+  "landlocked": false,
+  "borders": [],
+  "area": 444,
+  "codes": {
+    "cca2": "CW",
+    "ccn3": "531",
+    "cca3": "CUW",
+    "cioc": ""
+  }
+}

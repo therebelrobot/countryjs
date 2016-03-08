@@ -1,1 +1,99 @@
-{"name":{"common":"British Virgin Islands","official":"Virgin Islands","native":{"eng":{"official":"Virgin Islands","common":"British Virgin Islands"}}},"altSpellings":["VG","Virgin Islands, British"],"area":151,"borders":[],"capital":"Road Town","demonym":"Virgin Islander","flag":"","geoJSON":{},"languages":{"eng":"English"},"latlng":[18.431383,-64.62305],"nativeName":"British Indian Ocean Territory","population":3000,"provinces":["Anegada","Jost Van Dyke","Tortola","Virgin Gorda"],"region":"Americas","subregion":"Caribbean","timezones":null,"tld":[".vg"],"translations":{"deu":{"official":"Jungferninseln","common":"Britische Jungferninseln"},"fra":{"official":"îles Vierges","common":"Îles Vierges britanniques"},"hrv":{"official":"Djevičanski Otoci","common":"Britanski Djevičanski Otoci"},"ita":{"official":"Isole Vergini","common":"Isole Vergini Britanniche"},"jpn":{"official":"バージン諸島","common":"イギリス領ヴァージン諸島"},"nld":{"official":"Maagdeneilanden","common":"Britse Maagdeneilanden"},"por":{"official":"Ilhas Virgens","common":"Ilhas Virgens"},"rus":{"official":"Виргинские острова","common":"Британские Виргинские острова"},"spa":{"official":"Islas Vírgenes","common":"Islas Vírgenes del Reino Unido"},"fin":{"official":"Brittiläiset Neitsytsaaret","common":"Neitsytsaaret"}},"wiki":"http://en.wikipedia.org/wiki/british_virgin_islands","currency":["USD"],"callingCode":["1284"],"landlocked":false,"codes":{"cca2":"VG","ccn3":"092","cca3":"VGB","cioc":"IVB"}}
+{
+  "name": {
+    "common": "British Virgin Islands",
+    "official": "Virgin Islands",
+    "native": {
+      "eng": {
+        "official": "Virgin Islands",
+        "common": "British Virgin Islands"
+      }
+    }
+  },
+  "altSpellings": [
+    "VG",
+    "Virgin Islands, British"
+  ],
+  "area": 151,
+  "borders": [],
+  "capital": "Road Town",
+  "demonym": "Virgin Islander",
+  "flag": "",
+  "geoJSON": {},
+  "languages": {
+    "eng": "English"
+  },
+  "latlng": [
+    18.431383,
+    -64.62305
+  ],
+  "nativeName": "British Indian Ocean Territory",
+  "population": 3000,
+  "provinces": [
+    "Anegada",
+    "Jost Van Dyke",
+    "Tortola",
+    "Virgin Gorda"
+  ],
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "timezones": null,
+  "tld": [
+    ".vg"
+  ],
+  "translations": {
+    "deu": {
+      "official": "Jungferninseln",
+      "common": "Britische Jungferninseln"
+    },
+    "fra": {
+      "official": "îles Vierges",
+      "common": "Îles Vierges britanniques"
+    },
+    "hrv": {
+      "official": "Djevičanski Otoci",
+      "common": "Britanski Djevičanski Otoci"
+    },
+    "ita": {
+      "official": "Isole Vergini",
+      "common": "Isole Vergini Britanniche"
+    },
+    "jpn": {
+      "official": "バージン諸島",
+      "common": "イギリス領ヴァージン諸島"
+    },
+    "nld": {
+      "official": "Maagdeneilanden",
+      "common": "Britse Maagdeneilanden"
+    },
+    "por": {
+      "official": "Ilhas Virgens",
+      "common": "Ilhas Virgens"
+    },
+    "rus": {
+      "official": "Виргинские острова",
+      "common": "Британские Виргинские острова"
+    },
+    "spa": {
+      "official": "Islas Vírgenes",
+      "common": "Islas Vírgenes del Reino Unido"
+    },
+    "fin": {
+      "official": "Brittiläiset Neitsytsaaret",
+      "common": "Neitsytsaaret"
+    }
+  },
+  "wiki": "http://en.wikipedia.org/wiki/british_virgin_islands",
+  "currency": [
+    "USD"
+  ],
+  "callingCode": [
+    "1284"
+  ],
+  "landlocked": false,
+  "codes": {
+    "cca2": "VG",
+    "ccn3": "092",
+    "cca3": "VGB",
+    "cioc": "IVB"
+  }
+}

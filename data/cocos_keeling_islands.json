@@ -1,1 +1,106 @@
-{"name":{"common":"Cocos (Keeling) Islands","official":"Territory of the Cocos (Keeling) Islands","native":{"eng":{"official":"Territory of the Cocos (Keeling) Islands","common":"Cocos (Keeling) Islands"}}},"altSpellings":["CC","Territory of the Cocos (Keeling) Islands","Keeling Islands"],"area":14,"borders":[],"capital":"West Island","demonym":"Cocos Islander","flag":"","geoJSON":{},"languages":{"eng":"English"},"latlng":[-12.5,96.83333333],"nativeName":"Cocos (Keeling) Islands","population":550,"provinces":["Direction Island","Home Island","Horsburgh Island","North Keeling Island","South Island","West Island"],"region":"Oceania","subregion":"Australia and New Zealand","timezones":null,"tld":[".cc"],"translations":{"cym":{"official":"Territory of the Cocos (Keeling) Islands","common":"Ynysoedd Cocos"},"deu":{"official":"Gebiet der Cocos (Keeling) Islands","common":"Kokosinseln"},"fra":{"official":"Territoire des îles Cocos (Keeling)","common":"Îles Cocos"},"hrv":{"official":"Teritoriju Kokosovi (Keeling) Islands","common":"Kokosovi Otoci"},"ita":{"official":"Territorio della (Keeling) Isole Cocos","common":"Isole Cocos e Keeling"},"jpn":{"official":"ココス諸島の領土","common":"ココス（キーリング）諸島"},"nld":{"official":"Grondgebied van de Eilanden Cocos (Keeling )","common":"Cocoseilanden"},"por":{"official":"Território dos Cocos (Keeling)","common":"Ilhas Cocos (Keeling)"},"rus":{"official":"Территория Кокосовые (Килинг) острова","common":"Кокосовые острова"},"spa":{"official":"Territorio de los (Keeling) Islas Cocos","common":"Islas Cocos o Islas Keeling"},"fin":{"official":"Kookossaaret","common":"Kookossaaret"}},"wiki":"http://en.wikipedia.org/wiki/cocos_keeling_islands","currency":["AUD"],"callingCode":["61"],"landlocked":false,"codes":{"cca2":"CC","ccn3":"166","cca3":"CCK","cioc":""}}
+{
+  "name": {
+    "common": "Cocos (Keeling) Islands",
+    "official": "Territory of the Cocos (Keeling) Islands",
+    "native": {
+      "eng": {
+        "official": "Territory of the Cocos (Keeling) Islands",
+        "common": "Cocos (Keeling) Islands"
+      }
+    }
+  },
+  "altSpellings": [
+    "CC",
+    "Territory of the Cocos (Keeling) Islands",
+    "Keeling Islands"
+  ],
+  "area": 14,
+  "borders": [],
+  "capital": "West Island",
+  "demonym": "Cocos Islander",
+  "flag": "",
+  "geoJSON": {},
+  "languages": {
+    "eng": "English"
+  },
+  "latlng": [
+    -12.5,
+    96.83333333
+  ],
+  "nativeName": "Cocos (Keeling) Islands",
+  "population": 550,
+  "provinces": [
+    "Direction Island",
+    "Home Island",
+    "Horsburgh Island",
+    "North Keeling Island",
+    "South Island",
+    "West Island"
+  ],
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "timezones": null,
+  "tld": [
+    ".cc"
+  ],
+  "translations": {
+    "cym": {
+      "official": "Territory of the Cocos (Keeling) Islands",
+      "common": "Ynysoedd Cocos"
+    },
+    "deu": {
+      "official": "Gebiet der Cocos (Keeling) Islands",
+      "common": "Kokosinseln"
+    },
+    "fra": {
+      "official": "Territoire des îles Cocos (Keeling)",
+      "common": "Îles Cocos"
+    },
+    "hrv": {
+      "official": "Teritoriju Kokosovi (Keeling) Islands",
+      "common": "Kokosovi Otoci"
+    },
+    "ita": {
+      "official": "Territorio della (Keeling) Isole Cocos",
+      "common": "Isole Cocos e Keeling"
+    },
+    "jpn": {
+      "official": "ココス諸島の領土",
+      "common": "ココス（キーリング）諸島"
+    },
+    "nld": {
+      "official": "Grondgebied van de Eilanden Cocos (Keeling )",
+      "common": "Cocoseilanden"
+    },
+    "por": {
+      "official": "Território dos Cocos (Keeling)",
+      "common": "Ilhas Cocos (Keeling)"
+    },
+    "rus": {
+      "official": "Территория Кокосовые (Килинг) острова",
+      "common": "Кокосовые острова"
+    },
+    "spa": {
+      "official": "Territorio de los (Keeling) Islas Cocos",
+      "common": "Islas Cocos o Islas Keeling"
+    },
+    "fin": {
+      "official": "Kookossaaret",
+      "common": "Kookossaaret"
+    }
+  },
+  "wiki": "http://en.wikipedia.org/wiki/cocos_keeling_islands",
+  "currency": [
+    "AUD"
+  ],
+  "callingCode": [
+    "61"
+  ],
+  "landlocked": false,
+  "codes": {
+    "cca2": "CC",
+    "ccn3": "166",
+    "cca3": "CCK",
+    "cioc": ""
+  }
+}
