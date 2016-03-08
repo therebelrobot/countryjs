@@ -16,6 +16,7 @@ A Node.js module for returning data about countries, ISO info and states/provinc
 
 * [Install](#install)
   * [Using with browserify](#browserify)
+* [Usage](#usage)
 * [API](#api)
   * [`.info()`](#info)
   * [`.states()`](#states)
@@ -71,6 +72,14 @@ var bundle = browserify({
   global: true
 })
 ```
+
+## Usage
+
+To access one of the country properties available, you'll need to use one of the API methods listed below and pass a country in either way:
+
+- Using the ISO-alpha2 code: `country.population('US', 'ISO2')` or `country.area('JP')` (defaults)
+- Using the ISO-alpha3 code: `country.capital('GBR', 'ISO3)`
+- Using the country name: `country.wiki('france', 'name')`. The matching is case-insensitive, against the native name, alternative spellings and available transalations.
 
 ## API
 
@@ -473,9 +482,10 @@ Please note that if your code updates do not pass JS Standard style, mocha tests
 
 ### Contributors
 
-* Trent Oswald <a href="mailto:trentoswald@therebelrobot.com">trentoswald@therebelrobot.com</a> - [/therebelrobot](http://github.com/therebelrobot) - [therebelrobot.com](http://therebelrobot.com)
-* Scott Hillman <a href="mailto:hillmanov@gmail.com">hillmanov@gmail.com</a> - [/hillmanov](http://github.com/hillmanov)
-* Michael Scott Hertzberg <a href="mailto:mshertzberg@gmail.com">mshertzberg@gmail.com</a> - [/moimikey](http://github.com/moimonkey) - [michael.hertzberg.co](http://michael.hertzberg.co)
+* Trent Oswald <a href="mailto:trentoswald@therebelrobot.com">trentoswald@therebelrobot.com</a> - [/therebelrobot](https://github.com/therebelrobot) - [therebelrobot.com](http://therebelrobot.com)
+* Scott Hillman <a href="mailto:hillmanov@gmail.com">hillmanov@gmail.com</a> - [/hillmanov](https://github.com/hillmanov)
+* Michael Scott Hertzberg <a href="mailto:mshertzberg@gmail.com">mshertzberg@gmail.com</a> - [/moimikey](https://github.com/moimonkey) - [michael.hertzberg.co](http://michael.hertzberg.co)
+* Loris Guignard <a href="mailto:loris.guignard@gmail.com">loris.guignard@gmail.com</a> - [/loris](https://github.com/loris)
 
 ## Changelog
 
@@ -545,6 +555,3 @@ IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR 
 INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF
 THIS SOFTWARE.
-
-
-
