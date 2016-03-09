@@ -1,5 +1,11 @@
 #!/usr/bin/env node
 
+/*
+  This builds the country data off of mledoze/countries - https://github.com/mledoze/countries
+  Licensed under ODbL - https://tldrlegal.com/license/odc-open-database-license-(odbl)
+  as well as original data for provinces/states
+*/
+
 var request = require('unirest')
 var _ = require('lodash')
 var str2snake = require('to-snake-case')
