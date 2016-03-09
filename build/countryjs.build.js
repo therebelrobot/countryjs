@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 
 var request = require('unirest')
-var through2 = require('through2')
 var _ = require('lodash')
 var str2snake = require('to-snake-case')
 var path = require('path')
@@ -15,34 +14,33 @@ request.get('https://raw.githubusercontent.com/mledoze/countries/master/dist/cou
     _readCountries(data)
   })
 
-function _readCountries(countries){
-  _.forEach(countries, function(country){
+function _readCountries (countries) {
+  _.forEach(countries, function (country) {
     var name = country.name.common
     var filename = str2snake(name)
     console.log(filename)
-    try{
+    try {
       var fullPath = path.resolve(process.cwd(), './legacy_data/' + filename + '.json')
       var file = fs.statSync(fullPath)
       var isFile = file.isFile()
       if (isFile) {
-        console.log('File exists!', name,filename,fullPath)
+        console.log('File exists!', name, filename, fullPath)
         var data = JSON.parse(fs.readFileSync(fullPath).toString())
         _buildCountry(filename, country, data)
+      } else {
+        console.error('File doesnt exist!', name, filename, fullPath)
       }
-      else {
-        console.error('File doesnt exist!',name,filename,fullPath)
-      }
-    } catch(e){
-      console.error('File doesnt exist!',name,filename)
+    } catch(e) {
+      console.error('File doesnt exist!', name, filename)
       _buildCountry(filename, country)
     }
   })
 }
 
-function _buildCountry(filename, newData, oldData){
+function _buildCountry (filename, newData, oldData) {
   oldData = oldData || {}
   // console.log(filename, newData, oldData)
-  _.forEach(newData, function(value, key){
+  _.forEach(newData, function (value, key) {
     oldData[key] = value
   })
   delete oldData.currencies
@@ -57,7 +55,7 @@ function _buildCountry(filename, newData, oldData){
   delete oldData.ccn3
   delete oldData.cca3
   delete oldData.cioc
-  console.log(filename,oldData)
+  console.log(filename, oldData)
   var stringDataToWrite = JSON.stringify(oldData, null, 2)
   var fullPath = path.resolve(process.cwd(), './data/' + filename + '.json')
   fs.writeFileSync(fullPath, stringDataToWrite)
