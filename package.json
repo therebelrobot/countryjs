@@ -16,9 +16,9 @@
     "node"
   ],
   "scripts": {
-    "pretest": "./node_modules/standard/bin/cmd.js",
-    "test": "./node_modules/istanbul/lib/cli.js cover _mocha --",
-    "build": "node build/countryjs.build.js"
+    "pretest": "standard",
+    "test": "istanbul cover _mocha --",
+    "build": "node build/countryjs.build.js && browserify -e index.js -s countryjs -o dist/country.js"
   },
   "keywords": [
     "country",
@@ -38,6 +38,8 @@
     "lodash": "^4.2.1"
   },
   "devDependencies": {
+    "browserify": "^13.0.0",
+    "bulkify": "^1.1.1",
     "chai": "^2.1.0",
     "istanbul": "^0.3.7",
     "mocha": "^2.1.0",
@@ -45,5 +47,10 @@
     "through2": "^2.0.0",
     "to-snake-case": "^0.1.2",
     "unirest": "^0.4.2"
+  },
+  "browserify": {
+    "transform": [
+      "bulkify"
+    ]
   }
 }
