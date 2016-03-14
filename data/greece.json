@@ -9,22 +9,142 @@
       }
     }
   },
+  "tld": [
+    ".gr"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "30"
+  ],
+  "capital": "Athens",
   "altSpellings": [
     "GR",
     "Elláda",
     "Hellenic Republic",
     "Ελληνική Δημοκρατία"
   ],
-  "area": 131990,
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "languages": {
+    "ell": "Greek"
+  },
+  "translations": {
+    "deu": {
+      "official": "Hellenische Republik",
+      "common": "Griechenland"
+    },
+    "fra": {
+      "official": "République hellénique",
+      "common": "Grèce"
+    },
+    "hrv": {
+      "official": "Helenska Republika",
+      "common": "Grčka"
+    },
+    "ita": {
+      "official": "Repubblica ellenica",
+      "common": "Grecia"
+    },
+    "jpn": {
+      "official": "ギリシャ共和国",
+      "common": "ギリシャ"
+    },
+    "nld": {
+      "official": "Helleense Republiek",
+      "common": "Griekenland"
+    },
+    "por": {
+      "official": "República Helénica",
+      "common": "Grécia"
+    },
+    "rus": {
+      "official": "Греческая Республика",
+      "common": "Греция"
+    },
+    "spa": {
+      "official": "República Helénica",
+      "common": "Grecia"
+    },
+    "fin": {
+      "official": "Helleenien tasavalta",
+      "common": "Kreikka"
+    }
+  },
+  "latlng": [
+    39,
+    22
+  ],
+  "demonym": "Greek",
+  "landlocked": false,
   "borders": [
     "ALB",
     "BGR",
     "TUR",
     "MKD"
   ],
-  "capital": "Athens",
-  "demonym": "Greek",
-  "flag": "",
+  "area": 131990,
+  "codes": {
+    "cca2": "GR",
+    "ccn3": "300",
+    "cca3": "GRC",
+    "cioc": "GRE"
+  },
+  "provinces": [
+    "Aitolia kai Akarnania",
+    "Akhaia",
+    "Argolis",
+    "Arkadhia",
+    "Arta",
+    "Attiki",
+    "Ayion Oros (Mt. Athos)",
+    "Dhodhekanisos",
+    "Drama",
+    "Evritania",
+    "Evros",
+    "Evvoia",
+    "Florina",
+    "Fokis",
+    "Fthiotis",
+    "Grevena",
+    "Ilia",
+    "Imathia",
+    "Ioannina",
+    "Irakleion",
+    "Kardhitsa",
+    "Kastoria",
+    "Kavala",
+    "Kefallinia",
+    "Kerkyra",
+    "Khalkidhiki",
+    "Khania",
+    "Khios",
+    "Kikladhes",
+    "Kilkis",
+    "Korinthia",
+    "Kozani",
+    "Lakonia",
+    "Larisa",
+    "Lasithi",
+    "Lesvos",
+    "Levkas",
+    "Magnisia",
+    "Messinia",
+    "Pella",
+    "Pieria",
+    "Preveza",
+    "Rethimni",
+    "Rodhopi",
+    "Samos",
+    "Serrai",
+    "Thesprotia",
+    "Thessaloniki",
+    "Trikala",
+    "Voiotia",
+    "Xanthi",
+    "Zakinthos"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -266,131 +386,5 @@
       }
     ]
   },
-  "languages": {
-    "ell": "Greek"
-  },
-  "latlng": [
-    39,
-    22
-  ],
-  "nativeName": "Ελλάδα",
-  "population": 10992589,
-  "provinces": [
-    "Aitolia kai Akarnania",
-    "Akhaia",
-    "Argolis",
-    "Arkadhia",
-    "Arta",
-    "Attiki",
-    "Ayion Oros (Mt. Athos)",
-    "Dhodhekanisos",
-    "Drama",
-    "Evritania",
-    "Evros",
-    "Evvoia",
-    "Florina",
-    "Fokis",
-    "Fthiotis",
-    "Grevena",
-    "Ilia",
-    "Imathia",
-    "Ioannina",
-    "Irakleion",
-    "Kardhitsa",
-    "Kastoria",
-    "Kavala",
-    "Kefallinia",
-    "Kerkyra",
-    "Khalkidhiki",
-    "Khania",
-    "Khios",
-    "Kikladhes",
-    "Kilkis",
-    "Korinthia",
-    "Kozani",
-    "Lakonia",
-    "Larisa",
-    "Lasithi",
-    "Lesvos",
-    "Levkas",
-    "Magnisia",
-    "Messinia",
-    "Pella",
-    "Pieria",
-    "Preveza",
-    "Rethimni",
-    "Rodhopi",
-    "Samos",
-    "Serrai",
-    "Thesprotia",
-    "Thessaloniki",
-    "Trikala",
-    "Voiotia",
-    "Xanthi",
-    "Zakinthos"
-  ],
-  "region": "Europe",
-  "subregion": "Southern Europe",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "tld": [
-    ".gr"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Hellenische Republik",
-      "common": "Griechenland"
-    },
-    "fra": {
-      "official": "République hellénique",
-      "common": "Grèce"
-    },
-    "hrv": {
-      "official": "Helenska Republika",
-      "common": "Grčka"
-    },
-    "ita": {
-      "official": "Repubblica ellenica",
-      "common": "Grecia"
-    },
-    "jpn": {
-      "official": "ギリシャ共和国",
-      "common": "ギリシャ"
-    },
-    "nld": {
-      "official": "Helleense Republiek",
-      "common": "Griekenland"
-    },
-    "por": {
-      "official": "República Helénica",
-      "common": "Grécia"
-    },
-    "rus": {
-      "official": "Греческая Республика",
-      "common": "Греция"
-    },
-    "spa": {
-      "official": "República Helénica",
-      "common": "Grecia"
-    },
-    "fin": {
-      "official": "Helleenien tasavalta",
-      "common": "Kreikka"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/greece",
-  "currency": [
-    "EUR"
-  ],
-  "callingCode": [
-    "30"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "GR",
-    "ccn3": "300",
-    "cca3": "GRC",
-    "cioc": "GRE"
-  }
+  "flag": ""
 }

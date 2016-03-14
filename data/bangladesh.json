@@ -9,19 +9,156 @@
       }
     }
   },
+  "tld": [
+    ".bd"
+  ],
+  "currency": [
+    "BDT"
+  ],
+  "callingCode": [
+    "880"
+  ],
+  "capital": "Dhaka",
   "altSpellings": [
     "BD",
     "People's Republic of Bangladesh",
     "Gônôprôjatôntri Bangladesh"
   ],
-  "area": 147570,
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "languages": {
+    "ben": "Bengali"
+  },
+  "translations": {
+    "cym": {
+      "official": "People's Republic of Bangladesh",
+      "common": "Bangladesh"
+    },
+    "deu": {
+      "official": "Volksrepublik Bangladesch",
+      "common": "Bangladesch"
+    },
+    "fra": {
+      "official": "La République populaire du Bangladesh",
+      "common": "Bangladesh"
+    },
+    "hrv": {
+      "official": "Narodna Republika Bangladeš",
+      "common": "Bangladeš"
+    },
+    "ita": {
+      "official": "Repubblica popolare del Bangladesh",
+      "common": "Bangladesh"
+    },
+    "jpn": {
+      "official": "バングラデシュ人民共和国",
+      "common": "バングラデシュ"
+    },
+    "nld": {
+      "official": "Volksrepubliek Bangladesh",
+      "common": "Bangladesh"
+    },
+    "por": {
+      "official": "República Popular do Bangladesh",
+      "common": "Bangladesh"
+    },
+    "rus": {
+      "official": "Народная Республика Бангладеш",
+      "common": "Бангладеш"
+    },
+    "spa": {
+      "official": "República Popular de Bangladesh",
+      "common": "Bangladesh"
+    },
+    "fin": {
+      "official": "Bangladeshin kansantasavalta",
+      "common": "Bangladesh"
+    }
+  },
+  "latlng": [
+    24,
+    90
+  ],
+  "demonym": "Bangladeshi",
+  "landlocked": false,
   "borders": [
     "MMR",
     "IND"
   ],
-  "capital": "Dhaka",
-  "demonym": "Bangladeshi",
-  "flag": "",
+  "area": 147570,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Bangladesh.svg",
+  "codes": {
+    "cca2": "BD",
+    "ccn3": "050",
+    "cca3": "BGD",
+    "cioc": "BAN"
+  },
+  "provinces": [
+    "Barguna",
+    "Barisal",
+    "Bhola",
+    "Jhalokati",
+    "Patuakhali",
+    "Pirojpur",
+    "Bandarban",
+    "Brahmanbaria",
+    "Chandpur",
+    "Chittagong",
+    "Comilla",
+    "Cox's Bazar",
+    "Feni",
+    "Khagrachari",
+    "Lakshmipur",
+    "Noakhali",
+    "Rangamati",
+    "Dhaka",
+    "Faridpur",
+    "Gazipur",
+    "Gopalganj",
+    "Jamalpur",
+    "Kishoreganj",
+    "Madaripur",
+    "Manikganj",
+    "Munshiganj",
+    "Mymensingh",
+    "Narayanganj",
+    "Narsingdi",
+    "Netrokona",
+    "Rajbari",
+    "Shariatpur",
+    "Sherpur",
+    "Tangail",
+    "Bagerhat",
+    "Chuadanga",
+    "Jessore",
+    "Jhenaidah",
+    "Khulna",
+    "Kushtia",
+    "Magura",
+    "Meherpur",
+    "Narail",
+    "Satkhira",
+    "Bogra",
+    "Dinajpur",
+    "Gaibandha",
+    "Jaipurhat",
+    "Kurigram",
+    "Lalmonirhat",
+    "Naogaon",
+    "Natore",
+    "Nawabganj",
+    "Nilphamari",
+    "Pabna",
+    "Panchagarh",
+    "Rajshahi",
+    "Rangpur",
+    "Sirajganj",
+    "Thakurgaon",
+    "Habiganj",
+    "Maulvi bazar",
+    "Sunamganj",
+    "Sylhet"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -184,148 +321,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "ben": "Bengali"
-  },
-  "latlng": [
-    24,
-    90
-  ],
-  "nativeName": "Bangladesh",
-  "population": 157486000,
-  "provinces": [
-    "Barguna",
-    "Barisal",
-    "Bhola",
-    "Jhalokati",
-    "Patuakhali",
-    "Pirojpur",
-    "Bandarban",
-    "Brahmanbaria",
-    "Chandpur",
-    "Chittagong",
-    "Comilla",
-    "Cox's Bazar",
-    "Feni",
-    "Khagrachari",
-    "Lakshmipur",
-    "Noakhali",
-    "Rangamati",
-    "Dhaka",
-    "Faridpur",
-    "Gazipur",
-    "Gopalganj",
-    "Jamalpur",
-    "Kishoreganj",
-    "Madaripur",
-    "Manikganj",
-    "Munshiganj",
-    "Mymensingh",
-    "Narayanganj",
-    "Narsingdi",
-    "Netrokona",
-    "Rajbari",
-    "Shariatpur",
-    "Sherpur",
-    "Tangail",
-    "Bagerhat",
-    "Chuadanga",
-    "Jessore",
-    "Jhenaidah",
-    "Khulna",
-    "Kushtia",
-    "Magura",
-    "Meherpur",
-    "Narail",
-    "Satkhira",
-    "Bogra",
-    "Dinajpur",
-    "Gaibandha",
-    "Jaipurhat",
-    "Kurigram",
-    "Lalmonirhat",
-    "Naogaon",
-    "Natore",
-    "Nawabganj",
-    "Nilphamari",
-    "Pabna",
-    "Panchagarh",
-    "Rajshahi",
-    "Rangpur",
-    "Sirajganj",
-    "Thakurgaon",
-    "Habiganj",
-    "Maulvi bazar",
-    "Sunamganj",
-    "Sylhet"
-  ],
-  "region": "Asia",
-  "subregion": "Southern Asia",
-  "timezones": [
-    "UTC+06:00"
-  ],
-  "tld": [
-    ".bd"
-  ],
-  "translations": {
-    "cym": {
-      "official": "People's Republic of Bangladesh",
-      "common": "Bangladesh"
-    },
-    "deu": {
-      "official": "Volksrepublik Bangladesch",
-      "common": "Bangladesch"
-    },
-    "fra": {
-      "official": "La République populaire du Bangladesh",
-      "common": "Bangladesh"
-    },
-    "hrv": {
-      "official": "Narodna Republika Bangladeš",
-      "common": "Bangladeš"
-    },
-    "ita": {
-      "official": "Repubblica popolare del Bangladesh",
-      "common": "Bangladesh"
-    },
-    "jpn": {
-      "official": "バングラデシュ人民共和国",
-      "common": "バングラデシュ"
-    },
-    "nld": {
-      "official": "Volksrepubliek Bangladesh",
-      "common": "Bangladesh"
-    },
-    "por": {
-      "official": "República Popular do Bangladesh",
-      "common": "Bangladesh"
-    },
-    "rus": {
-      "official": "Народная Республика Бангладеш",
-      "common": "Бангладеш"
-    },
-    "spa": {
-      "official": "República Popular de Bangladesh",
-      "common": "Bangladesh"
-    },
-    "fin": {
-      "official": "Bangladeshin kansantasavalta",
-      "common": "Bangladesh"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/bangladesh",
-  "currency": [
-    "BDT"
-  ],
-  "callingCode": [
-    "880"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "BD",
-    "ccn3": "050",
-    "cca3": "BGD",
-    "cioc": "BAN"
   }
 }

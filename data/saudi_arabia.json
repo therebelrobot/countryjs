@@ -9,13 +9,76 @@
       }
     }
   },
+  "tld": [
+    ".sa",
+    ".السعودية"
+  ],
+  "currency": [
+    "SAR"
+  ],
+  "callingCode": [
+    "966"
+  ],
+  "capital": "Riyadh",
   "altSpellings": [
     "Saudi",
     "SA",
     "Kingdom of Saudi Arabia",
     "Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah"
   ],
-  "area": 2149690,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "ara": "Arabic"
+  },
+  "translations": {
+    "deu": {
+      "official": "Königreich Saudi-Arabien",
+      "common": "Saudi-Arabien"
+    },
+    "fra": {
+      "official": "Royaume d'Arabie Saoudite",
+      "common": "Arabie Saoudite"
+    },
+    "hrv": {
+      "official": "Kraljevina Saudijska Arabija",
+      "common": "Saudijska Arabija"
+    },
+    "ita": {
+      "official": "Arabia Saudita",
+      "common": "Arabia Saudita"
+    },
+    "jpn": {
+      "official": "サウジアラビア王国",
+      "common": "サウジアラビア"
+    },
+    "nld": {
+      "official": "Koninkrijk van Saoedi-Arabië",
+      "common": "Saoedi-Arabië"
+    },
+    "por": {
+      "official": "Reino da Arábia Saudita",
+      "common": "Arábia Saudita"
+    },
+    "rus": {
+      "official": "Королевство Саудовская Аравия",
+      "common": "Саудовская Аравия"
+    },
+    "spa": {
+      "official": "Reino de Arabia Saudita",
+      "common": "Arabia Saudí"
+    },
+    "fin": {
+      "official": "Saudi-Arabian kuningaskunta",
+      "common": "Saudi-Arabia"
+    }
+  },
+  "latlng": [
+    25,
+    45
+  ],
+  "demonym": "Saudi Arabian",
+  "landlocked": false,
   "borders": [
     "IRQ",
     "JOR",
@@ -25,9 +88,28 @@
     "ARE",
     "YEM"
   ],
-  "capital": "Riyadh",
-  "demonym": "Saudi Arabian",
-  "flag": "",
+  "area": 2149690,
+  "codes": {
+    "cca2": "SA",
+    "ccn3": "682",
+    "cca3": "SAU",
+    "cioc": "KSA"
+  },
+  "provinces": [
+    "'Asir",
+    "Al Bahah",
+    "Al Hudud ash Shamaliyah",
+    "Al Jawf",
+    "Al Madinah",
+    "Al Qasim",
+    "Ar Riyad",
+    "Ash Sharqiyah (Eastern Province)",
+    "Ha'il",
+    "Jizan",
+    "Makkah",
+    "Najran",
+    "Tabuk"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -351,93 +433,5 @@
       }
     ]
   },
-  "languages": {
-    "ara": "Arabic"
-  },
-  "latlng": [
-    25,
-    45
-  ],
-  "nativeName": "العربية السعودية",
-  "population": 30770375,
-  "provinces": [
-    "'Asir",
-    "Al Bahah",
-    "Al Hudud ash Shamaliyah",
-    "Al Jawf",
-    "Al Madinah",
-    "Al Qasim",
-    "Ar Riyad",
-    "Ash Sharqiyah (Eastern Province)",
-    "Ha'il",
-    "Jizan",
-    "Makkah",
-    "Najran",
-    "Tabuk"
-  ],
-  "region": "Asia",
-  "subregion": "Western Asia",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "tld": [
-    ".sa",
-    ".السعودية"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Königreich Saudi-Arabien",
-      "common": "Saudi-Arabien"
-    },
-    "fra": {
-      "official": "Royaume d'Arabie Saoudite",
-      "common": "Arabie Saoudite"
-    },
-    "hrv": {
-      "official": "Kraljevina Saudijska Arabija",
-      "common": "Saudijska Arabija"
-    },
-    "ita": {
-      "official": "Arabia Saudita",
-      "common": "Arabia Saudita"
-    },
-    "jpn": {
-      "official": "サウジアラビア王国",
-      "common": "サウジアラビア"
-    },
-    "nld": {
-      "official": "Koninkrijk van Saoedi-Arabië",
-      "common": "Saoedi-Arabië"
-    },
-    "por": {
-      "official": "Reino da Arábia Saudita",
-      "common": "Arábia Saudita"
-    },
-    "rus": {
-      "official": "Королевство Саудовская Аравия",
-      "common": "Саудовская Аравия"
-    },
-    "spa": {
-      "official": "Reino de Arabia Saudita",
-      "common": "Arabia Saudí"
-    },
-    "fin": {
-      "official": "Saudi-Arabian kuningaskunta",
-      "common": "Saudi-Arabia"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/saudi_arabia",
-  "currency": [
-    "SAR"
-  ],
-  "callingCode": [
-    "966"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "SA",
-    "ccn3": "682",
-    "cca3": "SAU",
-    "cioc": "KSA"
-  }
+  "flag": ""
 }

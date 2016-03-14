@@ -17,12 +17,76 @@
       }
     }
   },
+  "tld": [
+    ".it"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "39"
+  ],
+  "capital": "Rome",
   "altSpellings": [
     "IT",
     "Italian Republic",
     "Repubblica italiana"
   ],
-  "area": 301336,
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "languages": {
+    "bar": "Austro-Bavarian German",
+    "ita": "Italian",
+    "srd": "Sardinian"
+  },
+  "translations": {
+    "deu": {
+      "official": "Italienische Republik",
+      "common": "Italien"
+    },
+    "fra": {
+      "official": "République italienne",
+      "common": "Italie"
+    },
+    "hrv": {
+      "official": "talijanska Republika",
+      "common": "Italija"
+    },
+    "ita": {
+      "official": "Repubblica italiana",
+      "common": "Italia"
+    },
+    "jpn": {
+      "official": "イタリア共和国",
+      "common": "イタリア"
+    },
+    "nld": {
+      "official": "Italiaanse Republiek",
+      "common": "Italië"
+    },
+    "por": {
+      "official": "República Italiana",
+      "common": "Itália"
+    },
+    "rus": {
+      "official": "итальянская Республика",
+      "common": "Италия"
+    },
+    "spa": {
+      "official": "República Italiana",
+      "common": "Italia"
+    },
+    "fin": {
+      "official": "Italian tasavalta",
+      "common": "Italia"
+    }
+  },
+  "latlng": [
+    42.83333333,
+    12.83333333
+  ],
+  "demonym": "Italian",
+  "landlocked": false,
   "borders": [
     "AUT",
     "FRA",
@@ -31,9 +95,36 @@
     "CHE",
     "VAT"
   ],
-  "capital": "Rome",
-  "demonym": "Italian",
-  "flag": "",
+  "area": 301336,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Italy.svg",
+  "codes": {
+    "cca2": "IT",
+    "ccn3": "380",
+    "cca3": "ITA",
+    "cioc": "ITA"
+  },
+  "provinces": [
+    "Abruzzo",
+    "Basilicata",
+    "Calabria",
+    "Campania",
+    "Emilia-Romagna",
+    "Friuli-Venezia Giulia",
+    "Lazio",
+    "Liguria",
+    "Lombardia",
+    "Marche",
+    "Molise",
+    "Piemonte",
+    "Puglia",
+    "Sardegna",
+    "Sicilia",
+    "Toscana",
+    "Trentino-Alto Adige",
+    "Umbria",
+    "Valle d'Aosta",
+    "Veneto"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -410,102 +501,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "bar": "Austro-Bavarian German",
-    "ita": "Italian",
-    "srd": "Sardinian"
-  },
-  "latlng": [
-    42.83333333,
-    12.83333333
-  ],
-  "nativeName": "Italia",
-  "population": 60769102,
-  "provinces": [
-    "Abruzzo",
-    "Basilicata",
-    "Calabria",
-    "Campania",
-    "Emilia-Romagna",
-    "Friuli-Venezia Giulia",
-    "Lazio",
-    "Liguria",
-    "Lombardia",
-    "Marche",
-    "Molise",
-    "Piemonte",
-    "Puglia",
-    "Sardegna",
-    "Sicilia",
-    "Toscana",
-    "Trentino-Alto Adige",
-    "Umbria",
-    "Valle d'Aosta",
-    "Veneto"
-  ],
-  "region": "Europe",
-  "subregion": "Southern Europe",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "tld": [
-    ".it"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Italienische Republik",
-      "common": "Italien"
-    },
-    "fra": {
-      "official": "République italienne",
-      "common": "Italie"
-    },
-    "hrv": {
-      "official": "talijanska Republika",
-      "common": "Italija"
-    },
-    "ita": {
-      "official": "Repubblica italiana",
-      "common": "Italia"
-    },
-    "jpn": {
-      "official": "イタリア共和国",
-      "common": "イタリア"
-    },
-    "nld": {
-      "official": "Italiaanse Republiek",
-      "common": "Italië"
-    },
-    "por": {
-      "official": "República Italiana",
-      "common": "Itália"
-    },
-    "rus": {
-      "official": "итальянская Республика",
-      "common": "Италия"
-    },
-    "spa": {
-      "official": "República Italiana",
-      "common": "Italia"
-    },
-    "fin": {
-      "official": "Italian tasavalta",
-      "common": "Italia"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/italy",
-  "currency": [
-    "EUR"
-  ],
-  "callingCode": [
-    "39"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "IT",
-    "ccn3": "380",
-    "cca3": "ITA",
-    "cioc": "ITA"
   }
 }

@@ -9,12 +9,78 @@
       }
     }
   },
+  "tld": [
+    ".co"
+  ],
+  "currency": [
+    "COP"
+  ],
+  "callingCode": [
+    "57"
+  ],
+  "capital": "Bogotá",
   "altSpellings": [
     "CO",
     "Republic of Colombia",
     "República de Colombia"
   ],
-  "area": 1141748,
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "spa": "Spanish"
+  },
+  "translations": {
+    "cym": {
+      "official": "Republic of Colombia",
+      "common": "Colombia"
+    },
+    "deu": {
+      "official": "Republik Kolumbien",
+      "common": "Kolumbien"
+    },
+    "fra": {
+      "official": "République de Colombie",
+      "common": "Colombie"
+    },
+    "hrv": {
+      "official": "Republika Kolumbija",
+      "common": "Kolumbija"
+    },
+    "ita": {
+      "official": "Repubblica di Colombia",
+      "common": "Colombia"
+    },
+    "jpn": {
+      "official": "コロンビア共和国",
+      "common": "コロンビア"
+    },
+    "nld": {
+      "official": "Republiek Colombia",
+      "common": "Colombia"
+    },
+    "por": {
+      "official": "República da Colômbia",
+      "common": "Colômbia"
+    },
+    "rus": {
+      "official": "Республика Колумбия",
+      "common": "Колумбия"
+    },
+    "spa": {
+      "official": "República de Colombia",
+      "common": "Colombia"
+    },
+    "fin": {
+      "official": "Kolumbian tasavalta",
+      "common": "Kolumbia"
+    }
+  },
+  "latlng": [
+    4,
+    -72
+  ],
+  "demonym": "Colombian",
+  "landlocked": false,
   "borders": [
     "BRA",
     "ECU",
@@ -22,9 +88,49 @@
     "PER",
     "VEN"
   ],
-  "capital": "Bogotá",
-  "demonym": "Colombian",
-  "flag": "",
+  "area": 1141748,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Colombia.svg",
+  "codes": {
+    "cca2": "CO",
+    "ccn3": "170",
+    "cca3": "COL",
+    "cioc": "COL"
+  },
+  "provinces": [
+    "Amazonas",
+    "Antioquia",
+    "Arauca",
+    "Atlantico",
+    "Bolivar",
+    "Boyaca",
+    "Caldas",
+    "Caqueta",
+    "Casanare",
+    "Cauca",
+    "Cesar",
+    "Choco",
+    "Cordoba",
+    "Cundinamarca",
+    "Distrito Capital de Santa Fe de Bogota",
+    "Guainia",
+    "Guaviare",
+    "Huila",
+    "La Guajira",
+    "Magdalena",
+    "Meta",
+    "Narino",
+    "Norte de Santander",
+    "Putumayo",
+    "Quindio",
+    "Risaralda",
+    "San Andres y Providencia",
+    "Santander",
+    "Sucre",
+    "Tolima",
+    "Valle del Cauca",
+    "Vaupes",
+    "Vichada"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -443,117 +549,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "spa": "Spanish"
-  },
-  "latlng": [
-    4,
-    -72
-  ],
-  "nativeName": "Colombia",
-  "population": 47907800,
-  "provinces": [
-    "Amazonas",
-    "Antioquia",
-    "Arauca",
-    "Atlantico",
-    "Bolivar",
-    "Boyaca",
-    "Caldas",
-    "Caqueta",
-    "Casanare",
-    "Cauca",
-    "Cesar",
-    "Choco",
-    "Cordoba",
-    "Cundinamarca",
-    "Distrito Capital de Santa Fe de Bogota",
-    "Guainia",
-    "Guaviare",
-    "Huila",
-    "La Guajira",
-    "Magdalena",
-    "Meta",
-    "Narino",
-    "Norte de Santander",
-    "Putumayo",
-    "Quindio",
-    "Risaralda",
-    "San Andres y Providencia",
-    "Santander",
-    "Sucre",
-    "Tolima",
-    "Valle del Cauca",
-    "Vaupes",
-    "Vichada"
-  ],
-  "region": "Americas",
-  "subregion": "South America",
-  "timezones": [
-    "UTC−05:00"
-  ],
-  "tld": [
-    ".co"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Republic of Colombia",
-      "common": "Colombia"
-    },
-    "deu": {
-      "official": "Republik Kolumbien",
-      "common": "Kolumbien"
-    },
-    "fra": {
-      "official": "République de Colombie",
-      "common": "Colombie"
-    },
-    "hrv": {
-      "official": "Republika Kolumbija",
-      "common": "Kolumbija"
-    },
-    "ita": {
-      "official": "Repubblica di Colombia",
-      "common": "Colombia"
-    },
-    "jpn": {
-      "official": "コロンビア共和国",
-      "common": "コロンビア"
-    },
-    "nld": {
-      "official": "Republiek Colombia",
-      "common": "Colombia"
-    },
-    "por": {
-      "official": "República da Colômbia",
-      "common": "Colômbia"
-    },
-    "rus": {
-      "official": "Республика Колумбия",
-      "common": "Колумбия"
-    },
-    "spa": {
-      "official": "República de Colombia",
-      "common": "Colombia"
-    },
-    "fin": {
-      "official": "Kolumbian tasavalta",
-      "common": "Kolumbia"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/colombia",
-  "currency": [
-    "COP"
-  ],
-  "callingCode": [
-    "57"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "CO",
-    "ccn3": "170",
-    "cca3": "COL",
-    "cioc": "COL"
   }
 }

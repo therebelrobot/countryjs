@@ -13,12 +13,79 @@
       }
     }
   },
+  "tld": [
+    ".cm"
+  ],
+  "currency": [
+    "XAF"
+  ],
+  "callingCode": [
+    "237"
+  ],
+  "capital": "Yaoundé",
   "altSpellings": [
     "CM",
     "Republic of Cameroon",
     "République du Cameroun"
   ],
-  "area": 475442,
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "languages": {
+    "eng": "English",
+    "fra": "French"
+  },
+  "translations": {
+    "cym": {
+      "official": "Republic of Cameroon",
+      "common": "Camerŵn"
+    },
+    "deu": {
+      "official": "Republik Kamerun",
+      "common": "Kamerun"
+    },
+    "fra": {
+      "official": "République du Cameroun",
+      "common": "Cameroun"
+    },
+    "hrv": {
+      "official": "Republika Kamerun",
+      "common": "Kamerun"
+    },
+    "ita": {
+      "official": "Repubblica del Camerun",
+      "common": "Camerun"
+    },
+    "jpn": {
+      "official": "カメルーン共和国",
+      "common": "カメルーン"
+    },
+    "nld": {
+      "official": "Republiek Kameroen",
+      "common": "Kameroen"
+    },
+    "por": {
+      "official": "República dos Camarões",
+      "common": "Camarões"
+    },
+    "rus": {
+      "official": "Республика Камерун",
+      "common": "Камерун"
+    },
+    "spa": {
+      "official": "República de Camerún",
+      "common": "Camerún"
+    },
+    "fin": {
+      "official": "Kamerunin tasavalta",
+      "common": "Kamerun"
+    }
+  },
+  "latlng": [
+    6,
+    12
+  ],
+  "demonym": "Cameroonian",
+  "landlocked": false,
   "borders": [
     "CAF",
     "TCD",
@@ -27,9 +94,26 @@
     "GAB",
     "NGA"
   ],
-  "capital": "Yaoundé",
-  "demonym": "Cameroonian",
-  "flag": "",
+  "area": 475442,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Cameroon.svg",
+  "codes": {
+    "cca2": "CM",
+    "ccn3": "120",
+    "cca3": "CMR",
+    "cioc": "CMR"
+  },
+  "provinces": [
+    "Adamaoua",
+    "Centre",
+    "Est",
+    "Extreme-Nord",
+    "Littoral",
+    "Nord",
+    "Nord-Ouest",
+    "Ouest",
+    "Sud",
+    "Sud-Ouest"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -292,95 +376,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "eng": "English",
-    "fra": "French"
-  },
-  "latlng": [
-    6,
-    12
-  ],
-  "nativeName": "Cameroon",
-  "population": 20386799,
-  "provinces": [
-    "Adamaoua",
-    "Centre",
-    "Est",
-    "Extreme-Nord",
-    "Littoral",
-    "Nord",
-    "Nord-Ouest",
-    "Ouest",
-    "Sud",
-    "Sud-Ouest"
-  ],
-  "region": "Africa",
-  "subregion": "Middle Africa",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "tld": [
-    ".cm"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Republic of Cameroon",
-      "common": "Camerŵn"
-    },
-    "deu": {
-      "official": "Republik Kamerun",
-      "common": "Kamerun"
-    },
-    "fra": {
-      "official": "République du Cameroun",
-      "common": "Cameroun"
-    },
-    "hrv": {
-      "official": "Republika Kamerun",
-      "common": "Kamerun"
-    },
-    "ita": {
-      "official": "Repubblica del Camerun",
-      "common": "Camerun"
-    },
-    "jpn": {
-      "official": "カメルーン共和国",
-      "common": "カメルーン"
-    },
-    "nld": {
-      "official": "Republiek Kameroen",
-      "common": "Kameroen"
-    },
-    "por": {
-      "official": "República dos Camarões",
-      "common": "Camarões"
-    },
-    "rus": {
-      "official": "Республика Камерун",
-      "common": "Камерун"
-    },
-    "spa": {
-      "official": "República de Camerún",
-      "common": "Camerún"
-    },
-    "fin": {
-      "official": "Kamerunin tasavalta",
-      "common": "Kamerun"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/cameroon",
-  "currency": [
-    "XAF"
-  ],
-  "callingCode": [
-    "237"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "CM",
-    "ccn3": "120",
-    "cca3": "CMR",
-    "cioc": "CMR"
   }
 }

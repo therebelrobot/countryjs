@@ -13,6 +13,16 @@
       }
     }
   },
+  "tld": [
+    ".so"
+  ],
+  "currency": [
+    "SOS"
+  ],
+  "callingCode": [
+    "252"
+  ],
+  "capital": "Mogadishu",
   "altSpellings": [
     "SO",
     "aṣ-Ṣūmāl",
@@ -20,15 +30,92 @@
     "Jamhuuriyadda Federaalka Soomaaliya",
     "Jumhūriyyat aṣ-Ṣūmāl al-Fiderāliyya"
   ],
-  "area": 637657,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "ara": "Arabic",
+    "som": "Somali"
+  },
+  "translations": {
+    "deu": {
+      "official": "Bundesrepublik Somalia",
+      "common": "Somalia"
+    },
+    "fra": {
+      "official": "République fédérale de Somalie",
+      "common": "Somalie"
+    },
+    "hrv": {
+      "official": "Savezna Republika Somaliji",
+      "common": "Somalija"
+    },
+    "ita": {
+      "official": "Repubblica federale di Somalia",
+      "common": "Somalia"
+    },
+    "jpn": {
+      "official": "ソマリア連邦共和国",
+      "common": "ソマリア"
+    },
+    "nld": {
+      "official": "Federale Republiek Somalië",
+      "common": "Somalië"
+    },
+    "por": {
+      "official": "República Federal da Somália",
+      "common": "Somália"
+    },
+    "rus": {
+      "official": "Федеративная Республика Сомали",
+      "common": "Сомали"
+    },
+    "spa": {
+      "official": "República Federal de Somalia",
+      "common": "Somalia"
+    },
+    "fin": {
+      "official": "Somalian liittotasavalta",
+      "common": "Somalia"
+    }
+  },
+  "latlng": [
+    10,
+    49
+  ],
+  "demonym": "Somali",
+  "landlocked": false,
   "borders": [
     "DJI",
     "ETH",
     "KEN"
   ],
-  "capital": "Mogadishu",
-  "demonym": "Somali",
-  "flag": "",
+  "area": 637657,
+  "codes": {
+    "cca2": "SO",
+    "ccn3": "706",
+    "cca3": "SOM",
+    "cioc": "SOM"
+  },
+  "provinces": [
+    "Awdal",
+    "Bakool",
+    "Banaadir",
+    "Bari",
+    "Bay",
+    "Galguduud",
+    "Gedo",
+    "Hiiraan",
+    "Jubbada Dhexe",
+    "Jubbada Hoose",
+    "Mudug",
+    "Nugaal",
+    "Sanaag",
+    "Shabeellaha Dhexe",
+    "Shabeellaha Hoose",
+    "Sool",
+    "Togdheer",
+    "Woqooyi Galbeed"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -192,98 +279,5 @@
       }
     ]
   },
-  "languages": {
-    "ara": "Arabic",
-    "som": "Somali"
-  },
-  "latlng": [
-    10,
-    49
-  ],
-  "nativeName": "Soomaaliya",
-  "population": 10806000,
-  "provinces": [
-    "Awdal",
-    "Bakool",
-    "Banaadir",
-    "Bari",
-    "Bay",
-    "Galguduud",
-    "Gedo",
-    "Hiiraan",
-    "Jubbada Dhexe",
-    "Jubbada Hoose",
-    "Mudug",
-    "Nugaal",
-    "Sanaag",
-    "Shabeellaha Dhexe",
-    "Shabeellaha Hoose",
-    "Sool",
-    "Togdheer",
-    "Woqooyi Galbeed"
-  ],
-  "region": "Africa",
-  "subregion": "Eastern Africa",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "tld": [
-    ".so"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Bundesrepublik Somalia",
-      "common": "Somalia"
-    },
-    "fra": {
-      "official": "République fédérale de Somalie",
-      "common": "Somalie"
-    },
-    "hrv": {
-      "official": "Savezna Republika Somaliji",
-      "common": "Somalija"
-    },
-    "ita": {
-      "official": "Repubblica federale di Somalia",
-      "common": "Somalia"
-    },
-    "jpn": {
-      "official": "ソマリア連邦共和国",
-      "common": "ソマリア"
-    },
-    "nld": {
-      "official": "Federale Republiek Somalië",
-      "common": "Somalië"
-    },
-    "por": {
-      "official": "República Federal da Somália",
-      "common": "Somália"
-    },
-    "rus": {
-      "official": "Федеративная Республика Сомали",
-      "common": "Сомали"
-    },
-    "spa": {
-      "official": "República Federal de Somalia",
-      "common": "Somalia"
-    },
-    "fin": {
-      "official": "Somalian liittotasavalta",
-      "common": "Somalia"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/somalia",
-  "currency": [
-    "SOS"
-  ],
-  "callingCode": [
-    "252"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "SO",
-    "ccn3": "706",
-    "cca3": "SOM",
-    "cioc": "SOM"
-  }
+  "flag": ""
 }

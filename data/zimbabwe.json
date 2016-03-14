@@ -65,20 +65,107 @@
       }
     }
   },
+  "tld": [
+    ".zw"
+  ],
+  "currency": [
+    "ZWL"
+  ],
+  "callingCode": [
+    "263"
+  ],
+  "capital": "Harare",
   "altSpellings": [
     "ZW",
     "Republic of Zimbabwe"
   ],
-  "area": 390757,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "bwg": "Chibarwe",
+    "eng": "English",
+    "kck": "Kalanga",
+    "khi": "Khoisan",
+    "ndc": "Ndau",
+    "nde": "Northern Ndebele",
+    "nya": "Chewa",
+    "sna": "Shona",
+    "sot": "Sotho",
+    "toi": "Tonga",
+    "tsn": "Tswana",
+    "tso": "Tsonga",
+    "ven": "Venda",
+    "xho": "Xhosa",
+    "zib": "Zimbabwean Sign Language"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Simbabwe",
+      "common": "Simbabwe"
+    },
+    "fra": {
+      "official": "République du Zimbabwe",
+      "common": "Zimbabwe"
+    },
+    "hrv": {
+      "official": "Republika Zimbabve",
+      "common": "Zimbabve"
+    },
+    "ita": {
+      "official": "Repubblica dello Zimbabwe",
+      "common": "Zimbabwe"
+    },
+    "jpn": {
+      "official": "ジンバブエ共和国",
+      "common": "ジンバブエ"
+    },
+    "nld": {
+      "official": "Republiek Zimbabwe",
+      "common": "Zimbabwe"
+    },
+    "por": {
+      "official": "República do Zimbabwe",
+      "common": "Zimbabwe"
+    },
+    "rus": {
+      "official": "Республика Зимбабве",
+      "common": "Зимбабве"
+    },
+    "spa": {
+      "official": "República de Zimbabue",
+      "common": "Zimbabue"
+    },
+    "fin": {
+      "official": "Zimbabwen tasavalta",
+      "common": "Zimbabwe"
+    }
+  },
+  "latlng": [
+    -20,
+    30
+  ],
+  "demonym": "Zimbabwean",
+  "landlocked": true,
   "borders": [
     "BWA",
     "MOZ",
     "ZAF",
     "ZMB"
   ],
-  "capital": "Harare",
-  "demonym": "Zimbabwean",
-  "flag": "",
+  "area": 390757,
+  "codes": {
+    "cca2": "ZW",
+    "ccn3": "716",
+    "cca3": "ZWE",
+    "cioc": "ZIM"
+  },
+  "provinces": [
+    "Bulawayo",
+    "Harare",
+    "ManicalandMashonaland Central",
+    "Mashonaland East",
+    "Mashonaland"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -246,98 +333,5 @@
       }
     ]
   },
-  "languages": {
-    "bwg": "Chibarwe",
-    "eng": "English",
-    "kck": "Kalanga",
-    "khi": "Khoisan",
-    "ndc": "Ndau",
-    "nde": "Northern Ndebele",
-    "nya": "Chewa",
-    "sna": "Shona",
-    "sot": "Sotho",
-    "toi": "Tonga",
-    "tsn": "Tswana",
-    "tso": "Tsonga",
-    "ven": "Venda",
-    "xho": "Xhosa",
-    "zib": "Zimbabwean Sign Language"
-  },
-  "latlng": [
-    -20,
-    30
-  ],
-  "nativeName": "Zimbabwe",
-  "population": 13061239,
-  "provinces": [
-    "Bulawayo",
-    "Harare",
-    "ManicalandMashonaland Central",
-    "Mashonaland East",
-    "Mashonaland"
-  ],
-  "region": "Africa",
-  "subregion": "Eastern Africa",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "tld": [
-    ".zw"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Simbabwe",
-      "common": "Simbabwe"
-    },
-    "fra": {
-      "official": "République du Zimbabwe",
-      "common": "Zimbabwe"
-    },
-    "hrv": {
-      "official": "Republika Zimbabve",
-      "common": "Zimbabve"
-    },
-    "ita": {
-      "official": "Repubblica dello Zimbabwe",
-      "common": "Zimbabwe"
-    },
-    "jpn": {
-      "official": "ジンバブエ共和国",
-      "common": "ジンバブエ"
-    },
-    "nld": {
-      "official": "Republiek Zimbabwe",
-      "common": "Zimbabwe"
-    },
-    "por": {
-      "official": "República do Zimbabwe",
-      "common": "Zimbabwe"
-    },
-    "rus": {
-      "official": "Республика Зимбабве",
-      "common": "Зимбабве"
-    },
-    "spa": {
-      "official": "República de Zimbabue",
-      "common": "Zimbabue"
-    },
-    "fin": {
-      "official": "Zimbabwen tasavalta",
-      "common": "Zimbabwe"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/zimbabwe",
-  "currency": [
-    "ZWL"
-  ],
-  "callingCode": [
-    "263"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "ZW",
-    "ccn3": "716",
-    "cca3": "ZWE",
-    "cioc": "ZIM"
-  }
+  "flag": ""
 }

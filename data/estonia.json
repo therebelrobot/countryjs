@@ -9,20 +9,108 @@
       }
     }
   },
+  "tld": [
+    ".ee"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "372"
+  ],
+  "capital": "Tallinn",
   "altSpellings": [
     "EE",
     "Eesti",
     "Republic of Estonia",
     "Eesti Vabariik"
   ],
-  "area": 45227,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "languages": {
+    "est": "Estonian"
+  },
+  "translations": {
+    "cym": {
+      "official": "Republic of Estonia",
+      "common": "Estonia"
+    },
+    "deu": {
+      "official": "Republik Estland",
+      "common": "Estland"
+    },
+    "fra": {
+      "official": "République d'Estonie",
+      "common": "Estonie"
+    },
+    "hrv": {
+      "official": "Republika Estonija",
+      "common": "Estonija"
+    },
+    "ita": {
+      "official": "Repubblica di Estonia",
+      "common": "Estonia"
+    },
+    "jpn": {
+      "official": "エストニア共和国",
+      "common": "エストニア"
+    },
+    "nld": {
+      "official": "Republiek Estland",
+      "common": "Estland"
+    },
+    "por": {
+      "official": "República da Estónia",
+      "common": "Estónia"
+    },
+    "rus": {
+      "official": "Эстонская Республика",
+      "common": "Эстония"
+    },
+    "spa": {
+      "official": "República de Estonia",
+      "common": "Estonia"
+    },
+    "fin": {
+      "official": "Viron tasavalta",
+      "common": "Viro"
+    }
+  },
+  "latlng": [
+    59,
+    26
+  ],
+  "demonym": "Estonian",
+  "landlocked": false,
   "borders": [
     "LVA",
     "RUS"
   ],
-  "capital": "Tallinn",
-  "demonym": "Estonian",
-  "flag": "",
+  "area": 45227,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Estonia.svg",
+  "codes": {
+    "cca2": "EE",
+    "ccn3": "233",
+    "cca3": "EST",
+    "cioc": "EST"
+  },
+  "provinces": [
+    "Harjumaa (Tallinn)",
+    "Hiiumaa (Kardla)",
+    "Ida-Virumaa (Johvi)",
+    "Jarvamaa (Paide)",
+    "Jogevamaa (Jogeva)",
+    "Laane-Virumaa (Rakvere)",
+    "Laanemaa (Haapsalu)",
+    "Parnumaa (Parnu)",
+    "Polvamaa (Polva)",
+    "Raplamaa (Rapla)",
+    "Saaremaa (Kuessaare)",
+    "Tartumaa (Tartu)",
+    "Valgamaa (Valga)",
+    "Viljandimaa (Viljandi)",
+    "Vorumaa (Voru)"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -109,99 +197,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "est": "Estonian"
-  },
-  "latlng": [
-    59,
-    26
-  ],
-  "nativeName": "Eesti",
-  "population": 1315819,
-  "provinces": [
-    "Harjumaa (Tallinn)",
-    "Hiiumaa (Kardla)",
-    "Ida-Virumaa (Johvi)",
-    "Jarvamaa (Paide)",
-    "Jogevamaa (Jogeva)",
-    "Laane-Virumaa (Rakvere)",
-    "Laanemaa (Haapsalu)",
-    "Parnumaa (Parnu)",
-    "Polvamaa (Polva)",
-    "Raplamaa (Rapla)",
-    "Saaremaa (Kuessaare)",
-    "Tartumaa (Tartu)",
-    "Valgamaa (Valga)",
-    "Viljandimaa (Viljandi)",
-    "Vorumaa (Voru)"
-  ],
-  "region": "Europe",
-  "subregion": "Northern Europe",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "tld": [
-    ".ee"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Republic of Estonia",
-      "common": "Estonia"
-    },
-    "deu": {
-      "official": "Republik Estland",
-      "common": "Estland"
-    },
-    "fra": {
-      "official": "République d'Estonie",
-      "common": "Estonie"
-    },
-    "hrv": {
-      "official": "Republika Estonija",
-      "common": "Estonija"
-    },
-    "ita": {
-      "official": "Repubblica di Estonia",
-      "common": "Estonia"
-    },
-    "jpn": {
-      "official": "エストニア共和国",
-      "common": "エストニア"
-    },
-    "nld": {
-      "official": "Republiek Estland",
-      "common": "Estland"
-    },
-    "por": {
-      "official": "República da Estónia",
-      "common": "Estónia"
-    },
-    "rus": {
-      "official": "Эстонская Республика",
-      "common": "Эстония"
-    },
-    "spa": {
-      "official": "República de Estonia",
-      "common": "Estonia"
-    },
-    "fin": {
-      "official": "Viron tasavalta",
-      "common": "Viro"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/estonia",
-  "currency": [
-    "EUR"
-  ],
-  "callingCode": [
-    "372"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "EE",
-    "ccn3": "233",
-    "cca3": "EST",
-    "cioc": "EST"
   }
 }

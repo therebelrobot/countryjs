@@ -17,11 +17,79 @@
       }
     }
   },
+  "tld": [
+    ".af"
+  ],
+  "currency": [
+    "AFN"
+  ],
+  "callingCode": [
+    "93"
+  ],
+  "capital": "Kabul",
   "altSpellings": [
     "AF",
     "Afġānistān"
   ],
-  "area": 652230,
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "languages": {
+    "prs": "Dari",
+    "pus": "Pashto",
+    "tuk": "Turkmen"
+  },
+  "translations": {
+    "cym": {
+      "official": "Islamic Republic of Afghanistan",
+      "common": "Affganistan"
+    },
+    "deu": {
+      "official": "Islamische Republik Afghanistan",
+      "common": "Afghanistan"
+    },
+    "fra": {
+      "official": "République islamique d'Afghanistan",
+      "common": "Afghanistan"
+    },
+    "hrv": {
+      "official": "Islamska Republika Afganistan",
+      "common": "Afganistan"
+    },
+    "ita": {
+      "official": "Repubblica islamica dell'Afghanistan",
+      "common": "Afghanistan"
+    },
+    "jpn": {
+      "official": "アフガニスタン·イスラム共和国",
+      "common": "アフガニスタン"
+    },
+    "nld": {
+      "official": "Islamitische Republiek Afghanistan",
+      "common": "Afghanistan"
+    },
+    "por": {
+      "official": "República Islâmica do Afeganistão",
+      "common": "Afeganistão"
+    },
+    "rus": {
+      "official": "Исламская Республика Афганистан",
+      "common": "Афганистан"
+    },
+    "spa": {
+      "official": "República Islámica de Afganistán",
+      "common": "Afganistán"
+    },
+    "fin": {
+      "official": "Afganistanin islamilainen tasavalta",
+      "common": "Afganistan"
+    }
+  },
+  "latlng": [
+    33,
+    65
+  ],
+  "demonym": "Afghan",
+  "landlocked": true,
   "borders": [
     "IRN",
     "PAK",
@@ -30,9 +98,46 @@
     "TJK",
     "CHN"
   ],
-  "capital": "Kabul",
-  "demonym": "Afghan",
+  "area": 652230,
   "flag": "http://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg",
+  "codes": {
+    "cca2": "AF",
+    "ccn3": "004",
+    "cca3": "AFG",
+    "cioc": "AFG"
+  },
+  "provinces": [
+    "Badakhshan",
+    "Badghis",
+    "Baghlan",
+    "Balkh",
+    "Bamian",
+    "Farah",
+    "Faryab",
+    "Ghazni",
+    "Ghowr",
+    "Helmand",
+    "Herat",
+    "Jowzjan",
+    "Kabol",
+    "Kandahar",
+    "Kapisa",
+    "Konar",
+    "Kondoz",
+    "Laghman",
+    "Lowgar",
+    "Nangarhar",
+    "Nimruz",
+    "Oruzgan",
+    "Paktia",
+    "Paktika",
+    "Parvan",
+    "Samangan",
+    "Sar-e Pol",
+    "Takhar",
+    "Vardak",
+    "Zabol"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -327,116 +432,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "prs": "Dari",
-    "pus": "Pashto",
-    "tuk": "Turkmen"
-  },
-  "latlng": [
-    33,
-    65
-  ],
-  "nativeName": "افغانستان",
-  "population": 26023100,
-  "provinces": [
-    "Badakhshan",
-    "Badghis",
-    "Baghlan",
-    "Balkh",
-    "Bamian",
-    "Farah",
-    "Faryab",
-    "Ghazni",
-    "Ghowr",
-    "Helmand",
-    "Herat",
-    "Jowzjan",
-    "Kabol",
-    "Kandahar",
-    "Kapisa",
-    "Konar",
-    "Kondoz",
-    "Laghman",
-    "Lowgar",
-    "Nangarhar",
-    "Nimruz",
-    "Oruzgan",
-    "Paktia",
-    "Paktika",
-    "Parvan",
-    "Samangan",
-    "Sar-e Pol",
-    "Takhar",
-    "Vardak",
-    "Zabol"
-  ],
-  "region": "Asia",
-  "subregion": "Southern Asia",
-  "timezones": [
-    "UTC+04:30"
-  ],
-  "tld": [
-    ".af"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Islamic Republic of Afghanistan",
-      "common": "Affganistan"
-    },
-    "deu": {
-      "official": "Islamische Republik Afghanistan",
-      "common": "Afghanistan"
-    },
-    "fra": {
-      "official": "République islamique d'Afghanistan",
-      "common": "Afghanistan"
-    },
-    "hrv": {
-      "official": "Islamska Republika Afganistan",
-      "common": "Afganistan"
-    },
-    "ita": {
-      "official": "Repubblica islamica dell'Afghanistan",
-      "common": "Afghanistan"
-    },
-    "jpn": {
-      "official": "アフガニスタン·イスラム共和国",
-      "common": "アフガニスタン"
-    },
-    "nld": {
-      "official": "Islamitische Republiek Afghanistan",
-      "common": "Afghanistan"
-    },
-    "por": {
-      "official": "República Islâmica do Afeganistão",
-      "common": "Afeganistão"
-    },
-    "rus": {
-      "official": "Исламская Республика Афганистан",
-      "common": "Афганистан"
-    },
-    "spa": {
-      "official": "República Islámica de Afganistán",
-      "common": "Afganistán"
-    },
-    "fin": {
-      "official": "Afganistanin islamilainen tasavalta",
-      "common": "Afganistan"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/afghanistan",
-  "currency": [
-    "AFN"
-  ],
-  "callingCode": [
-    "93"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "AF",
-    "ccn3": "004",
-    "cca3": "AFG",
-    "cioc": "AFG"
   }
 }

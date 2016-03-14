@@ -13,6 +13,16 @@
       }
     }
   },
+  "tld": [
+    ".tj"
+  ],
+  "currency": [
+    "TJS"
+  ],
+  "callingCode": [
+    "992"
+  ],
+  "capital": "Dushanbe",
   "altSpellings": [
     "TJ",
     "Toçikiston",
@@ -20,16 +30,78 @@
     "Ҷумҳурии Тоҷикистон",
     "Çumhuriyi Toçikiston"
   ],
-  "area": 143100,
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "languages": {
+    "rus": "Russian",
+    "tgk": "Tajik"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Tadschikistan",
+      "common": "Tadschikistan"
+    },
+    "fra": {
+      "official": "République du Tadjikistan",
+      "common": "Tadjikistan"
+    },
+    "hrv": {
+      "official": "Republika Tadžikistan",
+      "common": "Tađikistan"
+    },
+    "ita": {
+      "official": "Repubblica del Tajikistan",
+      "common": "Tagikistan"
+    },
+    "jpn": {
+      "official": "タジキスタン共和国",
+      "common": "タジキスタン"
+    },
+    "nld": {
+      "official": "Tadzjikistan",
+      "common": "Tadzjikistan"
+    },
+    "por": {
+      "official": "República do Tajiquistão",
+      "common": "Tajiquistão"
+    },
+    "rus": {
+      "official": "Республика Таджикистан",
+      "common": "Таджикистан"
+    },
+    "spa": {
+      "official": "República de Tayikistán",
+      "common": "Tayikistán"
+    },
+    "fin": {
+      "official": "Tadžikistanin tasavalta",
+      "common": "Tadžikistan"
+    }
+  },
+  "latlng": [
+    39,
+    71
+  ],
+  "demonym": "Tadzhik",
+  "landlocked": true,
   "borders": [
     "AFG",
     "CHN",
     "KGZ",
     "UZB"
   ],
-  "capital": "Dushanbe",
-  "demonym": "Tadzhik",
-  "flag": "",
+  "area": 143100,
+  "codes": {
+    "cca2": "TJ",
+    "ccn3": "762",
+    "cca3": "TJK",
+    "cioc": "TJK"
+  },
+  "provinces": [
+    "Viloyati Khatlon",
+    "Viloyati Leninobod",
+    "Viloyati Mukhtori Kuhistoni Badakhshon"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -213,83 +285,5 @@
       }
     ]
   },
-  "languages": {
-    "rus": "Russian",
-    "tgk": "Tajik"
-  },
-  "latlng": [
-    39,
-    71
-  ],
-  "nativeName": "Тоҷикистон",
-  "population": 8161000,
-  "provinces": [
-    "Viloyati Khatlon",
-    "Viloyati Leninobod",
-    "Viloyati Mukhtori Kuhistoni Badakhshon"
-  ],
-  "region": "Asia",
-  "subregion": "Central Asia",
-  "timezones": [
-    "UTC+05:00"
-  ],
-  "tld": [
-    ".tj"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Tadschikistan",
-      "common": "Tadschikistan"
-    },
-    "fra": {
-      "official": "République du Tadjikistan",
-      "common": "Tadjikistan"
-    },
-    "hrv": {
-      "official": "Republika Tadžikistan",
-      "common": "Tađikistan"
-    },
-    "ita": {
-      "official": "Repubblica del Tajikistan",
-      "common": "Tagikistan"
-    },
-    "jpn": {
-      "official": "タジキスタン共和国",
-      "common": "タジキスタン"
-    },
-    "nld": {
-      "official": "Tadzjikistan",
-      "common": "Tadzjikistan"
-    },
-    "por": {
-      "official": "República do Tajiquistão",
-      "common": "Tajiquistão"
-    },
-    "rus": {
-      "official": "Республика Таджикистан",
-      "common": "Таджикистан"
-    },
-    "spa": {
-      "official": "República de Tayikistán",
-      "common": "Tayikistán"
-    },
-    "fin": {
-      "official": "Tadžikistanin tasavalta",
-      "common": "Tadžikistan"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/tajikistan",
-  "currency": [
-    "TJS"
-  ],
-  "callingCode": [
-    "992"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "TJ",
-    "ccn3": "762",
-    "cca3": "TJK",
-    "cioc": "TJK"
-  }
+  "flag": ""
 }

@@ -9,19 +9,118 @@
       }
     }
   },
+  "tld": [
+    ".eg",
+    ".مصر"
+  ],
+  "currency": [
+    "EGP"
+  ],
+  "callingCode": [
+    "20"
+  ],
+  "capital": "Cairo",
   "altSpellings": [
     "EG",
     "Arab Republic of Egypt"
   ],
-  "area": 1002450,
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "languages": {
+    "ara": "Arabic"
+  },
+  "translations": {
+    "cym": {
+      "official": "Arab Republic of Egypt",
+      "common": "Yr Aifft"
+    },
+    "deu": {
+      "official": "Arabische Republik Ägypten",
+      "common": "Ägypten"
+    },
+    "fra": {
+      "official": "République arabe d'Égypte",
+      "common": "Égypte"
+    },
+    "hrv": {
+      "official": "Arapska Republika Egipat",
+      "common": "Egipat"
+    },
+    "ita": {
+      "official": "Repubblica araba d'Egitto",
+      "common": "Egitto"
+    },
+    "jpn": {
+      "official": "エジプト·アラブ共和国",
+      "common": "エジプト"
+    },
+    "nld": {
+      "official": "Arabische Republiek Egypte",
+      "common": "Egypte"
+    },
+    "por": {
+      "official": "República Árabe do Egipto",
+      "common": "Egito"
+    },
+    "rus": {
+      "official": "Арабская Республика Египет",
+      "common": "Египет"
+    },
+    "spa": {
+      "official": "República Árabe de Egipto",
+      "common": "Egipto"
+    },
+    "fin": {
+      "official": "Egyptin arabitasavalta",
+      "common": "Egypti"
+    }
+  },
+  "latlng": [
+    27,
+    30
+  ],
+  "demonym": "Egyptian",
+  "landlocked": false,
   "borders": [
     "ISR",
     "LBY",
     "SDN"
   ],
-  "capital": "Cairo",
-  "demonym": "Egyptian",
-  "flag": "",
+  "area": 1002450,
+  "codes": {
+    "cca2": "EG",
+    "ccn3": "818",
+    "cca3": "EGY",
+    "cioc": "EGY"
+  },
+  "provinces": [
+    "Ad Daqahliyah",
+    "Al Bahr al Ahmar",
+    "Al Buhayrah",
+    "Al Fayyum",
+    "Al Gharbiyah",
+    "Al Iskandariyah",
+    "Al Isma'iliyah",
+    "Al Jizah",
+    "Al Minufiyah",
+    "Al Minya",
+    "Al Qahirah",
+    "Al Qalyubiyah",
+    "Al Wadi al Jadid",
+    "As Suways",
+    "Ash Sharqiyah",
+    "Aswan",
+    "Asyut",
+    "Bani Suwayf",
+    "Bur Sa'id",
+    "Dumyat",
+    "Janub Sina'",
+    "Kafr ash Shaykh",
+    "Matruh",
+    "Qina",
+    "Shamal Sina'",
+    "Suhaj"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -209,110 +308,5 @@
       }
     ]
   },
-  "languages": {
-    "ara": "Arabic"
-  },
-  "latlng": [
-    27,
-    30
-  ],
-  "nativeName": "مصر‎",
-  "population": 87668100,
-  "provinces": [
-    "Ad Daqahliyah",
-    "Al Bahr al Ahmar",
-    "Al Buhayrah",
-    "Al Fayyum",
-    "Al Gharbiyah",
-    "Al Iskandariyah",
-    "Al Isma'iliyah",
-    "Al Jizah",
-    "Al Minufiyah",
-    "Al Minya",
-    "Al Qahirah",
-    "Al Qalyubiyah",
-    "Al Wadi al Jadid",
-    "As Suways",
-    "Ash Sharqiyah",
-    "Aswan",
-    "Asyut",
-    "Bani Suwayf",
-    "Bur Sa'id",
-    "Dumyat",
-    "Janub Sina'",
-    "Kafr ash Shaykh",
-    "Matruh",
-    "Qina",
-    "Shamal Sina'",
-    "Suhaj"
-  ],
-  "region": "Africa",
-  "subregion": "Northern Africa",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "tld": [
-    ".eg",
-    ".مصر"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Arab Republic of Egypt",
-      "common": "Yr Aifft"
-    },
-    "deu": {
-      "official": "Arabische Republik Ägypten",
-      "common": "Ägypten"
-    },
-    "fra": {
-      "official": "République arabe d'Égypte",
-      "common": "Égypte"
-    },
-    "hrv": {
-      "official": "Arapska Republika Egipat",
-      "common": "Egipat"
-    },
-    "ita": {
-      "official": "Repubblica araba d'Egitto",
-      "common": "Egitto"
-    },
-    "jpn": {
-      "official": "エジプト·アラブ共和国",
-      "common": "エジプト"
-    },
-    "nld": {
-      "official": "Arabische Republiek Egypte",
-      "common": "Egypte"
-    },
-    "por": {
-      "official": "República Árabe do Egipto",
-      "common": "Egito"
-    },
-    "rus": {
-      "official": "Арабская Республика Египет",
-      "common": "Египет"
-    },
-    "spa": {
-      "official": "República Árabe de Egipto",
-      "common": "Egipto"
-    },
-    "fin": {
-      "official": "Egyptin arabitasavalta",
-      "common": "Egypti"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/egypt",
-  "currency": [
-    "EGP"
-  ],
-  "callingCode": [
-    "20"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "EG",
-    "ccn3": "818",
-    "cca3": "EGY",
-    "cioc": "EGY"
-  }
+  "flag": ""
 }

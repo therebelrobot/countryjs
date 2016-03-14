@@ -13,21 +13,105 @@
       }
     }
   },
+  "tld": [
+    ".bw"
+  ],
+  "currency": [
+    "BWP"
+  ],
+  "callingCode": [
+    "267"
+  ],
+  "capital": "Gaborone",
   "altSpellings": [
     "BW",
     "Republic of Botswana",
     "Lefatshe la Botswana"
   ],
-  "area": 582000,
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "languages": {
+    "eng": "English",
+    "tsn": "Tswana"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Botsuana",
+      "common": "Botswana"
+    },
+    "fra": {
+      "official": "République du Botswana",
+      "common": "Botswana"
+    },
+    "hrv": {
+      "official": "Republika Bocvana",
+      "common": "Bocvana"
+    },
+    "ita": {
+      "official": "Repubblica del Botswana",
+      "common": "Botswana"
+    },
+    "jpn": {
+      "official": "ボツワナ共和国",
+      "common": "ボツワナ"
+    },
+    "nld": {
+      "official": "Republiek Botswana",
+      "common": "Botswana"
+    },
+    "por": {
+      "official": "República do Botswana",
+      "common": "Botswana"
+    },
+    "rus": {
+      "official": "Республика Ботсвана",
+      "common": "Ботсвана"
+    },
+    "spa": {
+      "official": "República de Botswana",
+      "common": "Botswana"
+    },
+    "fin": {
+      "official": "Botswanan tasavalta",
+      "common": "Botswana"
+    }
+  },
+  "latlng": [
+    -22,
+    24
+  ],
+  "demonym": "Motswana",
+  "landlocked": true,
   "borders": [
     "NAM",
     "ZAF",
     "ZMB",
     "ZWE"
   ],
-  "capital": "Gaborone",
-  "demonym": "Motswana",
-  "flag": "",
+  "area": 582000,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Botswana.svg",
+  "codes": {
+    "cca2": "BW",
+    "ccn3": "072",
+    "cca3": "BWA",
+    "cioc": "BOT"
+  },
+  "provinces": [
+    "Central",
+    "Chobe",
+    "Francistown",
+    "Gaborone",
+    "Ghanzi",
+    "Kgalagadi",
+    "Kgatleng",
+    "Kweneng",
+    "Lobatse",
+    "Ngamiland",
+    "North-East",
+    "Selebi-Pikwe",
+    "South-East",
+    "Southern"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -206,95 +290,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "eng": "English",
-    "tsn": "Tswana"
-  },
-  "latlng": [
-    -22,
-    24
-  ],
-  "nativeName": "Botswana",
-  "population": 2024904,
-  "provinces": [
-    "Central",
-    "Chobe",
-    "Francistown",
-    "Gaborone",
-    "Ghanzi",
-    "Kgalagadi",
-    "Kgatleng",
-    "Kweneng",
-    "Lobatse",
-    "Ngamiland",
-    "North-East",
-    "Selebi-Pikwe",
-    "South-East",
-    "Southern"
-  ],
-  "region": "Africa",
-  "subregion": "Southern Africa",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "tld": [
-    ".bw"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Botsuana",
-      "common": "Botswana"
-    },
-    "fra": {
-      "official": "République du Botswana",
-      "common": "Botswana"
-    },
-    "hrv": {
-      "official": "Republika Bocvana",
-      "common": "Bocvana"
-    },
-    "ita": {
-      "official": "Repubblica del Botswana",
-      "common": "Botswana"
-    },
-    "jpn": {
-      "official": "ボツワナ共和国",
-      "common": "ボツワナ"
-    },
-    "nld": {
-      "official": "Republiek Botswana",
-      "common": "Botswana"
-    },
-    "por": {
-      "official": "República do Botswana",
-      "common": "Botswana"
-    },
-    "rus": {
-      "official": "Республика Ботсвана",
-      "common": "Ботсвана"
-    },
-    "spa": {
-      "official": "República de Botswana",
-      "common": "Botswana"
-    },
-    "fin": {
-      "official": "Botswanan tasavalta",
-      "common": "Botswana"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/botswana",
-  "currency": [
-    "BWP"
-  ],
-  "callingCode": [
-    "267"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "BW",
-    "ccn3": "072",
-    "cca3": "BWA",
-    "cioc": "BOT"
   }
 }

@@ -21,43 +21,32 @@
       }
     }
   },
+  "tld": [
+    ".sg",
+    ".新加坡",
+    ".சிங்கப்பூர்"
+  ],
+  "currency": [
+    "SGD"
+  ],
+  "callingCode": [
+    "65"
+  ],
+  "capital": "Singapore",
   "altSpellings": [
     "SG",
     "Singapura",
     "Republik Singapura",
     "新加坡共和国"
   ],
-  "area": 710,
-  "borders": [],
-  "capital": "Singapore",
-  "demonym": "Singaporean",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
   "languages": {
     "cmn": "Mandarin",
     "eng": "English",
     "msa": "Malay",
     "tam": "Tamil"
   },
-  "latlng": [
-    1.36666666,
-    103.8
-  ],
-  "nativeName": "Singapore",
-  "population": 5469700,
-  "provinces": [
-    "Singapore"
-  ],
-  "region": "Asia",
-  "subregion": "South-Eastern Asia",
-  "timezones": [
-    "UTC+08:00"
-  ],
-  "tld": [
-    ".sg",
-    ".新加坡",
-    ".சிங்கப்பூர்"
-  ],
   "translations": {
     "deu": {
       "official": "Republik Singapur",
@@ -100,18 +89,23 @@
       "common": "Singapore"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/singapore",
-  "currency": [
-    "SGD"
+  "latlng": [
+    1.36666666,
+    103.8
   ],
-  "callingCode": [
-    "65"
-  ],
+  "demonym": "Singaporean",
   "landlocked": false,
+  "borders": [],
+  "area": 710,
   "codes": {
     "cca2": "SG",
     "ccn3": "702",
     "cca3": "SGP",
     "cioc": "SIN"
-  }
+  },
+  "provinces": [
+    "Singapore"
+  ],
+  "geoJSON": {},
+  "flag": ""
 }

@@ -17,6 +17,16 @@
       }
     }
   },
+  "tld": [
+    ".er"
+  ],
+  "currency": [
+    "ERN"
+  ],
+  "callingCode": [
+    "291"
+  ],
+  "capital": "Asmara",
   "altSpellings": [
     "ER",
     "State of Eritrea",
@@ -25,15 +35,87 @@
     "ʾErtrā",
     "Iritriyā"
   ],
-  "area": 117600,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "ara": "Arabic",
+    "eng": "English",
+    "tir": "Tigrinya"
+  },
+  "translations": {
+    "cym": {
+      "official": "State of Eritrea",
+      "common": "Eritrea"
+    },
+    "deu": {
+      "official": "Staat Eritrea",
+      "common": "Eritrea"
+    },
+    "fra": {
+      "official": "État d'Érythrée",
+      "common": "Érythrée"
+    },
+    "hrv": {
+      "official": "Država Eritreji",
+      "common": "Eritreja"
+    },
+    "ita": {
+      "official": "Stato di Eritrea",
+      "common": "Eritrea"
+    },
+    "jpn": {
+      "official": "エリトリア国",
+      "common": "エリトリア"
+    },
+    "nld": {
+      "official": "Staat Eritrea",
+      "common": "Eritrea"
+    },
+    "por": {
+      "official": "Estado da Eritreia",
+      "common": "Eritreia"
+    },
+    "rus": {
+      "official": "Государство Эритрея",
+      "common": "Эритрея"
+    },
+    "spa": {
+      "official": "Estado de Eritrea",
+      "common": "Eritrea"
+    },
+    "fin": {
+      "official": "Eritrean valtio",
+      "common": "Eritrea"
+    }
+  },
+  "latlng": [
+    15,
+    39
+  ],
+  "demonym": "Eritrean",
+  "landlocked": false,
   "borders": [
     "DJI",
     "ETH",
     "SDN"
   ],
-  "capital": "Asmara",
-  "demonym": "Eritrean",
-  "flag": "",
+  "area": 117600,
+  "codes": {
+    "cca2": "ER",
+    "ccn3": "232",
+    "cca3": "ERI",
+    "cioc": "ERI"
+  },
+  "provinces": [
+    "Akale Guzay",
+    "Barka",
+    "Denkel",
+    "Hamasen",
+    "Sahil",
+    "Semhar",
+    "Senhit",
+    "Seraye"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -165,93 +247,5 @@
       }
     ]
   },
-  "languages": {
-    "ara": "Arabic",
-    "eng": "English",
-    "tir": "Tigrinya"
-  },
-  "latlng": [
-    15,
-    39
-  ],
-  "nativeName": "ኤርትራ",
-  "population": 6536000,
-  "provinces": [
-    "Akale Guzay",
-    "Barka",
-    "Denkel",
-    "Hamasen",
-    "Sahil",
-    "Semhar",
-    "Senhit",
-    "Seraye"
-  ],
-  "region": "Africa",
-  "subregion": "Eastern Africa",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "tld": [
-    ".er"
-  ],
-  "translations": {
-    "cym": {
-      "official": "State of Eritrea",
-      "common": "Eritrea"
-    },
-    "deu": {
-      "official": "Staat Eritrea",
-      "common": "Eritrea"
-    },
-    "fra": {
-      "official": "État d'Érythrée",
-      "common": "Érythrée"
-    },
-    "hrv": {
-      "official": "Država Eritreji",
-      "common": "Eritreja"
-    },
-    "ita": {
-      "official": "Stato di Eritrea",
-      "common": "Eritrea"
-    },
-    "jpn": {
-      "official": "エリトリア国",
-      "common": "エリトリア"
-    },
-    "nld": {
-      "official": "Staat Eritrea",
-      "common": "Eritrea"
-    },
-    "por": {
-      "official": "Estado da Eritreia",
-      "common": "Eritreia"
-    },
-    "rus": {
-      "official": "Государство Эритрея",
-      "common": "Эритрея"
-    },
-    "spa": {
-      "official": "Estado de Eritrea",
-      "common": "Eritrea"
-    },
-    "fin": {
-      "official": "Eritrean valtio",
-      "common": "Eritrea"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/eritrea",
-  "currency": [
-    "ERN"
-  ],
-  "callingCode": [
-    "291"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "ER",
-    "ccn3": "232",
-    "cca3": "ERI",
-    "cioc": "ERI"
-  }
+  "flag": ""
 }

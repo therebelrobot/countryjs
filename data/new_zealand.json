@@ -17,15 +17,190 @@
       }
     }
   },
+  "tld": [
+    ".nz"
+  ],
+  "currency": [
+    "NZD"
+  ],
+  "callingCode": [
+    "64"
+  ],
+  "capital": "Wellington",
   "altSpellings": [
     "NZ",
     "Aotearoa"
   ],
-  "area": 270467,
-  "borders": [],
-  "capital": "Wellington",
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "languages": {
+    "eng": "English",
+    "mri": "Māori",
+    "nzs": "New Zealand Sign Language"
+  },
+  "translations": {
+    "deu": {
+      "official": "Neuseeland",
+      "common": "Neuseeland"
+    },
+    "fra": {
+      "official": "Nouvelle-Zélande",
+      "common": "Nouvelle-Zélande"
+    },
+    "hrv": {
+      "official": "Novi Zeland",
+      "common": "Novi Zeland"
+    },
+    "ita": {
+      "official": "Nuova Zelanda",
+      "common": "Nuova Zelanda"
+    },
+    "jpn": {
+      "official": "ニュージーランド",
+      "common": "ニュージーランド"
+    },
+    "nld": {
+      "official": "Nieuw Zeeland",
+      "common": "Nieuw-Zeeland"
+    },
+    "por": {
+      "official": "nova Zelândia",
+      "common": "Nova Zelândia"
+    },
+    "rus": {
+      "official": "Новая Зеландия",
+      "common": "Новая Зеландия"
+    },
+    "spa": {
+      "official": "nueva Zelanda",
+      "common": "Nueva Zelanda"
+    },
+    "fin": {
+      "official": "Uusi-Seelanti",
+      "common": "Uusi-Seelanti"
+    }
+  },
+  "latlng": [
+    -41,
+    174
+  ],
   "demonym": "New Zealander",
-  "flag": "",
+  "landlocked": false,
+  "borders": [],
+  "area": 270467,
+  "codes": {
+    "cca2": "NZ",
+    "ccn3": "554",
+    "cca3": "NZL",
+    "cioc": "NZL"
+  },
+  "provinces": [
+    "Akaroa",
+    "Amuri",
+    "Ashburton",
+    "Bay of Islands",
+    "Bruce",
+    "Buller",
+    "Chatham Islands",
+    "Cheviot",
+    "Clifton",
+    "Clutha",
+    "Cook",
+    "Dannevirke",
+    "Egmont",
+    "Eketahuna",
+    "Ellesmere",
+    "Eltham",
+    "Eyre",
+    "Featherston",
+    "Franklin",
+    "Golden Bay",
+    "Great Barrier Island",
+    "Grey",
+    "Hauraki Plains",
+    "Hawera",
+    "Hawke's Bay",
+    "Heathcote",
+    "Hikurangi",
+    "Hobson",
+    "Hokianga",
+    "Horowhenua",
+    "Hurunui",
+    "Hutt",
+    "Inangahua",
+    "Inglewood",
+    "Kaikoura",
+    "Kairanga",
+    "Kiwitea",
+    "Lake",
+    "Mackenzie",
+    "Malvern",
+    "Manaia",
+    "Manawatu",
+    "Mangonui",
+    "Maniototo",
+    "Marlborough",
+    "Masterton",
+    "Matamata",
+    "Mount Herbert",
+    "Ohinemuri",
+    "Opotiki",
+    "Oroua",
+    "Otamatea",
+    "Otorohanga",
+    "Oxford",
+    "Pahiatua",
+    "Paparua",
+    "Patea",
+    "Piako",
+    "Pohangina",
+    "Raglan",
+    "Rangiora",
+    "Rangitikei",
+    "Rodney",
+    "Rotorua",
+    "Runanga",
+    "Saint Kilda",
+    "Silverpeaks",
+    "Southland",
+    "Stewart Island",
+    "Stratford",
+    "Strathallan",
+    "Taranaki",
+    "Taumarunui",
+    "Taupo",
+    "Tauranga",
+    "Thames-Coromandel",
+    "Tuapeka",
+    "Vincent",
+    "Waiapu",
+    "Waiheke",
+    "Waihemo",
+    "Waikato",
+    "Waikohu",
+    "Waimairi",
+    "Waimarino",
+    "Waimate",
+    "Waimate West",
+    "Waimea",
+    "Waipa",
+    "Waipawa",
+    "Waipukurau",
+    "Wairarapa South",
+    "Wairewa",
+    "Wairoa",
+    "Waitaki",
+    "Waitomo",
+    "Waitotara",
+    "Wallace",
+    "Wanganui",
+    "Waverley",
+    "Westland",
+    "Whakatane",
+    "Whangarei",
+    "Whangaroa",
+    "Woodville"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -315,190 +490,5 @@
       }
     ]
   },
-  "languages": {
-    "eng": "English",
-    "mri": "Māori",
-    "nzs": "New Zealand Sign Language"
-  },
-  "latlng": [
-    -41,
-    174
-  ],
-  "nativeName": "New Zealand",
-  "population": 4547900,
-  "provinces": [
-    "Akaroa",
-    "Amuri",
-    "Ashburton",
-    "Bay of Islands",
-    "Bruce",
-    "Buller",
-    "Chatham Islands",
-    "Cheviot",
-    "Clifton",
-    "Clutha",
-    "Cook",
-    "Dannevirke",
-    "Egmont",
-    "Eketahuna",
-    "Ellesmere",
-    "Eltham",
-    "Eyre",
-    "Featherston",
-    "Franklin",
-    "Golden Bay",
-    "Great Barrier Island",
-    "Grey",
-    "Hauraki Plains",
-    "Hawera",
-    "Hawke's Bay",
-    "Heathcote",
-    "Hikurangi",
-    "Hobson",
-    "Hokianga",
-    "Horowhenua",
-    "Hurunui",
-    "Hutt",
-    "Inangahua",
-    "Inglewood",
-    "Kaikoura",
-    "Kairanga",
-    "Kiwitea",
-    "Lake",
-    "Mackenzie",
-    "Malvern",
-    "Manaia",
-    "Manawatu",
-    "Mangonui",
-    "Maniototo",
-    "Marlborough",
-    "Masterton",
-    "Matamata",
-    "Mount Herbert",
-    "Ohinemuri",
-    "Opotiki",
-    "Oroua",
-    "Otamatea",
-    "Otorohanga",
-    "Oxford",
-    "Pahiatua",
-    "Paparua",
-    "Patea",
-    "Piako",
-    "Pohangina",
-    "Raglan",
-    "Rangiora",
-    "Rangitikei",
-    "Rodney",
-    "Rotorua",
-    "Runanga",
-    "Saint Kilda",
-    "Silverpeaks",
-    "Southland",
-    "Stewart Island",
-    "Stratford",
-    "Strathallan",
-    "Taranaki",
-    "Taumarunui",
-    "Taupo",
-    "Tauranga",
-    "Thames-Coromandel",
-    "Tuapeka",
-    "Vincent",
-    "Waiapu",
-    "Waiheke",
-    "Waihemo",
-    "Waikato",
-    "Waikohu",
-    "Waimairi",
-    "Waimarino",
-    "Waimate",
-    "Waimate West",
-    "Waimea",
-    "Waipa",
-    "Waipawa",
-    "Waipukurau",
-    "Wairarapa South",
-    "Wairewa",
-    "Wairoa",
-    "Waitaki",
-    "Waitomo",
-    "Waitotara",
-    "Wallace",
-    "Wanganui",
-    "Waverley",
-    "Westland",
-    "Whakatane",
-    "Whangarei",
-    "Whangaroa",
-    "Woodville"
-  ],
-  "region": "Oceania",
-  "subregion": "Australia and New Zealand",
-  "timezones": [
-    "UTC−11:00",
-    "UTC−10:00",
-    "UTC+12:00",
-    "UTC+12:45",
-    "UTC+13:00"
-  ],
-  "tld": [
-    ".nz"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Neuseeland",
-      "common": "Neuseeland"
-    },
-    "fra": {
-      "official": "Nouvelle-Zélande",
-      "common": "Nouvelle-Zélande"
-    },
-    "hrv": {
-      "official": "Novi Zeland",
-      "common": "Novi Zeland"
-    },
-    "ita": {
-      "official": "Nuova Zelanda",
-      "common": "Nuova Zelanda"
-    },
-    "jpn": {
-      "official": "ニュージーランド",
-      "common": "ニュージーランド"
-    },
-    "nld": {
-      "official": "Nieuw Zeeland",
-      "common": "Nieuw-Zeeland"
-    },
-    "por": {
-      "official": "nova Zelândia",
-      "common": "Nova Zelândia"
-    },
-    "rus": {
-      "official": "Новая Зеландия",
-      "common": "Новая Зеландия"
-    },
-    "spa": {
-      "official": "nueva Zelanda",
-      "common": "Nueva Zelanda"
-    },
-    "fin": {
-      "official": "Uusi-Seelanti",
-      "common": "Uusi-Seelanti"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/new_zealand",
-  "currency": [
-    "NZD"
-  ],
-  "callingCode": [
-    "64"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "NZ",
-    "ccn3": "554",
-    "cca3": "NZL",
-    "cioc": "NZL"
-  }
+  "flag": ""
 }

@@ -9,20 +9,96 @@
       }
     }
   },
+  "tld": [
+    ".om"
+  ],
+  "currency": [
+    "OMR"
+  ],
+  "callingCode": [
+    "968"
+  ],
+  "capital": "Muscat",
   "altSpellings": [
     "OM",
     "Sultanate of Oman",
     "Salṭanat ʻUmān"
   ],
-  "area": 309500,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "ara": "Arabic"
+  },
+  "translations": {
+    "deu": {
+      "official": "Sultanat Oman",
+      "common": "Oman"
+    },
+    "fra": {
+      "official": "Sultanat d'Oman",
+      "common": "Oman"
+    },
+    "hrv": {
+      "official": "Sultanat Oman",
+      "common": "Oman"
+    },
+    "ita": {
+      "official": "Sultanato dell'Oman",
+      "common": "oman"
+    },
+    "jpn": {
+      "official": "オマーン·スルタン国",
+      "common": "オマーン"
+    },
+    "nld": {
+      "official": "Sultanaat van Oman",
+      "common": "Oman"
+    },
+    "por": {
+      "official": "Sultanato de Omã",
+      "common": "Omã"
+    },
+    "rus": {
+      "official": "Султанат Оман",
+      "common": "Оман"
+    },
+    "spa": {
+      "official": "Sultanato de Omán",
+      "common": "Omán"
+    },
+    "fin": {
+      "official": "Omanin sulttaanikunta",
+      "common": "Oman"
+    }
+  },
+  "latlng": [
+    21,
+    57
+  ],
+  "demonym": "Omani",
+  "landlocked": false,
   "borders": [
     "SAU",
     "ARE",
     "YEM"
   ],
-  "capital": "Muscat",
-  "demonym": "Omani",
-  "flag": "",
+  "area": 309500,
+  "codes": {
+    "cca2": "OM",
+    "ccn3": "512",
+    "cca3": "OMN",
+    "cioc": "OMA"
+  },
+  "provinces": [
+    "Ad Dakhiliyah",
+    "Al Batinah",
+    "Al Wusta",
+    "Ash Sharqiyah",
+    "Az Zahirah",
+    "Masqat",
+    "Musandam",
+    "Zufar"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -236,87 +312,5 @@
       }
     ]
   },
-  "languages": {
-    "ara": "Arabic"
-  },
-  "latlng": [
-    21,
-    57
-  ],
-  "nativeName": "عمان",
-  "population": 4089076,
-  "provinces": [
-    "Ad Dakhiliyah",
-    "Al Batinah",
-    "Al Wusta",
-    "Ash Sharqiyah",
-    "Az Zahirah",
-    "Masqat",
-    "Musandam",
-    "Zufar"
-  ],
-  "region": "Asia",
-  "subregion": "Western Asia",
-  "timezones": [
-    "UTC+04:00"
-  ],
-  "tld": [
-    ".om"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Sultanat Oman",
-      "common": "Oman"
-    },
-    "fra": {
-      "official": "Sultanat d'Oman",
-      "common": "Oman"
-    },
-    "hrv": {
-      "official": "Sultanat Oman",
-      "common": "Oman"
-    },
-    "ita": {
-      "official": "Sultanato dell'Oman",
-      "common": "oman"
-    },
-    "jpn": {
-      "official": "オマーン·スルタン国",
-      "common": "オマーン"
-    },
-    "nld": {
-      "official": "Sultanaat van Oman",
-      "common": "Oman"
-    },
-    "por": {
-      "official": "Sultanato de Omã",
-      "common": "Omã"
-    },
-    "rus": {
-      "official": "Султанат Оман",
-      "common": "Оман"
-    },
-    "spa": {
-      "official": "Sultanato de Omán",
-      "common": "Omán"
-    },
-    "fin": {
-      "official": "Omanin sulttaanikunta",
-      "common": "Oman"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/oman",
-  "currency": [
-    "OMR"
-  ],
-  "callingCode": [
-    "968"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "OM",
-    "ccn3": "512",
-    "cca3": "OMN",
-    "cioc": "OMA"
-  }
+  "flag": ""
 }

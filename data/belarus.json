@@ -13,6 +13,16 @@
       }
     }
   },
+  "tld": [
+    ".by"
+  ],
+  "currency": [
+    "BYR"
+  ],
+  "callingCode": [
+    "375"
+  ],
+  "capital": "Minsk",
   "altSpellings": [
     "BY",
     "Bielaruś",
@@ -22,7 +32,64 @@
     "Belorussiya",
     "Respublika Belarus’"
   ],
-  "area": 207600,
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "languages": {
+    "bel": "Belarusian",
+    "rus": "Russian"
+  },
+  "translations": {
+    "cym": {
+      "official": "Republic of Belarus",
+      "common": "Belarws"
+    },
+    "deu": {
+      "official": "Republik Belarus",
+      "common": "Weißrussland"
+    },
+    "fra": {
+      "official": "République de Biélorussie",
+      "common": "Biélorussie"
+    },
+    "hrv": {
+      "official": "Republika Bjelorusija",
+      "common": "Bjelorusija"
+    },
+    "ita": {
+      "official": "Repubblica di Belarus",
+      "common": "Bielorussia"
+    },
+    "jpn": {
+      "official": "ベラルーシ共和国",
+      "common": "ベラルーシ"
+    },
+    "nld": {
+      "official": "Republiek Belarus",
+      "common": "Wit-Rusland"
+    },
+    "por": {
+      "official": "República da Bielorrússia",
+      "common": "Bielorússia"
+    },
+    "rus": {
+      "official": "Республика Беларусь",
+      "common": "Белоруссия"
+    },
+    "spa": {
+      "official": "República de Belarús",
+      "common": "Bielorrusia"
+    },
+    "fin": {
+      "official": "Valko-Venäjän tasavalta",
+      "common": "Valko-Venäjä"
+    }
+  },
+  "latlng": [
+    53,
+    28
+  ],
+  "demonym": "Belarusian",
+  "landlocked": true,
   "borders": [
     "LVA",
     "LTU",
@@ -30,9 +97,23 @@
     "RUS",
     "UKR"
   ],
-  "capital": "Minsk",
-  "demonym": "Belarusian",
-  "flag": "",
+  "area": 207600,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Belarus.svg",
+  "codes": {
+    "cca2": "BY",
+    "ccn3": "112",
+    "cca3": "BLR",
+    "cioc": "BLR"
+  },
+  "provinces": [
+    "Brestskaya (Brest)",
+    "Homyel'skaya (Homyel')",
+    "Horad Minsk",
+    "Hrodzyenskaya (Hrodna)",
+    "Mahilyowskaya (Mahilyow)",
+    "Minskaya",
+    "Vitsyebskaya (Vitsyebsk)"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -227,92 +308,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "bel": "Belarusian",
-    "rus": "Russian"
-  },
-  "latlng": [
-    53,
-    28
-  ],
-  "nativeName": "Белару́сь",
-  "population": 9475100,
-  "provinces": [
-    "Brestskaya (Brest)",
-    "Homyel'skaya (Homyel')",
-    "Horad Minsk",
-    "Hrodzyenskaya (Hrodna)",
-    "Mahilyowskaya (Mahilyow)",
-    "Minskaya",
-    "Vitsyebskaya (Vitsyebsk)"
-  ],
-  "region": "Europe",
-  "subregion": "Eastern Europe",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "tld": [
-    ".by"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Republic of Belarus",
-      "common": "Belarws"
-    },
-    "deu": {
-      "official": "Republik Belarus",
-      "common": "Weißrussland"
-    },
-    "fra": {
-      "official": "République de Biélorussie",
-      "common": "Biélorussie"
-    },
-    "hrv": {
-      "official": "Republika Bjelorusija",
-      "common": "Bjelorusija"
-    },
-    "ita": {
-      "official": "Repubblica di Belarus",
-      "common": "Bielorussia"
-    },
-    "jpn": {
-      "official": "ベラルーシ共和国",
-      "common": "ベラルーシ"
-    },
-    "nld": {
-      "official": "Republiek Belarus",
-      "common": "Wit-Rusland"
-    },
-    "por": {
-      "official": "República da Bielorrússia",
-      "common": "Bielorússia"
-    },
-    "rus": {
-      "official": "Республика Беларусь",
-      "common": "Белоруссия"
-    },
-    "spa": {
-      "official": "República de Belarús",
-      "common": "Bielorrusia"
-    },
-    "fin": {
-      "official": "Valko-Venäjän tasavalta",
-      "common": "Valko-Venäjä"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/belarus",
-  "currency": [
-    "BYR"
-  ],
-  "callingCode": [
-    "375"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "BY",
-    "ccn3": "112",
-    "cca3": "BLR",
-    "cioc": "BLR"
   }
 }

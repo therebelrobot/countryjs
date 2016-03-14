@@ -13,6 +13,16 @@
       }
     }
   },
+  "tld": [
+    ".dj"
+  ],
+  "currency": [
+    "DJF"
+  ],
+  "callingCode": [
+    "253"
+  ],
+  "capital": "Djibouti",
   "altSpellings": [
     "DJ",
     "Jabuuti",
@@ -22,15 +32,84 @@
     "Gabuutih Ummuuno",
     "Jamhuuriyadda Jabuuti"
   ],
-  "area": 23200,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "ara": "Arabic",
+    "fra": "French"
+  },
+  "translations": {
+    "cym": {
+      "official": "Republic of Djibouti",
+      "common": "Djibouti"
+    },
+    "deu": {
+      "official": "Republik Dschibuti",
+      "common": "Dschibuti"
+    },
+    "fra": {
+      "official": "République de Djibouti",
+      "common": "Djibouti"
+    },
+    "hrv": {
+      "official": "Republika Džibuti",
+      "common": "Džibuti"
+    },
+    "ita": {
+      "official": "Repubblica di Gibuti",
+      "common": "Gibuti"
+    },
+    "jpn": {
+      "official": "ジブチ共和国",
+      "common": "ジブチ"
+    },
+    "nld": {
+      "official": "Republiek Djibouti",
+      "common": "Djibouti"
+    },
+    "por": {
+      "official": "República do Djibouti",
+      "common": "Djibouti"
+    },
+    "rus": {
+      "official": "Республика Джибути",
+      "common": "Джибути"
+    },
+    "spa": {
+      "official": "República de Djibouti",
+      "common": "Djibouti"
+    },
+    "fin": {
+      "official": "Dijiboutin tasavalta",
+      "common": "Dijibouti"
+    }
+  },
+  "latlng": [
+    11.5,
+    43
+  ],
+  "demonym": "Djibouti",
+  "landlocked": false,
   "borders": [
     "ERI",
     "ETH",
     "SOM"
   ],
-  "capital": "Djibouti",
-  "demonym": "Djibouti",
-  "flag": "",
+  "area": 23200,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Djibouti.svg",
+  "codes": {
+    "cca2": "DJ",
+    "ccn3": "262",
+    "cca3": "DJI",
+    "cioc": "DJI"
+  },
+  "provinces": [
+    "'Ali Sabih",
+    "Dikhil",
+    "Djibouti",
+    "Obock",
+    "Tadjoura"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -109,90 +188,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "ara": "Arabic",
-    "fra": "French"
-  },
-  "latlng": [
-    11.5,
-    43
-  ],
-  "nativeName": "Djibouti",
-  "population": 886000,
-  "provinces": [
-    "'Ali Sabih",
-    "Dikhil",
-    "Djibouti",
-    "Obock",
-    "Tadjoura"
-  ],
-  "region": "Africa",
-  "subregion": "Eastern Africa",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "tld": [
-    ".dj"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Republic of Djibouti",
-      "common": "Djibouti"
-    },
-    "deu": {
-      "official": "Republik Dschibuti",
-      "common": "Dschibuti"
-    },
-    "fra": {
-      "official": "République de Djibouti",
-      "common": "Djibouti"
-    },
-    "hrv": {
-      "official": "Republika Džibuti",
-      "common": "Džibuti"
-    },
-    "ita": {
-      "official": "Repubblica di Gibuti",
-      "common": "Gibuti"
-    },
-    "jpn": {
-      "official": "ジブチ共和国",
-      "common": "ジブチ"
-    },
-    "nld": {
-      "official": "Republiek Djibouti",
-      "common": "Djibouti"
-    },
-    "por": {
-      "official": "República do Djibouti",
-      "common": "Djibouti"
-    },
-    "rus": {
-      "official": "Республика Джибути",
-      "common": "Джибути"
-    },
-    "spa": {
-      "official": "República de Djibouti",
-      "common": "Djibouti"
-    },
-    "fin": {
-      "official": "Dijiboutin tasavalta",
-      "common": "Dijibouti"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/djibouti",
-  "currency": [
-    "DJF"
-  ],
-  "callingCode": [
-    "253"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "DJ",
-    "ccn3": "262",
-    "cca3": "DJI",
-    "cioc": "DJI"
   }
 }

@@ -17,37 +17,26 @@
       }
     }
   },
+  "tld": [
+    ".tk"
+  ],
+  "currency": [
+    "NZD"
+  ],
+  "callingCode": [
+    "690"
+  ],
+  "capital": "Fakaofo",
   "altSpellings": [
     "TK"
   ],
-  "area": 12,
-  "borders": [],
-  "capital": "Fakaofo",
-  "demonym": "Tokelauan",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Oceania",
+  "subregion": "Polynesia",
   "languages": {
     "eng": "English",
     "smo": "Samoan",
     "tkl": "Tokelauan"
   },
-  "latlng": [
-    -9,
-    -172
-  ],
-  "nativeName": "Tokelau",
-  "population": 1411,
-  "provinces": [
-    "Atafu",
-    "Fakaofo",
-    "Nukunonu"
-  ],
-  "region": "Oceania",
-  "subregion": "Polynesia",
-  "timezones": null,
-  "tld": [
-    ".tk"
-  ],
   "translations": {
     "deu": {
       "official": "Tokelau",
@@ -90,18 +79,25 @@
       "common": "Tokelau"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/tokelau",
-  "currency": [
-    "NZD"
+  "latlng": [
+    -9,
+    -172
   ],
-  "callingCode": [
-    "690"
-  ],
+  "demonym": "Tokelauan",
   "landlocked": false,
+  "borders": [],
+  "area": 12,
   "codes": {
     "cca2": "TK",
     "ccn3": "772",
     "cca3": "TKL",
     "cioc": ""
-  }
+  },
+  "provinces": [
+    "Atafu",
+    "Fakaofo",
+    "Nukunonu"
+  ],
+  "geoJSON": {},
+  "flag": ""
 }

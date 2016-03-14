@@ -9,20 +9,107 @@
       }
     }
   },
+  "tld": [
+    ".hn"
+  ],
+  "currency": [
+    "HNL"
+  ],
+  "callingCode": [
+    "504"
+  ],
+  "capital": "Tegucigalpa",
   "altSpellings": [
     "HN",
     "Republic of Honduras",
     "República de Honduras"
   ],
-  "area": 112492,
+  "region": "Americas",
+  "subregion": "Central America",
+  "languages": {
+    "spa": "Spanish"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Honduras",
+      "common": "Honduras"
+    },
+    "fra": {
+      "official": "République du Honduras",
+      "common": "Honduras"
+    },
+    "hrv": {
+      "official": "Republika Honduras",
+      "common": "Honduras"
+    },
+    "ita": {
+      "official": "Repubblica di Honduras",
+      "common": "Honduras"
+    },
+    "jpn": {
+      "official": "ホンジュラス共和国",
+      "common": "ホンジュラス"
+    },
+    "nld": {
+      "official": "Republiek Honduras",
+      "common": "Honduras"
+    },
+    "por": {
+      "official": "República de Honduras",
+      "common": "Honduras"
+    },
+    "rus": {
+      "official": "Республика Гондурас",
+      "common": "Гондурас"
+    },
+    "spa": {
+      "official": "República de Honduras",
+      "common": "Honduras"
+    },
+    "fin": {
+      "official": "Hondurasin tasavalta",
+      "common": "Honduras"
+    }
+  },
+  "latlng": [
+    15,
+    -86.5
+  ],
+  "demonym": "Honduran",
+  "landlocked": false,
   "borders": [
     "GTM",
     "SLV",
     "NIC"
   ],
-  "capital": "Tegucigalpa",
-  "demonym": "Honduran",
-  "flag": "",
+  "area": 112492,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Honduras.svg",
+  "codes": {
+    "cca2": "HN",
+    "ccn3": "340",
+    "cca3": "HND",
+    "cioc": "HON"
+  },
+  "provinces": [
+    "Atlantida",
+    "Choluteca",
+    "Colon",
+    "Comayagua",
+    "Copan",
+    "Cortes",
+    "El Paraiso",
+    "Francisco Morazan",
+    "Gracias a Dios",
+    "Intibuca",
+    "Islas de la Bahia",
+    "La Paz",
+    "Lempira",
+    "Ocotepeque",
+    "Olancho",
+    "Santa Barbara",
+    "Valle",
+    "Yoro"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -269,98 +356,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "spa": "Spanish"
-  },
-  "latlng": [
-    15,
-    -86.5
-  ],
-  "nativeName": "Honduras",
-  "population": 8725111,
-  "provinces": [
-    "Atlantida",
-    "Choluteca",
-    "Colon",
-    "Comayagua",
-    "Copan",
-    "Cortes",
-    "El Paraiso",
-    "Francisco Morazan",
-    "Gracias a Dios",
-    "Intibuca",
-    "Islas de la Bahia",
-    "La Paz",
-    "Lempira",
-    "Ocotepeque",
-    "Olancho",
-    "Santa Barbara",
-    "Valle",
-    "Yoro"
-  ],
-  "region": "Americas",
-  "subregion": "Central America",
-  "timezones": [
-    "UTC−06:00"
-  ],
-  "tld": [
-    ".hn"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Honduras",
-      "common": "Honduras"
-    },
-    "fra": {
-      "official": "République du Honduras",
-      "common": "Honduras"
-    },
-    "hrv": {
-      "official": "Republika Honduras",
-      "common": "Honduras"
-    },
-    "ita": {
-      "official": "Repubblica di Honduras",
-      "common": "Honduras"
-    },
-    "jpn": {
-      "official": "ホンジュラス共和国",
-      "common": "ホンジュラス"
-    },
-    "nld": {
-      "official": "Republiek Honduras",
-      "common": "Honduras"
-    },
-    "por": {
-      "official": "República de Honduras",
-      "common": "Honduras"
-    },
-    "rus": {
-      "official": "Республика Гондурас",
-      "common": "Гондурас"
-    },
-    "spa": {
-      "official": "República de Honduras",
-      "common": "Honduras"
-    },
-    "fin": {
-      "official": "Hondurasin tasavalta",
-      "common": "Honduras"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/honduras",
-  "currency": [
-    "HNL"
-  ],
-  "callingCode": [
-    "504"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "HN",
-    "ccn3": "340",
-    "cca3": "HND",
-    "cioc": "HON"
   }
 }

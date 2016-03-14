@@ -9,20 +9,107 @@
       }
     }
   },
+  "tld": [
+    ".cl"
+  ],
+  "currency": [
+    "CLF",
+    "CLP"
+  ],
+  "callingCode": [
+    "56"
+  ],
+  "capital": "Santiago",
   "altSpellings": [
     "CL",
     "Republic of Chile",
     "República de Chile"
   ],
-  "area": 756102,
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "spa": "Spanish"
+  },
+  "translations": {
+    "cym": {
+      "official": "Republic of Chile",
+      "common": "Chile"
+    },
+    "deu": {
+      "official": "Republik Chile",
+      "common": "Chile"
+    },
+    "fra": {
+      "official": "République du Chili",
+      "common": "Chili"
+    },
+    "hrv": {
+      "official": "Republika Čile",
+      "common": "Čile"
+    },
+    "ita": {
+      "official": "Repubblica del Cile",
+      "common": "Cile"
+    },
+    "jpn": {
+      "official": "チリ共和国",
+      "common": "チリ"
+    },
+    "nld": {
+      "official": "Republiek Chili",
+      "common": "Chili"
+    },
+    "por": {
+      "official": "República do Chile",
+      "common": "Chile"
+    },
+    "rus": {
+      "official": "Республика Чили",
+      "common": "Чили"
+    },
+    "spa": {
+      "official": "República de Chile",
+      "common": "Chile"
+    },
+    "fin": {
+      "official": "Chilen tasavalta",
+      "common": "Chile"
+    }
+  },
+  "latlng": [
+    -30,
+    -71
+  ],
+  "demonym": "Chilean",
+  "landlocked": false,
   "borders": [
     "ARG",
     "BOL",
     "PER"
   ],
-  "capital": "Santiago",
-  "demonym": "Chilean",
-  "flag": "",
+  "area": 756102,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Chile.svg",
+  "codes": {
+    "cca2": "CL",
+    "ccn3": "152",
+    "cca3": "CHL",
+    "cioc": "CHI"
+  },
+  "provinces": [
+    "Aisen del General Carlos Ibanez del Campo",
+    "Antofagasta",
+    "Araucania",
+    "Atacama",
+    "Bio-Bio",
+    "Coquimbo",
+    "Libertador General Bernardo O'Higgins",
+    "Los Lagos",
+    "Magallanes y de la Antartica Chilena",
+    "Maule",
+    "Region Metropolitana (Santiago)",
+    "Tarapaca",
+    "Valparaiso"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -503,99 +590,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "spa": "Spanish"
-  },
-  "latlng": [
-    -30,
-    -71
-  ],
-  "nativeName": "Chile",
-  "population": 17819054,
-  "provinces": [
-    "Aisen del General Carlos Ibanez del Campo",
-    "Antofagasta",
-    "Araucania",
-    "Atacama",
-    "Bio-Bio",
-    "Coquimbo",
-    "Libertador General Bernardo O'Higgins",
-    "Los Lagos",
-    "Magallanes y de la Antartica Chilena",
-    "Maule",
-    "Region Metropolitana (Santiago)",
-    "Tarapaca",
-    "Valparaiso"
-  ],
-  "region": "Americas",
-  "subregion": "South America",
-  "timezones": [
-    "UTC−06:00",
-    "UTC−04:00"
-  ],
-  "tld": [
-    ".cl"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Republic of Chile",
-      "common": "Chile"
-    },
-    "deu": {
-      "official": "Republik Chile",
-      "common": "Chile"
-    },
-    "fra": {
-      "official": "République du Chili",
-      "common": "Chili"
-    },
-    "hrv": {
-      "official": "Republika Čile",
-      "common": "Čile"
-    },
-    "ita": {
-      "official": "Repubblica del Cile",
-      "common": "Cile"
-    },
-    "jpn": {
-      "official": "チリ共和国",
-      "common": "チリ"
-    },
-    "nld": {
-      "official": "Republiek Chili",
-      "common": "Chili"
-    },
-    "por": {
-      "official": "República do Chile",
-      "common": "Chile"
-    },
-    "rus": {
-      "official": "Республика Чили",
-      "common": "Чили"
-    },
-    "spa": {
-      "official": "República de Chile",
-      "common": "Chile"
-    },
-    "fin": {
-      "official": "Chilen tasavalta",
-      "common": "Chile"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/chile",
-  "currency": [
-    "CLF",
-    "CLP"
-  ],
-  "callingCode": [
-    "56"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "CL",
-    "ccn3": "152",
-    "cca3": "CHL",
-    "cioc": "CHI"
   }
 }

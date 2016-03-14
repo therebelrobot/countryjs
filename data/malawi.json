@@ -13,19 +13,115 @@
       }
     }
   },
+  "tld": [
+    ".mw"
+  ],
+  "currency": [
+    "MWK"
+  ],
+  "callingCode": [
+    "265"
+  ],
+  "capital": "Lilongwe",
   "altSpellings": [
     "MW",
     "Republic of Malawi"
   ],
-  "area": 118484,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "eng": "English",
+    "nya": "Chewa"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Malawi",
+      "common": "Malawi"
+    },
+    "fra": {
+      "official": "République du Malawi",
+      "common": "Malawi"
+    },
+    "hrv": {
+      "official": "Republika Malavi",
+      "common": "Malavi"
+    },
+    "ita": {
+      "official": "Repubblica del Malawi",
+      "common": "Malawi"
+    },
+    "jpn": {
+      "official": "マラウイ共和国",
+      "common": "マラウイ"
+    },
+    "nld": {
+      "official": "Republiek Malawi",
+      "common": "Malawi"
+    },
+    "por": {
+      "official": "República do Malawi",
+      "common": "Malawi"
+    },
+    "rus": {
+      "official": "Республика Малави",
+      "common": "Малави"
+    },
+    "spa": {
+      "official": "República de Malawi",
+      "common": "Malawi"
+    },
+    "fin": {
+      "official": "Malawin tasavalta",
+      "common": "Malawi"
+    }
+  },
+  "latlng": [
+    -13.5,
+    34
+  ],
+  "demonym": "Malawian",
+  "landlocked": true,
   "borders": [
     "MOZ",
     "TZA",
     "ZMB"
   ],
-  "capital": "Lilongwe",
-  "demonym": "Malawian",
-  "flag": "",
+  "area": 118484,
+  "codes": {
+    "cca2": "MW",
+    "ccn3": "454",
+    "cca3": "MWI",
+    "cioc": "MAW"
+  },
+  "provinces": [
+    "Balaka",
+    "Blantyre",
+    "Chikwawa",
+    "Chiradzulu",
+    "Chitipa",
+    "Dedza",
+    "Dowa",
+    "Karonga",
+    "Kasungu",
+    "Likoma",
+    "Lilongwe",
+    "Machinga (Kasupe)",
+    "Mangochi",
+    "Mchinji",
+    "Mulanje",
+    "Mwanza",
+    "Mzimba",
+    "Nkhata Bay",
+    "Nkhotakota",
+    "Nsanje",
+    "Ntcheu",
+    "Ntchisi",
+    "Phalombe",
+    "Rumphi",
+    "Salima",
+    "Thyolo",
+    "Zomba"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -157,107 +253,5 @@
       }
     ]
   },
-  "languages": {
-    "eng": "English",
-    "nya": "Chewa"
-  },
-  "latlng": [
-    -13.5,
-    34
-  ],
-  "nativeName": "Malawi",
-  "population": 15805239,
-  "provinces": [
-    "Balaka",
-    "Blantyre",
-    "Chikwawa",
-    "Chiradzulu",
-    "Chitipa",
-    "Dedza",
-    "Dowa",
-    "Karonga",
-    "Kasungu",
-    "Likoma",
-    "Lilongwe",
-    "Machinga (Kasupe)",
-    "Mangochi",
-    "Mchinji",
-    "Mulanje",
-    "Mwanza",
-    "Mzimba",
-    "Nkhata Bay",
-    "Nkhotakota",
-    "Nsanje",
-    "Ntcheu",
-    "Ntchisi",
-    "Phalombe",
-    "Rumphi",
-    "Salima",
-    "Thyolo",
-    "Zomba"
-  ],
-  "region": "Africa",
-  "subregion": "Eastern Africa",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "tld": [
-    ".mw"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Malawi",
-      "common": "Malawi"
-    },
-    "fra": {
-      "official": "République du Malawi",
-      "common": "Malawi"
-    },
-    "hrv": {
-      "official": "Republika Malavi",
-      "common": "Malavi"
-    },
-    "ita": {
-      "official": "Repubblica del Malawi",
-      "common": "Malawi"
-    },
-    "jpn": {
-      "official": "マラウイ共和国",
-      "common": "マラウイ"
-    },
-    "nld": {
-      "official": "Republiek Malawi",
-      "common": "Malawi"
-    },
-    "por": {
-      "official": "República do Malawi",
-      "common": "Malawi"
-    },
-    "rus": {
-      "official": "Республика Малави",
-      "common": "Малави"
-    },
-    "spa": {
-      "official": "República de Malawi",
-      "common": "Malawi"
-    },
-    "fin": {
-      "official": "Malawin tasavalta",
-      "common": "Malawi"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/malawi",
-  "currency": [
-    "MWK"
-  ],
-  "callingCode": [
-    "265"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "MW",
-    "ccn3": "454",
-    "cca3": "MWI",
-    "cioc": "MAW"
-  }
+  "flag": ""
 }

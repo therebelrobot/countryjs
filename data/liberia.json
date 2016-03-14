@@ -9,19 +9,101 @@
       }
     }
   },
+  "tld": [
+    ".lr"
+  ],
+  "currency": [
+    "LRD"
+  ],
+  "callingCode": [
+    "231"
+  ],
+  "capital": "Monrovia",
   "altSpellings": [
     "LR",
     "Republic of Liberia"
   ],
-  "area": 111369,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "languages": {
+    "eng": "English"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Liberia",
+      "common": "Liberia"
+    },
+    "fra": {
+      "official": "République du Libéria",
+      "common": "Liberia"
+    },
+    "hrv": {
+      "official": "Republika Liberija",
+      "common": "Liberija"
+    },
+    "ita": {
+      "official": "Repubblica di Liberia",
+      "common": "Liberia"
+    },
+    "jpn": {
+      "official": "リベリア共和国",
+      "common": "リベリア"
+    },
+    "nld": {
+      "official": "Republiek Liberia",
+      "common": "Liberia"
+    },
+    "por": {
+      "official": "República da Libéria",
+      "common": "Libéria"
+    },
+    "rus": {
+      "official": "Республика Либерия",
+      "common": "Либерия"
+    },
+    "spa": {
+      "official": "República de Liberia",
+      "common": "Liberia"
+    },
+    "fin": {
+      "official": "Liberian tasavalta",
+      "common": "Liberia"
+    }
+  },
+  "latlng": [
+    6.5,
+    -9.5
+  ],
+  "demonym": "Liberian",
+  "landlocked": false,
   "borders": [
     "GIN",
     "CIV",
     "SLE"
   ],
-  "capital": "Monrovia",
-  "demonym": "Liberian",
-  "flag": "",
+  "area": 111369,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Liberia.svg",
+  "codes": {
+    "cca2": "LR",
+    "ccn3": "430",
+    "cca3": "LBR",
+    "cioc": "LBR"
+  },
+  "provinces": [
+    "Bomi",
+    "Bong",
+    "Grand Bassa",
+    "Grand Cape Mount",
+    "Grand Gedeh",
+    "Grand Kru",
+    "Lofa",
+    "Margibi",
+    "Maryland",
+    "Montserrado",
+    "Nimba",
+    "River Cess",
+    "Sinoe"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -148,93 +230,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "eng": "English"
-  },
-  "latlng": [
-    6.5,
-    -9.5
-  ],
-  "nativeName": "Liberia",
-  "population": 4397000,
-  "provinces": [
-    "Bomi",
-    "Bong",
-    "Grand Bassa",
-    "Grand Cape Mount",
-    "Grand Gedeh",
-    "Grand Kru",
-    "Lofa",
-    "Margibi",
-    "Maryland",
-    "Montserrado",
-    "Nimba",
-    "River Cess",
-    "Sinoe"
-  ],
-  "region": "Africa",
-  "subregion": "Western Africa",
-  "timezones": [
-    "UTC"
-  ],
-  "tld": [
-    ".lr"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Liberia",
-      "common": "Liberia"
-    },
-    "fra": {
-      "official": "République du Libéria",
-      "common": "Liberia"
-    },
-    "hrv": {
-      "official": "Republika Liberija",
-      "common": "Liberija"
-    },
-    "ita": {
-      "official": "Repubblica di Liberia",
-      "common": "Liberia"
-    },
-    "jpn": {
-      "official": "リベリア共和国",
-      "common": "リベリア"
-    },
-    "nld": {
-      "official": "Republiek Liberia",
-      "common": "Liberia"
-    },
-    "por": {
-      "official": "República da Libéria",
-      "common": "Libéria"
-    },
-    "rus": {
-      "official": "Республика Либерия",
-      "common": "Либерия"
-    },
-    "spa": {
-      "official": "República de Liberia",
-      "common": "Liberia"
-    },
-    "fin": {
-      "official": "Liberian tasavalta",
-      "common": "Liberia"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/liberia",
-  "currency": [
-    "LRD"
-  ],
-  "callingCode": [
-    "231"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "LR",
-    "ccn3": "430",
-    "cca3": "LBR",
-    "cioc": "LBR"
   }
 }

@@ -13,19 +13,98 @@
       }
     }
   },
+  "tld": [
+    ".ht"
+  ],
+  "currency": [
+    "HTG",
+    "USD"
+  ],
+  "callingCode": [
+    "509"
+  ],
+  "capital": "Port-au-Prince",
   "altSpellings": [
     "HT",
     "Republic of Haiti",
     "République d'Haïti",
     "Repiblik Ayiti"
   ],
-  "area": 27750,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "fra": "French",
+    "hat": "Haitian Creole"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Haiti",
+      "common": "Haiti"
+    },
+    "fra": {
+      "official": "République d'Haïti",
+      "common": "Haïti"
+    },
+    "hrv": {
+      "official": "Republika Haiti",
+      "common": "Haiti"
+    },
+    "ita": {
+      "official": "Repubblica di Haiti",
+      "common": "Haiti"
+    },
+    "jpn": {
+      "official": "ハイチ共和国",
+      "common": "ハイチ"
+    },
+    "nld": {
+      "official": "Republiek Haïti",
+      "common": "Haïti"
+    },
+    "por": {
+      "official": "República do Haiti",
+      "common": "Haiti"
+    },
+    "rus": {
+      "official": "Республика Гаити",
+      "common": "Гаити"
+    },
+    "spa": {
+      "official": "República de Haití",
+      "common": "Haiti"
+    },
+    "fin": {
+      "official": "Haitin tasavalta",
+      "common": "Haiti"
+    }
+  },
+  "latlng": [
+    19,
+    -72.41666666
+  ],
+  "demonym": "Haitian",
+  "landlocked": false,
   "borders": [
     "DOM"
   ],
-  "capital": "Port-au-Prince",
-  "demonym": "Haitian",
-  "flag": "",
+  "area": 27750,
+  "codes": {
+    "cca2": "HT",
+    "ccn3": "332",
+    "cca3": "HTI",
+    "cioc": "HAI"
+  },
+  "provinces": [
+    "Artibonite",
+    "Centre",
+    "Grand'Anse",
+    "Nord",
+    "Nord-Est",
+    "Nord-Ouest",
+    "Ouest",
+    "Sud",
+    "Sud-Est"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -129,90 +208,5 @@
       }
     ]
   },
-  "languages": {
-    "fra": "French",
-    "hat": "Haitian Creole"
-  },
-  "latlng": [
-    19,
-    -72.41666666
-  ],
-  "nativeName": "Haïti",
-  "population": 10745665,
-  "provinces": [
-    "Artibonite",
-    "Centre",
-    "Grand'Anse",
-    "Nord",
-    "Nord-Est",
-    "Nord-Ouest",
-    "Ouest",
-    "Sud",
-    "Sud-Est"
-  ],
-  "region": "Americas",
-  "subregion": "Caribbean",
-  "timezones": [
-    "UTC−05:00"
-  ],
-  "tld": [
-    ".ht"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Haiti",
-      "common": "Haiti"
-    },
-    "fra": {
-      "official": "République d'Haïti",
-      "common": "Haïti"
-    },
-    "hrv": {
-      "official": "Republika Haiti",
-      "common": "Haiti"
-    },
-    "ita": {
-      "official": "Repubblica di Haiti",
-      "common": "Haiti"
-    },
-    "jpn": {
-      "official": "ハイチ共和国",
-      "common": "ハイチ"
-    },
-    "nld": {
-      "official": "Republiek Haïti",
-      "common": "Haïti"
-    },
-    "por": {
-      "official": "República do Haiti",
-      "common": "Haiti"
-    },
-    "rus": {
-      "official": "Республика Гаити",
-      "common": "Гаити"
-    },
-    "spa": {
-      "official": "República de Haití",
-      "common": "Haiti"
-    },
-    "fin": {
-      "official": "Haitin tasavalta",
-      "common": "Haiti"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/haiti",
-  "currency": [
-    "HTG",
-    "USD"
-  ],
-  "callingCode": [
-    "509"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "HT",
-    "ccn3": "332",
-    "cca3": "HTI",
-    "cioc": "HAI"
-  }
+  "flag": ""
 }

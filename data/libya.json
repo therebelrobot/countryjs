@@ -9,12 +9,74 @@
       }
     }
   },
+  "tld": [
+    ".ly"
+  ],
+  "currency": [
+    "LYD"
+  ],
+  "callingCode": [
+    "218"
+  ],
+  "capital": "Tripoli",
   "altSpellings": [
     "LY",
     "State of Libya",
     "Dawlat Libya"
   ],
-  "area": 1759540,
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "languages": {
+    "ara": "Arabic"
+  },
+  "translations": {
+    "deu": {
+      "official": "Staat Libyen",
+      "common": "Libyen"
+    },
+    "fra": {
+      "official": "Grande République arabe libyenne populaire et socialiste",
+      "common": "Libye"
+    },
+    "hrv": {
+      "official": "Država Libiji",
+      "common": "Libija"
+    },
+    "ita": {
+      "official": "Stato della Libia",
+      "common": "Libia"
+    },
+    "jpn": {
+      "official": "リビアの国家",
+      "common": "リビア"
+    },
+    "nld": {
+      "official": "Staat van Libië",
+      "common": "Libië"
+    },
+    "por": {
+      "official": "Estado da Líbia",
+      "common": "Líbia"
+    },
+    "rus": {
+      "official": "Государство Ливии",
+      "common": "Ливия"
+    },
+    "spa": {
+      "official": "Estado de Libia",
+      "common": "Libia"
+    },
+    "fin": {
+      "official": "Libyan valtio",
+      "common": "Libya"
+    }
+  },
+  "latlng": [
+    25,
+    17
+  ],
+  "demonym": "Libyan",
+  "landlocked": false,
   "borders": [
     "DZA",
     "TCD",
@@ -23,9 +85,41 @@
     "SDN",
     "TUN"
   ],
-  "capital": "Tripoli",
-  "demonym": "Libyan",
-  "flag": "",
+  "area": 1759540,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Libya.svg",
+  "codes": {
+    "cca2": "LY",
+    "ccn3": "434",
+    "cca3": "LBY",
+    "cioc": "LBA"
+  },
+  "provinces": [
+    "Ajdabiya",
+    "Al 'Aziziyah",
+    "Al Fatih",
+    "Al Jabal al Akhdar",
+    "Al Jufrah",
+    "Al Khums",
+    "Al Kufrah",
+    "An Nuqat al Khams",
+    "Ash Shati'",
+    "Awbari",
+    "Az Zawiyah",
+    "Banghazi",
+    "Darnah",
+    "Ghadamis",
+    "Gharyan",
+    "Misratah",
+    "Murzuq",
+    "Sabha",
+    "Sawfajjin",
+    "Surt",
+    "Tarabulus",
+    "Tarhunah",
+    "Tubruq",
+    "Yafran",
+    "Zlitan"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -268,105 +362,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "ara": "Arabic"
-  },
-  "latlng": [
-    25,
-    17
-  ],
-  "nativeName": "‏ليبيا",
-  "population": 6253000,
-  "provinces": [
-    "Ajdabiya",
-    "Al 'Aziziyah",
-    "Al Fatih",
-    "Al Jabal al Akhdar",
-    "Al Jufrah",
-    "Al Khums",
-    "Al Kufrah",
-    "An Nuqat al Khams",
-    "Ash Shati'",
-    "Awbari",
-    "Az Zawiyah",
-    "Banghazi",
-    "Darnah",
-    "Ghadamis",
-    "Gharyan",
-    "Misratah",
-    "Murzuq",
-    "Sabha",
-    "Sawfajjin",
-    "Surt",
-    "Tarabulus",
-    "Tarhunah",
-    "Tubruq",
-    "Yafran",
-    "Zlitan"
-  ],
-  "region": "Africa",
-  "subregion": "Northern Africa",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "tld": [
-    ".ly"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Staat Libyen",
-      "common": "Libyen"
-    },
-    "fra": {
-      "official": "Grande République arabe libyenne populaire et socialiste",
-      "common": "Libye"
-    },
-    "hrv": {
-      "official": "Država Libiji",
-      "common": "Libija"
-    },
-    "ita": {
-      "official": "Stato della Libia",
-      "common": "Libia"
-    },
-    "jpn": {
-      "official": "リビアの国家",
-      "common": "リビア"
-    },
-    "nld": {
-      "official": "Staat van Libië",
-      "common": "Libië"
-    },
-    "por": {
-      "official": "Estado da Líbia",
-      "common": "Líbia"
-    },
-    "rus": {
-      "official": "Государство Ливии",
-      "common": "Ливия"
-    },
-    "spa": {
-      "official": "Estado de Libia",
-      "common": "Libia"
-    },
-    "fin": {
-      "official": "Libyan valtio",
-      "common": "Libya"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/libya",
-  "currency": [
-    "LYD"
-  ],
-  "callingCode": [
-    "218"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "LY",
-    "ccn3": "434",
-    "cca3": "LBY",
-    "cioc": "LBA"
   }
 }

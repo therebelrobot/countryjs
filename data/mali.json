@@ -9,12 +9,74 @@
       }
     }
   },
+  "tld": [
+    ".ml"
+  ],
+  "currency": [
+    "XOF"
+  ],
+  "callingCode": [
+    "223"
+  ],
+  "capital": "Bamako",
   "altSpellings": [
     "ML",
     "Republic of Mali",
     "République du Mali"
   ],
-  "area": 1240192,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "languages": {
+    "fra": "French"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Mali",
+      "common": "Mali"
+    },
+    "fra": {
+      "official": "République du Mali",
+      "common": "Mali"
+    },
+    "hrv": {
+      "official": "Republika Mali",
+      "common": "Mali"
+    },
+    "ita": {
+      "official": "Repubblica del Mali",
+      "common": "Mali"
+    },
+    "jpn": {
+      "official": "マリ共和国",
+      "common": "マリ"
+    },
+    "nld": {
+      "official": "Republiek Mali",
+      "common": "Mali"
+    },
+    "por": {
+      "official": "República do Mali",
+      "common": "Mali"
+    },
+    "rus": {
+      "official": "Республика Мали",
+      "common": "Мали"
+    },
+    "spa": {
+      "official": "República de Malí",
+      "common": "Mali"
+    },
+    "fin": {
+      "official": "Malin tasavalta",
+      "common": "Mali"
+    }
+  },
+  "latlng": [
+    17,
+    -4
+  ],
+  "demonym": "Malian",
+  "landlocked": true,
   "borders": [
     "DZA",
     "BFA",
@@ -24,9 +86,23 @@
     "NER",
     "SEN"
   ],
-  "capital": "Bamako",
-  "demonym": "Malian",
-  "flag": "",
+  "area": 1240192,
+  "codes": {
+    "cca2": "ML",
+    "ccn3": "466",
+    "cca3": "MLI",
+    "cioc": "MLI"
+  },
+  "provinces": [
+    "Gao",
+    "Kayes",
+    "Kidal",
+    "Koulikoro",
+    "Mopti",
+    "Segou",
+    "Sikasso",
+    "Tombouctou"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -350,87 +426,5 @@
       }
     ]
   },
-  "languages": {
-    "fra": "French"
-  },
-  "latlng": [
-    17,
-    -4
-  ],
-  "nativeName": "Mali",
-  "population": 15768000,
-  "provinces": [
-    "Gao",
-    "Kayes",
-    "Kidal",
-    "Koulikoro",
-    "Mopti",
-    "Segou",
-    "Sikasso",
-    "Tombouctou"
-  ],
-  "region": "Africa",
-  "subregion": "Western Africa",
-  "timezones": [
-    "UTC"
-  ],
-  "tld": [
-    ".ml"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Mali",
-      "common": "Mali"
-    },
-    "fra": {
-      "official": "République du Mali",
-      "common": "Mali"
-    },
-    "hrv": {
-      "official": "Republika Mali",
-      "common": "Mali"
-    },
-    "ita": {
-      "official": "Repubblica del Mali",
-      "common": "Mali"
-    },
-    "jpn": {
-      "official": "マリ共和国",
-      "common": "マリ"
-    },
-    "nld": {
-      "official": "Republiek Mali",
-      "common": "Mali"
-    },
-    "por": {
-      "official": "República do Mali",
-      "common": "Mali"
-    },
-    "rus": {
-      "official": "Республика Мали",
-      "common": "Мали"
-    },
-    "spa": {
-      "official": "República de Malí",
-      "common": "Mali"
-    },
-    "fin": {
-      "official": "Malin tasavalta",
-      "common": "Mali"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/mali",
-  "currency": [
-    "XOF"
-  ],
-  "callingCode": [
-    "223"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "ML",
-    "ccn3": "466",
-    "cca3": "MLI",
-    "cioc": "MLI"
-  }
+  "flag": ""
 }

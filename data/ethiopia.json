@@ -9,13 +9,79 @@
       }
     }
   },
+  "tld": [
+    ".et"
+  ],
+  "currency": [
+    "ETB"
+  ],
+  "callingCode": [
+    "251"
+  ],
+  "capital": "Addis Ababa",
   "altSpellings": [
     "ET",
     "ʾĪtyōṗṗyā",
     "Federal Democratic Republic of Ethiopia",
     "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"
   ],
-  "area": 1104300,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "amh": "Amharic"
+  },
+  "translations": {
+    "cym": {
+      "official": "Federal Democratic Republic of Ethiopia",
+      "common": "Ethiopia"
+    },
+    "deu": {
+      "official": "Demokratische Bundesrepublik Äthiopien",
+      "common": "Äthiopien"
+    },
+    "fra": {
+      "official": "République fédérale démocratique d'Éthiopie",
+      "common": "Éthiopie"
+    },
+    "hrv": {
+      "official": "Savezna Demokratska Republika Etiopija",
+      "common": "Etiopija"
+    },
+    "ita": {
+      "official": "Repubblica federale democratica di Etiopia",
+      "common": "Etiopia"
+    },
+    "jpn": {
+      "official": "エチオピア連邦民主共和国",
+      "common": "エチオピア"
+    },
+    "nld": {
+      "official": "Federale Democratische Republiek Ethiopië",
+      "common": "Ethiopië"
+    },
+    "por": {
+      "official": "República Federal Democrática da Etiópia",
+      "common": "Etiópia"
+    },
+    "rus": {
+      "official": "Федеративная Демократическая Республика Эфиопия",
+      "common": "Эфиопия"
+    },
+    "spa": {
+      "official": "República Democrática Federal de Etiopía",
+      "common": "Etiopía"
+    },
+    "fin": {
+      "official": "Etiopian demokraattinen liittotasavalta",
+      "common": "Etiopia"
+    }
+  },
+  "latlng": [
+    8,
+    38
+  ],
+  "demonym": "Ethiopian",
+  "landlocked": true,
   "borders": [
     "DJI",
     "ERI",
@@ -24,9 +90,25 @@
     "SSD",
     "SDN"
   ],
-  "capital": "Addis Ababa",
-  "demonym": "Ethiopian",
-  "flag": "",
+  "area": 1104300,
+  "codes": {
+    "cca2": "ET",
+    "ccn3": "231",
+    "cca3": "ETH",
+    "cioc": "ETH"
+  },
+  "provinces": [
+    "Adis Abeba (Addis Ababa)",
+    "Afar",
+    "Amara",
+    "Dire Dawa",
+    "Gambela Hizboch",
+    "Hareri Hizb",
+    "Oromiya",
+    "Sumale",
+    "Tigray",
+    "YeDebub Biheroch Bihereseboch na Hizboch"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -282,93 +364,5 @@
       }
     ]
   },
-  "languages": {
-    "amh": "Amharic"
-  },
-  "latlng": [
-    8,
-    38
-  ],
-  "nativeName": "ኢትዮጵያ",
-  "population": 87952991,
-  "provinces": [
-    "Adis Abeba (Addis Ababa)",
-    "Afar",
-    "Amara",
-    "Dire Dawa",
-    "Gambela Hizboch",
-    "Hareri Hizb",
-    "Oromiya",
-    "Sumale",
-    "Tigray",
-    "YeDebub Biheroch Bihereseboch na Hizboch"
-  ],
-  "region": "Africa",
-  "subregion": "Eastern Africa",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "tld": [
-    ".et"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Federal Democratic Republic of Ethiopia",
-      "common": "Ethiopia"
-    },
-    "deu": {
-      "official": "Demokratische Bundesrepublik Äthiopien",
-      "common": "Äthiopien"
-    },
-    "fra": {
-      "official": "République fédérale démocratique d'Éthiopie",
-      "common": "Éthiopie"
-    },
-    "hrv": {
-      "official": "Savezna Demokratska Republika Etiopija",
-      "common": "Etiopija"
-    },
-    "ita": {
-      "official": "Repubblica federale democratica di Etiopia",
-      "common": "Etiopia"
-    },
-    "jpn": {
-      "official": "エチオピア連邦民主共和国",
-      "common": "エチオピア"
-    },
-    "nld": {
-      "official": "Federale Democratische Republiek Ethiopië",
-      "common": "Ethiopië"
-    },
-    "por": {
-      "official": "República Federal Democrática da Etiópia",
-      "common": "Etiópia"
-    },
-    "rus": {
-      "official": "Федеративная Демократическая Республика Эфиопия",
-      "common": "Эфиопия"
-    },
-    "spa": {
-      "official": "República Democrática Federal de Etiopía",
-      "common": "Etiopía"
-    },
-    "fin": {
-      "official": "Etiopian demokraattinen liittotasavalta",
-      "common": "Etiopia"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/ethiopia",
-  "currency": [
-    "ETB"
-  ],
-  "callingCode": [
-    "251"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "ET",
-    "ccn3": "231",
-    "cca3": "ETH",
-    "cioc": "ETH"
-  }
+  "flag": ""
 }

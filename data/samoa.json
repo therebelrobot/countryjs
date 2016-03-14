@@ -13,48 +13,27 @@
       }
     }
   },
+  "tld": [
+    ".ws"
+  ],
+  "currency": [
+    "WST"
+  ],
+  "callingCode": [
+    "685"
+  ],
+  "capital": "Apia",
   "altSpellings": [
     "WS",
     "Independent State of Samoa",
     "Malo Saʻoloto Tutoʻatasi o Sāmoa"
   ],
-  "area": 2842,
-  "borders": [],
-  "capital": "Apia",
-  "demonym": "Samoan",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Oceania",
+  "subregion": "Polynesia",
   "languages": {
     "eng": "English",
     "smo": "Samoan"
   },
-  "latlng": [
-    -13.58333333,
-    -172.33333333
-  ],
-  "nativeName": "Samoa",
-  "population": 187820,
-  "provinces": [
-    "A'ana",
-    "Aiga-i-le-Tai",
-    "Atua",
-    "Fa'asaleleaga",
-    "Gaga'emauga",
-    "Gagaifomauga",
-    "Palauli",
-    "Satupa'itea",
-    "Tuamasaga",
-    "Va'a-o-Fonoti",
-    "Vaisigano"
-  ],
-  "region": "Oceania",
-  "subregion": "Polynesia",
-  "timezones": [
-    "UTC+13:00"
-  ],
-  "tld": [
-    ".ws"
-  ],
   "translations": {
     "deu": {
       "official": "Unabhängige Staat Samoa",
@@ -97,18 +76,33 @@
       "common": "Samoa"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/samoa",
-  "currency": [
-    "WST"
+  "latlng": [
+    -13.58333333,
+    -172.33333333
   ],
-  "callingCode": [
-    "685"
-  ],
+  "demonym": "Samoan",
   "landlocked": false,
+  "borders": [],
+  "area": 2842,
   "codes": {
     "cca2": "WS",
     "ccn3": "882",
     "cca3": "WSM",
     "cioc": "SAM"
-  }
+  },
+  "provinces": [
+    "A'ana",
+    "Aiga-i-le-Tai",
+    "Atua",
+    "Fa'asaleleaga",
+    "Gaga'emauga",
+    "Gagaifomauga",
+    "Palauli",
+    "Satupa'itea",
+    "Tuamasaga",
+    "Va'a-o-Fonoti",
+    "Vaisigano"
+  ],
+  "geoJSON": {},
+  "flag": ""
 }

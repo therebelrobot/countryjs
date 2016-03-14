@@ -9,19 +9,97 @@
       }
     }
   },
+  "tld": [
+    ".gw"
+  ],
+  "currency": [
+    "XOF"
+  ],
+  "callingCode": [
+    "245"
+  ],
+  "capital": "Bissau",
   "altSpellings": [
     "GW",
     "Republic of Guinea-Bissau",
     "República da Guiné-Bissau"
   ],
-  "area": 36125,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "languages": {
+    "por": "Portuguese"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "fra": {
+      "official": "République de Guinée-Bissau",
+      "common": "Guinée-Bissau"
+    },
+    "hrv": {
+      "official": "Republika Gvineja Bisau",
+      "common": "Gvineja Bisau"
+    },
+    "ita": {
+      "official": "Repubblica di Guinea-Bissau",
+      "common": "Guinea-Bissau"
+    },
+    "jpn": {
+      "official": "ギニアビサウ共和国",
+      "common": "ギニアビサウ"
+    },
+    "nld": {
+      "official": "Republiek Guinee-Bissau",
+      "common": "Guinee-Bissau"
+    },
+    "por": {
+      "official": "República da Guiné-Bissau",
+      "common": "Guiné-Bissau"
+    },
+    "rus": {
+      "official": "Республика Гвинея -Бисау",
+      "common": "Гвинея-Бисау"
+    },
+    "spa": {
+      "official": "República de Guinea-Bissau",
+      "common": "Guinea-Bisáu"
+    },
+    "fin": {
+      "official": "Guinea-Bissaun tasavalta",
+      "common": "Guinea-Bissau"
+    }
+  },
+  "latlng": [
+    12,
+    -15
+  ],
+  "demonym": "Guinea-Bissauan",
+  "landlocked": false,
   "borders": [
     "GIN",
     "SEN"
   ],
-  "capital": "Bissau",
-  "demonym": "Guinea-Bissauan",
-  "flag": "",
+  "area": 36125,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Guinea-Bissau.svg",
+  "codes": {
+    "cca2": "GW",
+    "ccn3": "624",
+    "cca3": "GNB",
+    "cioc": "GBS"
+  },
+  "provinces": [
+    "Bafata",
+    "Biombo",
+    "Bissau",
+    "Bolama-Bijagos",
+    "Cacheu",
+    "Gabu",
+    "Oio",
+    "Quinara",
+    "Tombali"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -116,89 +194,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "por": "Portuguese"
-  },
-  "latlng": [
-    12,
-    -15
-  ],
-  "nativeName": "Guiné-Bissau",
-  "population": 1746000,
-  "provinces": [
-    "Bafata",
-    "Biombo",
-    "Bissau",
-    "Bolama-Bijagos",
-    "Cacheu",
-    "Gabu",
-    "Oio",
-    "Quinara",
-    "Tombali"
-  ],
-  "region": "Africa",
-  "subregion": "Western Africa",
-  "timezones": [
-    "UTC"
-  ],
-  "tld": [
-    ".gw"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Guinea-Bissau",
-      "common": "Guinea-Bissau"
-    },
-    "fra": {
-      "official": "République de Guinée-Bissau",
-      "common": "Guinée-Bissau"
-    },
-    "hrv": {
-      "official": "Republika Gvineja Bisau",
-      "common": "Gvineja Bisau"
-    },
-    "ita": {
-      "official": "Repubblica di Guinea-Bissau",
-      "common": "Guinea-Bissau"
-    },
-    "jpn": {
-      "official": "ギニアビサウ共和国",
-      "common": "ギニアビサウ"
-    },
-    "nld": {
-      "official": "Republiek Guinee-Bissau",
-      "common": "Guinee-Bissau"
-    },
-    "por": {
-      "official": "República da Guiné-Bissau",
-      "common": "Guiné-Bissau"
-    },
-    "rus": {
-      "official": "Республика Гвинея -Бисау",
-      "common": "Гвинея-Бисау"
-    },
-    "spa": {
-      "official": "República de Guinea-Bissau",
-      "common": "Guinea-Bisáu"
-    },
-    "fin": {
-      "official": "Guinea-Bissaun tasavalta",
-      "common": "Guinea-Bissau"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/guinea_bissau",
-  "currency": [
-    "XOF"
-  ],
-  "callingCode": [
-    "245"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "GW",
-    "ccn3": "624",
-    "cca3": "GNB",
-    "cioc": "GBS"
   }
 }

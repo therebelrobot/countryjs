@@ -13,6 +13,18 @@
       }
     }
   },
+  "tld": [
+    ".kz",
+    ".қаз"
+  ],
+  "currency": [
+    "KZT"
+  ],
+  "callingCode": [
+    "76",
+    "77"
+  ],
+  "capital": "Astana",
   "altSpellings": [
     "KZ",
     "Qazaqstan",
@@ -23,7 +35,60 @@
     "Республика Казахстан",
     "Respublika Kazakhstan"
   ],
-  "area": 2724900,
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "languages": {
+    "kaz": "Kazakh",
+    "rus": "Russian"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Kasachstan",
+      "common": "Kasachstan"
+    },
+    "fra": {
+      "official": "République du Kazakhstan",
+      "common": "Kazakhstan"
+    },
+    "hrv": {
+      "official": "Republika Kazahstan",
+      "common": "Kazahstan"
+    },
+    "ita": {
+      "official": "Repubblica del Kazakhstan",
+      "common": "Kazakistan"
+    },
+    "jpn": {
+      "official": "カザフスタン共和国",
+      "common": "カザフスタン"
+    },
+    "nld": {
+      "official": "Republiek Kazachstan",
+      "common": "Kazachstan"
+    },
+    "por": {
+      "official": "República do Cazaquistão",
+      "common": "Cazaquistão"
+    },
+    "rus": {
+      "official": "Республика Казахстан",
+      "common": "Казахстан"
+    },
+    "spa": {
+      "official": "República de Kazajstán",
+      "common": "Kazajistán"
+    },
+    "fin": {
+      "official": "Kazakstanin tasavalta",
+      "common": "Kazakstan"
+    }
+  },
+  "latlng": [
+    48,
+    68
+  ],
+  "demonym": "Kazakhstani",
+  "landlocked": true,
   "borders": [
     "CHN",
     "KGZ",
@@ -31,9 +96,31 @@
     "TKM",
     "UZB"
   ],
-  "capital": "Astana",
-  "demonym": "Kazakhstani",
-  "flag": "",
+  "area": 2724900,
+  "codes": {
+    "cca2": "KZ",
+    "ccn3": "398",
+    "cca3": "KAZ",
+    "cioc": "KAZ"
+  },
+  "provinces": [
+    "Almaty",
+    "Aqmola",
+    "Aqtobe",
+    "Astana",
+    "Atyrau",
+    "Batys Qazaqstan",
+    "Bayqongyr",
+    "Mangghystau",
+    "Ongtustik Qazaqstan",
+    "Pavlodar",
+    "Qaraghandy",
+    "Qostanay",
+    "Qyzylorda",
+    "Shyghys Qazaqstan",
+    "Soltustik Qazaqstan",
+    "Zhambyl"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -501,99 +588,5 @@
       }
     ]
   },
-  "languages": {
-    "kaz": "Kazakh",
-    "rus": "Russian"
-  },
-  "latlng": [
-    48,
-    68
-  ],
-  "nativeName": "Қазақстан",
-  "population": 17377800,
-  "provinces": [
-    "Almaty",
-    "Aqmola",
-    "Aqtobe",
-    "Astana",
-    "Atyrau",
-    "Batys Qazaqstan",
-    "Bayqongyr",
-    "Mangghystau",
-    "Ongtustik Qazaqstan",
-    "Pavlodar",
-    "Qaraghandy",
-    "Qostanay",
-    "Qyzylorda",
-    "Shyghys Qazaqstan",
-    "Soltustik Qazaqstan",
-    "Zhambyl"
-  ],
-  "region": "Asia",
-  "subregion": "Central Asia",
-  "timezones": [
-    "UTC+05:00",
-    "UTC+06:00"
-  ],
-  "tld": [
-    ".kz",
-    ".қаз"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Kasachstan",
-      "common": "Kasachstan"
-    },
-    "fra": {
-      "official": "République du Kazakhstan",
-      "common": "Kazakhstan"
-    },
-    "hrv": {
-      "official": "Republika Kazahstan",
-      "common": "Kazahstan"
-    },
-    "ita": {
-      "official": "Repubblica del Kazakhstan",
-      "common": "Kazakistan"
-    },
-    "jpn": {
-      "official": "カザフスタン共和国",
-      "common": "カザフスタン"
-    },
-    "nld": {
-      "official": "Republiek Kazachstan",
-      "common": "Kazachstan"
-    },
-    "por": {
-      "official": "República do Cazaquistão",
-      "common": "Cazaquistão"
-    },
-    "rus": {
-      "official": "Республика Казахстан",
-      "common": "Казахстан"
-    },
-    "spa": {
-      "official": "República de Kazajstán",
-      "common": "Kazajistán"
-    },
-    "fin": {
-      "official": "Kazakstanin tasavalta",
-      "common": "Kazakstan"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/kazakhstan",
-  "currency": [
-    "KZT"
-  ],
-  "callingCode": [
-    "76",
-    "77"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "KZ",
-    "ccn3": "398",
-    "cca3": "KAZ",
-    "cioc": "KAZ"
-  }
+  "flag": ""
 }

@@ -9,12 +9,74 @@
       }
     }
   },
+  "tld": [
+    ".sn"
+  ],
+  "currency": [
+    "XOF"
+  ],
+  "callingCode": [
+    "221"
+  ],
+  "capital": "Dakar",
   "altSpellings": [
     "SN",
     "Republic of Senegal",
     "République du Sénégal"
   ],
-  "area": 196722,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "languages": {
+    "fra": "French"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Senegal",
+      "common": "Senegal"
+    },
+    "fra": {
+      "official": "République du Sénégal",
+      "common": "Sénégal"
+    },
+    "hrv": {
+      "official": "Republika Senegal",
+      "common": "Senegal"
+    },
+    "ita": {
+      "official": "Repubblica del Senegal",
+      "common": "Senegal"
+    },
+    "jpn": {
+      "official": "セネガル共和国",
+      "common": "セネガル"
+    },
+    "nld": {
+      "official": "Republiek Senegal",
+      "common": "Senegal"
+    },
+    "por": {
+      "official": "República do Senegal",
+      "common": "Senegal"
+    },
+    "rus": {
+      "official": "Республика Сенегал",
+      "common": "Сенегал"
+    },
+    "spa": {
+      "official": "República de Senegal",
+      "common": "Senegal"
+    },
+    "fin": {
+      "official": "Senegalin tasavalta",
+      "common": "Senegal"
+    }
+  },
+  "latlng": [
+    14,
+    -14
+  ],
+  "demonym": "Senegalese",
+  "landlocked": false,
   "borders": [
     "GMB",
     "GIN",
@@ -22,9 +84,25 @@
     "MLI",
     "MRT"
   ],
-  "capital": "Dakar",
-  "demonym": "Senegalese",
-  "flag": "",
+  "area": 196722,
+  "codes": {
+    "cca2": "SN",
+    "ccn3": "686",
+    "cca3": "SEN",
+    "cioc": "SEN"
+  },
+  "provinces": [
+    "Dakar",
+    "Diourbel",
+    "Fatick",
+    "Kaolack",
+    "Kolda",
+    "Louga",
+    "Saint-Louis",
+    "Tambacounda",
+    "Thies",
+    "Ziguinchor"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -220,89 +298,5 @@
       }
     ]
   },
-  "languages": {
-    "fra": "French"
-  },
-  "latlng": [
-    14,
-    -14
-  ],
-  "nativeName": "Sénégal",
-  "population": 13508715,
-  "provinces": [
-    "Dakar",
-    "Diourbel",
-    "Fatick",
-    "Kaolack",
-    "Kolda",
-    "Louga",
-    "Saint-Louis",
-    "Tambacounda",
-    "Thies",
-    "Ziguinchor"
-  ],
-  "region": "Africa",
-  "subregion": "Western Africa",
-  "timezones": [
-    "UTC"
-  ],
-  "tld": [
-    ".sn"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Senegal",
-      "common": "Senegal"
-    },
-    "fra": {
-      "official": "République du Sénégal",
-      "common": "Sénégal"
-    },
-    "hrv": {
-      "official": "Republika Senegal",
-      "common": "Senegal"
-    },
-    "ita": {
-      "official": "Repubblica del Senegal",
-      "common": "Senegal"
-    },
-    "jpn": {
-      "official": "セネガル共和国",
-      "common": "セネガル"
-    },
-    "nld": {
-      "official": "Republiek Senegal",
-      "common": "Senegal"
-    },
-    "por": {
-      "official": "República do Senegal",
-      "common": "Senegal"
-    },
-    "rus": {
-      "official": "Республика Сенегал",
-      "common": "Сенегал"
-    },
-    "spa": {
-      "official": "República de Senegal",
-      "common": "Senegal"
-    },
-    "fin": {
-      "official": "Senegalin tasavalta",
-      "common": "Senegal"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/senegal",
-  "currency": [
-    "XOF"
-  ],
-  "callingCode": [
-    "221"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "SN",
-    "ccn3": "686",
-    "cca3": "SEN",
-    "cioc": "SEN"
-  }
+  "flag": ""
 }

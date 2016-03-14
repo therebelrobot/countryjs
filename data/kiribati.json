@@ -13,69 +13,27 @@
       }
     }
   },
+  "tld": [
+    ".ki"
+  ],
+  "currency": [
+    "AUD"
+  ],
+  "callingCode": [
+    "686"
+  ],
+  "capital": "South Tarawa",
   "altSpellings": [
     "KI",
     "Republic of Kiribati",
     "Ribaberiki Kiribati"
   ],
-  "area": 811,
-  "borders": [],
-  "capital": "South Tarawa",
-  "demonym": "I-Kiribati",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Oceania",
+  "subregion": "Micronesia",
   "languages": {
     "eng": "English",
     "gil": "Gilbertese"
   },
-  "latlng": [
-    1.41666666,
-    173
-  ],
-  "nativeName": "Kiribati",
-  "population": 106461,
-  "provinces": [
-    "Abaiang",
-    "Abemama",
-    "Aranuka",
-    "Arorae",
-    "Banaba",
-    "Banaba",
-    "Beru",
-    "Butaritari",
-    "Central Gilberts",
-    "Gilbert Islands",
-    "Kanton",
-    "Kiritimati",
-    "Kuria",
-    "Line Islands",
-    "Line Islands",
-    "Maiana",
-    "Makin",
-    "Marakei",
-    "Nikunau",
-    "Nonouti",
-    "Northern Gilberts",
-    "Onotoa",
-    "Phoenix Islands",
-    "Southern Gilberts",
-    "Tabiteuea",
-    "Tabuaeran",
-    "Tamana",
-    "Tarawa",
-    "Tarawa",
-    "Teraina"
-  ],
-  "region": "Oceania",
-  "subregion": "Micronesia",
-  "timezones": [
-    "UTC+12:00",
-    "UTC+13:00",
-    "UTC+14:00"
-  ],
-  "tld": [
-    ".ki"
-  ],
   "translations": {
     "deu": {
       "official": "Unabhängige und souveräne Republik Kiribati",
@@ -118,18 +76,52 @@
       "common": "Kiribati"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/kiribati",
-  "currency": [
-    "AUD"
+  "latlng": [
+    1.41666666,
+    173
   ],
-  "callingCode": [
-    "686"
-  ],
+  "demonym": "I-Kiribati",
   "landlocked": false,
+  "borders": [],
+  "area": 811,
   "codes": {
     "cca2": "KI",
     "ccn3": "296",
     "cca3": "KIR",
     "cioc": "KIR"
-  }
+  },
+  "provinces": [
+    "Abaiang",
+    "Abemama",
+    "Aranuka",
+    "Arorae",
+    "Banaba",
+    "Banaba",
+    "Beru",
+    "Butaritari",
+    "Central Gilberts",
+    "Gilbert Islands",
+    "Kanton",
+    "Kiritimati",
+    "Kuria",
+    "Line Islands",
+    "Line Islands",
+    "Maiana",
+    "Makin",
+    "Marakei",
+    "Nikunau",
+    "Nonouti",
+    "Northern Gilberts",
+    "Onotoa",
+    "Phoenix Islands",
+    "Southern Gilberts",
+    "Tabiteuea",
+    "Tabuaeran",
+    "Tamana",
+    "Tarawa",
+    "Tarawa",
+    "Teraina"
+  ],
+  "geoJSON": {},
+  "flag": ""
 }

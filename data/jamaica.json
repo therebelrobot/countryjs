@@ -13,14 +13,98 @@
       }
     }
   },
+  "tld": [
+    ".jm"
+  ],
+  "currency": [
+    "JMD"
+  ],
+  "callingCode": [
+    "1876"
+  ],
+  "capital": "Kingston",
   "altSpellings": [
     "JM"
   ],
-  "area": 10991,
-  "borders": [],
-  "capital": "Kingston",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English",
+    "jam": "Jamaican Patois"
+  },
+  "translations": {
+    "deu": {
+      "official": "Jamaika",
+      "common": "Jamaika"
+    },
+    "fra": {
+      "official": "Jamaïque",
+      "common": "Jamaïque"
+    },
+    "hrv": {
+      "official": "Jamajka",
+      "common": "Jamajka"
+    },
+    "ita": {
+      "official": "Giamaica",
+      "common": "Giamaica"
+    },
+    "jpn": {
+      "official": "ジャマイカ",
+      "common": "ジャマイカ"
+    },
+    "nld": {
+      "official": "Jamaica",
+      "common": "Jamaica"
+    },
+    "por": {
+      "official": "Jamaica",
+      "common": "Jamaica"
+    },
+    "rus": {
+      "official": "Ямайка",
+      "common": "Ямайка"
+    },
+    "spa": {
+      "official": "Jamaica",
+      "common": "Jamaica"
+    },
+    "fin": {
+      "official": "Jamaika",
+      "common": "Jamaika"
+    }
+  },
+  "latlng": [
+    18.25,
+    -77.5
+  ],
   "demonym": "Jamaican",
-  "flag": "",
+  "landlocked": false,
+  "borders": [],
+  "area": 10991,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Jamaica.svg",
+  "codes": {
+    "cca2": "JM",
+    "ccn3": "388",
+    "cca3": "JAM",
+    "cioc": "JAM"
+  },
+  "provinces": [
+    "Clarendon",
+    "Hanover",
+    "Kingston",
+    "Manchester",
+    "Portland",
+    "Saint Andrew",
+    "Saint Ann",
+    "Saint Catherine",
+    "Saint Elizabeth",
+    "Saint James",
+    "Saint Mary",
+    "Saint Thomas",
+    "Trelawny",
+    "Westmoreland"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -83,95 +167,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "eng": "English",
-    "jam": "Jamaican Patois"
-  },
-  "latlng": [
-    18.25,
-    -77.5
-  ],
-  "nativeName": "Jamaica",
-  "population": 2717991,
-  "provinces": [
-    "Clarendon",
-    "Hanover",
-    "Kingston",
-    "Manchester",
-    "Portland",
-    "Saint Andrew",
-    "Saint Ann",
-    "Saint Catherine",
-    "Saint Elizabeth",
-    "Saint James",
-    "Saint Mary",
-    "Saint Thomas",
-    "Trelawny",
-    "Westmoreland"
-  ],
-  "region": "Americas",
-  "subregion": "Caribbean",
-  "timezones": [
-    "UTC−05:00"
-  ],
-  "tld": [
-    ".jm"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Jamaika",
-      "common": "Jamaika"
-    },
-    "fra": {
-      "official": "Jamaïque",
-      "common": "Jamaïque"
-    },
-    "hrv": {
-      "official": "Jamajka",
-      "common": "Jamajka"
-    },
-    "ita": {
-      "official": "Giamaica",
-      "common": "Giamaica"
-    },
-    "jpn": {
-      "official": "ジャマイカ",
-      "common": "ジャマイカ"
-    },
-    "nld": {
-      "official": "Jamaica",
-      "common": "Jamaica"
-    },
-    "por": {
-      "official": "Jamaica",
-      "common": "Jamaica"
-    },
-    "rus": {
-      "official": "Ямайка",
-      "common": "Ямайка"
-    },
-    "spa": {
-      "official": "Jamaica",
-      "common": "Jamaica"
-    },
-    "fin": {
-      "official": "Jamaika",
-      "common": "Jamaika"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/jamaica",
-  "currency": [
-    "JMD"
-  ],
-  "callingCode": [
-    "1876"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "JM",
-    "ccn3": "388",
-    "cca3": "JAM",
-    "cioc": "JAM"
   }
 }

@@ -9,40 +9,27 @@
       }
     }
   },
+  "tld": [
+    ".pf"
+  ],
+  "currency": [
+    "XPF"
+  ],
+  "callingCode": [
+    "689"
+  ],
+  "capital": "Papeetē",
   "altSpellings": [
     "PF",
     "Polynésie française",
     "French Polynesia",
     "Pōrīnetia Farāni"
   ],
-  "area": 4167,
-  "borders": [],
-  "capital": "Papeetē",
-  "demonym": "French Polynesian",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Oceania",
+  "subregion": "Polynesia",
   "languages": {
     "fra": "French"
   },
-  "latlng": [
-    -15,
-    -140
-  ],
-  "nativeName": "Polynésie française",
-  "population": 268270,
-  "provinces": [
-    "Archipel des Marquises",
-    "Archipel des Tuamotu",
-    "Archipel des Tubuai",
-    "Iles du Vent",
-    "Iles Sous-le-Vent"
-  ],
-  "region": "Oceania",
-  "subregion": "Polynesia",
-  "timezones": null,
-  "tld": [
-    ".pf"
-  ],
   "translations": {
     "deu": {
       "official": "Französisch-Polynesien",
@@ -85,18 +72,27 @@
       "common": "Ranskan Polynesia"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/french_polynesia",
-  "currency": [
-    "XPF"
+  "latlng": [
+    -15,
+    -140
   ],
-  "callingCode": [
-    "689"
-  ],
+  "demonym": "French Polynesian",
   "landlocked": false,
+  "borders": [],
+  "area": 4167,
   "codes": {
     "cca2": "PF",
     "ccn3": "258",
     "cca3": "PYF",
     "cioc": ""
-  }
+  },
+  "provinces": [
+    "Archipel des Marquises",
+    "Archipel des Tuamotu",
+    "Archipel des Tubuai",
+    "Iles du Vent",
+    "Iles Sous-le-Vent"
+  ],
+  "geoJSON": {},
+  "flag": ""
 }

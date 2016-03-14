@@ -9,52 +9,26 @@
       }
     }
   },
+  "tld": [
+    ".cv"
+  ],
+  "currency": [
+    "CVE"
+  ],
+  "callingCode": [
+    "238"
+  ],
+  "capital": "Praia",
   "altSpellings": [
     "CV",
     "Republic of Cabo Verde",
     "República de Cabo Verde"
   ],
-  "area": 4033,
-  "borders": [],
-  "capital": "Praia",
-  "demonym": "Cape Verdian",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Africa",
+  "subregion": "Western Africa",
   "languages": {
     "por": "Portuguese"
   },
-  "latlng": [
-    16,
-    -24
-  ],
-  "nativeName": "Cabo Verde",
-  "population": 518467,
-  "provinces": [
-    "Boa Vista",
-    "Brava",
-    "Maio",
-    "Mosteiros",
-    "Paul",
-    "Porto Novo",
-    "Praia",
-    "Ribeira Grande",
-    "Sal",
-    "Santa Catarina",
-    "Santa Cruz",
-    "Sao Domingos",
-    "Sao Filipe",
-    "Sao Nicolau",
-    "Sao Vicente",
-    "Tarrafal"
-  ],
-  "region": "Africa",
-  "subregion": "Western Africa",
-  "timezones": [
-    "UTC−01:00"
-  ],
-  "tld": [
-    ".cv"
-  ],
   "translations": {
     "cym": {
       "official": "Republic of Cabo Verde",
@@ -101,18 +75,38 @@
       "common": "Kap Verde"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/cape_verde",
-  "currency": [
-    "CVE"
+  "latlng": [
+    16,
+    -24
   ],
-  "callingCode": [
-    "238"
-  ],
+  "demonym": "Cape Verdian",
   "landlocked": false,
+  "borders": [],
+  "area": 4033,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Cape Verde.svg",
   "codes": {
     "cca2": "CV",
     "ccn3": "132",
     "cca3": "CPV",
     "cioc": "CPV"
-  }
+  },
+  "provinces": [
+    "Boa Vista",
+    "Brava",
+    "Maio",
+    "Mosteiros",
+    "Paul",
+    "Porto Novo",
+    "Praia",
+    "Ribeira Grande",
+    "Sal",
+    "Santa Catarina",
+    "Santa Cruz",
+    "Sao Domingos",
+    "Sao Filipe",
+    "Sao Nicolau",
+    "Sao Vicente",
+    "Tarrafal"
+  ],
+  "geoJSON": {}
 }

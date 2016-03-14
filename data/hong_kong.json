@@ -13,39 +13,26 @@
       }
     }
   },
-  "altSpellings": [
-    "HK"
-  ],
-  "area": 1104,
-  "borders": [
-    "CHN"
-  ],
-  "capital": "City of Victoria",
-  "demonym": "Hong Konger",
-  "flag": "",
-  "geoJSON": {},
-  "languages": {
-    "eng": "English",
-    "zho": "Chinese"
-  },
-  "latlng": [
-    22.267,
-    114.188
-  ],
-  "nativeName": "香港",
-  "population": 7234800,
-  "provinces": [
-    "Hong Kong"
-  ],
-  "region": "Asia",
-  "subregion": "Eastern Asia",
-  "timezones": [
-    "UTC+08:00"
-  ],
   "tld": [
     ".hk",
     ".香港"
   ],
+  "currency": [
+    "HKD"
+  ],
+  "callingCode": [
+    "852"
+  ],
+  "capital": "City of Victoria",
+  "altSpellings": [
+    "HK"
+  ],
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "languages": {
+    "eng": "English",
+    "zho": "Chinese"
+  },
   "translations": {
     "deu": {
       "official": "Sonderverwaltungszone der Volksrepublik China",
@@ -88,18 +75,25 @@
       "common": "Hongkong"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/hong_kong",
-  "currency": [
-    "HKD"
+  "latlng": [
+    22.267,
+    114.188
   ],
-  "callingCode": [
-    "852"
-  ],
+  "demonym": "Hong Konger",
   "landlocked": false,
+  "borders": [
+    "CHN"
+  ],
+  "area": 1104,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Hong Kong.svg",
   "codes": {
     "cca2": "HK",
     "ccn3": "344",
     "cca3": "HKG",
     "cioc": "HKG"
-  }
+  },
+  "provinces": [
+    "Hong Kong"
+  ],
+  "geoJSON": {}
 }

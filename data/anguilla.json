@@ -9,33 +9,24 @@
       }
     }
   },
-  "altSpellings": [
-    "AI"
-  ],
-  "area": 91,
-  "borders": [],
-  "capital": "The Valley",
-  "demonym": "Anguillian",
-  "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Anguilla.svg",
-  "geoJSON": {},
-  "languages": {
-    "eng": "English"
-  },
-  "latlng": [
-    18.25,
-    -63.16666666
-  ],
-  "nativeName": "Anguilla",
-  "population": 13452,
-  "provinces": [
-    "Anguilla"
-  ],
-  "region": "Americas",
-  "subregion": "Caribbean",
-  "timezones": null,
   "tld": [
     ".ai"
   ],
+  "currency": [
+    "XCD"
+  ],
+  "callingCode": [
+    "1264"
+  ],
+  "capital": "The Valley",
+  "altSpellings": [
+    "AI"
+  ],
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English"
+  },
   "translations": {
     "deu": {
       "official": "Anguilla",
@@ -78,18 +69,23 @@
       "common": "Anguilla"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/anguilla",
-  "currency": [
-    "XCD"
+  "latlng": [
+    18.25,
+    -63.16666666
   ],
-  "callingCode": [
-    "1264"
-  ],
+  "demonym": "Anguillian",
   "landlocked": false,
+  "borders": [],
+  "area": 91,
+  "flag": "http://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Anguilla.svg",
   "codes": {
     "cca2": "AI",
     "ccn3": "660",
     "cca3": "AIA",
     "cioc": ""
-  }
+  },
+  "provinces": [
+    "Anguilla"
+  ],
+  "geoJSON": {}
 }

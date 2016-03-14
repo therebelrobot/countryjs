@@ -9,19 +9,99 @@
       }
     }
   },
+  "tld": [
+    ".nl"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "31"
+  ],
+  "capital": "Amsterdam",
   "altSpellings": [
     "NL",
     "Holland",
     "Nederland"
   ],
-  "area": 41850,
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "languages": {
+    "nld": "Dutch"
+  },
+  "translations": {
+    "deu": {
+      "official": "Niederlande",
+      "common": "Niederlande"
+    },
+    "fra": {
+      "official": "Pays-Bas",
+      "common": "Pays-Bas"
+    },
+    "hrv": {
+      "official": "Holandija",
+      "common": "Nizozemska"
+    },
+    "ita": {
+      "official": "Paesi Bassi",
+      "common": "Paesi Bassi"
+    },
+    "jpn": {
+      "official": "オランダ",
+      "common": "オランダ"
+    },
+    "nld": {
+      "official": "Nederland",
+      "common": "Nederland"
+    },
+    "por": {
+      "official": "Holanda",
+      "common": "Holanda"
+    },
+    "rus": {
+      "official": "Нидерланды",
+      "common": "Нидерланды"
+    },
+    "spa": {
+      "official": "Países Bajos",
+      "common": "Países Bajos"
+    },
+    "fin": {
+      "official": "Alankomaat",
+      "common": "Alankomaat"
+    }
+  },
+  "latlng": [
+    52.5,
+    5.75
+  ],
+  "demonym": "Dutch",
+  "landlocked": false,
   "borders": [
     "BEL",
     "DEU"
   ],
-  "capital": "Amsterdam",
-  "demonym": "Dutch",
-  "flag": "",
+  "area": 41850,
+  "codes": {
+    "cca2": "NL",
+    "ccn3": "528",
+    "cca3": "NLD",
+    "cioc": "NED"
+  },
+  "provinces": [
+    "Drenthe",
+    "Flevoland",
+    "Friesland",
+    "Gelderland",
+    "Groningen",
+    "Limburg",
+    "Noord-Brabant",
+    "Noord-Holland",
+    "Overijssel",
+    "Utrecht",
+    "Zeeland",
+    "Zuid-Holland"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -97,89 +177,5 @@
       }
     ]
   },
-  "languages": {
-    "nld": "Dutch"
-  },
-  "latlng": [
-    52.5,
-    5.75
-  ],
-  "nativeName": "Nederland",
-  "population": 16881000,
-  "provinces": [
-    "Drenthe",
-    "Flevoland",
-    "Friesland",
-    "Gelderland",
-    "Groningen",
-    "Limburg",
-    "Noord-Brabant",
-    "Noord-Holland",
-    "Overijssel",
-    "Utrecht",
-    "Zeeland",
-    "Zuid-Holland"
-  ],
-  "region": "Europe",
-  "subregion": "Western Europe",
-  "timezones": null,
-  "tld": [
-    ".nl"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Niederlande",
-      "common": "Niederlande"
-    },
-    "fra": {
-      "official": "Pays-Bas",
-      "common": "Pays-Bas"
-    },
-    "hrv": {
-      "official": "Holandija",
-      "common": "Nizozemska"
-    },
-    "ita": {
-      "official": "Paesi Bassi",
-      "common": "Paesi Bassi"
-    },
-    "jpn": {
-      "official": "オランダ",
-      "common": "オランダ"
-    },
-    "nld": {
-      "official": "Nederland",
-      "common": "Nederland"
-    },
-    "por": {
-      "official": "Holanda",
-      "common": "Holanda"
-    },
-    "rus": {
-      "official": "Нидерланды",
-      "common": "Нидерланды"
-    },
-    "spa": {
-      "official": "Países Bajos",
-      "common": "Países Bajos"
-    },
-    "fin": {
-      "official": "Alankomaat",
-      "common": "Alankomaat"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/netherlands",
-  "currency": [
-    "EUR"
-  ],
-  "callingCode": [
-    "31"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "NL",
-    "ccn3": "528",
-    "cca3": "NLD",
-    "cioc": "NED"
-  }
+  "flag": ""
 }

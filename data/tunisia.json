@@ -9,19 +9,110 @@
       }
     }
   },
+  "tld": [
+    ".tn"
+  ],
+  "currency": [
+    "TND"
+  ],
+  "callingCode": [
+    "216"
+  ],
+  "capital": "Tunis",
   "altSpellings": [
     "TN",
     "Republic of Tunisia",
     "al-Jumhūriyyah at-Tūnisiyyah"
   ],
-  "area": 163610,
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "languages": {
+    "ara": "Arabic"
+  },
+  "translations": {
+    "deu": {
+      "official": "Tunesische Republik",
+      "common": "Tunesien"
+    },
+    "fra": {
+      "official": "République tunisienne",
+      "common": "Tunisie"
+    },
+    "hrv": {
+      "official": "Tuniski Republika",
+      "common": "Tunis"
+    },
+    "ita": {
+      "official": "Repubblica tunisina",
+      "common": "Tunisia"
+    },
+    "jpn": {
+      "official": "チュニジア共和国",
+      "common": "チュニジア"
+    },
+    "nld": {
+      "official": "Republiek Tunesië",
+      "common": "Tunesië"
+    },
+    "por": {
+      "official": "República da Tunísia",
+      "common": "Tunísia"
+    },
+    "rus": {
+      "official": "Тунисской Республики",
+      "common": "Тунис"
+    },
+    "spa": {
+      "official": "República de Túnez",
+      "common": "Túnez"
+    },
+    "fin": {
+      "official": "Tunisian tasavalta",
+      "common": "Tunisia"
+    }
+  },
+  "latlng": [
+    34,
+    9
+  ],
+  "demonym": "Tunisian",
+  "landlocked": false,
   "borders": [
     "DZA",
     "LBY"
   ],
-  "capital": "Tunis",
-  "demonym": "Tunisian",
-  "flag": "",
+  "area": 163610,
+  "codes": {
+    "cca2": "TN",
+    "ccn3": "788",
+    "cca3": "TUN",
+    "cioc": "TUN"
+  },
+  "provinces": [
+    "Ariana",
+    "Beja",
+    "Ben Arous",
+    "Bizerte",
+    "El Kef",
+    "Gabes",
+    "Gafsa",
+    "Jendouba",
+    "Kairouan",
+    "Kasserine",
+    "Kebili",
+    "Mahdia",
+    "Medenine",
+    "Monastir",
+    "Nabeul",
+    "Sfax",
+    "Sidi Bou Zid",
+    "Siliana",
+    "Sousse",
+    "Tataouine",
+    "Tozeur",
+    "Tunis",
+    "Zaghouan"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -165,102 +256,5 @@
       }
     ]
   },
-  "languages": {
-    "ara": "Arabic"
-  },
-  "latlng": [
-    34,
-    9
-  ],
-  "nativeName": "تونس",
-  "population": 10982754,
-  "provinces": [
-    "Ariana",
-    "Beja",
-    "Ben Arous",
-    "Bizerte",
-    "El Kef",
-    "Gabes",
-    "Gafsa",
-    "Jendouba",
-    "Kairouan",
-    "Kasserine",
-    "Kebili",
-    "Mahdia",
-    "Medenine",
-    "Monastir",
-    "Nabeul",
-    "Sfax",
-    "Sidi Bou Zid",
-    "Siliana",
-    "Sousse",
-    "Tataouine",
-    "Tozeur",
-    "Tunis",
-    "Zaghouan"
-  ],
-  "region": "Africa",
-  "subregion": "Northern Africa",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "tld": [
-    ".tn"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Tunesische Republik",
-      "common": "Tunesien"
-    },
-    "fra": {
-      "official": "République tunisienne",
-      "common": "Tunisie"
-    },
-    "hrv": {
-      "official": "Tuniski Republika",
-      "common": "Tunis"
-    },
-    "ita": {
-      "official": "Repubblica tunisina",
-      "common": "Tunisia"
-    },
-    "jpn": {
-      "official": "チュニジア共和国",
-      "common": "チュニジア"
-    },
-    "nld": {
-      "official": "Republiek Tunesië",
-      "common": "Tunesië"
-    },
-    "por": {
-      "official": "República da Tunísia",
-      "common": "Tunísia"
-    },
-    "rus": {
-      "official": "Тунисской Республики",
-      "common": "Тунис"
-    },
-    "spa": {
-      "official": "República de Túnez",
-      "common": "Túnez"
-    },
-    "fin": {
-      "official": "Tunisian tasavalta",
-      "common": "Tunisia"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/tunisia",
-  "currency": [
-    "TND"
-  ],
-  "callingCode": [
-    "216"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "TN",
-    "ccn3": "788",
-    "cca3": "TUN",
-    "cioc": "TUN"
-  }
+  "flag": ""
 }

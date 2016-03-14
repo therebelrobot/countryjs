@@ -9,18 +9,110 @@
       }
     }
   },
+  "tld": [
+    ".bt"
+  ],
+  "currency": [
+    "BTN",
+    "INR"
+  ],
+  "callingCode": [
+    "975"
+  ],
+  "capital": "Thimphu",
   "altSpellings": [
     "BT",
     "Kingdom of Bhutan"
   ],
-  "area": 38394,
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "languages": {
+    "dzo": "Dzongkha"
+  },
+  "translations": {
+    "cym": {
+      "official": "Kingdom of Bhutan",
+      "common": "Bhwtan"
+    },
+    "deu": {
+      "official": "Königreich Bhutan",
+      "common": "Bhutan"
+    },
+    "fra": {
+      "official": "Royaume du Bhoutan",
+      "common": "Bhoutan"
+    },
+    "hrv": {
+      "official": "Kraljevina Butan",
+      "common": "Butan"
+    },
+    "ita": {
+      "official": "Regno del Bhutan",
+      "common": "Bhutan"
+    },
+    "jpn": {
+      "official": "ブータン王国",
+      "common": "ブータン"
+    },
+    "nld": {
+      "official": "Koninkrijk Bhutan",
+      "common": "Bhutan"
+    },
+    "por": {
+      "official": "Reino do Butão",
+      "common": "Butão"
+    },
+    "rus": {
+      "official": "Королевство Бутан",
+      "common": "Бутан"
+    },
+    "spa": {
+      "official": "Reino de Bután",
+      "common": "Bután"
+    },
+    "fin": {
+      "official": "Bhutanin kuningaskunta",
+      "common": "Bhutan"
+    }
+  },
+  "latlng": [
+    27.5,
+    90.5
+  ],
+  "demonym": "Bhutanese",
+  "landlocked": true,
   "borders": [
     "CHN",
     "IND"
   ],
-  "capital": "Thimphu",
-  "demonym": "Bhutanese",
-  "flag": "",
+  "area": 38394,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Bhutan.svg",
+  "codes": {
+    "cca2": "BT",
+    "ccn3": "064",
+    "cca3": "BTN",
+    "cioc": "BHU"
+  },
+  "provinces": [
+    "Bumthang",
+    "Chhukha",
+    "Chirang",
+    "Daga",
+    "Geylegphug",
+    "Ha",
+    "Lhuntshi",
+    "Mongar",
+    "Paro",
+    "Pemagatsel",
+    "Punakha",
+    "Samchi",
+    "Samdrup Jongkhar",
+    "Shemgang",
+    "Tashigang",
+    "Thimphu",
+    "Tongsa",
+    "Wangdi Phodrang"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -91,103 +183,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "dzo": "Dzongkha"
-  },
-  "latlng": [
-    27.5,
-    90.5
-  ],
-  "nativeName": "ʼbrug-yul",
-  "population": 755030,
-  "provinces": [
-    "Bumthang",
-    "Chhukha",
-    "Chirang",
-    "Daga",
-    "Geylegphug",
-    "Ha",
-    "Lhuntshi",
-    "Mongar",
-    "Paro",
-    "Pemagatsel",
-    "Punakha",
-    "Samchi",
-    "Samdrup Jongkhar",
-    "Shemgang",
-    "Tashigang",
-    "Thimphu",
-    "Tongsa",
-    "Wangdi Phodrang"
-  ],
-  "region": "Asia",
-  "subregion": "Southern Asia",
-  "timezones": [
-    "UTC+06:00"
-  ],
-  "tld": [
-    ".bt"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Kingdom of Bhutan",
-      "common": "Bhwtan"
-    },
-    "deu": {
-      "official": "Königreich Bhutan",
-      "common": "Bhutan"
-    },
-    "fra": {
-      "official": "Royaume du Bhoutan",
-      "common": "Bhoutan"
-    },
-    "hrv": {
-      "official": "Kraljevina Butan",
-      "common": "Butan"
-    },
-    "ita": {
-      "official": "Regno del Bhutan",
-      "common": "Bhutan"
-    },
-    "jpn": {
-      "official": "ブータン王国",
-      "common": "ブータン"
-    },
-    "nld": {
-      "official": "Koninkrijk Bhutan",
-      "common": "Bhutan"
-    },
-    "por": {
-      "official": "Reino do Butão",
-      "common": "Butão"
-    },
-    "rus": {
-      "official": "Королевство Бутан",
-      "common": "Бутан"
-    },
-    "spa": {
-      "official": "Reino de Bután",
-      "common": "Bután"
-    },
-    "fin": {
-      "official": "Bhutanin kuningaskunta",
-      "common": "Bhutan"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/bhutan",
-  "currency": [
-    "BTN",
-    "INR"
-  ],
-  "callingCode": [
-    "975"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "BT",
-    "ccn3": "064",
-    "cca3": "BTN",
-    "cioc": "BHU"
   }
 }

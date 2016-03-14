@@ -9,35 +9,26 @@
       }
     }
   },
+  "tld": [
+    ".yt"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "262"
+  ],
+  "capital": "Mamoudzou",
   "altSpellings": [
     "YT",
     "Department of Mayotte",
     "Département de Mayotte"
   ],
-  "area": 374,
-  "borders": [],
-  "capital": "Mamoudzou",
-  "demonym": "Mahoran",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Africa",
+  "subregion": "Eastern Africa",
   "languages": {
     "fra": "French"
   },
-  "latlng": [
-    -12.83333333,
-    45.16666666
-  ],
-  "nativeName": "Mayotte",
-  "population": 212645,
-  "provinces": [
-    "Mayotte"
-  ],
-  "region": "Africa",
-  "subregion": "Eastern Africa",
-  "timezones": null,
-  "tld": [
-    ".yt"
-  ],
   "translations": {
     "deu": {
       "official": "Übersee-Département Mayotte",
@@ -80,18 +71,23 @@
       "common": "Mayotte"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/mayotte",
-  "currency": [
-    "EUR"
+  "latlng": [
+    -12.83333333,
+    45.16666666
   ],
-  "callingCode": [
-    "262"
-  ],
+  "demonym": "Mahoran",
   "landlocked": false,
+  "borders": [],
+  "area": 374,
   "codes": {
     "cca2": "YT",
     "ccn3": "175",
     "cca3": "MYT",
     "cioc": ""
-  }
+  },
+  "provinces": [
+    "Mayotte"
+  ],
+  "geoJSON": {},
+  "flag": ""
 }

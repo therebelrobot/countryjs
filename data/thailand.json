@@ -9,6 +9,17 @@
       }
     }
   },
+  "tld": [
+    ".th",
+    ".ไทย"
+  ],
+  "currency": [
+    "THB"
+  ],
+  "callingCode": [
+    "66"
+  ],
+  "capital": "Bangkok",
   "altSpellings": [
     "TH",
     "Prathet",
@@ -17,16 +28,150 @@
     "ราชอาณาจักรไทย",
     "Ratcha Anachak Thai"
   ],
-  "area": 513120,
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "languages": {
+    "tha": "Thai"
+  },
+  "translations": {
+    "deu": {
+      "official": "Königreich Thailand",
+      "common": "Thailand"
+    },
+    "fra": {
+      "official": "Royaume de Thaïlande",
+      "common": "Thaïlande"
+    },
+    "hrv": {
+      "official": "Kraljevina Tajland",
+      "common": "Tajland"
+    },
+    "ita": {
+      "official": "Regno di Thailandia",
+      "common": "Tailandia"
+    },
+    "jpn": {
+      "official": "タイ王国",
+      "common": "タイ"
+    },
+    "nld": {
+      "official": "Koninkrijk Thailand",
+      "common": "Thailand"
+    },
+    "por": {
+      "official": "Reino da Tailândia",
+      "common": "Tailândia"
+    },
+    "rus": {
+      "official": "Королевство Таиланд",
+      "common": "Таиланд"
+    },
+    "spa": {
+      "official": "Reino de Tailandia",
+      "common": "Tailandia"
+    },
+    "fin": {
+      "official": "Thaimaan kuningaskunta",
+      "common": "Thaimaa"
+    }
+  },
+  "latlng": [
+    15,
+    100
+  ],
+  "demonym": "Thai",
+  "landlocked": false,
   "borders": [
     "MMR",
     "KHM",
     "LAO",
     "MYS"
   ],
-  "capital": "Bangkok",
-  "demonym": "Thai",
-  "flag": "",
+  "area": 513120,
+  "codes": {
+    "cca2": "TH",
+    "ccn3": "764",
+    "cca3": "THA",
+    "cioc": "THA"
+  },
+  "provinces": [
+    "Amnat Charoen",
+    "Ang Thong",
+    "Buriram",
+    "Chachoengsao",
+    "Chai Nat",
+    "Chaiyaphum",
+    "Chanthaburi",
+    "Chiang Mai",
+    "Chiang Rai",
+    "Chon Buri",
+    "Chumphon",
+    "Kalasin",
+    "Kamphaeng Phet",
+    "Kanchanaburi",
+    "Khon Kaen",
+    "Krabi",
+    "Krung Thep Mahanakhon (Bangkok)",
+    "Lampang",
+    "Lamphun",
+    "Loei",
+    "Lop Buri",
+    "Mae Hong Son",
+    "Maha Sarakham",
+    "Mukdahan",
+    "Nakhon Nayok",
+    "Nakhon Pathom",
+    "Nakhon Phanom",
+    "Nakhon Ratchasima",
+    "Nakhon Sawan",
+    "Nakhon Si Thammarat",
+    "Nan",
+    "Narathiwat",
+    "Nong Bua Lamphu",
+    "Nong Khai",
+    "Nonthaburi",
+    "Pathum Thani",
+    "Pattani",
+    "Phangnga",
+    "Phatthalung",
+    "Phayao",
+    "Phetchabun",
+    "Phetchaburi",
+    "Phichit",
+    "Phitsanulok",
+    "Phra Nakhon Si Ayutthaya",
+    "Phrae",
+    "Phuket",
+    "Prachin Buri",
+    "Prachuap Khiri Khan",
+    "Ranong",
+    "Ratchaburi",
+    "Rayong",
+    "Roi Et",
+    "Sa Kaeo",
+    "Sakon Nakhon",
+    "Samut Prakan",
+    "Samut Sakhon",
+    "Samut Songkhram",
+    "Sara Buri",
+    "Satun",
+    "Sing Buri",
+    "Sisaket",
+    "Songkhla",
+    "Sukhothai",
+    "Suphan Buri",
+    "Surat Thani",
+    "Surin",
+    "Tak",
+    "Trang",
+    "Trat",
+    "Ubon Ratchathani",
+    "Udon Thani",
+    "Uthai Thani",
+    "Uttaradit",
+    "Yala",
+    "Yasothon"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -302,156 +447,5 @@
       }
     ]
   },
-  "languages": {
-    "tha": "Thai"
-  },
-  "latlng": [
-    15,
-    100
-  ],
-  "nativeName": "ประเทศไทย",
-  "population": 64871000,
-  "provinces": [
-    "Amnat Charoen",
-    "Ang Thong",
-    "Buriram",
-    "Chachoengsao",
-    "Chai Nat",
-    "Chaiyaphum",
-    "Chanthaburi",
-    "Chiang Mai",
-    "Chiang Rai",
-    "Chon Buri",
-    "Chumphon",
-    "Kalasin",
-    "Kamphaeng Phet",
-    "Kanchanaburi",
-    "Khon Kaen",
-    "Krabi",
-    "Krung Thep Mahanakhon (Bangkok)",
-    "Lampang",
-    "Lamphun",
-    "Loei",
-    "Lop Buri",
-    "Mae Hong Son",
-    "Maha Sarakham",
-    "Mukdahan",
-    "Nakhon Nayok",
-    "Nakhon Pathom",
-    "Nakhon Phanom",
-    "Nakhon Ratchasima",
-    "Nakhon Sawan",
-    "Nakhon Si Thammarat",
-    "Nan",
-    "Narathiwat",
-    "Nong Bua Lamphu",
-    "Nong Khai",
-    "Nonthaburi",
-    "Pathum Thani",
-    "Pattani",
-    "Phangnga",
-    "Phatthalung",
-    "Phayao",
-    "Phetchabun",
-    "Phetchaburi",
-    "Phichit",
-    "Phitsanulok",
-    "Phra Nakhon Si Ayutthaya",
-    "Phrae",
-    "Phuket",
-    "Prachin Buri",
-    "Prachuap Khiri Khan",
-    "Ranong",
-    "Ratchaburi",
-    "Rayong",
-    "Roi Et",
-    "Sa Kaeo",
-    "Sakon Nakhon",
-    "Samut Prakan",
-    "Samut Sakhon",
-    "Samut Songkhram",
-    "Sara Buri",
-    "Satun",
-    "Sing Buri",
-    "Sisaket",
-    "Songkhla",
-    "Sukhothai",
-    "Suphan Buri",
-    "Surat Thani",
-    "Surin",
-    "Tak",
-    "Trang",
-    "Trat",
-    "Ubon Ratchathani",
-    "Udon Thani",
-    "Uthai Thani",
-    "Uttaradit",
-    "Yala",
-    "Yasothon"
-  ],
-  "region": "Asia",
-  "subregion": "South-Eastern Asia",
-  "timezones": [
-    "UTC+07:00"
-  ],
-  "tld": [
-    ".th",
-    ".ไทย"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Königreich Thailand",
-      "common": "Thailand"
-    },
-    "fra": {
-      "official": "Royaume de Thaïlande",
-      "common": "Thaïlande"
-    },
-    "hrv": {
-      "official": "Kraljevina Tajland",
-      "common": "Tajland"
-    },
-    "ita": {
-      "official": "Regno di Thailandia",
-      "common": "Tailandia"
-    },
-    "jpn": {
-      "official": "タイ王国",
-      "common": "タイ"
-    },
-    "nld": {
-      "official": "Koninkrijk Thailand",
-      "common": "Thailand"
-    },
-    "por": {
-      "official": "Reino da Tailândia",
-      "common": "Tailândia"
-    },
-    "rus": {
-      "official": "Королевство Таиланд",
-      "common": "Таиланд"
-    },
-    "spa": {
-      "official": "Reino de Tailandia",
-      "common": "Tailandia"
-    },
-    "fin": {
-      "official": "Thaimaan kuningaskunta",
-      "common": "Thaimaa"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/thailand",
-  "currency": [
-    "THB"
-  ],
-  "callingCode": [
-    "66"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "TH",
-    "ccn3": "764",
-    "cca3": "THA",
-    "cioc": "THA"
-  }
+  "flag": ""
 }

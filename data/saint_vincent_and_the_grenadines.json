@@ -9,40 +9,24 @@
       }
     }
   },
-  "altSpellings": [
-    "VC"
-  ],
-  "area": 389,
-  "borders": [],
-  "capital": "Kingstown",
-  "demonym": "Saint Vincentian",
-  "flag": "",
-  "geoJSON": {},
-  "languages": {
-    "eng": "English"
-  },
-  "latlng": [
-    13.25,
-    -61.2
-  ],
-  "nativeName": "Saint Vincent and the Grenadines",
-  "population": 109000,
-  "provinces": [
-    "Charlotte",
-    "Grenadines",
-    "Saint Andrew",
-    "Saint David",
-    "Saint George",
-    "Saint Patrick"
-  ],
-  "region": "Americas",
-  "subregion": "Caribbean",
-  "timezones": [
-    "UTC−04:00"
-  ],
   "tld": [
     ".vc"
   ],
+  "currency": [
+    "XCD"
+  ],
+  "callingCode": [
+    "1784"
+  ],
+  "capital": "Kingstown",
+  "altSpellings": [
+    "VC"
+  ],
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English"
+  },
   "translations": {
     "deu": {
       "official": "St. Vincent und die Grenadinen",
@@ -85,18 +69,28 @@
       "common": "Saint Vincent ja Grenadiinit"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/saint_vincent_and_the_grenadines",
-  "currency": [
-    "XCD"
+  "latlng": [
+    13.25,
+    -61.2
   ],
-  "callingCode": [
-    "1784"
-  ],
+  "demonym": "Saint Vincentian",
   "landlocked": false,
+  "borders": [],
+  "area": 389,
   "codes": {
     "cca2": "VC",
     "ccn3": "670",
     "cca3": "VCT",
     "cioc": "VIN"
-  }
+  },
+  "provinces": [
+    "Charlotte",
+    "Grenadines",
+    "Saint Andrew",
+    "Saint David",
+    "Saint George",
+    "Saint Patrick"
+  ],
+  "geoJSON": {},
+  "flag": ""
 }

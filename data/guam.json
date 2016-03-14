@@ -17,36 +17,27 @@
       }
     }
   },
+  "tld": [
+    ".gu"
+  ],
+  "currency": [
+    "USD"
+  ],
+  "callingCode": [
+    "1671"
+  ],
+  "capital": "Hagåtña",
   "altSpellings": [
     "GU",
     "Guåhån"
   ],
-  "area": 549,
-  "borders": [],
-  "capital": "Hagåtña",
-  "demonym": "Guamanian",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Oceania",
+  "subregion": "Micronesia",
   "languages": {
     "cha": "Chamorro",
     "eng": "English",
     "spa": "Spanish"
   },
-  "latlng": [
-    13.46666666,
-    144.78333333
-  ],
-  "nativeName": "Guam",
-  "population": 159358,
-  "provinces": [
-    "Guam"
-  ],
-  "region": "Oceania",
-  "subregion": "Micronesia",
-  "timezones": null,
-  "tld": [
-    ".gu"
-  ],
   "translations": {
     "deu": {
       "official": "Guam",
@@ -89,18 +80,23 @@
       "common": "Guam"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/guam",
-  "currency": [
-    "USD"
+  "latlng": [
+    13.46666666,
+    144.78333333
   ],
-  "callingCode": [
-    "1671"
-  ],
+  "demonym": "Guamanian",
   "landlocked": false,
+  "borders": [],
+  "area": 549,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Guam.svg",
   "codes": {
     "cca2": "GU",
     "ccn3": "316",
     "cca3": "GUM",
     "cioc": "GUM"
-  }
+  },
+  "provinces": [
+    "Guam"
+  ],
+  "geoJSON": {}
 }

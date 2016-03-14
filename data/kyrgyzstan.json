@@ -13,6 +13,16 @@
       }
     }
   },
+  "tld": [
+    ".kg"
+  ],
+  "currency": [
+    "KGS"
+  ],
+  "callingCode": [
+    "996"
+  ],
+  "capital": "Bishkek",
   "altSpellings": [
     "KG",
     "Киргизия",
@@ -20,16 +30,83 @@
     "Кыргыз Республикасы",
     "Kyrgyz Respublikasy"
   ],
-  "area": 199951,
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "languages": {
+    "kir": "Kyrgyz",
+    "rus": "Russian"
+  },
+  "translations": {
+    "deu": {
+      "official": "Kirgisische Republik",
+      "common": "Kirgisistan"
+    },
+    "fra": {
+      "official": "République kirghize",
+      "common": "Kirghizistan"
+    },
+    "hrv": {
+      "official": "Kirgistanu",
+      "common": "Kirgistan"
+    },
+    "ita": {
+      "official": "Kirghizistan",
+      "common": "Kirghizistan"
+    },
+    "jpn": {
+      "official": "キルギス共和国",
+      "common": "キルギス"
+    },
+    "nld": {
+      "official": "Kirgizische Republiek",
+      "common": "Kirgizië"
+    },
+    "por": {
+      "official": "República do Quirguistão",
+      "common": "Quirguistão"
+    },
+    "rus": {
+      "official": "Кыргызская Республика",
+      "common": "Киргизия"
+    },
+    "spa": {
+      "official": "República Kirguisa",
+      "common": "Kirguizistán"
+    },
+    "fin": {
+      "official": "Kirgisian tasavalta",
+      "common": "Kirgisia"
+    }
+  },
+  "latlng": [
+    41,
+    75
+  ],
+  "demonym": "Kirghiz",
+  "landlocked": true,
   "borders": [
     "CHN",
     "KAZ",
     "TJK",
     "UZB"
   ],
-  "capital": "Bishkek",
-  "demonym": "Kirghiz",
-  "flag": "",
+  "area": 199951,
+  "codes": {
+    "cca2": "KG",
+    "ccn3": "417",
+    "cca3": "KGZ",
+    "cioc": "KGZ"
+  },
+  "provinces": [
+    "Batken Oblasty",
+    "Bishkek Shaary",
+    "Chuy Oblasty (Bishkek)",
+    "Jalal-Abad Oblasty",
+    "Naryn Oblasty",
+    "Osh Oblasty",
+    "Talas Oblasty",
+    "Ysyk-Kol Oblasty (Karakol)"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -189,88 +266,5 @@
       }
     ]
   },
-  "languages": {
-    "kir": "Kyrgyz",
-    "rus": "Russian"
-  },
-  "latlng": [
-    41,
-    75
-  ],
-  "nativeName": "Кыргызстан",
-  "population": 5776570,
-  "provinces": [
-    "Batken Oblasty",
-    "Bishkek Shaary",
-    "Chuy Oblasty (Bishkek)",
-    "Jalal-Abad Oblasty",
-    "Naryn Oblasty",
-    "Osh Oblasty",
-    "Talas Oblasty",
-    "Ysyk-Kol Oblasty (Karakol)"
-  ],
-  "region": "Asia",
-  "subregion": "Central Asia",
-  "timezones": [
-    "UTC+06:00"
-  ],
-  "tld": [
-    ".kg"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Kirgisische Republik",
-      "common": "Kirgisistan"
-    },
-    "fra": {
-      "official": "République kirghize",
-      "common": "Kirghizistan"
-    },
-    "hrv": {
-      "official": "Kirgistanu",
-      "common": "Kirgistan"
-    },
-    "ita": {
-      "official": "Kirghizistan",
-      "common": "Kirghizistan"
-    },
-    "jpn": {
-      "official": "キルギス共和国",
-      "common": "キルギス"
-    },
-    "nld": {
-      "official": "Kirgizische Republiek",
-      "common": "Kirgizië"
-    },
-    "por": {
-      "official": "República do Quirguistão",
-      "common": "Quirguistão"
-    },
-    "rus": {
-      "official": "Кыргызская Республика",
-      "common": "Киргизия"
-    },
-    "spa": {
-      "official": "República Kirguisa",
-      "common": "Kirguizistán"
-    },
-    "fin": {
-      "official": "Kirgisian tasavalta",
-      "common": "Kirgisia"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/kyrgyzstan",
-  "currency": [
-    "KGS"
-  ],
-  "callingCode": [
-    "996"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "KG",
-    "ccn3": "417",
-    "cca3": "KGZ",
-    "cioc": "KGZ"
-  }
+  "flag": ""
 }

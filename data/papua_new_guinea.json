@@ -17,18 +17,108 @@
       }
     }
   },
+  "tld": [
+    ".pg"
+  ],
+  "currency": [
+    "PGK"
+  ],
+  "callingCode": [
+    "675"
+  ],
+  "capital": "Port Moresby",
   "altSpellings": [
     "PG",
     "Independent State of Papua New Guinea",
     "Independen Stet bilong Papua Niugini"
   ],
-  "area": 462840,
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "languages": {
+    "eng": "English",
+    "hmo": "Hiri Motu",
+    "tpi": "Tok Pisin"
+  },
+  "translations": {
+    "deu": {
+      "official": "Unabhängige Staat Papua-Neuguinea",
+      "common": "Papua-Neuguinea"
+    },
+    "fra": {
+      "official": "État indépendant de Papouasie-Nouvelle-Guinée",
+      "common": "Papouasie-Nouvelle-Guinée"
+    },
+    "hrv": {
+      "official": "Nezavisna Država Papui Novoj Gvineji",
+      "common": "Papua Nova Gvineja"
+    },
+    "ita": {
+      "official": "Stato indipendente di Papua Nuova Guinea",
+      "common": "Papua Nuova Guinea"
+    },
+    "jpn": {
+      "official": "パプアニューギニア独立国",
+      "common": "パプアニューギニア"
+    },
+    "nld": {
+      "official": "Onafhankelijke Staat Papoea -Nieuw-Guinea",
+      "common": "Papoea-Nieuw-Guinea"
+    },
+    "por": {
+      "official": "Estado Independente da Papua Nova Guiné",
+      "common": "Papua Nova Guiné"
+    },
+    "rus": {
+      "official": "Независимое Государство Папуа-Новой Гвинеи",
+      "common": "Папуа — Новая Гвинея"
+    },
+    "spa": {
+      "official": "Estado Independiente de Papúa Nueva Guinea",
+      "common": "Papúa Nueva Guinea"
+    },
+    "fin": {
+      "official": "Papua-Uuden-Guinean Itsenäinen valtio",
+      "common": "Papua-Uusi-Guinea"
+    }
+  },
+  "latlng": [
+    -6,
+    147
+  ],
+  "demonym": "Papua New Guinean",
+  "landlocked": false,
   "borders": [
     "IDN"
   ],
-  "capital": "Port Moresby",
-  "demonym": "Papua New Guinean",
-  "flag": "",
+  "area": 462840,
+  "codes": {
+    "cca2": "PG",
+    "ccn3": "598",
+    "cca3": "PNG",
+    "cioc": "PNG"
+  },
+  "provinces": [
+    "Bougainville",
+    "Central",
+    "Chimbu",
+    "East New Britain",
+    "East Sepik",
+    "Eastern Highlands",
+    "Enga",
+    "Gulf",
+    "Madang",
+    "Manus",
+    "Milne Bay",
+    "Morobe",
+    "National Capital",
+    "New Ireland",
+    "Northern",
+    "Sandaun",
+    "Southern Highlands",
+    "West New Britain",
+    "Western",
+    "Western Highlands"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -386,101 +476,5 @@
       }
     ]
   },
-  "languages": {
-    "eng": "English",
-    "hmo": "Hiri Motu",
-    "tpi": "Tok Pisin"
-  },
-  "latlng": [
-    -6,
-    147
-  ],
-  "nativeName": "Papua Niugini",
-  "population": 7398500,
-  "provinces": [
-    "Bougainville",
-    "Central",
-    "Chimbu",
-    "East New Britain",
-    "East Sepik",
-    "Eastern Highlands",
-    "Enga",
-    "Gulf",
-    "Madang",
-    "Manus",
-    "Milne Bay",
-    "Morobe",
-    "National Capital",
-    "New Ireland",
-    "Northern",
-    "Sandaun",
-    "Southern Highlands",
-    "West New Britain",
-    "Western",
-    "Western Highlands"
-  ],
-  "region": "Oceania",
-  "subregion": "Melanesia",
-  "timezones": [
-    "UTC+10:00"
-  ],
-  "tld": [
-    ".pg"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Unabhängige Staat Papua-Neuguinea",
-      "common": "Papua-Neuguinea"
-    },
-    "fra": {
-      "official": "État indépendant de Papouasie-Nouvelle-Guinée",
-      "common": "Papouasie-Nouvelle-Guinée"
-    },
-    "hrv": {
-      "official": "Nezavisna Država Papui Novoj Gvineji",
-      "common": "Papua Nova Gvineja"
-    },
-    "ita": {
-      "official": "Stato indipendente di Papua Nuova Guinea",
-      "common": "Papua Nuova Guinea"
-    },
-    "jpn": {
-      "official": "パプアニューギニア独立国",
-      "common": "パプアニューギニア"
-    },
-    "nld": {
-      "official": "Onafhankelijke Staat Papoea -Nieuw-Guinea",
-      "common": "Papoea-Nieuw-Guinea"
-    },
-    "por": {
-      "official": "Estado Independente da Papua Nova Guiné",
-      "common": "Papua Nova Guiné"
-    },
-    "rus": {
-      "official": "Независимое Государство Папуа-Новой Гвинеи",
-      "common": "Папуа — Новая Гвинея"
-    },
-    "spa": {
-      "official": "Estado Independiente de Papúa Nueva Guinea",
-      "common": "Papúa Nueva Guinea"
-    },
-    "fin": {
-      "official": "Papua-Uuden-Guinean Itsenäinen valtio",
-      "common": "Papua-Uusi-Guinea"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/papua_new_guinea",
-  "currency": [
-    "PGK"
-  ],
-  "callingCode": [
-    "675"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "PG",
-    "ccn3": "598",
-    "cca3": "PNG",
-    "cioc": "PNG"
-  }
+  "flag": ""
 }

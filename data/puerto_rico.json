@@ -13,81 +13,84 @@
       }
     }
   },
+  "tld": [
+    ".pr"
+  ],
+  "currency": [
+    "USD"
+  ],
+  "callingCode": [
+    "1787",
+    "1939"
+  ],
+  "capital": "San Juan",
   "altSpellings": [
     "PR",
     "Commonwealth of Puerto Rico",
     "Estado Libre Asociado de Puerto Rico"
   ],
-  "area": 8870,
-  "borders": [],
-  "capital": "San Juan",
-  "demonym": "Puerto Rican",
-  "flag": "",
-  "geoJSON": {
-    "type": "FeatureCollection",
-    "features": [
-      {
-        "type": "Feature",
-        "id": "PRI",
-        "properties": {
-          "name": "Puerto Rico"
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
-            [
-              [
-                -66.282434,
-                18.514762
-              ],
-              [
-                -65.771303,
-                18.426679
-              ],
-              [
-                -65.591004,
-                18.228035
-              ],
-              [
-                -65.847164,
-                17.975906
-              ],
-              [
-                -66.599934,
-                17.981823
-              ],
-              [
-                -67.184162,
-                17.946553
-              ],
-              [
-                -67.242428,
-                18.37446
-              ],
-              [
-                -67.100679,
-                18.520601
-              ],
-              [
-                -66.282434,
-                18.514762
-              ]
-            ]
-          ]
-        }
-      }
-    ]
-  },
+  "region": "Americas",
+  "subregion": "Caribbean",
   "languages": {
     "eng": "English",
     "spa": "Spanish"
+  },
+  "translations": {
+    "deu": {
+      "official": "Commonwealth von Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "fra": {
+      "official": "Porto Rico",
+      "common": "Porto Rico"
+    },
+    "hrv": {
+      "official": "Zajednica Puerto Rico",
+      "common": "Portoriko"
+    },
+    "ita": {
+      "official": "Commonwealth di Porto Rico",
+      "common": "Porto Rico"
+    },
+    "jpn": {
+      "official": "プエルトリコのコモンウェルス",
+      "common": "プエルトリコ"
+    },
+    "nld": {
+      "official": "Gemenebest van Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "por": {
+      "official": "Commonwealth of Puerto Rico",
+      "common": "Porto Rico"
+    },
+    "rus": {
+      "official": "Содружество Пуэрто-Рико",
+      "common": "Пуэрто-Рико"
+    },
+    "spa": {
+      "official": "Asociado de Puerto Rico",
+      "common": "Puerto Rico"
+    },
+    "fin": {
+      "official": "Puerto Rico",
+      "common": "Puerto Rico"
+    }
   },
   "latlng": [
     18.25,
     -66.5
   ],
-  "nativeName": "Puerto Rico",
-  "population": 3615086,
+  "demonym": "Puerto Rican",
+  "landlocked": false,
+  "borders": [],
+  "area": 8870,
+  "codes": {
+    "cca2": "PR",
+    "ccn3": "630",
+    "cca3": "PRI",
+    "cioc": "PUR"
+  },
   "provinces": [
     "Adjuntas",
     "Aguada",
@@ -168,67 +171,60 @@
     "Yabucoa",
     "Yauco"
   ],
-  "region": "Americas",
-  "subregion": "Caribbean",
-  "timezones": null,
-  "tld": [
-    ".pr"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Commonwealth von Puerto Rico",
-      "common": "Puerto Rico"
-    },
-    "fra": {
-      "official": "Porto Rico",
-      "common": "Porto Rico"
-    },
-    "hrv": {
-      "official": "Zajednica Puerto Rico",
-      "common": "Portoriko"
-    },
-    "ita": {
-      "official": "Commonwealth di Porto Rico",
-      "common": "Porto Rico"
-    },
-    "jpn": {
-      "official": "プエルトリコのコモンウェルス",
-      "common": "プエルトリコ"
-    },
-    "nld": {
-      "official": "Gemenebest van Puerto Rico",
-      "common": "Puerto Rico"
-    },
-    "por": {
-      "official": "Commonwealth of Puerto Rico",
-      "common": "Porto Rico"
-    },
-    "rus": {
-      "official": "Содружество Пуэрто-Рико",
-      "common": "Пуэрто-Рико"
-    },
-    "spa": {
-      "official": "Asociado de Puerto Rico",
-      "common": "Puerto Rico"
-    },
-    "fin": {
-      "official": "Puerto Rico",
-      "common": "Puerto Rico"
-    }
+  "geoJSON": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "PRI",
+        "properties": {
+          "name": "Puerto Rico"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -66.282434,
+                18.514762
+              ],
+              [
+                -65.771303,
+                18.426679
+              ],
+              [
+                -65.591004,
+                18.228035
+              ],
+              [
+                -65.847164,
+                17.975906
+              ],
+              [
+                -66.599934,
+                17.981823
+              ],
+              [
+                -67.184162,
+                17.946553
+              ],
+              [
+                -67.242428,
+                18.37446
+              ],
+              [
+                -67.100679,
+                18.520601
+              ],
+              [
+                -66.282434,
+                18.514762
+              ]
+            ]
+          ]
+        }
+      }
+    ]
   },
-  "wiki": "http://en.wikipedia.org/wiki/puerto_rico",
-  "currency": [
-    "USD"
-  ],
-  "callingCode": [
-    "1787",
-    "1939"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "PR",
-    "ccn3": "630",
-    "cca3": "PRI",
-    "cioc": "PUR"
-  }
+  "flag": ""
 }

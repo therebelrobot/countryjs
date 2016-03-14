@@ -9,42 +9,24 @@
       }
     }
   },
-  "altSpellings": [
-    "AG"
-  ],
-  "area": 442,
-  "borders": [],
-  "capital": "Saint John's",
-  "demonym": "Antiguan, Barbudan",
-  "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg",
-  "geoJSON": {},
-  "languages": {
-    "eng": "English"
-  },
-  "latlng": [
-    17.05,
-    -61.8
-  ],
-  "nativeName": "Antigua and Barbuda",
-  "population": 86295,
-  "provinces": [
-    "Barbuda",
-    "Redonda",
-    "Saint George",
-    "Saint John",
-    "Saint Mary",
-    "Saint Paul",
-    "Saint Peter",
-    "Saint Philip"
-  ],
-  "region": "Americas",
-  "subregion": "Caribbean",
-  "timezones": [
-    "UTC−04:00"
-  ],
   "tld": [
     ".ag"
   ],
+  "currency": [
+    "XCD"
+  ],
+  "callingCode": [
+    "1268"
+  ],
+  "capital": "Saint John's",
+  "altSpellings": [
+    "AG"
+  ],
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English"
+  },
   "translations": {
     "cym": {
       "official": "Antigua and Barbuda",
@@ -91,18 +73,30 @@
       "common": "Antigua ja Barbuda"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/antigua_and_barbuda",
-  "currency": [
-    "XCD"
+  "latlng": [
+    17.05,
+    -61.8
   ],
-  "callingCode": [
-    "1268"
-  ],
+  "demonym": "Antiguan, Barbudan",
   "landlocked": false,
+  "borders": [],
+  "area": 442,
+  "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg",
   "codes": {
     "cca2": "AG",
     "ccn3": "028",
     "cca3": "ATG",
     "cioc": "ANT"
-  }
+  },
+  "provinces": [
+    "Barbuda",
+    "Redonda",
+    "Saint George",
+    "Saint John",
+    "Saint Mary",
+    "Saint Paul",
+    "Saint Peter",
+    "Saint Philip"
+  ],
+  "geoJSON": {}
 }

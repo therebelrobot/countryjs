@@ -13,6 +13,16 @@
       }
     }
   },
+  "tld": [
+    ".nr"
+  ],
+  "currency": [
+    "AUD"
+  ],
+  "callingCode": [
+    "674"
+  ],
+  "capital": "Yaren",
   "altSpellings": [
     "NR",
     "Naoero",
@@ -20,46 +30,12 @@
     "Republic of Nauru",
     "Ripublik Naoero"
   ],
-  "area": 21,
-  "borders": [],
-  "capital": "Yaren",
-  "demonym": "Nauruan",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Oceania",
+  "subregion": "Micronesia",
   "languages": {
     "eng": "English",
     "nau": "Nauru"
   },
-  "latlng": [
-    -0.53333333,
-    166.91666666
-  ],
-  "nativeName": "Nauru",
-  "population": 10084,
-  "provinces": [
-    "Aiwo",
-    "Anabar",
-    "Anetan",
-    "Anibare",
-    "Baiti",
-    "Boe",
-    "Buada",
-    "Denigomodu",
-    "Ewa",
-    "Ijuw",
-    "Meneng",
-    "Nibok",
-    "Uaboe",
-    "Yaren"
-  ],
-  "region": "Oceania",
-  "subregion": "Micronesia",
-  "timezones": [
-    "UTC+12:00"
-  ],
-  "tld": [
-    ".nr"
-  ],
   "translations": {
     "deu": {
       "official": "Republik Nauru",
@@ -102,18 +78,36 @@
       "common": "Nauru"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/nauru",
-  "currency": [
-    "AUD"
+  "latlng": [
+    -0.53333333,
+    166.91666666
   ],
-  "callingCode": [
-    "674"
-  ],
+  "demonym": "Nauruan",
   "landlocked": false,
+  "borders": [],
+  "area": 21,
   "codes": {
     "cca2": "NR",
     "ccn3": "520",
     "cca3": "NRU",
     "cioc": "NRU"
-  }
+  },
+  "provinces": [
+    "Aiwo",
+    "Anabar",
+    "Anetan",
+    "Anibare",
+    "Baiti",
+    "Boe",
+    "Buada",
+    "Denigomodu",
+    "Ewa",
+    "Ijuw",
+    "Meneng",
+    "Nibok",
+    "Uaboe",
+    "Yaren"
+  ],
+  "geoJSON": {},
+  "flag": ""
 }

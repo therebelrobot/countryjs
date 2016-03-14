@@ -9,13 +9,75 @@
       }
     }
   },
+  "tld": [
+    ".la"
+  ],
+  "currency": [
+    "LAK"
+  ],
+  "callingCode": [
+    "856"
+  ],
+  "capital": "Vientiane",
   "altSpellings": [
     "LA",
     "Lao",
     "Lao People's Democratic Republic",
     "Sathalanalat Paxathipatai Paxaxon Lao"
   ],
-  "area": 236800,
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "languages": {
+    "lao": "Lao"
+  },
+  "translations": {
+    "deu": {
+      "official": "Laos, Demokratische Volksrepublik",
+      "common": "Laos"
+    },
+    "fra": {
+      "official": "République démocratique populaire lao",
+      "common": "Laos"
+    },
+    "hrv": {
+      "official": "Narodna Demokratska Republika",
+      "common": "Laos"
+    },
+    "ita": {
+      "official": "Repubblica democratica popolare del Laos",
+      "common": "Laos"
+    },
+    "jpn": {
+      "official": "ラオス人民民主共和国",
+      "common": "ラオス人民民主共和国"
+    },
+    "nld": {
+      "official": "Lao Democratische Volksrepubliek",
+      "common": "Laos"
+    },
+    "por": {
+      "official": "Laos, República Democrática",
+      "common": "Laos"
+    },
+    "rus": {
+      "official": "Лаосская Народно-Демократическая Республика",
+      "common": "Лаос"
+    },
+    "spa": {
+      "official": "República Democrática Popular Lao",
+      "common": "Laos"
+    },
+    "fin": {
+      "official": "Laosin demokraattinen kansantasavalta",
+      "common": "Laos"
+    }
+  },
+  "latlng": [
+    18,
+    105
+  ],
+  "demonym": "Laotian",
+  "landlocked": true,
   "borders": [
     "MMR",
     "KHM",
@@ -23,9 +85,33 @@
     "THA",
     "VNM"
   ],
-  "capital": "Vientiane",
-  "demonym": "Laotian",
-  "flag": "",
+  "area": 236800,
+  "codes": {
+    "cca2": "LA",
+    "ccn3": "418",
+    "cca3": "LAO",
+    "cioc": "LAO"
+  },
+  "provinces": [
+    "Attapu",
+    "Bokeo",
+    "Bolikhamxai",
+    "Champasak",
+    "Houaphan",
+    "Khammouan",
+    "Louangnamtha",
+    "Louangphabang",
+    "Oudomxai",
+    "Phongsali",
+    "Salavan",
+    "Savannakhet",
+    "Viangchan",
+    "Viangchan",
+    "Xaignabouli",
+    "Xaisomboun",
+    "Xekong",
+    "Xiangkhoang"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -193,97 +279,5 @@
       }
     ]
   },
-  "languages": {
-    "lao": "Lao"
-  },
-  "latlng": [
-    18,
-    105
-  ],
-  "nativeName": "ສປປລາວ",
-  "population": 6693300,
-  "provinces": [
-    "Attapu",
-    "Bokeo",
-    "Bolikhamxai",
-    "Champasak",
-    "Houaphan",
-    "Khammouan",
-    "Louangnamtha",
-    "Louangphabang",
-    "Oudomxai",
-    "Phongsali",
-    "Salavan",
-    "Savannakhet",
-    "Viangchan",
-    "Viangchan",
-    "Xaignabouli",
-    "Xaisomboun",
-    "Xekong",
-    "Xiangkhoang"
-  ],
-  "region": "Asia",
-  "subregion": "South-Eastern Asia",
-  "timezones": [
-    "UTC+07:00"
-  ],
-  "tld": [
-    ".la"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Laos, Demokratische Volksrepublik",
-      "common": "Laos"
-    },
-    "fra": {
-      "official": "République démocratique populaire lao",
-      "common": "Laos"
-    },
-    "hrv": {
-      "official": "Narodna Demokratska Republika",
-      "common": "Laos"
-    },
-    "ita": {
-      "official": "Repubblica democratica popolare del Laos",
-      "common": "Laos"
-    },
-    "jpn": {
-      "official": "ラオス人民民主共和国",
-      "common": "ラオス人民民主共和国"
-    },
-    "nld": {
-      "official": "Lao Democratische Volksrepubliek",
-      "common": "Laos"
-    },
-    "por": {
-      "official": "Laos, República Democrática",
-      "common": "Laos"
-    },
-    "rus": {
-      "official": "Лаосская Народно-Демократическая Республика",
-      "common": "Лаос"
-    },
-    "spa": {
-      "official": "República Democrática Popular Lao",
-      "common": "Laos"
-    },
-    "fin": {
-      "official": "Laosin demokraattinen kansantasavalta",
-      "common": "Laos"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/laos",
-  "currency": [
-    "LAK"
-  ],
-  "callingCode": [
-    "856"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "LA",
-    "ccn3": "418",
-    "cca3": "LAO",
-    "cioc": "LAO"
-  }
+  "flag": ""
 }

@@ -9,21 +9,143 @@
       }
     }
   },
+  "tld": [
+    ".lt"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "370"
+  ],
+  "capital": "Vilnius",
   "altSpellings": [
     "LT",
     "Republic of Lithuania",
     "Lietuvos Respublika"
   ],
-  "area": 65300,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "languages": {
+    "lit": "Lithuanian"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Litauen",
+      "common": "Litauen"
+    },
+    "fra": {
+      "official": "République de Lituanie",
+      "common": "Lituanie"
+    },
+    "hrv": {
+      "official": "Republika Litva",
+      "common": "Litva"
+    },
+    "ita": {
+      "official": "Repubblica di Lituania",
+      "common": "Lituania"
+    },
+    "jpn": {
+      "official": "リトアニア共和国",
+      "common": "リトアニア"
+    },
+    "nld": {
+      "official": "Republiek Litouwen",
+      "common": "Litouwen"
+    },
+    "por": {
+      "official": "República da Lituânia",
+      "common": "Lituânia"
+    },
+    "rus": {
+      "official": "Литовская Республика",
+      "common": "Литва"
+    },
+    "spa": {
+      "official": "República de Lituania",
+      "common": "Lituania"
+    },
+    "fin": {
+      "official": "Liettuan tasavalta",
+      "common": "Liettua"
+    }
+  },
+  "latlng": [
+    56,
+    24
+  ],
+  "demonym": "Lithuanian",
+  "landlocked": false,
   "borders": [
     "BLR",
     "LVA",
     "POL",
     "RUS"
   ],
-  "capital": "Vilnius",
-  "demonym": "Lithuanian",
-  "flag": "",
+  "area": 65300,
+  "codes": {
+    "cca2": "LT",
+    "ccn3": "440",
+    "cca3": "LTU",
+    "cioc": "LTU"
+  },
+  "provinces": [
+    "Akmenes Rajonas",
+    "Alytaus Rajonas",
+    "Alytus",
+    "Anyksciu Rajonas",
+    "Birstonas",
+    "Birzu Rajonas",
+    "Druskininkai",
+    "Ignalinos Rajonas",
+    "Jonavos Rajonas",
+    "Joniskio Rajonas",
+    "Jurbarko Rajonas",
+    "Kaisiadoriu Rajonas",
+    "Kaunas",
+    "Kauno Rajonas",
+    "Kedainiu Rajonas",
+    "Kelmes Rajonas",
+    "Klaipeda",
+    "Klaipedos Rajonas",
+    "Kretingos Rajonas",
+    "Kupiskio Rajonas",
+    "Lazdiju Rajonas",
+    "Marijampole",
+    "Marijampoles Rajonas",
+    "Mazeikiu Rajonas",
+    "Moletu Rajonas",
+    "Neringa Pakruojo Rajonas",
+    "Palanga",
+    "Panevezio Rajonas",
+    "Panevezys",
+    "Pasvalio Rajonas",
+    "Plunges Rajonas",
+    "Prienu Rajonas",
+    "Radviliskio Rajonas",
+    "Raseiniu Rajonas",
+    "Rokiskio Rajonas",
+    "Sakiu Rajonas",
+    "Salcininku Rajonas",
+    "Siauliai",
+    "Siauliu Rajonas",
+    "Silales Rajonas",
+    "Silutes Rajonas",
+    "Sirvintu Rajonas",
+    "Skuodo Rajonas",
+    "Svencioniu Rajonas",
+    "Taurages Rajonas",
+    "Telsiu Rajonas",
+    "Traku Rajonas",
+    "Ukmerges Rajonas",
+    "Utenos Rajonas",
+    "Varenos Rajonas",
+    "Vilkaviskio Rajonas",
+    "Vilniaus Rajonas",
+    "Vilnius",
+    "Zarasu Rajonas"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -119,133 +241,5 @@
       }
     ]
   },
-  "languages": {
-    "lit": "Lithuanian"
-  },
-  "latlng": [
-    56,
-    24
-  ],
-  "nativeName": "Lietuva",
-  "population": 2927310,
-  "provinces": [
-    "Akmenes Rajonas",
-    "Alytaus Rajonas",
-    "Alytus",
-    "Anyksciu Rajonas",
-    "Birstonas",
-    "Birzu Rajonas",
-    "Druskininkai",
-    "Ignalinos Rajonas",
-    "Jonavos Rajonas",
-    "Joniskio Rajonas",
-    "Jurbarko Rajonas",
-    "Kaisiadoriu Rajonas",
-    "Kaunas",
-    "Kauno Rajonas",
-    "Kedainiu Rajonas",
-    "Kelmes Rajonas",
-    "Klaipeda",
-    "Klaipedos Rajonas",
-    "Kretingos Rajonas",
-    "Kupiskio Rajonas",
-    "Lazdiju Rajonas",
-    "Marijampole",
-    "Marijampoles Rajonas",
-    "Mazeikiu Rajonas",
-    "Moletu Rajonas",
-    "Neringa Pakruojo Rajonas",
-    "Palanga",
-    "Panevezio Rajonas",
-    "Panevezys",
-    "Pasvalio Rajonas",
-    "Plunges Rajonas",
-    "Prienu Rajonas",
-    "Radviliskio Rajonas",
-    "Raseiniu Rajonas",
-    "Rokiskio Rajonas",
-    "Sakiu Rajonas",
-    "Salcininku Rajonas",
-    "Siauliai",
-    "Siauliu Rajonas",
-    "Silales Rajonas",
-    "Silutes Rajonas",
-    "Sirvintu Rajonas",
-    "Skuodo Rajonas",
-    "Svencioniu Rajonas",
-    "Taurages Rajonas",
-    "Telsiu Rajonas",
-    "Traku Rajonas",
-    "Ukmerges Rajonas",
-    "Utenos Rajonas",
-    "Varenos Rajonas",
-    "Vilkaviskio Rajonas",
-    "Vilniaus Rajonas",
-    "Vilnius",
-    "Zarasu Rajonas"
-  ],
-  "region": "Europe",
-  "subregion": "Northern Europe",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "tld": [
-    ".lt"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Litauen",
-      "common": "Litauen"
-    },
-    "fra": {
-      "official": "République de Lituanie",
-      "common": "Lituanie"
-    },
-    "hrv": {
-      "official": "Republika Litva",
-      "common": "Litva"
-    },
-    "ita": {
-      "official": "Repubblica di Lituania",
-      "common": "Lituania"
-    },
-    "jpn": {
-      "official": "リトアニア共和国",
-      "common": "リトアニア"
-    },
-    "nld": {
-      "official": "Republiek Litouwen",
-      "common": "Litouwen"
-    },
-    "por": {
-      "official": "República da Lituânia",
-      "common": "Lituânia"
-    },
-    "rus": {
-      "official": "Литовская Республика",
-      "common": "Литва"
-    },
-    "spa": {
-      "official": "República de Lituania",
-      "common": "Lituania"
-    },
-    "fin": {
-      "official": "Liettuan tasavalta",
-      "common": "Liettua"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/lithuania",
-  "currency": [
-    "EUR"
-  ],
-  "callingCode": [
-    "370"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "LT",
-    "ccn3": "440",
-    "cca3": "LTU",
-    "cioc": "LTU"
-  }
+  "flag": ""
 }

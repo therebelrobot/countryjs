@@ -9,13 +9,79 @@
       }
     }
   },
+  "tld": [
+    ".hr"
+  ],
+  "currency": [
+    "HRK"
+  ],
+  "callingCode": [
+    "385"
+  ],
+  "capital": "Zagreb",
   "altSpellings": [
     "HR",
     "Hrvatska",
     "Republic of Croatia",
     "Republika Hrvatska"
   ],
-  "area": 56594,
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "languages": {
+    "hrv": "Croatian"
+  },
+  "translations": {
+    "cym": {
+      "official": "Republic of Croatia",
+      "common": "Croatia"
+    },
+    "deu": {
+      "official": "Republik Kroatien",
+      "common": "Kroatien"
+    },
+    "fra": {
+      "official": "République de Croatie",
+      "common": "Croatie"
+    },
+    "hrv": {
+      "official": "Republika Hrvatska",
+      "common": "Hrvatska"
+    },
+    "ita": {
+      "official": "Repubblica di Croazia",
+      "common": "Croazia"
+    },
+    "jpn": {
+      "official": "クロアチア共和国",
+      "common": "クロアチア"
+    },
+    "nld": {
+      "official": "Republiek Kroatië",
+      "common": "Kroatië"
+    },
+    "por": {
+      "official": "República da Croácia",
+      "common": "Croácia"
+    },
+    "rus": {
+      "official": "Республика Хорватия",
+      "common": "Хорватия"
+    },
+    "spa": {
+      "official": "República de Croacia",
+      "common": "Croacia"
+    },
+    "fin": {
+      "official": "Kroatian tasavalta",
+      "common": "Kroatia"
+    }
+  },
+  "latlng": [
+    45.16666666,
+    15.5
+  ],
+  "demonym": "Croatian",
+  "landlocked": false,
   "borders": [
     "BIH",
     "HUN",
@@ -23,9 +89,37 @@
     "SRB",
     "SVN"
   ],
-  "capital": "Zagreb",
-  "demonym": "Croatian",
-  "flag": "",
+  "area": 56594,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Croatia.svg",
+  "codes": {
+    "cca2": "HR",
+    "ccn3": "191",
+    "cca3": "HRV",
+    "cioc": "CRO"
+  },
+  "provinces": [
+    "Bjelovarsko-Bilogorska Zupanija",
+    "Brodsko-Posavska Zupanija",
+    "Dubrovacko-Neretvanska Zupanija",
+    "Istarska Zupanija",
+    "Karlovacka Zupanija",
+    "Koprivnicko-Krizevacka Zupanija",
+    "Krapinsko-Zagorska Zupanija",
+    "Licko-Senjska Zupanija",
+    "Medimurska Zupanija",
+    "Osjecko-Baranjska Zupanija",
+    "Pozesko-Slavonska Zupanija",
+    "Primorsko-Goranska Zupanija",
+    "Sibensko-Kninska Zupanija",
+    "Sisacko-Moslavacka Zupanija",
+    "Splitsko-Dalmatinska Zupanija",
+    "Varazdinska Zupanija",
+    "Viroviticko-Podravska Zupanija",
+    "Vukovarsko-Srijemska Zupanija",
+    "Zadarska Zupanija",
+    "Zagreb",
+    "Zagrebacka Zupanija"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -212,105 +306,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "hrv": "Croatian"
-  },
-  "latlng": [
-    45.16666666,
-    15.5
-  ],
-  "nativeName": "Hrvatska",
-  "population": 4267558,
-  "provinces": [
-    "Bjelovarsko-Bilogorska Zupanija",
-    "Brodsko-Posavska Zupanija",
-    "Dubrovacko-Neretvanska Zupanija",
-    "Istarska Zupanija",
-    "Karlovacka Zupanija",
-    "Koprivnicko-Krizevacka Zupanija",
-    "Krapinsko-Zagorska Zupanija",
-    "Licko-Senjska Zupanija",
-    "Medimurska Zupanija",
-    "Osjecko-Baranjska Zupanija",
-    "Pozesko-Slavonska Zupanija",
-    "Primorsko-Goranska Zupanija",
-    "Sibensko-Kninska Zupanija",
-    "Sisacko-Moslavacka Zupanija",
-    "Splitsko-Dalmatinska Zupanija",
-    "Varazdinska Zupanija",
-    "Viroviticko-Podravska Zupanija",
-    "Vukovarsko-Srijemska Zupanija",
-    "Zadarska Zupanija",
-    "Zagreb",
-    "Zagrebacka Zupanija"
-  ],
-  "region": "Europe",
-  "subregion": "Southern Europe",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "tld": [
-    ".hr"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Republic of Croatia",
-      "common": "Croatia"
-    },
-    "deu": {
-      "official": "Republik Kroatien",
-      "common": "Kroatien"
-    },
-    "fra": {
-      "official": "République de Croatie",
-      "common": "Croatie"
-    },
-    "hrv": {
-      "official": "Republika Hrvatska",
-      "common": "Hrvatska"
-    },
-    "ita": {
-      "official": "Repubblica di Croazia",
-      "common": "Croazia"
-    },
-    "jpn": {
-      "official": "クロアチア共和国",
-      "common": "クロアチア"
-    },
-    "nld": {
-      "official": "Republiek Kroatië",
-      "common": "Kroatië"
-    },
-    "por": {
-      "official": "República da Croácia",
-      "common": "Croácia"
-    },
-    "rus": {
-      "official": "Республика Хорватия",
-      "common": "Хорватия"
-    },
-    "spa": {
-      "official": "República de Croacia",
-      "common": "Croacia"
-    },
-    "fin": {
-      "official": "Kroatian tasavalta",
-      "common": "Kroatia"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/croatia",
-  "currency": [
-    "HRK"
-  ],
-  "callingCode": [
-    "385"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "HR",
-    "ccn3": "191",
-    "cca3": "HRV",
-    "cioc": "CRO"
   }
 }

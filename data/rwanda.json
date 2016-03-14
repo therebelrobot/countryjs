@@ -17,22 +17,104 @@
       }
     }
   },
+  "tld": [
+    ".rw"
+  ],
+  "currency": [
+    "RWF"
+  ],
+  "callingCode": [
+    "250"
+  ],
+  "capital": "Kigali",
   "altSpellings": [
     "RW",
     "Republic of Rwanda",
     "Repubulika y'u Rwanda",
     "République du Rwanda"
   ],
-  "area": 26338,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "eng": "English",
+    "fra": "French",
+    "kin": "Kinyarwanda"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Ruanda",
+      "common": "Ruanda"
+    },
+    "fra": {
+      "official": "République rwandaise",
+      "common": "Rwanda"
+    },
+    "hrv": {
+      "official": "Republika Ruandi",
+      "common": "Ruanda"
+    },
+    "ita": {
+      "official": "Repubblica del Ruanda",
+      "common": "Ruanda"
+    },
+    "jpn": {
+      "official": "ルワンダ共和国",
+      "common": "ルワンダ"
+    },
+    "nld": {
+      "official": "Republiek Rwanda",
+      "common": "Rwanda"
+    },
+    "por": {
+      "official": "República do Ruanda",
+      "common": "Ruanda"
+    },
+    "rus": {
+      "official": "Республика Руанда",
+      "common": "Руанда"
+    },
+    "spa": {
+      "official": "República de Rwanda",
+      "common": "Ruanda"
+    },
+    "fin": {
+      "official": "Ruandan tasavalta",
+      "common": "Ruanda"
+    }
+  },
+  "latlng": [
+    -2,
+    30
+  ],
+  "demonym": "Rwandan",
+  "landlocked": true,
   "borders": [
     "BDI",
     "COD",
     "TZA",
     "UGA"
   ],
-  "capital": "Kigali",
-  "demonym": "Rwandan",
-  "flag": "",
+  "area": 26338,
+  "codes": {
+    "cca2": "RW",
+    "ccn3": "646",
+    "cca3": "RWA",
+    "cioc": "RWA"
+  },
+  "provinces": [
+    "Butare",
+    "Byumba",
+    "Cyangugu",
+    "Gikongoro",
+    "Gisenyi",
+    "Gitarama",
+    "Kibungo",
+    "Kibuye",
+    "Kigali Rurale",
+    "Kigali-ville",
+    "Ruhengeri",
+    "Umutara"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -104,93 +186,5 @@
       }
     ]
   },
-  "languages": {
-    "eng": "English",
-    "fra": "French",
-    "kin": "Kinyarwanda"
-  },
-  "latlng": [
-    -2,
-    30
-  ],
-  "nativeName": "Rwanda",
-  "population": 10996891,
-  "provinces": [
-    "Butare",
-    "Byumba",
-    "Cyangugu",
-    "Gikongoro",
-    "Gisenyi",
-    "Gitarama",
-    "Kibungo",
-    "Kibuye",
-    "Kigali Rurale",
-    "Kigali-ville",
-    "Ruhengeri",
-    "Umutara"
-  ],
-  "region": "Africa",
-  "subregion": "Eastern Africa",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "tld": [
-    ".rw"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Ruanda",
-      "common": "Ruanda"
-    },
-    "fra": {
-      "official": "République rwandaise",
-      "common": "Rwanda"
-    },
-    "hrv": {
-      "official": "Republika Ruandi",
-      "common": "Ruanda"
-    },
-    "ita": {
-      "official": "Repubblica del Ruanda",
-      "common": "Ruanda"
-    },
-    "jpn": {
-      "official": "ルワンダ共和国",
-      "common": "ルワンダ"
-    },
-    "nld": {
-      "official": "Republiek Rwanda",
-      "common": "Rwanda"
-    },
-    "por": {
-      "official": "República do Ruanda",
-      "common": "Ruanda"
-    },
-    "rus": {
-      "official": "Республика Руанда",
-      "common": "Руанда"
-    },
-    "spa": {
-      "official": "República de Rwanda",
-      "common": "Ruanda"
-    },
-    "fin": {
-      "official": "Ruandan tasavalta",
-      "common": "Ruanda"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/rwanda",
-  "currency": [
-    "RWF"
-  ],
-  "callingCode": [
-    "250"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "RW",
-    "ccn3": "646",
-    "cca3": "RWA",
-    "cioc": "RWA"
-  }
+  "flag": ""
 }

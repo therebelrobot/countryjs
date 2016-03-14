@@ -9,11 +9,73 @@
       }
     }
   },
+  "tld": [
+    ".zm"
+  ],
+  "currency": [
+    "ZMW"
+  ],
+  "callingCode": [
+    "260"
+  ],
+  "capital": "Lusaka",
   "altSpellings": [
     "ZM",
     "Republic of Zambia"
   ],
-  "area": 752612,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "eng": "English"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Sambia",
+      "common": "Sambia"
+    },
+    "fra": {
+      "official": "République de Zambie",
+      "common": "Zambie"
+    },
+    "hrv": {
+      "official": "Republika Zambija",
+      "common": "Zambija"
+    },
+    "ita": {
+      "official": "Repubblica di Zambia",
+      "common": "Zambia"
+    },
+    "jpn": {
+      "official": "ザンビア共和国",
+      "common": "ザンビア"
+    },
+    "nld": {
+      "official": "Republiek Zambia",
+      "common": "Zambia"
+    },
+    "por": {
+      "official": "República da Zâmbia",
+      "common": "Zâmbia"
+    },
+    "rus": {
+      "official": "Республика Замбия",
+      "common": "Замбия"
+    },
+    "spa": {
+      "official": "República de Zambia",
+      "common": "Zambia"
+    },
+    "fin": {
+      "official": "Sambian tasavalta",
+      "common": "Sambia"
+    }
+  },
+  "latlng": [
+    -15,
+    30
+  ],
+  "demonym": "Zambian",
+  "landlocked": true,
   "borders": [
     "AGO",
     "BWA",
@@ -24,9 +86,24 @@
     "TZA",
     "ZWE"
   ],
-  "capital": "Lusaka",
-  "demonym": "Zambian",
-  "flag": "",
+  "area": 752612,
+  "codes": {
+    "cca2": "ZM",
+    "ccn3": "894",
+    "cca3": "ZMB",
+    "cioc": "ZAM"
+  },
+  "provinces": [
+    "Central",
+    "Copperbelt",
+    "Eastern",
+    "Luapula",
+    "Lusaka",
+    "North-Western",
+    "Northern",
+    "Southern",
+    "Western"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -290,88 +367,5 @@
       }
     ]
   },
-  "languages": {
-    "eng": "English"
-  },
-  "latlng": [
-    -15,
-    30
-  ],
-  "nativeName": "Zambia",
-  "population": 15023315,
-  "provinces": [
-    "Central",
-    "Copperbelt",
-    "Eastern",
-    "Luapula",
-    "Lusaka",
-    "North-Western",
-    "Northern",
-    "Southern",
-    "Western"
-  ],
-  "region": "Africa",
-  "subregion": "Eastern Africa",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "tld": [
-    ".zm"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Sambia",
-      "common": "Sambia"
-    },
-    "fra": {
-      "official": "République de Zambie",
-      "common": "Zambie"
-    },
-    "hrv": {
-      "official": "Republika Zambija",
-      "common": "Zambija"
-    },
-    "ita": {
-      "official": "Repubblica di Zambia",
-      "common": "Zambia"
-    },
-    "jpn": {
-      "official": "ザンビア共和国",
-      "common": "ザンビア"
-    },
-    "nld": {
-      "official": "Republiek Zambia",
-      "common": "Zambia"
-    },
-    "por": {
-      "official": "República da Zâmbia",
-      "common": "Zâmbia"
-    },
-    "rus": {
-      "official": "Республика Замбия",
-      "common": "Замбия"
-    },
-    "spa": {
-      "official": "República de Zambia",
-      "common": "Zambia"
-    },
-    "fin": {
-      "official": "Sambian tasavalta",
-      "common": "Sambia"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/zambia",
-  "currency": [
-    "ZMW"
-  ],
-  "callingCode": [
-    "260"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "ZM",
-    "ccn3": "894",
-    "cca3": "ZMB",
-    "cioc": "ZAM"
-  }
+  "flag": ""
 }

@@ -9,12 +9,74 @@
       }
     }
   },
+  "tld": [
+    ".mz"
+  ],
+  "currency": [
+    "MZN"
+  ],
+  "callingCode": [
+    "258"
+  ],
+  "capital": "Maputo",
   "altSpellings": [
     "MZ",
     "Republic of Mozambique",
     "República de Moçambique"
   ],
-  "area": 801590,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "por": "Portuguese"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Mosambik",
+      "common": "Mosambik"
+    },
+    "fra": {
+      "official": "République du Mozambique",
+      "common": "Mozambique"
+    },
+    "hrv": {
+      "official": "Republika Mozambiku",
+      "common": "Mozambik"
+    },
+    "ita": {
+      "official": "Repubblica del Mozambico",
+      "common": "Mozambico"
+    },
+    "jpn": {
+      "official": "モザンビーク共和国",
+      "common": "モザンビーク"
+    },
+    "nld": {
+      "official": "Republiek Mozambique",
+      "common": "Mozambique"
+    },
+    "por": {
+      "official": "República de Moçambique",
+      "common": "Moçambique"
+    },
+    "rus": {
+      "official": "Республика Мозамбик",
+      "common": "Мозамбик"
+    },
+    "spa": {
+      "official": "República de Mozambique",
+      "common": "Mozambique"
+    },
+    "fin": {
+      "official": "Mosambikin tasavalta",
+      "common": "Mosambik"
+    }
+  },
+  "latlng": [
+    -18.25,
+    35
+  ],
+  "demonym": "Mozambican",
+  "landlocked": false,
   "borders": [
     "MWI",
     "ZAF",
@@ -23,9 +85,25 @@
     "ZMB",
     "ZWE"
   ],
-  "capital": "Maputo",
-  "demonym": "Mozambican",
-  "flag": "",
+  "area": 801590,
+  "codes": {
+    "cca2": "MZ",
+    "ccn3": "508",
+    "cca3": "MOZ",
+    "cioc": "MOZ"
+  },
+  "provinces": [
+    "Cabo Delgado",
+    "Gaza",
+    "Inhambane",
+    "Manica",
+    "Maputo",
+    "Nampula",
+    "Niassa",
+    "Sofala",
+    "Tete",
+    "Zambezia"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -353,89 +431,5 @@
       }
     ]
   },
-  "languages": {
-    "por": "Portuguese"
-  },
-  "latlng": [
-    -18.25,
-    35
-  ],
-  "nativeName": "Moçambique",
-  "population": 25041922,
-  "provinces": [
-    "Cabo Delgado",
-    "Gaza",
-    "Inhambane",
-    "Manica",
-    "Maputo",
-    "Nampula",
-    "Niassa",
-    "Sofala",
-    "Tete",
-    "Zambezia"
-  ],
-  "region": "Africa",
-  "subregion": "Eastern Africa",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "tld": [
-    ".mz"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Mosambik",
-      "common": "Mosambik"
-    },
-    "fra": {
-      "official": "République du Mozambique",
-      "common": "Mozambique"
-    },
-    "hrv": {
-      "official": "Republika Mozambiku",
-      "common": "Mozambik"
-    },
-    "ita": {
-      "official": "Repubblica del Mozambico",
-      "common": "Mozambico"
-    },
-    "jpn": {
-      "official": "モザンビーク共和国",
-      "common": "モザンビーク"
-    },
-    "nld": {
-      "official": "Republiek Mozambique",
-      "common": "Mozambique"
-    },
-    "por": {
-      "official": "República de Moçambique",
-      "common": "Moçambique"
-    },
-    "rus": {
-      "official": "Республика Мозамбик",
-      "common": "Мозамбик"
-    },
-    "spa": {
-      "official": "República de Mozambique",
-      "common": "Mozambique"
-    },
-    "fin": {
-      "official": "Mosambikin tasavalta",
-      "common": "Mosambik"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/mozambique",
-  "currency": [
-    "MZN"
-  ],
-  "callingCode": [
-    "258"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "MZ",
-    "ccn3": "508",
-    "cca3": "MOZ",
-    "cioc": "MOZ"
-  }
+  "flag": ""
 }

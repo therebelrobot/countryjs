@@ -9,19 +9,104 @@
       }
     }
   },
+  "tld": [
+    ".ye"
+  ],
+  "currency": [
+    "YER"
+  ],
+  "callingCode": [
+    "967"
+  ],
+  "capital": "Sana'a",
   "altSpellings": [
     "YE",
     "Yemeni Republic",
     "al-Jumhūriyyah al-Yamaniyyah"
   ],
-  "area": 527968,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "ara": "Arabic"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Jemen",
+      "common": "Jemen"
+    },
+    "fra": {
+      "official": "République du Yémen",
+      "common": "Yémen"
+    },
+    "hrv": {
+      "official": "Republika Jemen",
+      "common": "Jemen"
+    },
+    "ita": {
+      "official": "Repubblica dello Yemen",
+      "common": "Yemen"
+    },
+    "jpn": {
+      "official": "イエメン共和国",
+      "common": "イエメン"
+    },
+    "nld": {
+      "official": "Republiek Jemen",
+      "common": "Jemen"
+    },
+    "por": {
+      "official": "República do Iêmen",
+      "common": "Iémen"
+    },
+    "rus": {
+      "official": "Йеменская Республика",
+      "common": "Йемен"
+    },
+    "spa": {
+      "official": "República de Yemen",
+      "common": "Yemen"
+    },
+    "fin": {
+      "official": "Jemenin tasavalta",
+      "common": "Jemen"
+    }
+  },
+  "latlng": [
+    15,
+    48
+  ],
+  "demonym": "Yemeni",
+  "landlocked": false,
   "borders": [
     "OMN",
     "SAU"
   ],
-  "capital": "Sana'a",
-  "demonym": "Yemeni",
-  "flag": "",
+  "area": 527968,
+  "codes": {
+    "cca2": "YE",
+    "ccn3": "887",
+    "cca3": "YEM",
+    "cioc": "YEM"
+  },
+  "provinces": [
+    "'Adan",
+    "'Ataq",
+    "Abyan",
+    "Al Bayda'",
+    "Al Hudaydah",
+    "Al Jawf",
+    "Al Mahrah",
+    "Al Mahwit",
+    "Dhamar",
+    "Hadhramawt",
+    "Hajjah",
+    "Ibb",
+    "Lahij",
+    "Ma'rib",
+    "Sa'dah",
+    "San'a'",
+    "Ta'izz"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -217,96 +302,5 @@
       }
     ]
   },
-  "languages": {
-    "ara": "Arabic"
-  },
-  "latlng": [
-    15,
-    48
-  ],
-  "nativeName": "اليَمَن",
-  "population": 25956000,
-  "provinces": [
-    "'Adan",
-    "'Ataq",
-    "Abyan",
-    "Al Bayda'",
-    "Al Hudaydah",
-    "Al Jawf",
-    "Al Mahrah",
-    "Al Mahwit",
-    "Dhamar",
-    "Hadhramawt",
-    "Hajjah",
-    "Ibb",
-    "Lahij",
-    "Ma'rib",
-    "Sa'dah",
-    "San'a'",
-    "Ta'izz"
-  ],
-  "region": "Asia",
-  "subregion": "Western Asia",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "tld": [
-    ".ye"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Jemen",
-      "common": "Jemen"
-    },
-    "fra": {
-      "official": "République du Yémen",
-      "common": "Yémen"
-    },
-    "hrv": {
-      "official": "Republika Jemen",
-      "common": "Jemen"
-    },
-    "ita": {
-      "official": "Repubblica dello Yemen",
-      "common": "Yemen"
-    },
-    "jpn": {
-      "official": "イエメン共和国",
-      "common": "イエメン"
-    },
-    "nld": {
-      "official": "Republiek Jemen",
-      "common": "Jemen"
-    },
-    "por": {
-      "official": "República do Iêmen",
-      "common": "Iémen"
-    },
-    "rus": {
-      "official": "Йеменская Республика",
-      "common": "Йемен"
-    },
-    "spa": {
-      "official": "República de Yemen",
-      "common": "Yemen"
-    },
-    "fin": {
-      "official": "Jemenin tasavalta",
-      "common": "Jemen"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/yemen",
-  "currency": [
-    "YER"
-  ],
-  "callingCode": [
-    "967"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "YE",
-    "ccn3": "887",
-    "cca3": "YEM",
-    "cioc": "YEM"
-  }
+  "flag": ""
 }

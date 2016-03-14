@@ -9,19 +9,95 @@
       }
     }
   },
+  "tld": [
+    ".ae",
+    "امارات."
+  ],
+  "currency": [
+    "AED"
+  ],
+  "callingCode": [
+    "971"
+  ],
+  "capital": "Abu Dhabi",
   "altSpellings": [
     "AE",
     "UAE",
     "Emirates"
   ],
-  "area": 83600,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "ara": "Arabic"
+  },
+  "translations": {
+    "deu": {
+      "official": "Vereinigte Arabische Emirate",
+      "common": "Vereinigte Arabische Emirate"
+    },
+    "fra": {
+      "official": "Émirats arabes unis",
+      "common": "Émirats arabes unis"
+    },
+    "hrv": {
+      "official": "Ujedinjeni Arapski Emirati",
+      "common": "Ujedinjeni Arapski Emirati"
+    },
+    "ita": {
+      "official": "Emirati Arabi Uniti",
+      "common": "Emirati Arabi Uniti"
+    },
+    "jpn": {
+      "official": "アラブ首長国連邦",
+      "common": "アラブ首長国連邦"
+    },
+    "nld": {
+      "official": "Verenigde Arabische Emiraten",
+      "common": "Verenigde Arabische Emiraten"
+    },
+    "por": {
+      "official": "Emirados Árabes Unidos",
+      "common": "Emirados Árabes Unidos"
+    },
+    "rus": {
+      "official": "Объединенные Арабские Эмираты",
+      "common": "Объединённые Арабские Эмираты"
+    },
+    "spa": {
+      "official": "Emiratos Árabes Unidos",
+      "common": "Emiratos Árabes Unidos"
+    },
+    "fin": {
+      "official": "Yhdistyneet arabiemiirikunnat",
+      "common": "Arabiemiraatit"
+    }
+  },
+  "latlng": [
+    24,
+    54
+  ],
+  "demonym": "Emirati",
+  "landlocked": false,
   "borders": [
     "OMN",
     "SAU"
   ],
-  "capital": "Abu Dhabi",
-  "demonym": "Emirati",
-  "flag": "",
+  "area": 83600,
+  "codes": {
+    "cca2": "AE",
+    "ccn3": "784",
+    "cca3": "ARE",
+    "cioc": "UAE"
+  },
+  "provinces": [
+    "'Ajman",
+    "Abu Zaby (Abu Dhabi)",
+    "Al Fujayrah",
+    "Ash Shariqah (Sharjah)",
+    "Dubayy (Dubai)",
+    "Ra's al Khaymah",
+    "Umm al Qaywayn"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -129,87 +205,5 @@
       }
     ]
   },
-  "languages": {
-    "ara": "Arabic"
-  },
-  "latlng": [
-    24,
-    54
-  ],
-  "nativeName": "دولة الإمارات العربية المتحدة",
-  "population": 9446000,
-  "provinces": [
-    "'Ajman",
-    "Abu Zaby (Abu Dhabi)",
-    "Al Fujayrah",
-    "Ash Shariqah (Sharjah)",
-    "Dubayy (Dubai)",
-    "Ra's al Khaymah",
-    "Umm al Qaywayn"
-  ],
-  "region": "Asia",
-  "subregion": "Western Asia",
-  "timezones": [
-    "UTC+04"
-  ],
-  "tld": [
-    ".ae",
-    "امارات."
-  ],
-  "translations": {
-    "deu": {
-      "official": "Vereinigte Arabische Emirate",
-      "common": "Vereinigte Arabische Emirate"
-    },
-    "fra": {
-      "official": "Émirats arabes unis",
-      "common": "Émirats arabes unis"
-    },
-    "hrv": {
-      "official": "Ujedinjeni Arapski Emirati",
-      "common": "Ujedinjeni Arapski Emirati"
-    },
-    "ita": {
-      "official": "Emirati Arabi Uniti",
-      "common": "Emirati Arabi Uniti"
-    },
-    "jpn": {
-      "official": "アラブ首長国連邦",
-      "common": "アラブ首長国連邦"
-    },
-    "nld": {
-      "official": "Verenigde Arabische Emiraten",
-      "common": "Verenigde Arabische Emiraten"
-    },
-    "por": {
-      "official": "Emirados Árabes Unidos",
-      "common": "Emirados Árabes Unidos"
-    },
-    "rus": {
-      "official": "Объединенные Арабские Эмираты",
-      "common": "Объединённые Арабские Эмираты"
-    },
-    "spa": {
-      "official": "Emiratos Árabes Unidos",
-      "common": "Emiratos Árabes Unidos"
-    },
-    "fin": {
-      "official": "Yhdistyneet arabiemiirikunnat",
-      "common": "Arabiemiraatit"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/united_arab_emirates",
-  "currency": [
-    "AED"
-  ],
-  "callingCode": [
-    "971"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "AE",
-    "ccn3": "784",
-    "cca3": "ARE",
-    "cioc": "UAE"
-  }
+  "flag": ""
 }

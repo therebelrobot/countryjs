@@ -9,19 +9,99 @@
       }
     }
   },
+  "tld": [
+    ".pa"
+  ],
+  "currency": [
+    "PAB",
+    "USD"
+  ],
+  "callingCode": [
+    "507"
+  ],
+  "capital": "Panama City",
   "altSpellings": [
     "PA",
     "Republic of Panama",
     "República de Panamá"
   ],
-  "area": 75417,
+  "region": "Americas",
+  "subregion": "Central America",
+  "languages": {
+    "spa": "Spanish"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Panama",
+      "common": "Panama"
+    },
+    "fra": {
+      "official": "République du Panama",
+      "common": "Panama"
+    },
+    "hrv": {
+      "official": "Republika Panama",
+      "common": "Panama"
+    },
+    "ita": {
+      "official": "Repubblica di Panama",
+      "common": "Panama"
+    },
+    "jpn": {
+      "official": "パナマ共和国",
+      "common": "パナマ"
+    },
+    "nld": {
+      "official": "Republiek Panama",
+      "common": "Panama"
+    },
+    "por": {
+      "official": "República do Panamá",
+      "common": "Panamá"
+    },
+    "rus": {
+      "official": "Республика Панама",
+      "common": "Панама"
+    },
+    "spa": {
+      "official": "República de Panamá",
+      "common": "Panamá"
+    },
+    "fin": {
+      "official": "Panaman tasavalta",
+      "common": "Panama"
+    }
+  },
+  "latlng": [
+    9,
+    -80
+  ],
+  "demonym": "Panamanian",
+  "landlocked": false,
   "borders": [
     "COL",
     "CRI"
   ],
-  "capital": "Panama City",
-  "demonym": "Panamanian",
-  "flag": "",
+  "area": 75417,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Panama.svg",
+  "codes": {
+    "cca2": "PA",
+    "ccn3": "591",
+    "cca3": "PAN",
+    "cioc": "PAN"
+  },
+  "provinces": [
+    "Bocas del Toro",
+    "Chiriqui",
+    "Cocle",
+    "Colon",
+    "Darien",
+    "Herrera",
+    "Los Santos",
+    "Panama",
+    "San Blas",
+    "Veraguas"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -248,91 +328,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "spa": "Spanish"
-  },
-  "latlng": [
-    9,
-    -80
-  ],
-  "nativeName": "Panamá",
-  "population": 3713312,
-  "provinces": [
-    "Bocas del Toro",
-    "Chiriqui",
-    "Cocle",
-    "Colon",
-    "Darien",
-    "Herrera",
-    "Los Santos",
-    "Panama",
-    "San Blas",
-    "Veraguas"
-  ],
-  "region": "Americas",
-  "subregion": "Central America",
-  "timezones": [
-    "UTC−05:00"
-  ],
-  "tld": [
-    ".pa"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Panama",
-      "common": "Panama"
-    },
-    "fra": {
-      "official": "République du Panama",
-      "common": "Panama"
-    },
-    "hrv": {
-      "official": "Republika Panama",
-      "common": "Panama"
-    },
-    "ita": {
-      "official": "Repubblica di Panama",
-      "common": "Panama"
-    },
-    "jpn": {
-      "official": "パナマ共和国",
-      "common": "パナマ"
-    },
-    "nld": {
-      "official": "Republiek Panama",
-      "common": "Panama"
-    },
-    "por": {
-      "official": "República do Panamá",
-      "common": "Panamá"
-    },
-    "rus": {
-      "official": "Республика Панама",
-      "common": "Панама"
-    },
-    "spa": {
-      "official": "República de Panamá",
-      "common": "Panamá"
-    },
-    "fin": {
-      "official": "Panaman tasavalta",
-      "common": "Panama"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/panama",
-  "currency": [
-    "PAB",
-    "USD"
-  ],
-  "callingCode": [
-    "507"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "PA",
-    "ccn3": "591",
-    "cca3": "PAN",
-    "cioc": "PAN"
   }
 }

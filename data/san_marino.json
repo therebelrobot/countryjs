@@ -9,47 +9,26 @@
       }
     }
   },
+  "tld": [
+    ".sm"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "378"
+  ],
+  "capital": "City of San Marino",
   "altSpellings": [
     "SM",
     "Republic of San Marino",
     "Repubblica di San Marino"
   ],
-  "area": 61,
-  "borders": [
-    "ITA"
-  ],
-  "capital": "City of San Marino",
-  "demonym": "Sammarinese",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Europe",
+  "subregion": "Southern Europe",
   "languages": {
     "ita": "Italian"
   },
-  "latlng": [
-    43.76666666,
-    12.41666666
-  ],
-  "nativeName": "San Marino",
-  "population": 32743,
-  "provinces": [
-    "Acquaviva",
-    "Borgo Maggiore",
-    "Chiesanuova",
-    "Domagnano",
-    "Faetano",
-    "Fiorentino",
-    "Monte Giardino",
-    "San Marino",
-    "Serravalle"
-  ],
-  "region": "Europe",
-  "subregion": "Southern Europe",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "tld": [
-    ".sm"
-  ],
   "translations": {
     "deu": {
       "official": "Republik San Marino",
@@ -92,18 +71,33 @@
       "common": "San Marino"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/san_marino",
-  "currency": [
-    "EUR"
+  "latlng": [
+    43.76666666,
+    12.41666666
   ],
-  "callingCode": [
-    "378"
-  ],
+  "demonym": "Sammarinese",
   "landlocked": true,
+  "borders": [
+    "ITA"
+  ],
+  "area": 61,
   "codes": {
     "cca2": "SM",
     "ccn3": "674",
     "cca3": "SMR",
     "cioc": "SMR"
-  }
+  },
+  "provinces": [
+    "Acquaviva",
+    "Borgo Maggiore",
+    "Chiesanuova",
+    "Domagnano",
+    "Faetano",
+    "Fiorentino",
+    "Monte Giardino",
+    "San Marino",
+    "Serravalle"
+  ],
+  "geoJSON": {},
+  "flag": ""
 }

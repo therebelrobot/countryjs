@@ -17,6 +17,16 @@
       }
     }
   },
+  "tld": [
+    ".km"
+  ],
+  "currency": [
+    "KMF"
+  ],
+  "callingCode": [
+    "269"
+  ],
+  "capital": "Moroni",
   "altSpellings": [
     "KM",
     "Union of the Comoros",
@@ -24,40 +34,13 @@
     "Udzima wa Komori",
     "al-Ittiḥād al-Qumurī"
   ],
-  "area": 1862,
-  "borders": [],
-  "capital": "Moroni",
-  "demonym": "Comoran",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Africa",
+  "subregion": "Eastern Africa",
   "languages": {
     "ara": "Arabic",
     "fra": "French",
     "zdj": "Comorian"
   },
-  "latlng": [
-    -12.16666666,
-    44.25
-  ],
-  "nativeName": "Komori",
-  "population": 763952,
-  "provinces": [
-    "Anjouan (Nzwani)",
-    "Domoni",
-    "Fomboni",
-    "Grande Comore (Njazidja)",
-    "Moheli (Mwali)",
-    "Moroni",
-    "Moutsamoudou"
-  ],
-  "region": "Africa",
-  "subregion": "Eastern Africa",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "tld": [
-    ".km"
-  ],
   "translations": {
     "cym": {
       "official": "Union of the Comoros",
@@ -104,18 +87,29 @@
       "common": "Komorit"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/comoros",
-  "currency": [
-    "KMF"
+  "latlng": [
+    -12.16666666,
+    44.25
   ],
-  "callingCode": [
-    "269"
-  ],
+  "demonym": "Comoran",
   "landlocked": false,
+  "borders": [],
+  "area": 1862,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of the Comoros.svg",
   "codes": {
     "cca2": "KM",
     "ccn3": "174",
     "cca3": "COM",
     "cioc": "COM"
-  }
+  },
+  "provinces": [
+    "Anjouan (Nzwani)",
+    "Domoni",
+    "Fomboni",
+    "Grande Comore (Njazidja)",
+    "Moheli (Mwali)",
+    "Moroni",
+    "Moutsamoudou"
+  ],
+  "geoJSON": {}
 }

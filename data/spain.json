@@ -25,12 +25,78 @@
       }
     }
   },
+  "tld": [
+    ".es"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "34"
+  ],
+  "capital": "Madrid",
   "altSpellings": [
     "ES",
     "Kingdom of Spain",
     "Reino de España"
   ],
-  "area": 505992,
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "languages": {
+    "cat": "Catalan",
+    "eus": "Basque",
+    "glg": "Galician",
+    "oci": "Occitan",
+    "spa": "Spanish"
+  },
+  "translations": {
+    "deu": {
+      "official": "Königreich Spanien",
+      "common": "Spanien"
+    },
+    "fra": {
+      "official": "Royaume d'Espagne",
+      "common": "Espagne"
+    },
+    "hrv": {
+      "official": "Kraljevina Španjolska",
+      "common": "Španjolska"
+    },
+    "ita": {
+      "official": "Regno di Spagna",
+      "common": "Spagna"
+    },
+    "jpn": {
+      "official": "スペイン王国",
+      "common": "スペイン"
+    },
+    "nld": {
+      "official": "Koninkrijk Spanje",
+      "common": "Spanje"
+    },
+    "por": {
+      "official": "Reino de Espanha",
+      "common": "Espanha"
+    },
+    "rus": {
+      "official": "Королевство Испания",
+      "common": "Испания"
+    },
+    "spa": {
+      "official": "Reino de España",
+      "common": "España"
+    },
+    "fin": {
+      "official": "Espanjan kuningaskunta",
+      "common": "Espanja"
+    }
+  },
+  "latlng": [
+    40,
+    -4
+  ],
+  "demonym": "Spanish",
+  "landlocked": false,
   "borders": [
     "AND",
     "FRA",
@@ -38,9 +104,38 @@
     "PRT",
     "MAR"
   ],
-  "capital": "Madrid",
-  "demonym": "Spanish",
-  "flag": "",
+  "area": 505992,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Spain.svg",
+  "codes": {
+    "cca2": "ES",
+    "ccn3": "724",
+    "cca3": "ESP",
+    "cioc": "ESP"
+  },
+  "provinces": [
+    "Andalucia",
+    "Aragon",
+    "Asturias",
+    "Baleares (Balearic Islands)",
+    "Canarias (Canary Islands)",
+    "Cantabria",
+    "Castilla y Leon",
+    "Castilla-La Mancha",
+    "Cataluna",
+    "Ceuta",
+    "Communidad Valencian",
+    "Extremadura",
+    "Galicia",
+    "Islas Chafarinas",
+    "La Rioja",
+    "Madrid",
+    "Melilla",
+    "Murcia",
+    "Navarra",
+    "Pais Vasco (Basque Country)",
+    "Penon de Alhucemas",
+    "Penon de Velez de la Gomera"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -311,106 +406,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "cat": "Catalan",
-    "eus": "Basque",
-    "glg": "Galician",
-    "oci": "Occitan",
-    "spa": "Spanish"
-  },
-  "latlng": [
-    40,
-    -4
-  ],
-  "nativeName": "South Sudan",
-  "population": 11384393,
-  "provinces": [
-    "Andalucia",
-    "Aragon",
-    "Asturias",
-    "Baleares (Balearic Islands)",
-    "Canarias (Canary Islands)",
-    "Cantabria",
-    "Castilla y Leon",
-    "Castilla-La Mancha",
-    "Cataluna",
-    "Ceuta",
-    "Communidad Valencian",
-    "Extremadura",
-    "Galicia",
-    "Islas Chafarinas",
-    "La Rioja",
-    "Madrid",
-    "Melilla",
-    "Murcia",
-    "Navarra",
-    "Pais Vasco (Basque Country)",
-    "Penon de Alhucemas",
-    "Penon de Velez de la Gomera"
-  ],
-  "region": "Europe",
-  "subregion": "Southern Europe",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "tld": [
-    ".es"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Königreich Spanien",
-      "common": "Spanien"
-    },
-    "fra": {
-      "official": "Royaume d'Espagne",
-      "common": "Espagne"
-    },
-    "hrv": {
-      "official": "Kraljevina Španjolska",
-      "common": "Španjolska"
-    },
-    "ita": {
-      "official": "Regno di Spagna",
-      "common": "Spagna"
-    },
-    "jpn": {
-      "official": "スペイン王国",
-      "common": "スペイン"
-    },
-    "nld": {
-      "official": "Koninkrijk Spanje",
-      "common": "Spanje"
-    },
-    "por": {
-      "official": "Reino de Espanha",
-      "common": "Espanha"
-    },
-    "rus": {
-      "official": "Королевство Испания",
-      "common": "Испания"
-    },
-    "spa": {
-      "official": "Reino de España",
-      "common": "España"
-    },
-    "fin": {
-      "official": "Espanjan kuningaskunta",
-      "common": "Espanja"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/spain",
-  "currency": [
-    "EUR"
-  ],
-  "callingCode": [
-    "34"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "ES",
-    "ccn3": "724",
-    "cca3": "ESP",
-    "cioc": "ESP"
   }
 }

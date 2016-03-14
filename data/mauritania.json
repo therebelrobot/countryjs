@@ -9,21 +9,102 @@
       }
     }
   },
+  "tld": [
+    ".mr"
+  ],
+  "currency": [
+    "MRO"
+  ],
+  "callingCode": [
+    "222"
+  ],
+  "capital": "Nouakchott",
   "altSpellings": [
     "MR",
     "Islamic Republic of Mauritania",
     "al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah"
   ],
-  "area": 1030700,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "languages": {
+    "ara": "Arabic"
+  },
+  "translations": {
+    "deu": {
+      "official": "Islamische Republik Mauretanien",
+      "common": "Mauretanien"
+    },
+    "fra": {
+      "official": "République islamique de Mauritanie",
+      "common": "Mauritanie"
+    },
+    "hrv": {
+      "official": "Islamska Republika Mauritanija",
+      "common": "Mauritanija"
+    },
+    "ita": {
+      "official": "Repubblica islamica di Mauritania",
+      "common": "Mauritania"
+    },
+    "jpn": {
+      "official": "モーリタニア·イスラム共和国",
+      "common": "モーリタニア"
+    },
+    "nld": {
+      "official": "Islamitische Republiek Mauritanië",
+      "common": "Mauritanië"
+    },
+    "por": {
+      "official": "República Islâmica da Mauritânia",
+      "common": "Mauritânia"
+    },
+    "rus": {
+      "official": "Исламская Республика Мавритания",
+      "common": "Мавритания"
+    },
+    "spa": {
+      "official": "República Islámica de Mauritania",
+      "common": "Mauritania"
+    },
+    "fin": {
+      "official": "Mauritanian islamilainen tasavalta",
+      "common": "Mauritania"
+    }
+  },
+  "latlng": [
+    20,
+    -12
+  ],
+  "demonym": "Mauritanian",
+  "landlocked": false,
   "borders": [
     "DZA",
     "MLI",
     "SEN",
     "ESH"
   ],
-  "capital": "Nouakchott",
-  "demonym": "Mauritanian",
-  "flag": "",
+  "area": 1030700,
+  "codes": {
+    "cca2": "MR",
+    "ccn3": "478",
+    "cca3": "MRT",
+    "cioc": "MTN"
+  },
+  "provinces": [
+    "Adrar",
+    "Assaba",
+    "Brakna",
+    "Dakhlet Nouadhibou",
+    "Gorgol",
+    "Guidimaka",
+    "Hodh Ech Chargui",
+    "Hodh El Gharbi",
+    "Inchiri",
+    "Nouakchott",
+    "Tagant",
+    "Tiris Zemmour",
+    "Trarza"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -199,92 +280,5 @@
       }
     ]
   },
-  "languages": {
-    "ara": "Arabic"
-  },
-  "latlng": [
-    20,
-    -12
-  ],
-  "nativeName": "موريتانيا",
-  "population": 3545620,
-  "provinces": [
-    "Adrar",
-    "Assaba",
-    "Brakna",
-    "Dakhlet Nouadhibou",
-    "Gorgol",
-    "Guidimaka",
-    "Hodh Ech Chargui",
-    "Hodh El Gharbi",
-    "Inchiri",
-    "Nouakchott",
-    "Tagant",
-    "Tiris Zemmour",
-    "Trarza"
-  ],
-  "region": "Africa",
-  "subregion": "Western Africa",
-  "timezones": [
-    "UTC"
-  ],
-  "tld": [
-    ".mr"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Islamische Republik Mauretanien",
-      "common": "Mauretanien"
-    },
-    "fra": {
-      "official": "République islamique de Mauritanie",
-      "common": "Mauritanie"
-    },
-    "hrv": {
-      "official": "Islamska Republika Mauritanija",
-      "common": "Mauritanija"
-    },
-    "ita": {
-      "official": "Repubblica islamica di Mauritania",
-      "common": "Mauritania"
-    },
-    "jpn": {
-      "official": "モーリタニア·イスラム共和国",
-      "common": "モーリタニア"
-    },
-    "nld": {
-      "official": "Islamitische Republiek Mauritanië",
-      "common": "Mauritanië"
-    },
-    "por": {
-      "official": "República Islâmica da Mauritânia",
-      "common": "Mauritânia"
-    },
-    "rus": {
-      "official": "Исламская Республика Мавритания",
-      "common": "Мавритания"
-    },
-    "spa": {
-      "official": "República Islámica de Mauritania",
-      "common": "Mauritania"
-    },
-    "fin": {
-      "official": "Mauritanian islamilainen tasavalta",
-      "common": "Mauritania"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/mauritania",
-  "currency": [
-    "MRO"
-  ],
-  "callingCode": [
-    "222"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "MR",
-    "ccn3": "478",
-    "cca3": "MRT",
-    "cioc": "MTN"
-  }
+  "flag": ""
 }

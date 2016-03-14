@@ -9,33 +9,24 @@
       }
     }
   },
-  "altSpellings": [
-    "MQ"
-  ],
-  "area": 1128,
-  "borders": [],
-  "capital": "Fort-de-France",
-  "demonym": "French",
-  "flag": "",
-  "geoJSON": {},
-  "languages": {
-    "fra": "French"
-  },
-  "latlng": [
-    14.666667,
-    -61
-  ],
-  "nativeName": "Martinique",
-  "population": 386486,
-  "provinces": [
-    "Martinique"
-  ],
-  "region": "Americas",
-  "subregion": "Caribbean",
-  "timezones": null,
   "tld": [
     ".mq"
   ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "596"
+  ],
+  "capital": "Fort-de-France",
+  "altSpellings": [
+    "MQ"
+  ],
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "fra": "French"
+  },
   "translations": {
     "deu": {
       "official": "Martinique",
@@ -78,18 +69,23 @@
       "common": "Martinique"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/martinique",
-  "currency": [
-    "EUR"
+  "latlng": [
+    14.666667,
+    -61
   ],
-  "callingCode": [
-    "596"
-  ],
+  "demonym": "French",
   "landlocked": false,
+  "borders": [],
+  "area": 1128,
   "codes": {
     "cca2": "MQ",
     "ccn3": "474",
     "cca3": "MTQ",
     "cioc": ""
-  }
+  },
+  "provinces": [
+    "Martinique"
+  ],
+  "geoJSON": {},
+  "flag": ""
 }

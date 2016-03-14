@@ -13,21 +13,108 @@
       }
     }
   },
+  "tld": [
+    ".py"
+  ],
+  "currency": [
+    "PYG"
+  ],
+  "callingCode": [
+    "595"
+  ],
+  "capital": "Asunción",
   "altSpellings": [
     "PY",
     "Republic of Paraguay",
     "República del Paraguay",
     "Tetã Paraguái"
   ],
-  "area": 406752,
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "grn": "Guaraní",
+    "spa": "Spanish"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Paraguay",
+      "common": "Paraguay"
+    },
+    "fra": {
+      "official": "République du Paraguay",
+      "common": "Paraguay"
+    },
+    "hrv": {
+      "official": "Republika Paragvaj",
+      "common": "Paragvaj"
+    },
+    "ita": {
+      "official": "Repubblica del Paraguay",
+      "common": "Paraguay"
+    },
+    "jpn": {
+      "official": "パラグアイ共和国",
+      "common": "パラグアイ"
+    },
+    "nld": {
+      "official": "Republiek Paraguay",
+      "common": "Paraguay"
+    },
+    "por": {
+      "official": "República do Paraguai",
+      "common": "Paraguai"
+    },
+    "rus": {
+      "official": "Республика Парагвай",
+      "common": "Парагвай"
+    },
+    "spa": {
+      "official": "República de Paraguay",
+      "common": "Paraguay"
+    },
+    "fin": {
+      "official": "Paraguayn tasavalta",
+      "common": "Paraguay"
+    }
+  },
+  "latlng": [
+    -23,
+    -58
+  ],
+  "demonym": "Paraguayan",
+  "landlocked": true,
   "borders": [
     "ARG",
     "BOL",
     "BRA"
   ],
-  "capital": "Asunción",
-  "demonym": "Paraguayan",
-  "flag": "",
+  "area": 406752,
+  "codes": {
+    "cca2": "PY",
+    "ccn3": "600",
+    "cca3": "PRY",
+    "cioc": "PAR"
+  },
+  "provinces": [
+    "Alto Paraguay",
+    "Alto Parana",
+    "Amambay",
+    "Asuncion (city)",
+    "Boqueron",
+    "Caaguazu",
+    "Caazapa",
+    "Canindeyu",
+    "Central",
+    "Concepcion",
+    "Cordillera",
+    "Guaira",
+    "Itapua",
+    "Misiones",
+    "Neembucu",
+    "Paraguari",
+    "Presidente Hayes",
+    "San Pedro"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -179,98 +266,5 @@
       }
     ]
   },
-  "languages": {
-    "grn": "Guaraní",
-    "spa": "Spanish"
-  },
-  "latlng": [
-    -23,
-    -58
-  ],
-  "nativeName": "Paraguay",
-  "population": 6893727,
-  "provinces": [
-    "Alto Paraguay",
-    "Alto Parana",
-    "Amambay",
-    "Asuncion (city)",
-    "Boqueron",
-    "Caaguazu",
-    "Caazapa",
-    "Canindeyu",
-    "Central",
-    "Concepcion",
-    "Cordillera",
-    "Guaira",
-    "Itapua",
-    "Misiones",
-    "Neembucu",
-    "Paraguari",
-    "Presidente Hayes",
-    "San Pedro"
-  ],
-  "region": "Americas",
-  "subregion": "South America",
-  "timezones": [
-    "UTC−04:00"
-  ],
-  "tld": [
-    ".py"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Paraguay",
-      "common": "Paraguay"
-    },
-    "fra": {
-      "official": "République du Paraguay",
-      "common": "Paraguay"
-    },
-    "hrv": {
-      "official": "Republika Paragvaj",
-      "common": "Paragvaj"
-    },
-    "ita": {
-      "official": "Repubblica del Paraguay",
-      "common": "Paraguay"
-    },
-    "jpn": {
-      "official": "パラグアイ共和国",
-      "common": "パラグアイ"
-    },
-    "nld": {
-      "official": "Republiek Paraguay",
-      "common": "Paraguay"
-    },
-    "por": {
-      "official": "República do Paraguai",
-      "common": "Paraguai"
-    },
-    "rus": {
-      "official": "Республика Парагвай",
-      "common": "Парагвай"
-    },
-    "spa": {
-      "official": "República de Paraguay",
-      "common": "Paraguay"
-    },
-    "fin": {
-      "official": "Paraguayn tasavalta",
-      "common": "Paraguay"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/paraguay",
-  "currency": [
-    "PYG"
-  ],
-  "callingCode": [
-    "595"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "PY",
-    "ccn3": "600",
-    "cca3": "PRY",
-    "cioc": "PAR"
-  }
+  "flag": ""
 }

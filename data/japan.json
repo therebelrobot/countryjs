@@ -9,16 +9,133 @@
       }
     }
   },
+  "tld": [
+    ".jp",
+    ".みんな"
+  ],
+  "currency": [
+    "JPY"
+  ],
+  "callingCode": [
+    "81"
+  ],
+  "capital": "Tokyo",
   "altSpellings": [
     "JP",
     "Nippon",
     "Nihon"
   ],
-  "area": 377930,
-  "borders": [],
-  "capital": "Tokyo",
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "languages": {
+    "jpn": "Japanese"
+  },
+  "translations": {
+    "deu": {
+      "official": "Japan",
+      "common": "Japan"
+    },
+    "fra": {
+      "official": "Japon",
+      "common": "Japon"
+    },
+    "hrv": {
+      "official": "Japan",
+      "common": "Japan"
+    },
+    "ita": {
+      "official": "Giappone",
+      "common": "Giappone"
+    },
+    "jpn": {
+      "official": "日本",
+      "common": "日本"
+    },
+    "nld": {
+      "official": "Japan",
+      "common": "Japan"
+    },
+    "por": {
+      "official": "Japão",
+      "common": "Japão"
+    },
+    "rus": {
+      "official": "Япония",
+      "common": "Япония"
+    },
+    "spa": {
+      "official": "Japón",
+      "common": "Japón"
+    },
+    "fin": {
+      "official": "Japani",
+      "common": "Japani"
+    }
+  },
+  "latlng": [
+    36,
+    138
+  ],
   "demonym": "Japanese",
-  "flag": "",
+  "landlocked": false,
+  "borders": [],
+  "area": 377930,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Japan.svg",
+  "codes": {
+    "cca2": "JP",
+    "ccn3": "392",
+    "cca3": "JPN",
+    "cioc": "JPN"
+  },
+  "provinces": [
+    "Aichi",
+    "Akita",
+    "Aomori",
+    "Chiba",
+    "Ehime",
+    "Fukui",
+    "Fukuoka",
+    "Fukushima",
+    "Gifu",
+    "Gumma",
+    "Hiroshima",
+    "Hokkaido",
+    "Hyogo",
+    "Ibaraki",
+    "Ishikawa",
+    "Iwate",
+    "Kagawa",
+    "Kagoshima",
+    "Kanagawa",
+    "Kochi",
+    "Kumamoto",
+    "Kyoto",
+    "Mie",
+    "Miyagi",
+    "Miyazaki",
+    "Nagano",
+    "Nagasaki",
+    "Nara",
+    "Niigata",
+    "Oita",
+    "Okayama",
+    "Okinawa",
+    "Osaka",
+    "Saga",
+    "Saitama",
+    "Shiga",
+    "Shimane",
+    "Shizuoka",
+    "Tochigi",
+    "Tokushima",
+    "Tokyo",
+    "Tottori",
+    "Toyama",
+    "Wakayama",
+    "Yamagata",
+    "Yamaguchi",
+    "Yamanashi"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -307,128 +424,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "jpn": "Japanese"
-  },
-  "latlng": [
-    36,
-    138
-  ],
-  "nativeName": "日本",
-  "population": 127080000,
-  "provinces": [
-    "Aichi",
-    "Akita",
-    "Aomori",
-    "Chiba",
-    "Ehime",
-    "Fukui",
-    "Fukuoka",
-    "Fukushima",
-    "Gifu",
-    "Gumma",
-    "Hiroshima",
-    "Hokkaido",
-    "Hyogo",
-    "Ibaraki",
-    "Ishikawa",
-    "Iwate",
-    "Kagawa",
-    "Kagoshima",
-    "Kanagawa",
-    "Kochi",
-    "Kumamoto",
-    "Kyoto",
-    "Mie",
-    "Miyagi",
-    "Miyazaki",
-    "Nagano",
-    "Nagasaki",
-    "Nara",
-    "Niigata",
-    "Oita",
-    "Okayama",
-    "Okinawa",
-    "Osaka",
-    "Saga",
-    "Saitama",
-    "Shiga",
-    "Shimane",
-    "Shizuoka",
-    "Tochigi",
-    "Tokushima",
-    "Tokyo",
-    "Tottori",
-    "Toyama",
-    "Wakayama",
-    "Yamagata",
-    "Yamaguchi",
-    "Yamanashi"
-  ],
-  "region": "Asia",
-  "subregion": "Eastern Asia",
-  "timezones": [
-    "UTC+09:00"
-  ],
-  "tld": [
-    ".jp",
-    ".みんな"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Japan",
-      "common": "Japan"
-    },
-    "fra": {
-      "official": "Japon",
-      "common": "Japon"
-    },
-    "hrv": {
-      "official": "Japan",
-      "common": "Japan"
-    },
-    "ita": {
-      "official": "Giappone",
-      "common": "Giappone"
-    },
-    "jpn": {
-      "official": "日本",
-      "common": "日本"
-    },
-    "nld": {
-      "official": "Japan",
-      "common": "Japan"
-    },
-    "por": {
-      "official": "Japão",
-      "common": "Japão"
-    },
-    "rus": {
-      "official": "Япония",
-      "common": "Япония"
-    },
-    "spa": {
-      "official": "Japón",
-      "common": "Japón"
-    },
-    "fin": {
-      "official": "Japani",
-      "common": "Japani"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/japan",
-  "currency": [
-    "JPY"
-  ],
-  "callingCode": [
-    "81"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "JP",
-    "ccn3": "392",
-    "cca3": "JPN",
-    "cioc": "JPN"
   }
 }

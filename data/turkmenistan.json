@@ -13,19 +13,93 @@
       }
     }
   },
+  "tld": [
+    ".tm"
+  ],
+  "currency": [
+    "TMT"
+  ],
+  "callingCode": [
+    "993"
+  ],
+  "capital": "Ashgabat",
   "altSpellings": [
     "TM"
   ],
-  "area": 488100,
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "languages": {
+    "rus": "Russian",
+    "tuk": "Turkmen"
+  },
+  "translations": {
+    "deu": {
+      "official": "Turkmenistan",
+      "common": "Turkmenistan"
+    },
+    "fra": {
+      "official": "Turkménistan",
+      "common": "Turkménistan"
+    },
+    "hrv": {
+      "official": "Turkmenistan",
+      "common": "Turkmenistan"
+    },
+    "ita": {
+      "official": "Turkmenistan",
+      "common": "Turkmenistan"
+    },
+    "jpn": {
+      "official": "トルクメニスタン",
+      "common": "トルクメニスタン"
+    },
+    "nld": {
+      "official": "Turkmenistan",
+      "common": "Turkmenistan"
+    },
+    "por": {
+      "official": "Turcomenistão",
+      "common": "Turquemenistão"
+    },
+    "rus": {
+      "official": "Туркменистан",
+      "common": "Туркмения"
+    },
+    "spa": {
+      "official": "Turkmenistán",
+      "common": "Turkmenistán"
+    },
+    "fin": {
+      "official": "Turkmenistan",
+      "common": "Turkmenistan"
+    }
+  },
+  "latlng": [
+    40,
+    60
+  ],
+  "demonym": "Turkmen",
+  "landlocked": true,
   "borders": [
     "AFG",
     "IRN",
     "KAZ",
     "UZB"
   ],
-  "capital": "Ashgabat",
-  "demonym": "Turkmen",
-  "flag": "",
+  "area": 488100,
+  "codes": {
+    "cca2": "TM",
+    "ccn3": "795",
+    "cca3": "TKM",
+    "cioc": "TKM"
+  },
+  "provinces": [
+    "Ahal Welayaty",
+    "Balkan Welayaty",
+    "Dashhowuz Welayaty",
+    "Lebap Welayaty",
+    "Mary Welayaty"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -261,85 +335,5 @@
       }
     ]
   },
-  "languages": {
-    "rus": "Russian",
-    "tuk": "Turkmen"
-  },
-  "latlng": [
-    40,
-    60
-  ],
-  "nativeName": "Türkmenistan",
-  "population": 5838064,
-  "provinces": [
-    "Ahal Welayaty",
-    "Balkan Welayaty",
-    "Dashhowuz Welayaty",
-    "Lebap Welayaty",
-    "Mary Welayaty"
-  ],
-  "region": "Asia",
-  "subregion": "Central Asia",
-  "timezones": [
-    "UTC+05:00"
-  ],
-  "tld": [
-    ".tm"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Turkmenistan",
-      "common": "Turkmenistan"
-    },
-    "fra": {
-      "official": "Turkménistan",
-      "common": "Turkménistan"
-    },
-    "hrv": {
-      "official": "Turkmenistan",
-      "common": "Turkmenistan"
-    },
-    "ita": {
-      "official": "Turkmenistan",
-      "common": "Turkmenistan"
-    },
-    "jpn": {
-      "official": "トルクメニスタン",
-      "common": "トルクメニスタン"
-    },
-    "nld": {
-      "official": "Turkmenistan",
-      "common": "Turkmenistan"
-    },
-    "por": {
-      "official": "Turcomenistão",
-      "common": "Turquemenistão"
-    },
-    "rus": {
-      "official": "Туркменистан",
-      "common": "Туркмения"
-    },
-    "spa": {
-      "official": "Turkmenistán",
-      "common": "Turkmenistán"
-    },
-    "fin": {
-      "official": "Turkmenistan",
-      "common": "Turkmenistan"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/turkmenistan",
-  "currency": [
-    "TMT"
-  ],
-  "callingCode": [
-    "993"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "TM",
-    "ccn3": "795",
-    "cca3": "TKM",
-    "cioc": "TKM"
-  }
+  "flag": ""
 }

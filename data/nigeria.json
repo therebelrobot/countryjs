@@ -9,22 +9,127 @@
       }
     }
   },
+  "tld": [
+    ".ng"
+  ],
+  "currency": [
+    "NGN"
+  ],
+  "callingCode": [
+    "234"
+  ],
+  "capital": "Abuja",
   "altSpellings": [
     "NG",
     "Nijeriya",
     "Naíjíríà",
     "Federal Republic of Nigeria"
   ],
-  "area": 923768,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "languages": {
+    "eng": "English"
+  },
+  "translations": {
+    "deu": {
+      "official": "Bundesrepublik Nigeria",
+      "common": "Nigeria"
+    },
+    "fra": {
+      "official": "République fédérale du Nigeria",
+      "common": "Nigéria"
+    },
+    "hrv": {
+      "official": "Savezna Republika Nigerija",
+      "common": "Nigerija"
+    },
+    "ita": {
+      "official": "Repubblica federale di Nigeria",
+      "common": "Nigeria"
+    },
+    "jpn": {
+      "official": "ナイジェリア連邦共和国",
+      "common": "ナイジェリア"
+    },
+    "nld": {
+      "official": "Federale Republiek Nigeria",
+      "common": "Nigeria"
+    },
+    "por": {
+      "official": "República Federal da Nigéria",
+      "common": "Nigéria"
+    },
+    "rus": {
+      "official": "Федеративная Республика Нигерия",
+      "common": "Нигерия"
+    },
+    "spa": {
+      "official": "República Federal de Nigeria",
+      "common": "Nigeria"
+    },
+    "fin": {
+      "official": "Nigerian liittotasavalta",
+      "common": "Nigeria"
+    }
+  },
+  "latlng": [
+    10,
+    8
+  ],
+  "demonym": "Nigerian",
+  "landlocked": false,
   "borders": [
     "BEN",
     "CMR",
     "TCD",
     "NER"
   ],
-  "capital": "Abuja",
-  "demonym": "Nigerian",
-  "flag": "",
+  "area": 923768,
+  "codes": {
+    "cca2": "NG",
+    "ccn3": "566",
+    "cca3": "NGA",
+    "cioc": "NGR"
+  },
+  "provinces": [
+    "Abia",
+    "Abuja Federal Capital Territory",
+    "Adamawa",
+    "Akwa Ibom",
+    "Anambra",
+    "Bauchi",
+    "Bayelsa",
+    "Benue",
+    "Borno",
+    "Cross River",
+    "Delta",
+    "Ebonyi",
+    "Edo",
+    "Ekiti",
+    "Enugu",
+    "Gombe",
+    "Imo",
+    "Jigawa",
+    "Kaduna",
+    "Kano",
+    "Katsina",
+    "Kebbi",
+    "Kogi",
+    "Kwara",
+    "Lagos",
+    "Nassarawa",
+    "Niger",
+    "Ogun",
+    "Ondo",
+    "Osun",
+    "Oyo",
+    "Plateau",
+    "Rivers",
+    "Sokoto",
+    "Taraba",
+    "Yobe",
+    "Zamfara"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -276,116 +381,5 @@
       }
     ]
   },
-  "languages": {
-    "eng": "English"
-  },
-  "latlng": [
-    10,
-    8
-  ],
-  "nativeName": "Nigeria",
-  "population": 178517000,
-  "provinces": [
-    "Abia",
-    "Abuja Federal Capital Territory",
-    "Adamawa",
-    "Akwa Ibom",
-    "Anambra",
-    "Bauchi",
-    "Bayelsa",
-    "Benue",
-    "Borno",
-    "Cross River",
-    "Delta",
-    "Ebonyi",
-    "Edo",
-    "Ekiti",
-    "Enugu",
-    "Gombe",
-    "Imo",
-    "Jigawa",
-    "Kaduna",
-    "Kano",
-    "Katsina",
-    "Kebbi",
-    "Kogi",
-    "Kwara",
-    "Lagos",
-    "Nassarawa",
-    "Niger",
-    "Ogun",
-    "Ondo",
-    "Osun",
-    "Oyo",
-    "Plateau",
-    "Rivers",
-    "Sokoto",
-    "Taraba",
-    "Yobe",
-    "Zamfara"
-  ],
-  "region": "Africa",
-  "subregion": "Western Africa",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "tld": [
-    ".ng"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Bundesrepublik Nigeria",
-      "common": "Nigeria"
-    },
-    "fra": {
-      "official": "République fédérale du Nigeria",
-      "common": "Nigéria"
-    },
-    "hrv": {
-      "official": "Savezna Republika Nigerija",
-      "common": "Nigerija"
-    },
-    "ita": {
-      "official": "Repubblica federale di Nigeria",
-      "common": "Nigeria"
-    },
-    "jpn": {
-      "official": "ナイジェリア連邦共和国",
-      "common": "ナイジェリア"
-    },
-    "nld": {
-      "official": "Federale Republiek Nigeria",
-      "common": "Nigeria"
-    },
-    "por": {
-      "official": "República Federal da Nigéria",
-      "common": "Nigéria"
-    },
-    "rus": {
-      "official": "Федеративная Республика Нигерия",
-      "common": "Нигерия"
-    },
-    "spa": {
-      "official": "República Federal de Nigeria",
-      "common": "Nigeria"
-    },
-    "fin": {
-      "official": "Nigerian liittotasavalta",
-      "common": "Nigeria"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/nigeria",
-  "currency": [
-    "NGN"
-  ],
-  "callingCode": [
-    "234"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "NG",
-    "ccn3": "566",
-    "cca3": "NGA",
-    "cioc": "NGR"
-  }
+  "flag": ""
 }

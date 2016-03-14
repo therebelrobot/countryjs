@@ -9,12 +9,75 @@
       }
     }
   },
+  "tld": [
+    ".sy",
+    "سوريا."
+  ],
+  "currency": [
+    "SYP"
+  ],
+  "callingCode": [
+    "963"
+  ],
+  "capital": "Damascus",
   "altSpellings": [
     "SY",
     "Syrian Arab Republic",
     "Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah"
   ],
-  "area": 185180,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "ara": "Arabic"
+  },
+  "translations": {
+    "deu": {
+      "official": "Arabische Republik Syrien",
+      "common": "Syrien"
+    },
+    "fra": {
+      "official": "République arabe syrienne",
+      "common": "Syrie"
+    },
+    "hrv": {
+      "official": "Sirijska Arapska Republika",
+      "common": "Sirija"
+    },
+    "ita": {
+      "official": "Repubblica araba siriana",
+      "common": "Siria"
+    },
+    "jpn": {
+      "official": "シリアアラブ共和国",
+      "common": "シリア・アラブ共和国"
+    },
+    "nld": {
+      "official": "Syrische Arabische Republiek",
+      "common": "Syrië"
+    },
+    "por": {
+      "official": "República Árabe Síria",
+      "common": "Síria"
+    },
+    "rus": {
+      "official": "Сирийская Арабская Республика",
+      "common": "Сирия"
+    },
+    "spa": {
+      "official": "República Árabe Siria",
+      "common": "Siria"
+    },
+    "fin": {
+      "official": "Syyrian arabitasavalta",
+      "common": "Syyria"
+    }
+  },
+  "latlng": [
+    35,
+    38
+  ],
+  "demonym": "Syrian",
+  "landlocked": false,
   "borders": [
     "IRQ",
     "ISR",
@@ -22,9 +85,29 @@
     "LBN",
     "TUR"
   ],
-  "capital": "Damascus",
-  "demonym": "Syrian",
-  "flag": "",
+  "area": 185180,
+  "codes": {
+    "cca2": "SY",
+    "ccn3": "760",
+    "cca3": "SYR",
+    "cioc": "SYR"
+  },
+  "provinces": [
+    "Al Hasakah",
+    "Al Ladhiqiyah",
+    "Al Qunaytirah",
+    "Ar Raqqah",
+    "As Suwayda'",
+    "Dar'a",
+    "Dayr az Zawr",
+    "Dimashq",
+    "Halab",
+    "Hamah",
+    "Hims",
+    "Idlib",
+    "Rif Dimashq",
+    "Tartus"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -152,94 +235,5 @@
       }
     ]
   },
-  "languages": {
-    "ara": "Arabic"
-  },
-  "latlng": [
-    35,
-    38
-  ],
-  "nativeName": "سوريا",
-  "population": 22964324,
-  "provinces": [
-    "Al Hasakah",
-    "Al Ladhiqiyah",
-    "Al Qunaytirah",
-    "Ar Raqqah",
-    "As Suwayda'",
-    "Dar'a",
-    "Dayr az Zawr",
-    "Dimashq",
-    "Halab",
-    "Hamah",
-    "Hims",
-    "Idlib",
-    "Rif Dimashq",
-    "Tartus"
-  ],
-  "region": "Asia",
-  "subregion": "Western Asia",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "tld": [
-    ".sy",
-    "سوريا."
-  ],
-  "translations": {
-    "deu": {
-      "official": "Arabische Republik Syrien",
-      "common": "Syrien"
-    },
-    "fra": {
-      "official": "République arabe syrienne",
-      "common": "Syrie"
-    },
-    "hrv": {
-      "official": "Sirijska Arapska Republika",
-      "common": "Sirija"
-    },
-    "ita": {
-      "official": "Repubblica araba siriana",
-      "common": "Siria"
-    },
-    "jpn": {
-      "official": "シリアアラブ共和国",
-      "common": "シリア・アラブ共和国"
-    },
-    "nld": {
-      "official": "Syrische Arabische Republiek",
-      "common": "Syrië"
-    },
-    "por": {
-      "official": "República Árabe Síria",
-      "common": "Síria"
-    },
-    "rus": {
-      "official": "Сирийская Арабская Республика",
-      "common": "Сирия"
-    },
-    "spa": {
-      "official": "República Árabe Siria",
-      "common": "Siria"
-    },
-    "fin": {
-      "official": "Syyrian arabitasavalta",
-      "common": "Syyria"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/syria",
-  "currency": [
-    "SYP"
-  ],
-  "callingCode": [
-    "963"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "SY",
-    "ccn3": "760",
-    "cca3": "SYR",
-    "cioc": "SYR"
-  }
+  "flag": ""
 }

@@ -9,35 +9,24 @@
       }
     }
   },
-  "altSpellings": [
-    "GI"
-  ],
-  "area": 6,
-  "borders": [
-    "ESP"
-  ],
-  "capital": "Gibraltar",
-  "demonym": "Gibraltar",
-  "flag": "",
-  "geoJSON": {},
-  "languages": {
-    "eng": "English"
-  },
-  "latlng": [
-    36.13333333,
-    -5.35
-  ],
-  "nativeName": "Gibraltar",
-  "population": 30001,
-  "provinces": [
-    "Gibraltar"
-  ],
-  "region": "Europe",
-  "subregion": "Southern Europe",
-  "timezones": null,
   "tld": [
     ".gi"
   ],
+  "currency": [
+    "GIP"
+  ],
+  "callingCode": [
+    "350"
+  ],
+  "capital": "Gibraltar",
+  "altSpellings": [
+    "GI"
+  ],
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "languages": {
+    "eng": "English"
+  },
   "translations": {
     "deu": {
       "official": "Gibraltar",
@@ -80,18 +69,25 @@
       "common": "Gibraltar"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/gibraltar",
-  "currency": [
-    "GIP"
+  "latlng": [
+    36.13333333,
+    -5.35
   ],
-  "callingCode": [
-    "350"
-  ],
+  "demonym": "Gibraltar",
   "landlocked": false,
+  "borders": [
+    "ESP"
+  ],
+  "area": 6,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Gibraltar.svg",
   "codes": {
     "cca2": "GI",
     "ccn3": "292",
     "cca3": "GIB",
     "cioc": ""
-  }
+  },
+  "provinces": [
+    "Gibraltar"
+  ],
+  "geoJSON": {}
 }

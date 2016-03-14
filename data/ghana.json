@@ -9,18 +9,97 @@
       }
     }
   },
+  "tld": [
+    ".gh"
+  ],
+  "currency": [
+    "GHS"
+  ],
+  "callingCode": [
+    "233"
+  ],
+  "capital": "Accra",
   "altSpellings": [
     "GH"
   ],
-  "area": 238533,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "languages": {
+    "eng": "English"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Ghana",
+      "common": "Ghana"
+    },
+    "fra": {
+      "official": "République du Ghana",
+      "common": "Ghana"
+    },
+    "hrv": {
+      "official": "Republika Gana",
+      "common": "Gana"
+    },
+    "ita": {
+      "official": "Repubblica del Ghana",
+      "common": "Ghana"
+    },
+    "jpn": {
+      "official": "ガーナ共和国",
+      "common": "ガーナ"
+    },
+    "nld": {
+      "official": "Republiek Ghana",
+      "common": "Ghana"
+    },
+    "por": {
+      "official": "República do Gana",
+      "common": "Gana"
+    },
+    "rus": {
+      "official": "Республика Гана",
+      "common": "Гана"
+    },
+    "spa": {
+      "official": "República de Ghana",
+      "common": "Ghana"
+    },
+    "fin": {
+      "official": "Ghanan tasavalta",
+      "common": "Ghana"
+    }
+  },
+  "latlng": [
+    8,
+    -2
+  ],
+  "demonym": "Ghanaian",
+  "landlocked": false,
   "borders": [
     "BFA",
     "CIV",
     "TGO"
   ],
-  "capital": "Accra",
-  "demonym": "Ghanaian",
-  "flag": "",
+  "area": 238533,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Ghana.svg",
+  "codes": {
+    "cca2": "GH",
+    "ccn3": "288",
+    "cca3": "GHA",
+    "cioc": "GHA"
+  },
+  "provinces": [
+    "Ashanti",
+    "Brong-Ahafo",
+    "Central",
+    "Eastern",
+    "Greater Accra",
+    "Northern",
+    "Upper East",
+    "Upper West",
+    "Volta",
+    "Western"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -139,90 +218,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "eng": "English"
-  },
-  "latlng": [
-    8,
-    -2
-  ],
-  "nativeName": "Ghana",
-  "population": 27043093,
-  "provinces": [
-    "Ashanti",
-    "Brong-Ahafo",
-    "Central",
-    "Eastern",
-    "Greater Accra",
-    "Northern",
-    "Upper East",
-    "Upper West",
-    "Volta",
-    "Western"
-  ],
-  "region": "Africa",
-  "subregion": "Western Africa",
-  "timezones": [
-    "UTC"
-  ],
-  "tld": [
-    ".gh"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Ghana",
-      "common": "Ghana"
-    },
-    "fra": {
-      "official": "République du Ghana",
-      "common": "Ghana"
-    },
-    "hrv": {
-      "official": "Republika Gana",
-      "common": "Gana"
-    },
-    "ita": {
-      "official": "Repubblica del Ghana",
-      "common": "Ghana"
-    },
-    "jpn": {
-      "official": "ガーナ共和国",
-      "common": "ガーナ"
-    },
-    "nld": {
-      "official": "Republiek Ghana",
-      "common": "Ghana"
-    },
-    "por": {
-      "official": "República do Gana",
-      "common": "Gana"
-    },
-    "rus": {
-      "official": "Республика Гана",
-      "common": "Гана"
-    },
-    "spa": {
-      "official": "República de Ghana",
-      "common": "Ghana"
-    },
-    "fin": {
-      "official": "Ghanan tasavalta",
-      "common": "Ghana"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/ghana",
-  "currency": [
-    "GHS"
-  ],
-  "callingCode": [
-    "233"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "GH",
-    "ccn3": "288",
-    "cca3": "GHA",
-    "cioc": "GHA"
   }
 }

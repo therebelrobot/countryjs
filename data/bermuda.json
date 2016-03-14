@@ -9,17 +9,101 @@
       }
     }
   },
+  "tld": [
+    ".bm"
+  ],
+  "currency": [
+    "BMD"
+  ],
+  "callingCode": [
+    "1441"
+  ],
+  "capital": "Hamilton",
   "altSpellings": [
     "BM",
     "The Islands of Bermuda",
     "The Bermudas",
     "Somers Isles"
   ],
-  "area": 54,
-  "borders": [],
-  "capital": "Hamilton",
+  "region": "Americas",
+  "subregion": "Northern America",
+  "languages": {
+    "eng": "English"
+  },
+  "translations": {
+    "cym": {
+      "official": "Bermuda",
+      "common": "Bermiwda"
+    },
+    "deu": {
+      "official": "Bermuda",
+      "common": "Bermuda"
+    },
+    "fra": {
+      "official": "Bermudes",
+      "common": "Bermudes"
+    },
+    "hrv": {
+      "official": "Bermuda",
+      "common": "Bermudi"
+    },
+    "ita": {
+      "official": "Bermuda",
+      "common": "Bermuda"
+    },
+    "jpn": {
+      "official": "バミューダ",
+      "common": "バミューダ"
+    },
+    "nld": {
+      "official": "Bermuda",
+      "common": "Bermuda"
+    },
+    "por": {
+      "official": "Bermudas",
+      "common": "Bermudas"
+    },
+    "rus": {
+      "official": "Бермудские острова",
+      "common": "Бермудские Острова"
+    },
+    "spa": {
+      "official": "Bermuda",
+      "common": "Bermudas"
+    },
+    "fin": {
+      "official": "Bermuda",
+      "common": "Bermuda"
+    }
+  },
+  "latlng": [
+    32.33333333,
+    -64.75
+  ],
   "demonym": "Bermudian",
-  "flag": "",
+  "landlocked": false,
+  "borders": [],
+  "area": 54,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Bermuda.svg",
+  "codes": {
+    "cca2": "BM",
+    "ccn3": "060",
+    "cca3": "BMU",
+    "cioc": "BER"
+  },
+  "provinces": [
+    "Devonshire",
+    "Hamilton",
+    "Hamilton",
+    "Paget",
+    "Pembroke",
+    "Saint George",
+    "Saint Georges",
+    "Sandys",
+    "Smiths",
+    "Southampton",
+    "Warwick"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -382,93 +466,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "eng": "English"
-  },
-  "latlng": [
-    32.33333333,
-    -64.75
-  ],
-  "nativeName": "Bermuda",
-  "population": 64237,
-  "provinces": [
-    "Devonshire",
-    "Hamilton",
-    "Hamilton",
-    "Paget",
-    "Pembroke",
-    "Saint George",
-    "Saint Georges",
-    "Sandys",
-    "Smiths",
-    "Southampton",
-    "Warwick"
-  ],
-  "region": "Americas",
-  "subregion": "Northern America",
-  "timezones": null,
-  "tld": [
-    ".bm"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Bermuda",
-      "common": "Bermiwda"
-    },
-    "deu": {
-      "official": "Bermuda",
-      "common": "Bermuda"
-    },
-    "fra": {
-      "official": "Bermudes",
-      "common": "Bermudes"
-    },
-    "hrv": {
-      "official": "Bermuda",
-      "common": "Bermudi"
-    },
-    "ita": {
-      "official": "Bermuda",
-      "common": "Bermuda"
-    },
-    "jpn": {
-      "official": "バミューダ",
-      "common": "バミューダ"
-    },
-    "nld": {
-      "official": "Bermuda",
-      "common": "Bermuda"
-    },
-    "por": {
-      "official": "Bermudas",
-      "common": "Bermudas"
-    },
-    "rus": {
-      "official": "Бермудские острова",
-      "common": "Бермудские Острова"
-    },
-    "spa": {
-      "official": "Bermuda",
-      "common": "Bermudas"
-    },
-    "fin": {
-      "official": "Bermuda",
-      "common": "Bermuda"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/bermuda",
-  "currency": [
-    "BMD"
-  ],
-  "callingCode": [
-    "1441"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "BM",
-    "ccn3": "060",
-    "cca3": "BMU",
-    "cioc": "BER"
   }
 }

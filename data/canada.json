@@ -13,16 +13,103 @@
       }
     }
   },
+  "tld": [
+    ".ca"
+  ],
+  "currency": [
+    "CAD"
+  ],
+  "callingCode": [
+    "1"
+  ],
+  "capital": "Ottawa",
   "altSpellings": [
     "CA"
   ],
-  "area": 9984670,
+  "region": "Americas",
+  "subregion": "Northern America",
+  "languages": {
+    "eng": "English",
+    "fra": "French"
+  },
+  "translations": {
+    "cym": {
+      "official": "Canada",
+      "common": "Canada"
+    },
+    "deu": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "fra": {
+      "official": "Canada",
+      "common": "Canada"
+    },
+    "hrv": {
+      "official": "Kanada",
+      "common": "Kanada"
+    },
+    "ita": {
+      "official": "Canada",
+      "common": "Canada"
+    },
+    "jpn": {
+      "official": "カナダ",
+      "common": "カナダ"
+    },
+    "nld": {
+      "official": "Canada",
+      "common": "Canada"
+    },
+    "por": {
+      "official": "Canadá",
+      "common": "Canadá"
+    },
+    "rus": {
+      "official": "Канада",
+      "common": "Канада"
+    },
+    "spa": {
+      "official": "Canadá",
+      "common": "Canadá"
+    },
+    "fin": {
+      "official": "Kanada",
+      "common": "Kanada"
+    }
+  },
+  "latlng": [
+    60,
+    -95
+  ],
+  "demonym": "Canadian",
+  "landlocked": false,
   "borders": [
     "USA"
   ],
-  "capital": "Ottawa",
-  "demonym": "Canadian",
-  "flag": "",
+  "area": 9984670,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Canada.svg",
+  "codes": {
+    "cca2": "CA",
+    "ccn3": "124",
+    "cca3": "CAN",
+    "cioc": "CAN"
+  },
+  "provinces": [
+    "Alberta",
+    "British Columbia",
+    "Manitoba",
+    "New Brunswick",
+    "Newfoundland",
+    "Northwest Territories",
+    "Nova Scotia",
+    "Nunavut",
+    "Ontario",
+    "Prince Edward Island",
+    "Quebec",
+    "Saskatchewan",
+    "Yukon Territory"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -3327,103 +3414,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "eng": "English",
-    "fra": "French"
-  },
-  "latlng": [
-    60,
-    -95
-  ],
-  "nativeName": "Canada",
-  "population": 35540419,
-  "provinces": [
-    "Alberta",
-    "British Columbia",
-    "Manitoba",
-    "New Brunswick",
-    "Newfoundland",
-    "Northwest Territories",
-    "Nova Scotia",
-    "Nunavut",
-    "Ontario",
-    "Prince Edward Island",
-    "Quebec",
-    "Saskatchewan",
-    "Yukon Territory"
-  ],
-  "region": "Americas",
-  "subregion": "Northern America",
-  "timezones": [
-    "UTC−08:00",
-    "UTC−07:00",
-    "UTC−06:00",
-    "UTC−05:00",
-    "UTC−04:00",
-    "UTC−03:30"
-  ],
-  "tld": [
-    ".ca"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Canada",
-      "common": "Canada"
-    },
-    "deu": {
-      "official": "Kanada",
-      "common": "Kanada"
-    },
-    "fra": {
-      "official": "Canada",
-      "common": "Canada"
-    },
-    "hrv": {
-      "official": "Kanada",
-      "common": "Kanada"
-    },
-    "ita": {
-      "official": "Canada",
-      "common": "Canada"
-    },
-    "jpn": {
-      "official": "カナダ",
-      "common": "カナダ"
-    },
-    "nld": {
-      "official": "Canada",
-      "common": "Canada"
-    },
-    "por": {
-      "official": "Canadá",
-      "common": "Canadá"
-    },
-    "rus": {
-      "official": "Канада",
-      "common": "Канада"
-    },
-    "spa": {
-      "official": "Canadá",
-      "common": "Canadá"
-    },
-    "fin": {
-      "official": "Kanada",
-      "common": "Kanada"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/canada",
-  "currency": [
-    "CAD"
-  ],
-  "callingCode": [
-    "1"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "CA",
-    "ccn3": "124",
-    "cca3": "CAN",
-    "cioc": "CAN"
   }
 }

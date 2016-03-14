@@ -9,48 +9,26 @@
       }
     }
   },
+  "tld": [
+    ".bh"
+  ],
+  "currency": [
+    "BHD"
+  ],
+  "callingCode": [
+    "973"
+  ],
+  "capital": "Manama",
   "altSpellings": [
     "BH",
     "Kingdom of Bahrain",
     "Mamlakat al-Baḥrayn"
   ],
-  "area": 765,
-  "borders": [],
-  "capital": "Manama",
-  "demonym": "Bahraini",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Asia",
+  "subregion": "Western Asia",
   "languages": {
     "ara": "Arabic"
   },
-  "latlng": [
-    26,
-    50.55
-  ],
-  "nativeName": "‏البحرين",
-  "population": 1316500,
-  "provinces": [
-    "Al Hadd",
-    "Al Manamah",
-    "Al Mintaqah al Gharbiyah",
-    "Al Mintaqah al Wusta",
-    "Al Mintaqah ash Shamaliyah",
-    "Al Muharraq",
-    "Ar Rifa' wa al Mintaqah al Janubiyah",
-    "Jidd Hafs",
-    "Juzur Hawar",
-    "Madinat 'Isa",
-    "Madinat Hamad",
-    "Sitrah"
-  ],
-  "region": "Asia",
-  "subregion": "Western Asia",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "tld": [
-    ".bh"
-  ],
   "translations": {
     "cym": {
       "official": "Kingdom of Bahrain",
@@ -97,18 +75,34 @@
       "common": "Bahrain"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/bahrain",
-  "currency": [
-    "BHD"
+  "latlng": [
+    26,
+    50.55
   ],
-  "callingCode": [
-    "973"
-  ],
+  "demonym": "Bahraini",
   "landlocked": false,
+  "borders": [],
+  "area": 765,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Bahrain.svg",
   "codes": {
     "cca2": "BH",
     "ccn3": "048",
     "cca3": "BHR",
     "cioc": "BRN"
-  }
+  },
+  "provinces": [
+    "Al Hadd",
+    "Al Manamah",
+    "Al Mintaqah al Gharbiyah",
+    "Al Mintaqah al Wusta",
+    "Al Mintaqah ash Shamaliyah",
+    "Al Muharraq",
+    "Ar Rifa' wa al Mintaqah al Janubiyah",
+    "Jidd Hafs",
+    "Juzur Hawar",
+    "Madinat 'Isa",
+    "Madinat Hamad",
+    "Sitrah"
+  ],
+  "geoJSON": {}
 }

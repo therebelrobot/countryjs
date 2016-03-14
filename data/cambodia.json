@@ -9,19 +9,116 @@
       }
     }
   },
+  "tld": [
+    ".kh"
+  ],
+  "currency": [
+    "KHR"
+  ],
+  "callingCode": [
+    "855"
+  ],
+  "capital": "Phnom Penh",
   "altSpellings": [
     "KH",
     "Kingdom of Cambodia"
   ],
-  "area": 181035,
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "languages": {
+    "khm": "Khmer"
+  },
+  "translations": {
+    "cym": {
+      "official": "Kingdom of Cambodia",
+      "common": "Cambodia"
+    },
+    "deu": {
+      "official": "Königreich Kambodscha",
+      "common": "Kambodscha"
+    },
+    "fra": {
+      "official": "Royaume du Cambodge",
+      "common": "Cambodge"
+    },
+    "hrv": {
+      "official": "Kraljevina Kambodža",
+      "common": "Kambodža"
+    },
+    "ita": {
+      "official": "Regno di Cambogia",
+      "common": "Cambogia"
+    },
+    "jpn": {
+      "official": "カンボジア王国",
+      "common": "カンボジア"
+    },
+    "nld": {
+      "official": "Koninkrijk Cambodja",
+      "common": "Cambodja"
+    },
+    "por": {
+      "official": "Reino do Camboja",
+      "common": "Camboja"
+    },
+    "rus": {
+      "official": "Королевство Камбоджа",
+      "common": "Камбоджа"
+    },
+    "spa": {
+      "official": "Reino de Camboya",
+      "common": "Camboya"
+    },
+    "fin": {
+      "official": "Kambodžan kuningaskunta",
+      "common": "Kambodža"
+    }
+  },
+  "latlng": [
+    13,
+    105
+  ],
+  "demonym": "Cambodian",
+  "landlocked": false,
   "borders": [
     "LAO",
     "THA",
     "VNM"
   ],
-  "capital": "Phnom Penh",
-  "demonym": "Cambodian",
-  "flag": "",
+  "area": 181035,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Cambodia.svg",
+  "codes": {
+    "cca2": "KH",
+    "ccn3": "116",
+    "cca3": "KHM",
+    "cioc": "CAM"
+  },
+  "provinces": [
+    "Banteay Mean Cheay",
+    "Batdambang",
+    "Kampong Cham",
+    "Kampong Chhnang",
+    "Kampong Spoe",
+    "Kampong Thum",
+    "Kampot",
+    "Kandal",
+    "Kaoh Kong",
+    "Keb",
+    "Kracheh",
+    "Mondol Kiri",
+    "Otdar Mean Cheay",
+    "Pailin",
+    "Phnum Penh",
+    "Pouthisat",
+    "Preah Seihanu (Sihanoukville)",
+    "Preah Vihear",
+    "Prey Veng",
+    "Rotanah Kiri",
+    "Siem Reab",
+    "Stoeng Treng",
+    "Svay Rieng",
+    "Takev"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -108,108 +205,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "khm": "Khmer"
-  },
-  "latlng": [
-    13,
-    105
-  ],
-  "nativeName": "Kâmpŭchéa",
-  "population": 15184116,
-  "provinces": [
-    "Banteay Mean Cheay",
-    "Batdambang",
-    "Kampong Cham",
-    "Kampong Chhnang",
-    "Kampong Spoe",
-    "Kampong Thum",
-    "Kampot",
-    "Kandal",
-    "Kaoh Kong",
-    "Keb",
-    "Kracheh",
-    "Mondol Kiri",
-    "Otdar Mean Cheay",
-    "Pailin",
-    "Phnum Penh",
-    "Pouthisat",
-    "Preah Seihanu (Sihanoukville)",
-    "Preah Vihear",
-    "Prey Veng",
-    "Rotanah Kiri",
-    "Siem Reab",
-    "Stoeng Treng",
-    "Svay Rieng",
-    "Takev"
-  ],
-  "region": "Asia",
-  "subregion": "South-Eastern Asia",
-  "timezones": [
-    "UTC+07:00"
-  ],
-  "tld": [
-    ".kh"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Kingdom of Cambodia",
-      "common": "Cambodia"
-    },
-    "deu": {
-      "official": "Königreich Kambodscha",
-      "common": "Kambodscha"
-    },
-    "fra": {
-      "official": "Royaume du Cambodge",
-      "common": "Cambodge"
-    },
-    "hrv": {
-      "official": "Kraljevina Kambodža",
-      "common": "Kambodža"
-    },
-    "ita": {
-      "official": "Regno di Cambogia",
-      "common": "Cambogia"
-    },
-    "jpn": {
-      "official": "カンボジア王国",
-      "common": "カンボジア"
-    },
-    "nld": {
-      "official": "Koninkrijk Cambodja",
-      "common": "Cambodja"
-    },
-    "por": {
-      "official": "Reino do Camboja",
-      "common": "Camboja"
-    },
-    "rus": {
-      "official": "Королевство Камбоджа",
-      "common": "Камбоджа"
-    },
-    "spa": {
-      "official": "Reino de Camboya",
-      "common": "Camboya"
-    },
-    "fin": {
-      "official": "Kambodžan kuningaskunta",
-      "common": "Kambodža"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/cambodia",
-  "currency": [
-    "KHR"
-  ],
-  "callingCode": [
-    "855"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "KH",
-    "ccn3": "116",
-    "cca3": "KHM",
-    "cioc": "CAM"
   }
 }

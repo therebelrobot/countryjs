@@ -17,6 +17,16 @@
       }
     }
   },
+  "tld": [
+    ".gq"
+  ],
+  "currency": [
+    "XAF"
+  ],
+  "callingCode": [
+    "240"
+  ],
+  "capital": "Malabo",
   "altSpellings": [
     "GQ",
     "Republic of Equatorial Guinea",
@@ -24,89 +34,13 @@
     "République de Guinée équatoriale",
     "República da Guiné Equatorial"
   ],
-  "area": 28051,
-  "borders": [
-    "CMR",
-    "GAB"
-  ],
-  "capital": "Malabo",
-  "demonym": "Equatorial Guinean",
-  "flag": "",
-  "geoJSON": {
-    "type": "FeatureCollection",
-    "features": [
-      {
-        "type": "Feature",
-        "id": "GNQ",
-        "properties": {
-          "name": "Equatorial Guinea"
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
-            [
-              [
-                9.492889,
-                1.01012
-              ],
-              [
-                9.305613,
-                1.160911
-              ],
-              [
-                9.649158,
-                2.283866
-              ],
-              [
-                11.276449,
-                2.261051
-              ],
-              [
-                11.285079,
-                1.057662
-              ],
-              [
-                9.830284,
-                1.067894
-              ],
-              [
-                9.492889,
-                1.01012
-              ]
-            ]
-          ]
-        }
-      }
-    ]
-  },
+  "region": "Africa",
+  "subregion": "Middle Africa",
   "languages": {
     "fra": "French",
     "por": "Portuguese",
     "spa": "Spanish"
   },
-  "latlng": [
-    2,
-    10
-  ],
-  "nativeName": "Guinea Ecuatorial",
-  "population": 1430000,
-  "provinces": [
-    "Annobon",
-    "Bioko Norte",
-    "Bioko Sur",
-    "Centro Sur",
-    "Kie-Ntem",
-    "Litoral",
-    "Wele-Nzas"
-  ],
-  "region": "Africa",
-  "subregion": "Middle Africa",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "tld": [
-    ".gq"
-  ],
   "translations": {
     "cym": {
       "official": "Republic of Equatorial Guinea",
@@ -153,18 +87,78 @@
       "common": "Päiväntasaajan Guinea"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/equatorial_guinea",
-  "currency": [
-    "XAF"
+  "latlng": [
+    2,
+    10
   ],
-  "callingCode": [
-    "240"
-  ],
+  "demonym": "Equatorial Guinean",
   "landlocked": false,
+  "borders": [
+    "CMR",
+    "GAB"
+  ],
+  "area": 28051,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Equatorial Guinea.svg",
   "codes": {
     "cca2": "GQ",
     "ccn3": "226",
     "cca3": "GNQ",
     "cioc": "GEQ"
+  },
+  "provinces": [
+    "Annobon",
+    "Bioko Norte",
+    "Bioko Sur",
+    "Centro Sur",
+    "Kie-Ntem",
+    "Litoral",
+    "Wele-Nzas"
+  ],
+  "geoJSON": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "GNQ",
+        "properties": {
+          "name": "Equatorial Guinea"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                9.492889,
+                1.01012
+              ],
+              [
+                9.305613,
+                1.160911
+              ],
+              [
+                9.649158,
+                2.283866
+              ],
+              [
+                11.276449,
+                2.261051
+              ],
+              [
+                11.285079,
+                1.057662
+              ],
+              [
+                9.830284,
+                1.067894
+              ],
+              [
+                9.492889,
+                1.01012
+              ]
+            ]
+          ]
+        }
+      }
+    ]
   }
 }

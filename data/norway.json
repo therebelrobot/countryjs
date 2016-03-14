@@ -17,6 +17,16 @@
       }
     }
   },
+  "tld": [
+    ".no"
+  ],
+  "currency": [
+    "NOK"
+  ],
+  "callingCode": [
+    "47"
+  ],
+  "capital": "Oslo",
   "altSpellings": [
     "NO",
     "Norge",
@@ -25,15 +35,94 @@
     "Kongeriket Norge",
     "Kongeriket Noreg"
   ],
-  "area": 323802,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "languages": {
+    "nno": "Norwegian Nynorsk",
+    "nob": "Norwegian Bokmål",
+    "smi": "Sami"
+  },
+  "translations": {
+    "deu": {
+      "official": "Königreich Norwegen",
+      "common": "Norwegen"
+    },
+    "fra": {
+      "official": "Royaume de Norvège",
+      "common": "Norvège"
+    },
+    "hrv": {
+      "official": "Kraljevina Norveška",
+      "common": "Norveška"
+    },
+    "ita": {
+      "official": "Regno di Norvegia",
+      "common": "Norvegia"
+    },
+    "jpn": {
+      "official": "ノルウェー王国",
+      "common": "ノルウェー"
+    },
+    "nld": {
+      "official": "Koninkrijk Noorwegen",
+      "common": "Noorwegen"
+    },
+    "por": {
+      "official": "Reino da Noruega",
+      "common": "Noruega"
+    },
+    "rus": {
+      "official": "Королевство Норвегия",
+      "common": "Норвегия"
+    },
+    "spa": {
+      "official": "Reino de Noruega",
+      "common": "Noruega"
+    },
+    "fin": {
+      "official": "Norjan kuningaskunta",
+      "common": "Norja"
+    }
+  },
+  "latlng": [
+    62,
+    10
+  ],
+  "demonym": "Norwegian",
+  "landlocked": false,
   "borders": [
     "FIN",
     "SWE",
     "RUS"
   ],
-  "capital": "Oslo",
-  "demonym": "Norwegian",
-  "flag": "",
+  "area": 323802,
+  "codes": {
+    "cca2": "NO",
+    "ccn3": "578",
+    "cca3": "NOR",
+    "cioc": "NOR"
+  },
+  "provinces": [
+    "Akershus",
+    "Aust-Agder",
+    "Buskerud",
+    "Finnmark",
+    "Hedmark",
+    "Hordaland",
+    "More og Romsdal",
+    "Nord-Trondelag",
+    "Nordland",
+    "Oppland",
+    "Oslo",
+    "Ostfold",
+    "Rogaland",
+    "Sogn og Fjordane",
+    "Sor-Trondelag",
+    "Telemark",
+    "Troms",
+    "Vest-Agder",
+    "Vestfold"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -419,100 +508,5 @@
       }
     ]
   },
-  "languages": {
-    "nno": "Norwegian Nynorsk",
-    "nob": "Norwegian Bokmål",
-    "smi": "Sami"
-  },
-  "latlng": [
-    62,
-    10
-  ],
-  "nativeName": "Norge",
-  "population": 5156450,
-  "provinces": [
-    "Akershus",
-    "Aust-Agder",
-    "Buskerud",
-    "Finnmark",
-    "Hedmark",
-    "Hordaland",
-    "More og Romsdal",
-    "Nord-Trondelag",
-    "Nordland",
-    "Oppland",
-    "Oslo",
-    "Ostfold",
-    "Rogaland",
-    "Sogn og Fjordane",
-    "Sor-Trondelag",
-    "Telemark",
-    "Troms",
-    "Vest-Agder",
-    "Vestfold"
-  ],
-  "region": "Europe",
-  "subregion": "Northern Europe",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "tld": [
-    ".no"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Königreich Norwegen",
-      "common": "Norwegen"
-    },
-    "fra": {
-      "official": "Royaume de Norvège",
-      "common": "Norvège"
-    },
-    "hrv": {
-      "official": "Kraljevina Norveška",
-      "common": "Norveška"
-    },
-    "ita": {
-      "official": "Regno di Norvegia",
-      "common": "Norvegia"
-    },
-    "jpn": {
-      "official": "ノルウェー王国",
-      "common": "ノルウェー"
-    },
-    "nld": {
-      "official": "Koninkrijk Noorwegen",
-      "common": "Noorwegen"
-    },
-    "por": {
-      "official": "Reino da Noruega",
-      "common": "Noruega"
-    },
-    "rus": {
-      "official": "Королевство Норвегия",
-      "common": "Норвегия"
-    },
-    "spa": {
-      "official": "Reino de Noruega",
-      "common": "Noruega"
-    },
-    "fin": {
-      "official": "Norjan kuningaskunta",
-      "common": "Norja"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/norway",
-  "currency": [
-    "NOK"
-  ],
-  "callingCode": [
-    "47"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "NO",
-    "ccn3": "578",
-    "cca3": "NOR",
-    "cioc": "NOR"
-  }
+  "flag": ""
 }

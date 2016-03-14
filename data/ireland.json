@@ -13,19 +13,114 @@
       }
     }
   },
+  "tld": [
+    ".ie"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "353"
+  ],
+  "capital": "Dublin",
   "altSpellings": [
     "IE",
     "Éire",
     "Republic of Ireland",
     "Poblacht na hÉireann"
   ],
-  "area": 70273,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "languages": {
+    "eng": "English",
+    "gle": "Irish"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Irland",
+      "common": "Irland"
+    },
+    "fra": {
+      "official": "République d'Irlande",
+      "common": "Irlande"
+    },
+    "hrv": {
+      "official": "Republika Irska",
+      "common": "Irska"
+    },
+    "ita": {
+      "official": "Repubblica d'Irlanda",
+      "common": "Irlanda"
+    },
+    "jpn": {
+      "official": "アイルランド共和国",
+      "common": "アイルランド"
+    },
+    "nld": {
+      "official": "Republic of Ireland",
+      "common": "Ierland"
+    },
+    "por": {
+      "official": "República da Irlanda",
+      "common": "Irlanda"
+    },
+    "rus": {
+      "official": "Ирландия",
+      "common": "Ирландия"
+    },
+    "spa": {
+      "official": "República de Irlanda",
+      "common": "Irlanda"
+    },
+    "fin": {
+      "official": "Irlannin tasavalta",
+      "common": "Irlanti"
+    }
+  },
+  "latlng": [
+    53,
+    -8
+  ],
+  "demonym": "Irish",
+  "landlocked": false,
   "borders": [
     "GBR"
   ],
-  "capital": "Dublin",
-  "demonym": "Irish",
-  "flag": "",
+  "area": 70273,
+  "codes": {
+    "cca2": "IE",
+    "ccn3": "372",
+    "cca3": "IRL",
+    "cioc": "IRL"
+  },
+  "provinces": [
+    "Carlow",
+    "Cavan",
+    "Clare",
+    "Cork",
+    "Donegal",
+    "Dublin",
+    "Galway",
+    "Kerry",
+    "Kildare",
+    "Kilkenny",
+    "Laois",
+    "Leitrim",
+    "Limerick",
+    "Longford",
+    "Louth",
+    "Mayo",
+    "Meath",
+    "Monaghan",
+    "Offaly",
+    "Roscommon",
+    "Sligo",
+    "Tipperary",
+    "Waterford",
+    "Westmeath",
+    "Wexford",
+    "Wicklow"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -97,106 +192,5 @@
       }
     ]
   },
-  "languages": {
-    "eng": "English",
-    "gle": "Irish"
-  },
-  "latlng": [
-    53,
-    -8
-  ],
-  "nativeName": "Éire",
-  "population": 6378000,
-  "provinces": [
-    "Carlow",
-    "Cavan",
-    "Clare",
-    "Cork",
-    "Donegal",
-    "Dublin",
-    "Galway",
-    "Kerry",
-    "Kildare",
-    "Kilkenny",
-    "Laois",
-    "Leitrim",
-    "Limerick",
-    "Longford",
-    "Louth",
-    "Mayo",
-    "Meath",
-    "Monaghan",
-    "Offaly",
-    "Roscommon",
-    "Sligo",
-    "Tipperary",
-    "Waterford",
-    "Westmeath",
-    "Wexford",
-    "Wicklow"
-  ],
-  "region": "Europe",
-  "subregion": "Northern Europe",
-  "timezones": [
-    "UTC"
-  ],
-  "tld": [
-    ".ie"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Irland",
-      "common": "Irland"
-    },
-    "fra": {
-      "official": "République d'Irlande",
-      "common": "Irlande"
-    },
-    "hrv": {
-      "official": "Republika Irska",
-      "common": "Irska"
-    },
-    "ita": {
-      "official": "Repubblica d'Irlanda",
-      "common": "Irlanda"
-    },
-    "jpn": {
-      "official": "アイルランド共和国",
-      "common": "アイルランド"
-    },
-    "nld": {
-      "official": "Republic of Ireland",
-      "common": "Ierland"
-    },
-    "por": {
-      "official": "República da Irlanda",
-      "common": "Irlanda"
-    },
-    "rus": {
-      "official": "Ирландия",
-      "common": "Ирландия"
-    },
-    "spa": {
-      "official": "República de Irlanda",
-      "common": "Irlanda"
-    },
-    "fin": {
-      "official": "Irlannin tasavalta",
-      "common": "Irlanti"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/ireland",
-  "currency": [
-    "EUR"
-  ],
-  "callingCode": [
-    "353"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "IE",
-    "ccn3": "372",
-    "cca3": "IRL",
-    "cioc": "IRL"
-  }
+  "flag": ""
 }

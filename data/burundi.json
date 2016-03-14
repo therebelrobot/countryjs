@@ -13,21 +13,111 @@
       }
     }
   },
+  "tld": [
+    ".bi"
+  ],
+  "currency": [
+    "BIF"
+  ],
+  "callingCode": [
+    "257"
+  ],
+  "capital": "Bujumbura",
   "altSpellings": [
     "BI",
     "Republic of Burundi",
     "Republika y'Uburundi",
     "République du Burundi"
   ],
-  "area": 27834,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "fra": "French",
+    "run": "Kirundi"
+  },
+  "translations": {
+    "cym": {
+      "official": "Republic of Burundi",
+      "common": "Bwrwndi"
+    },
+    "deu": {
+      "official": "Republik Burundi",
+      "common": "Burundi"
+    },
+    "fra": {
+      "official": "République du Burundi",
+      "common": "Burundi"
+    },
+    "hrv": {
+      "official": "Burundi",
+      "common": "Burundi"
+    },
+    "ita": {
+      "official": "Repubblica del Burundi",
+      "common": "Burundi"
+    },
+    "jpn": {
+      "official": "ブルンジ共和国",
+      "common": "ブルンジ"
+    },
+    "nld": {
+      "official": "Republiek Burundi",
+      "common": "Burundi"
+    },
+    "por": {
+      "official": "República do Burundi",
+      "common": "Burundi"
+    },
+    "rus": {
+      "official": "Республика Бурунди",
+      "common": "Бурунди"
+    },
+    "spa": {
+      "official": "República de Burundi",
+      "common": "Burundi"
+    },
+    "fin": {
+      "official": "Burundin tasavalta",
+      "common": "Burundi"
+    }
+  },
+  "latlng": [
+    -3.5,
+    30
+  ],
+  "demonym": "Burundian",
+  "landlocked": true,
   "borders": [
     "COD",
     "RWA",
     "TZA"
   ],
-  "capital": "Bujumbura",
-  "demonym": "Burundian",
-  "flag": "",
+  "area": 27834,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Burundi.svg",
+  "codes": {
+    "cca2": "BI",
+    "ccn3": "108",
+    "cca3": "BDI",
+    "cioc": "BDI"
+  },
+  "provinces": [
+    "Bubanza",
+    "Bujumbura",
+    "Bururi",
+    "Cankuzo",
+    "Cibitoke",
+    "Gitega",
+    "Karuzi",
+    "Kayanza",
+    "Kirundo",
+    "Makamba",
+    "Muramvya",
+    "Muyinga",
+    "Mwaro",
+    "Ngozi",
+    "Rutana",
+    "Ruyigi"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -98,101 +188,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "fra": "French",
-    "run": "Kirundi"
-  },
-  "latlng": [
-    -3.5,
-    30
-  ],
-  "nativeName": "Burundi",
-  "population": 9530434,
-  "provinces": [
-    "Bubanza",
-    "Bujumbura",
-    "Bururi",
-    "Cankuzo",
-    "Cibitoke",
-    "Gitega",
-    "Karuzi",
-    "Kayanza",
-    "Kirundo",
-    "Makamba",
-    "Muramvya",
-    "Muyinga",
-    "Mwaro",
-    "Ngozi",
-    "Rutana",
-    "Ruyigi"
-  ],
-  "region": "Africa",
-  "subregion": "Eastern Africa",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "tld": [
-    ".bi"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Republic of Burundi",
-      "common": "Bwrwndi"
-    },
-    "deu": {
-      "official": "Republik Burundi",
-      "common": "Burundi"
-    },
-    "fra": {
-      "official": "République du Burundi",
-      "common": "Burundi"
-    },
-    "hrv": {
-      "official": "Burundi",
-      "common": "Burundi"
-    },
-    "ita": {
-      "official": "Repubblica del Burundi",
-      "common": "Burundi"
-    },
-    "jpn": {
-      "official": "ブルンジ共和国",
-      "common": "ブルンジ"
-    },
-    "nld": {
-      "official": "Republiek Burundi",
-      "common": "Burundi"
-    },
-    "por": {
-      "official": "República do Burundi",
-      "common": "Burundi"
-    },
-    "rus": {
-      "official": "Республика Бурунди",
-      "common": "Бурунди"
-    },
-    "spa": {
-      "official": "República de Burundi",
-      "common": "Burundi"
-    },
-    "fin": {
-      "official": "Burundin tasavalta",
-      "common": "Burundi"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/burundi",
-  "currency": [
-    "BIF"
-  ],
-  "callingCode": [
-    "257"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "BI",
-    "ccn3": "108",
-    "cca3": "BDI",
-    "cioc": "BDI"
   }
 }

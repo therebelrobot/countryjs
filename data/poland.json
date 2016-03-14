@@ -9,12 +9,74 @@
       }
     }
   },
+  "tld": [
+    ".pl"
+  ],
+  "currency": [
+    "PLN"
+  ],
+  "callingCode": [
+    "48"
+  ],
+  "capital": "Warsaw",
   "altSpellings": [
     "PL",
     "Republic of Poland",
     "Rzeczpospolita Polska"
   ],
-  "area": 312679,
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "languages": {
+    "pol": "Polish"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Polen",
+      "common": "Polen"
+    },
+    "fra": {
+      "official": "République de Pologne",
+      "common": "Pologne"
+    },
+    "hrv": {
+      "official": "Republika Poljska",
+      "common": "Poljska"
+    },
+    "ita": {
+      "official": "Repubblica di Polonia",
+      "common": "Polonia"
+    },
+    "jpn": {
+      "official": "ポーランド共和国",
+      "common": "ポーランド"
+    },
+    "nld": {
+      "official": "Republiek Polen",
+      "common": "Polen"
+    },
+    "por": {
+      "official": "República da Polónia",
+      "common": "Polónia"
+    },
+    "rus": {
+      "official": "Республика Польша",
+      "common": "Польша"
+    },
+    "spa": {
+      "official": "República de Polonia",
+      "common": "Polonia"
+    },
+    "fin": {
+      "official": "Puolan tasavalta",
+      "common": "Puola"
+    }
+  },
+  "latlng": [
+    52,
+    20
+  ],
+  "demonym": "Polish",
+  "landlocked": false,
   "borders": [
     "BLR",
     "CZE",
@@ -24,9 +86,31 @@
     "SVK",
     "UKR"
   ],
-  "capital": "Warsaw",
-  "demonym": "Polish",
-  "flag": "",
+  "area": 312679,
+  "codes": {
+    "cca2": "PL",
+    "ccn3": "616",
+    "cca3": "POL",
+    "cioc": "POL"
+  },
+  "provinces": [
+    "Dolnoslaskie",
+    "Kujawsko-Pomorskie",
+    "Lodzkie",
+    "Lubelskie",
+    "Lubuskie",
+    "Malopolskie",
+    "Mazowieckie",
+    "Opolskie",
+    "Podkarpackie",
+    "Podlaskie",
+    "Pomorskie",
+    "Slaskie",
+    "Swietokrzyskie",
+    "Warminsko-Mazurskie",
+    "Wielkopolskie",
+    "Zachodniopomorskie"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -226,95 +310,5 @@
       }
     ]
   },
-  "languages": {
-    "pol": "Polish"
-  },
-  "latlng": [
-    52,
-    20
-  ],
-  "nativeName": "Polska",
-  "population": 38496000,
-  "provinces": [
-    "Dolnoslaskie",
-    "Kujawsko-Pomorskie",
-    "Lodzkie",
-    "Lubelskie",
-    "Lubuskie",
-    "Malopolskie",
-    "Mazowieckie",
-    "Opolskie",
-    "Podkarpackie",
-    "Podlaskie",
-    "Pomorskie",
-    "Slaskie",
-    "Swietokrzyskie",
-    "Warminsko-Mazurskie",
-    "Wielkopolskie",
-    "Zachodniopomorskie"
-  ],
-  "region": "Europe",
-  "subregion": "Eastern Europe",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "tld": [
-    ".pl"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Polen",
-      "common": "Polen"
-    },
-    "fra": {
-      "official": "République de Pologne",
-      "common": "Pologne"
-    },
-    "hrv": {
-      "official": "Republika Poljska",
-      "common": "Poljska"
-    },
-    "ita": {
-      "official": "Repubblica di Polonia",
-      "common": "Polonia"
-    },
-    "jpn": {
-      "official": "ポーランド共和国",
-      "common": "ポーランド"
-    },
-    "nld": {
-      "official": "Republiek Polen",
-      "common": "Polen"
-    },
-    "por": {
-      "official": "República da Polónia",
-      "common": "Polónia"
-    },
-    "rus": {
-      "official": "Республика Польша",
-      "common": "Польша"
-    },
-    "spa": {
-      "official": "República de Polonia",
-      "common": "Polonia"
-    },
-    "fin": {
-      "official": "Puolan tasavalta",
-      "common": "Puola"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/poland",
-  "currency": [
-    "PLN"
-  ],
-  "callingCode": [
-    "48"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "PL",
-    "ccn3": "616",
-    "cca3": "POL",
-    "cioc": "POL"
-  }
+  "flag": ""
 }

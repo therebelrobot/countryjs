@@ -13,36 +13,27 @@
       }
     }
   },
+  "tld": [
+    ".nf"
+  ],
+  "currency": [
+    "AUD"
+  ],
+  "callingCode": [
+    "672"
+  ],
+  "capital": "Kingston",
   "altSpellings": [
     "NF",
     "Territory of Norfolk Island",
     "Teratri of Norf'k Ailen"
   ],
-  "area": 36,
-  "borders": [],
-  "capital": "Kingston",
-  "demonym": "Norfolk Islander",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
   "languages": {
     "eng": "English",
     "pih": "Norfuk"
   },
-  "latlng": [
-    -29.03333333,
-    167.95
-  ],
-  "nativeName": "Norfolk Island",
-  "population": 2302,
-  "provinces": [
-    "Norfolk Island"
-  ],
-  "region": "Oceania",
-  "subregion": "Australia and New Zealand",
-  "timezones": null,
-  "tld": [
-    ".nf"
-  ],
   "translations": {
     "deu": {
       "official": "Gebiet der Norfolk-Insel",
@@ -85,18 +76,23 @@
       "common": "Norfolkinsaari"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/norfolk_island",
-  "currency": [
-    "AUD"
+  "latlng": [
+    -29.03333333,
+    167.95
   ],
-  "callingCode": [
-    "672"
-  ],
+  "demonym": "Norfolk Islander",
   "landlocked": false,
+  "borders": [],
+  "area": 36,
   "codes": {
     "cca2": "NF",
     "ccn3": "574",
     "cca3": "NFK",
     "cioc": ""
-  }
+  },
+  "provinces": [
+    "Norfolk Island"
+  ],
+  "geoJSON": {},
+  "flag": ""
 }

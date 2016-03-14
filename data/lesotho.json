@@ -13,18 +13,99 @@
       }
     }
   },
+  "tld": [
+    ".ls"
+  ],
+  "currency": [
+    "LSL",
+    "ZAR"
+  ],
+  "callingCode": [
+    "266"
+  ],
+  "capital": "Maseru",
   "altSpellings": [
     "LS",
     "Kingdom of Lesotho",
     "Muso oa Lesotho"
   ],
-  "area": 30355,
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "languages": {
+    "eng": "English",
+    "sot": "Sotho"
+  },
+  "translations": {
+    "deu": {
+      "official": "Königreich Lesotho",
+      "common": "Lesotho"
+    },
+    "fra": {
+      "official": "Royaume du Lesotho",
+      "common": "Lesotho"
+    },
+    "hrv": {
+      "official": "Kraljevina Lesoto",
+      "common": "Lesoto"
+    },
+    "ita": {
+      "official": "Regno del Lesotho",
+      "common": "Lesotho"
+    },
+    "jpn": {
+      "official": "レソト王国",
+      "common": "レソト"
+    },
+    "nld": {
+      "official": "Koninkrijk Lesotho",
+      "common": "Lesotho"
+    },
+    "por": {
+      "official": "Reino do Lesoto",
+      "common": "Lesoto"
+    },
+    "rus": {
+      "official": "Королевство Лесото",
+      "common": "Лесото"
+    },
+    "spa": {
+      "official": "Reino de Lesotho",
+      "common": "Lesotho"
+    },
+    "fin": {
+      "official": "Lesothon kuningaskunta",
+      "common": "Lesotho"
+    }
+  },
+  "latlng": [
+    -29.5,
+    28.5
+  ],
+  "demonym": "Mosotho",
+  "landlocked": true,
   "borders": [
     "ZAF"
   ],
-  "capital": "Maseru",
-  "demonym": "Mosotho",
-  "flag": "",
+  "area": 30355,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Lesotho.svg",
+  "codes": {
+    "cca2": "LS",
+    "ccn3": "426",
+    "cca3": "LSO",
+    "cioc": "LES"
+  },
+  "provinces": [
+    "Berea",
+    "Butha-Buthe",
+    "Leribe",
+    "Mafeteng",
+    "Maseru",
+    "Mohales Hoek",
+    "Mokhotlong",
+    "Qacha's Nek",
+    "Quthing",
+    "Thaba-Tseka"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -91,92 +172,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "eng": "English",
-    "sot": "Sotho"
-  },
-  "latlng": [
-    -29.5,
-    28.5
-  ],
-  "nativeName": "Lesotho",
-  "population": 2098000,
-  "provinces": [
-    "Berea",
-    "Butha-Buthe",
-    "Leribe",
-    "Mafeteng",
-    "Maseru",
-    "Mohales Hoek",
-    "Mokhotlong",
-    "Qacha's Nek",
-    "Quthing",
-    "Thaba-Tseka"
-  ],
-  "region": "Africa",
-  "subregion": "Southern Africa",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "tld": [
-    ".ls"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Königreich Lesotho",
-      "common": "Lesotho"
-    },
-    "fra": {
-      "official": "Royaume du Lesotho",
-      "common": "Lesotho"
-    },
-    "hrv": {
-      "official": "Kraljevina Lesoto",
-      "common": "Lesoto"
-    },
-    "ita": {
-      "official": "Regno del Lesotho",
-      "common": "Lesotho"
-    },
-    "jpn": {
-      "official": "レソト王国",
-      "common": "レソト"
-    },
-    "nld": {
-      "official": "Koninkrijk Lesotho",
-      "common": "Lesotho"
-    },
-    "por": {
-      "official": "Reino do Lesoto",
-      "common": "Lesoto"
-    },
-    "rus": {
-      "official": "Королевство Лесото",
-      "common": "Лесото"
-    },
-    "spa": {
-      "official": "Reino de Lesotho",
-      "common": "Lesotho"
-    },
-    "fin": {
-      "official": "Lesothon kuningaskunta",
-      "common": "Lesotho"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/lesotho",
-  "currency": [
-    "LSL",
-    "ZAR"
-  ],
-  "callingCode": [
-    "266"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "LS",
-    "ccn3": "426",
-    "cca3": "LSO",
-    "cioc": "LES"
   }
 }

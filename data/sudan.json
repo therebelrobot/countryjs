@@ -13,12 +13,75 @@
       }
     }
   },
+  "tld": [
+    ".sd"
+  ],
+  "currency": [
+    "SDG"
+  ],
+  "callingCode": [
+    "249"
+  ],
+  "capital": "Khartoum",
   "altSpellings": [
     "SD",
     "Republic of the Sudan",
     "Jumhūrīyat as-Sūdān"
   ],
-  "area": 1886068,
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "languages": {
+    "ara": "Arabic",
+    "eng": "English"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Sudan",
+      "common": "Sudan"
+    },
+    "fra": {
+      "official": "République du Soudan",
+      "common": "Soudan"
+    },
+    "hrv": {
+      "official": "Republika Sudan",
+      "common": "Sudan"
+    },
+    "ita": {
+      "official": "Repubblica del Sudan",
+      "common": "Sudan"
+    },
+    "jpn": {
+      "official": "スーダン共和国",
+      "common": "スーダン"
+    },
+    "nld": {
+      "official": "Republiek Soedan",
+      "common": "Soedan"
+    },
+    "por": {
+      "official": "República do Sudão",
+      "common": "Sudão"
+    },
+    "rus": {
+      "official": "Республика Судан",
+      "common": "Судан"
+    },
+    "spa": {
+      "official": "República de Sudán",
+      "common": "Sudán"
+    },
+    "fin": {
+      "official": "Sudanin tasavalta",
+      "common": "Sudan"
+    }
+  },
+  "latlng": [
+    15,
+    30
+  ],
+  "demonym": "Sudanese",
+  "landlocked": false,
   "borders": [
     "CAF",
     "TCD",
@@ -28,9 +91,41 @@
     "LBY",
     "SSD"
   ],
-  "capital": "Khartoum",
-  "demonym": "Sudanese",
-  "flag": "",
+  "area": 1886068,
+  "codes": {
+    "cca2": "SD",
+    "ccn3": "729",
+    "cca3": "SDN",
+    "cioc": "SUD"
+  },
+  "provinces": [
+    "A'ali an Nil",
+    "Al Bahr al Ahmar",
+    "Al Buhayrat",
+    "Al Jazirah",
+    "Al Khartum",
+    "Al Qadarif",
+    "Al Wahdah",
+    "An Nil al Abyad",
+    "An Nil al Azraq",
+    "Ash Shamaliyah",
+    "Bahr al Jabal",
+    "Gharb al Istiwa'iyah",
+    "Gharb Bahr al Ghazal",
+    "Gharb Darfur",
+    "Gharb Kurdufan",
+    "Janub Darfur",
+    "Janub Kurdufan",
+    "Junqali",
+    "Kassala",
+    "Nahr an Nil",
+    "Shamal Bahr al Ghazal",
+    "Shamal Darfur",
+    "Shamal Kurdufan",
+    "Sharq al Istiwa'iyah",
+    "Sinnar",
+    "Warab"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -366,106 +461,5 @@
       }
     ]
   },
-  "languages": {
-    "ara": "Arabic",
-    "eng": "English"
-  },
-  "latlng": [
-    15,
-    30
-  ],
-  "nativeName": "السودان",
-  "population": 37289406,
-  "provinces": [
-    "A'ali an Nil",
-    "Al Bahr al Ahmar",
-    "Al Buhayrat",
-    "Al Jazirah",
-    "Al Khartum",
-    "Al Qadarif",
-    "Al Wahdah",
-    "An Nil al Abyad",
-    "An Nil al Azraq",
-    "Ash Shamaliyah",
-    "Bahr al Jabal",
-    "Gharb al Istiwa'iyah",
-    "Gharb Bahr al Ghazal",
-    "Gharb Darfur",
-    "Gharb Kurdufan",
-    "Janub Darfur",
-    "Janub Kurdufan",
-    "Junqali",
-    "Kassala",
-    "Nahr an Nil",
-    "Shamal Bahr al Ghazal",
-    "Shamal Darfur",
-    "Shamal Kurdufan",
-    "Sharq al Istiwa'iyah",
-    "Sinnar",
-    "Warab"
-  ],
-  "region": "Africa",
-  "subregion": "Northern Africa",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "tld": [
-    ".sd"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Sudan",
-      "common": "Sudan"
-    },
-    "fra": {
-      "official": "République du Soudan",
-      "common": "Soudan"
-    },
-    "hrv": {
-      "official": "Republika Sudan",
-      "common": "Sudan"
-    },
-    "ita": {
-      "official": "Repubblica del Sudan",
-      "common": "Sudan"
-    },
-    "jpn": {
-      "official": "スーダン共和国",
-      "common": "スーダン"
-    },
-    "nld": {
-      "official": "Republiek Soedan",
-      "common": "Soedan"
-    },
-    "por": {
-      "official": "República do Sudão",
-      "common": "Sudão"
-    },
-    "rus": {
-      "official": "Республика Судан",
-      "common": "Судан"
-    },
-    "spa": {
-      "official": "República de Sudán",
-      "common": "Sudán"
-    },
-    "fin": {
-      "official": "Sudanin tasavalta",
-      "common": "Sudan"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/sudan",
-  "currency": [
-    "SDG"
-  ],
-  "callingCode": [
-    "249"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "SD",
-    "ccn3": "729",
-    "cca3": "SDN",
-    "cioc": "SUD"
-  }
+  "flag": ""
 }

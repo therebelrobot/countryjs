@@ -9,41 +9,24 @@
       }
     }
   },
-  "altSpellings": [
-    "GD"
-  ],
-  "area": 344,
-  "borders": [],
-  "capital": "St. George's",
-  "demonym": "Grenadian",
-  "flag": "",
-  "geoJSON": {},
-  "languages": {
-    "eng": "English"
-  },
-  "latlng": [
-    12.11666666,
-    -61.66666666
-  ],
-  "nativeName": "Grenada",
-  "population": 103328,
-  "provinces": [
-    "Carriacou and Petit Martinique",
-    "Saint Andrew",
-    "Saint David",
-    "Saint George",
-    "Saint John",
-    "Saint Mark",
-    "Saint Patrick"
-  ],
-  "region": "Americas",
-  "subregion": "Caribbean",
-  "timezones": [
-    "UTC−04:00"
-  ],
   "tld": [
     ".gd"
   ],
+  "currency": [
+    "XCD"
+  ],
+  "callingCode": [
+    "1473"
+  ],
+  "capital": "St. George's",
+  "altSpellings": [
+    "GD"
+  ],
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English"
+  },
   "translations": {
     "deu": {
       "official": "Grenada",
@@ -86,18 +69,29 @@
       "common": "Grenada"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/grenada",
-  "currency": [
-    "XCD"
+  "latlng": [
+    12.11666666,
+    -61.66666666
   ],
-  "callingCode": [
-    "1473"
-  ],
+  "demonym": "Grenadian",
   "landlocked": false,
+  "borders": [],
+  "area": 344,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Grenada.svg",
   "codes": {
     "cca2": "GD",
     "ccn3": "308",
     "cca3": "GRD",
     "cioc": "GRN"
-  }
+  },
+  "provinces": [
+    "Carriacou and Petit Martinique",
+    "Saint Andrew",
+    "Saint David",
+    "Saint George",
+    "Saint John",
+    "Saint Mark",
+    "Saint Patrick"
+  ],
+  "geoJSON": {}
 }

@@ -9,15 +9,86 @@
       }
     }
   },
+  "tld": [
+    ".gl"
+  ],
+  "currency": [
+    "DKK"
+  ],
+  "callingCode": [
+    "299"
+  ],
+  "capital": "Nuuk",
   "altSpellings": [
     "GL",
     "Grønland"
   ],
-  "area": 2166086,
-  "borders": [],
-  "capital": "Nuuk",
+  "region": "Americas",
+  "subregion": "Northern America",
+  "languages": {
+    "kal": "Greenlandic"
+  },
+  "translations": {
+    "deu": {
+      "official": "Grönland",
+      "common": "Grönland"
+    },
+    "fra": {
+      "official": "Groenland",
+      "common": "Groenland"
+    },
+    "hrv": {
+      "official": "Grenland",
+      "common": "Grenland"
+    },
+    "ita": {
+      "official": "Groenlandia",
+      "common": "Groenlandia"
+    },
+    "jpn": {
+      "official": "グリーンランド",
+      "common": "グリーンランド"
+    },
+    "nld": {
+      "official": "Groenland",
+      "common": "Groenland"
+    },
+    "por": {
+      "official": "Groenlândia",
+      "common": "Gronelândia"
+    },
+    "rus": {
+      "official": "Гренландия",
+      "common": "Гренландия"
+    },
+    "spa": {
+      "official": "Groenlandia",
+      "common": "Groenlandia"
+    },
+    "fin": {
+      "official": "Groönlanti",
+      "common": "Groönlanti"
+    }
+  },
+  "latlng": [
+    72,
+    -40
+  ],
   "demonym": "Greenlandic",
-  "flag": "",
+  "landlocked": false,
+  "borders": [],
+  "area": 2166086,
+  "codes": {
+    "cca2": "GL",
+    "ccn3": "304",
+    "cca3": "GRL",
+    "cioc": ""
+  },
+  "provinces": [
+    "Avannaa (Nordgronland)",
+    "Kitaa (Vestgronland)",
+    "Tunu (Ostgronland)"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -565,80 +636,5 @@
       }
     ]
   },
-  "languages": {
-    "kal": "Greenlandic"
-  },
-  "latlng": [
-    72,
-    -40
-  ],
-  "nativeName": "Kalaallit Nunaat",
-  "population": 56295,
-  "provinces": [
-    "Avannaa (Nordgronland)",
-    "Kitaa (Vestgronland)",
-    "Tunu (Ostgronland)"
-  ],
-  "region": "Americas",
-  "subregion": "Northern America",
-  "timezones": null,
-  "tld": [
-    ".gl"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Grönland",
-      "common": "Grönland"
-    },
-    "fra": {
-      "official": "Groenland",
-      "common": "Groenland"
-    },
-    "hrv": {
-      "official": "Grenland",
-      "common": "Grenland"
-    },
-    "ita": {
-      "official": "Groenlandia",
-      "common": "Groenlandia"
-    },
-    "jpn": {
-      "official": "グリーンランド",
-      "common": "グリーンランド"
-    },
-    "nld": {
-      "official": "Groenland",
-      "common": "Groenland"
-    },
-    "por": {
-      "official": "Groenlândia",
-      "common": "Gronelândia"
-    },
-    "rus": {
-      "official": "Гренландия",
-      "common": "Гренландия"
-    },
-    "spa": {
-      "official": "Groenlandia",
-      "common": "Groenlandia"
-    },
-    "fin": {
-      "official": "Groönlanti",
-      "common": "Groönlanti"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/greenland",
-  "currency": [
-    "DKK"
-  ],
-  "callingCode": [
-    "299"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "GL",
-    "ccn3": "304",
-    "cca3": "GRL",
-    "cioc": ""
-  }
+  "flag": ""
 }

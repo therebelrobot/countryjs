@@ -9,12 +9,74 @@
       }
     }
   },
+  "tld": [
+    ".sk"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "421"
+  ],
+  "capital": "Bratislava",
   "altSpellings": [
     "SK",
     "Slovak Republic",
     "Slovenská republika"
   ],
-  "area": 49037,
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "languages": {
+    "slk": "Slovak"
+  },
+  "translations": {
+    "deu": {
+      "official": "Slowakische Republik",
+      "common": "Slowakei"
+    },
+    "fra": {
+      "official": "République slovaque",
+      "common": "Slovaquie"
+    },
+    "hrv": {
+      "official": "slovačka",
+      "common": "Slovačka"
+    },
+    "ita": {
+      "official": "Repubblica slovacca",
+      "common": "Slovacchia"
+    },
+    "jpn": {
+      "official": "スロバキア共和国",
+      "common": "スロバキア"
+    },
+    "nld": {
+      "official": "Slowaakse Republiek",
+      "common": "Slowakije"
+    },
+    "por": {
+      "official": "República Eslovaca",
+      "common": "Eslováquia"
+    },
+    "rus": {
+      "official": "Словацкая Республика",
+      "common": "Словакия"
+    },
+    "spa": {
+      "official": "República Eslovaca",
+      "common": "República Eslovaca"
+    },
+    "fin": {
+      "official": "Slovakian tasavalta",
+      "common": "Slovakia"
+    }
+  },
+  "latlng": [
+    48.66666666,
+    19.5
+  ],
+  "demonym": "Slovak",
+  "landlocked": true,
   "borders": [
     "AUT",
     "CZE",
@@ -22,9 +84,23 @@
     "POL",
     "UKR"
   ],
-  "capital": "Bratislava",
-  "demonym": "Slovak",
-  "flag": "",
+  "area": 49037,
+  "codes": {
+    "cca2": "SK",
+    "ccn3": "703",
+    "cca3": "SVK",
+    "cioc": "SVK"
+  },
+  "provinces": [
+    "Banskobystricky",
+    "Bratislavsky",
+    "Kosicky",
+    "Nitriansky",
+    "Presovsky",
+    "Trenciansky",
+    "Trnavsky",
+    "Zilinsky"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -176,87 +252,5 @@
       }
     ]
   },
-  "languages": {
-    "slk": "Slovak"
-  },
-  "latlng": [
-    48.66666666,
-    19.5
-  ],
-  "nativeName": "Slovensko",
-  "population": 5415949,
-  "provinces": [
-    "Banskobystricky",
-    "Bratislavsky",
-    "Kosicky",
-    "Nitriansky",
-    "Presovsky",
-    "Trenciansky",
-    "Trnavsky",
-    "Zilinsky"
-  ],
-  "region": "Europe",
-  "subregion": "Eastern Europe",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "tld": [
-    ".sk"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Slowakische Republik",
-      "common": "Slowakei"
-    },
-    "fra": {
-      "official": "République slovaque",
-      "common": "Slovaquie"
-    },
-    "hrv": {
-      "official": "slovačka",
-      "common": "Slovačka"
-    },
-    "ita": {
-      "official": "Repubblica slovacca",
-      "common": "Slovacchia"
-    },
-    "jpn": {
-      "official": "スロバキア共和国",
-      "common": "スロバキア"
-    },
-    "nld": {
-      "official": "Slowaakse Republiek",
-      "common": "Slowakije"
-    },
-    "por": {
-      "official": "República Eslovaca",
-      "common": "Eslováquia"
-    },
-    "rus": {
-      "official": "Словацкая Республика",
-      "common": "Словакия"
-    },
-    "spa": {
-      "official": "República Eslovaca",
-      "common": "República Eslovaca"
-    },
-    "fin": {
-      "official": "Slovakian tasavalta",
-      "common": "Slovakia"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/slovakia",
-  "currency": [
-    "EUR"
-  ],
-  "callingCode": [
-    "421"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "SK",
-    "ccn3": "703",
-    "cca3": "SVK",
-    "cioc": "SVK"
-  }
+  "flag": ""
 }

@@ -9,12 +9,78 @@
       }
     }
   },
+  "tld": [
+    ".bg"
+  ],
+  "currency": [
+    "BGN"
+  ],
+  "callingCode": [
+    "359"
+  ],
+  "capital": "Sofia",
   "altSpellings": [
     "BG",
     "Republic of Bulgaria",
     "Република България"
   ],
-  "area": 110879,
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "languages": {
+    "bul": "Bulgarian"
+  },
+  "translations": {
+    "cym": {
+      "official": "Republic of Bulgaria",
+      "common": "Bwlgaria"
+    },
+    "deu": {
+      "official": "Republik Bulgarien",
+      "common": "Bulgarien"
+    },
+    "fra": {
+      "official": "République de Bulgarie",
+      "common": "Bulgarie"
+    },
+    "hrv": {
+      "official": "Republika Bugarska",
+      "common": "Bugarska"
+    },
+    "ita": {
+      "official": "Repubblica di Bulgaria",
+      "common": "Bulgaria"
+    },
+    "jpn": {
+      "official": "ブルガリア共和国",
+      "common": "ブルガリア"
+    },
+    "nld": {
+      "official": "Republiek Bulgarije",
+      "common": "Bulgarije"
+    },
+    "por": {
+      "official": "República da Bulgária",
+      "common": "Bulgária"
+    },
+    "rus": {
+      "official": "Республика Болгария",
+      "common": "Болгария"
+    },
+    "spa": {
+      "official": "República de Bulgaria",
+      "common": "Bulgaria"
+    },
+    "fin": {
+      "official": "Bulgarian tasavalta",
+      "common": "Bulgaria"
+    }
+  },
+  "latlng": [
+    43,
+    25
+  ],
+  "demonym": "Bulgarian",
+  "landlocked": false,
   "borders": [
     "GRC",
     "MKD",
@@ -22,9 +88,44 @@
     "SRB",
     "TUR"
   ],
-  "capital": "Sofia",
-  "demonym": "Bulgarian",
-  "flag": "",
+  "area": 110879,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Bulgaria.svg",
+  "codes": {
+    "cca2": "BG",
+    "ccn3": "100",
+    "cca3": "BGR",
+    "cioc": "BUL"
+  },
+  "provinces": [
+    "Blagoevgrad",
+    "Burgas",
+    "Dobrich",
+    "Gabrovo",
+    "Khaskovo",
+    "Kurdzhali",
+    "Kyustendil",
+    "Lovech",
+    "Montana",
+    "Pazardzhik",
+    "Pernik",
+    "Pleven",
+    "Plovdiv",
+    "Razgrad",
+    "Ruse",
+    "Shumen",
+    "Silistra",
+    "Sliven",
+    "Smolyan",
+    "Sofiya",
+    "Sofiya-Grad",
+    "Stara Zagora",
+    "Turgovishte",
+    "Varna",
+    "Veliko Turnovo",
+    "Vidin",
+    "Vratsa",
+    "Yambol"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -155,112 +256,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "bul": "Bulgarian"
-  },
-  "latlng": [
-    43,
-    25
-  ],
-  "nativeName": "България",
-  "population": 7245677,
-  "provinces": [
-    "Blagoevgrad",
-    "Burgas",
-    "Dobrich",
-    "Gabrovo",
-    "Khaskovo",
-    "Kurdzhali",
-    "Kyustendil",
-    "Lovech",
-    "Montana",
-    "Pazardzhik",
-    "Pernik",
-    "Pleven",
-    "Plovdiv",
-    "Razgrad",
-    "Ruse",
-    "Shumen",
-    "Silistra",
-    "Sliven",
-    "Smolyan",
-    "Sofiya",
-    "Sofiya-Grad",
-    "Stara Zagora",
-    "Turgovishte",
-    "Varna",
-    "Veliko Turnovo",
-    "Vidin",
-    "Vratsa",
-    "Yambol"
-  ],
-  "region": "Europe",
-  "subregion": "Eastern Europe",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "tld": [
-    ".bg"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Republic of Bulgaria",
-      "common": "Bwlgaria"
-    },
-    "deu": {
-      "official": "Republik Bulgarien",
-      "common": "Bulgarien"
-    },
-    "fra": {
-      "official": "République de Bulgarie",
-      "common": "Bulgarie"
-    },
-    "hrv": {
-      "official": "Republika Bugarska",
-      "common": "Bugarska"
-    },
-    "ita": {
-      "official": "Repubblica di Bulgaria",
-      "common": "Bulgaria"
-    },
-    "jpn": {
-      "official": "ブルガリア共和国",
-      "common": "ブルガリア"
-    },
-    "nld": {
-      "official": "Republiek Bulgarije",
-      "common": "Bulgarije"
-    },
-    "por": {
-      "official": "República da Bulgária",
-      "common": "Bulgária"
-    },
-    "rus": {
-      "official": "Республика Болгария",
-      "common": "Болгария"
-    },
-    "spa": {
-      "official": "República de Bulgaria",
-      "common": "Bulgaria"
-    },
-    "fin": {
-      "official": "Bulgarian tasavalta",
-      "common": "Bulgaria"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/bulgaria",
-  "currency": [
-    "BGN"
-  ],
-  "callingCode": [
-    "359"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "BG",
-    "ccn3": "100",
-    "cca3": "BGR",
-    "cioc": "BUL"
   }
 }

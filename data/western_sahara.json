@@ -17,19 +17,92 @@
       }
     }
   },
+  "tld": [
+    ".eh"
+  ],
+  "currency": [
+    "MAD",
+    "DZD",
+    "MRO"
+  ],
+  "callingCode": [
+    "212"
+  ],
+  "capital": "El Aaiún",
   "altSpellings": [
     "EH",
     "Taneẓroft Tutrimt"
   ],
-  "area": 266000,
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "languages": {
+    "ber": "Berber",
+    "mey": "Hassaniya",
+    "spa": "Spanish"
+  },
+  "translations": {
+    "deu": {
+      "official": "Demokratische Arabische Republik Sahara",
+      "common": "Westsahara"
+    },
+    "fra": {
+      "official": "République arabe sahraouie démocratique",
+      "common": "Sahara Occidental"
+    },
+    "hrv": {
+      "official": "Sahrawi Arab Demokratska Republika",
+      "common": "Zapadna Sahara"
+    },
+    "ita": {
+      "official": "Repubblica Araba Saharawi Democratica",
+      "common": "Sahara Occidentale"
+    },
+    "jpn": {
+      "official": "サハラアラブ民主共和国",
+      "common": "西サハラ"
+    },
+    "nld": {
+      "official": "Sahrawi Arabische Democratische Republiek",
+      "common": "Westelijke Sahara"
+    },
+    "por": {
+      "official": "República Árabe Saharaui Democrática",
+      "common": "Saara Ocidental"
+    },
+    "rus": {
+      "official": "Sahrawi Арабская Демократическая Республика",
+      "common": "Западная Сахара"
+    },
+    "spa": {
+      "official": "República Árabe Saharaui Democrática",
+      "common": "Sahara Occidental"
+    },
+    "fin": {
+      "official": "Länsi-Sahara",
+      "common": "Länsi-Sahara"
+    }
+  },
+  "latlng": [
+    24.5,
+    -13
+  ],
+  "demonym": "Sahrawi",
+  "landlocked": false,
   "borders": [
     "DZA",
     "MRT",
     "MAR"
   ],
-  "capital": "El Aaiún",
-  "demonym": "Sahrawi",
-  "flag": "",
+  "area": 266000,
+  "codes": {
+    "cca2": "EH",
+    "ccn3": "732",
+    "cca3": "ESH",
+    "cioc": ""
+  },
+  "provinces": [
+    "Western Sahara"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -161,82 +234,5 @@
       }
     ]
   },
-  "languages": {
-    "ber": "Berber",
-    "mey": "Hassaniya",
-    "spa": "Spanish"
-  },
-  "latlng": [
-    24.5,
-    -13
-  ],
-  "nativeName": "الصحراء الغربية",
-  "population": 586000,
-  "provinces": [
-    "Western Sahara"
-  ],
-  "region": "Africa",
-  "subregion": "Northern Africa",
-  "timezones": null,
-  "tld": [
-    ".eh"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Demokratische Arabische Republik Sahara",
-      "common": "Westsahara"
-    },
-    "fra": {
-      "official": "République arabe sahraouie démocratique",
-      "common": "Sahara Occidental"
-    },
-    "hrv": {
-      "official": "Sahrawi Arab Demokratska Republika",
-      "common": "Zapadna Sahara"
-    },
-    "ita": {
-      "official": "Repubblica Araba Saharawi Democratica",
-      "common": "Sahara Occidentale"
-    },
-    "jpn": {
-      "official": "サハラアラブ民主共和国",
-      "common": "西サハラ"
-    },
-    "nld": {
-      "official": "Sahrawi Arabische Democratische Republiek",
-      "common": "Westelijke Sahara"
-    },
-    "por": {
-      "official": "República Árabe Saharaui Democrática",
-      "common": "Saara Ocidental"
-    },
-    "rus": {
-      "official": "Sahrawi Арабская Демократическая Республика",
-      "common": "Западная Сахара"
-    },
-    "spa": {
-      "official": "República Árabe Saharaui Democrática",
-      "common": "Sahara Occidental"
-    },
-    "fin": {
-      "official": "Länsi-Sahara",
-      "common": "Länsi-Sahara"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/western_sahara",
-  "currency": [
-    "MAD",
-    "DZD",
-    "MRO"
-  ],
-  "callingCode": [
-    "212"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "EH",
-    "ccn3": "732",
-    "cca3": "ESH",
-    "cioc": ""
-  }
+  "flag": ""
 }

@@ -9,37 +9,25 @@
       }
     }
   },
+  "tld": [
+    ".vg"
+  ],
+  "currency": [
+    "USD"
+  ],
+  "callingCode": [
+    "1284"
+  ],
+  "capital": "Road Town",
   "altSpellings": [
     "VG",
     "Virgin Islands, British"
   ],
-  "area": 151,
-  "borders": [],
-  "capital": "Road Town",
-  "demonym": "Virgin Islander",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Americas",
+  "subregion": "Caribbean",
   "languages": {
     "eng": "English"
   },
-  "latlng": [
-    18.431383,
-    -64.62305
-  ],
-  "nativeName": "British Indian Ocean Territory",
-  "population": 3000,
-  "provinces": [
-    "Anegada",
-    "Jost Van Dyke",
-    "Tortola",
-    "Virgin Gorda"
-  ],
-  "region": "Americas",
-  "subregion": "Caribbean",
-  "timezones": null,
-  "tld": [
-    ".vg"
-  ],
   "translations": {
     "deu": {
       "official": "Jungferninseln",
@@ -82,18 +70,26 @@
       "common": "Neitsytsaaret"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/british_virgin_islands",
-  "currency": [
-    "USD"
+  "latlng": [
+    18.431383,
+    -64.62305
   ],
-  "callingCode": [
-    "1284"
-  ],
+  "demonym": "Virgin Islander",
   "landlocked": false,
+  "borders": [],
+  "area": 151,
   "codes": {
     "cca2": "VG",
     "ccn3": "092",
     "cca3": "VGB",
     "cioc": "IVB"
-  }
+  },
+  "provinces": [
+    "Anegada",
+    "Jost Van Dyke",
+    "Tortola",
+    "Virgin Gorda"
+  ],
+  "geoJSON": {},
+  "flag": ""
 }

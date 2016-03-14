@@ -13,12 +13,79 @@
       }
     }
   },
+  "tld": [
+    ".ar"
+  ],
+  "currency": [
+    "ARS"
+  ],
+  "callingCode": [
+    "54"
+  ],
+  "capital": "Buenos Aires",
   "altSpellings": [
     "AR",
     "Argentine Republic",
     "República Argentina"
   ],
-  "area": 2780400,
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "grn": "Guaraní",
+    "spa": "Spanish"
+  },
+  "translations": {
+    "cym": {
+      "official": "Argentine Republic",
+      "common": "Ariannin"
+    },
+    "deu": {
+      "official": "Argentinische Republik",
+      "common": "Argentinien"
+    },
+    "fra": {
+      "official": "République argentine",
+      "common": "Argentine"
+    },
+    "hrv": {
+      "official": "Argentinski Republika",
+      "common": "Argentina"
+    },
+    "ita": {
+      "official": "Repubblica Argentina",
+      "common": "Argentina"
+    },
+    "jpn": {
+      "official": "アルゼンチン共和国",
+      "common": "アルゼンチン"
+    },
+    "nld": {
+      "official": "Argentijnse Republiek",
+      "common": "Argentinië"
+    },
+    "por": {
+      "official": "República Argentina",
+      "common": "Argentina"
+    },
+    "rus": {
+      "official": "Аргентинская Республика",
+      "common": "Аргентина"
+    },
+    "spa": {
+      "official": "República Argentina",
+      "common": "Argentina"
+    },
+    "fin": {
+      "official": "Argentiinan tasavalta",
+      "common": "Argentiina"
+    }
+  },
+  "latlng": [
+    -34,
+    -64
+  ],
+  "demonym": "Argentinean",
+  "landlocked": false,
   "borders": [
     "BOL",
     "BRA",
@@ -26,9 +93,41 @@
     "PRY",
     "URY"
   ],
-  "capital": "Buenos Aires",
-  "demonym": "Argentinean",
+  "area": 2780400,
   "flag": "http://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+  "codes": {
+    "cca2": "AR",
+    "ccn3": "032",
+    "cca3": "ARG",
+    "cioc": "ARG"
+  },
+  "provinces": [
+    "Antartica e Islas del Atlantico Sur",
+    "Buenos Aires",
+    "Buenos Aires Capital Federal",
+    "Catamarca",
+    "Chaco",
+    "Chubut",
+    "Cordoba",
+    "Corrientes",
+    "Entre Rios",
+    "Formosa",
+    "Jujuy",
+    "La Pampa",
+    "La Rioja",
+    "Mendoza",
+    "Misiones",
+    "Neuquen",
+    "Rio Negro",
+    "Salta",
+    "San Juan",
+    "San Luis",
+    "Santa Cruz",
+    "Santa Fe",
+    "Santiago del Estero",
+    "Tierra del Fuego",
+    "Tucuman"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -537,110 +636,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "grn": "Guaraní",
-    "spa": "Spanish"
-  },
-  "latlng": [
-    -34,
-    -64
-  ],
-  "nativeName": "Argentina",
-  "population": 42669500,
-  "provinces": [
-    "Antartica e Islas del Atlantico Sur",
-    "Buenos Aires",
-    "Buenos Aires Capital Federal",
-    "Catamarca",
-    "Chaco",
-    "Chubut",
-    "Cordoba",
-    "Corrientes",
-    "Entre Rios",
-    "Formosa",
-    "Jujuy",
-    "La Pampa",
-    "La Rioja",
-    "Mendoza",
-    "Misiones",
-    "Neuquen",
-    "Rio Negro",
-    "Salta",
-    "San Juan",
-    "San Luis",
-    "Santa Cruz",
-    "Santa Fe",
-    "Santiago del Estero",
-    "Tierra del Fuego",
-    "Tucuman"
-  ],
-  "region": "Americas",
-  "subregion": "South America",
-  "timezones": [
-    "UTC−03:00"
-  ],
-  "tld": [
-    ".ar"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Argentine Republic",
-      "common": "Ariannin"
-    },
-    "deu": {
-      "official": "Argentinische Republik",
-      "common": "Argentinien"
-    },
-    "fra": {
-      "official": "République argentine",
-      "common": "Argentine"
-    },
-    "hrv": {
-      "official": "Argentinski Republika",
-      "common": "Argentina"
-    },
-    "ita": {
-      "official": "Repubblica Argentina",
-      "common": "Argentina"
-    },
-    "jpn": {
-      "official": "アルゼンチン共和国",
-      "common": "アルゼンチン"
-    },
-    "nld": {
-      "official": "Argentijnse Republiek",
-      "common": "Argentinië"
-    },
-    "por": {
-      "official": "República Argentina",
-      "common": "Argentina"
-    },
-    "rus": {
-      "official": "Аргентинская Республика",
-      "common": "Аргентина"
-    },
-    "spa": {
-      "official": "República Argentina",
-      "common": "Argentina"
-    },
-    "fin": {
-      "official": "Argentiinan tasavalta",
-      "common": "Argentiina"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/argentina",
-  "currency": [
-    "ARS"
-  ],
-  "callingCode": [
-    "54"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "AR",
-    "ccn3": "032",
-    "cca3": "ARG",
-    "cioc": "ARG"
   }
 }

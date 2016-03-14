@@ -13,44 +13,27 @@
       }
     }
   },
+  "tld": [
+    ".fo"
+  ],
+  "currency": [
+    "DKK"
+  ],
+  "callingCode": [
+    "298"
+  ],
+  "capital": "Tórshavn",
   "altSpellings": [
     "FO",
     "Føroyar",
     "Færøerne"
   ],
-  "area": 1393,
-  "borders": [],
-  "capital": "Tórshavn",
-  "demonym": "Faroese",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Europe",
+  "subregion": "Northern Europe",
   "languages": {
     "dan": "Danish",
     "fao": "Faroese"
   },
-  "latlng": [
-    62,
-    -7
-  ],
-  "nativeName": "Føroyar",
-  "population": 48605,
-  "provinces": [
-    "Bordoy",
-    "Eysturoy",
-    "Mykines",
-    "Sandoy",
-    "Skuvoy",
-    "Streymoy",
-    "Suduroy",
-    "Tvoroyri",
-    "Vagar"
-  ],
-  "region": "Europe",
-  "subregion": "Northern Europe",
-  "timezones": null,
-  "tld": [
-    ".fo"
-  ],
   "translations": {
     "deu": {
       "official": "Färöer",
@@ -93,18 +76,31 @@
       "common": "Färsaaret"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/faroe_islands",
-  "currency": [
-    "DKK"
+  "latlng": [
+    62,
+    -7
   ],
-  "callingCode": [
-    "298"
-  ],
+  "demonym": "Faroese",
   "landlocked": false,
+  "borders": [],
+  "area": 1393,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of the Faroe Islands.svg|border|100px",
   "codes": {
     "cca2": "FO",
     "ccn3": "234",
     "cca3": "FRO",
     "cioc": ""
-  }
+  },
+  "provinces": [
+    "Bordoy",
+    "Eysturoy",
+    "Mykines",
+    "Sandoy",
+    "Skuvoy",
+    "Streymoy",
+    "Suduroy",
+    "Tvoroyri",
+    "Vagar"
+  ],
+  "geoJSON": {}
 }

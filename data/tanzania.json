@@ -13,13 +13,76 @@
       }
     }
   },
+  "tld": [
+    ".tz"
+  ],
+  "currency": [
+    "TZS"
+  ],
+  "callingCode": [
+    "255"
+  ],
+  "capital": "Dodoma",
   "altSpellings": [
     "TZ",
     "Tanzania, United Republic of",
     "United Republic of Tanzania",
     "Jamhuri ya Muungano wa Tanzania"
   ],
-  "area": 945087,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "eng": "English",
+    "swa": "Swahili"
+  },
+  "translations": {
+    "deu": {
+      "official": "Vereinigte Republik Tansania",
+      "common": "Tansania"
+    },
+    "fra": {
+      "official": "République -Unie de Tanzanie",
+      "common": "Tanzanie"
+    },
+    "hrv": {
+      "official": "Ujedinjena Republika Tanzanija",
+      "common": "Tanzanija"
+    },
+    "ita": {
+      "official": "Repubblica Unita di Tanzania",
+      "common": "Tanzania"
+    },
+    "jpn": {
+      "official": "タンザニア連合共和国",
+      "common": "タンザニア"
+    },
+    "nld": {
+      "official": "Verenigde Republiek Tanzania",
+      "common": "Tanzania"
+    },
+    "por": {
+      "official": "República Unida da Tanzânia",
+      "common": "Tanzânia"
+    },
+    "rus": {
+      "official": "Объединенная Республика Танзания",
+      "common": "Танзания"
+    },
+    "spa": {
+      "official": "República Unida de Tanzania",
+      "common": "Tanzania"
+    },
+    "fin": {
+      "official": "Tansanian yhdistynyt tasavalta",
+      "common": "Tansania"
+    }
+  },
+  "latlng": [
+    -6,
+    35
+  ],
+  "demonym": "Tanzanian",
+  "landlocked": false,
   "borders": [
     "BDI",
     "COD",
@@ -30,9 +93,40 @@
     "UGA",
     "ZMB"
   ],
-  "capital": "Dodoma",
-  "demonym": "Tanzanian",
-  "flag": "",
+  "area": 945087,
+  "codes": {
+    "cca2": "TZ",
+    "ccn3": "834",
+    "cca3": "TZA",
+    "cioc": "TAN"
+  },
+  "provinces": [
+    "Arusha",
+    "Dar es Salaam",
+    "Dodoma",
+    "Iringa",
+    "Kagera",
+    "Kigoma",
+    "Kilimanjaro",
+    "Lindi",
+    "Mara",
+    "Mbeya",
+    "Morogoro",
+    "Mtwara",
+    "Mwanza",
+    "Pemba North",
+    "Pemba South",
+    "Pwani",
+    "Rukwa",
+    "Ruvuma",
+    "Shinyanga",
+    "Singida",
+    "Tabora",
+    "Tanga",
+    "Zanzibar Central/South",
+    "Zanzibar North",
+    "Zanzibar Urban/West"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -248,105 +342,5 @@
       }
     ]
   },
-  "languages": {
-    "eng": "English",
-    "swa": "Swahili"
-  },
-  "latlng": [
-    -6,
-    35
-  ],
-  "nativeName": "Tanzania",
-  "population": 47421786,
-  "provinces": [
-    "Arusha",
-    "Dar es Salaam",
-    "Dodoma",
-    "Iringa",
-    "Kagera",
-    "Kigoma",
-    "Kilimanjaro",
-    "Lindi",
-    "Mara",
-    "Mbeya",
-    "Morogoro",
-    "Mtwara",
-    "Mwanza",
-    "Pemba North",
-    "Pemba South",
-    "Pwani",
-    "Rukwa",
-    "Ruvuma",
-    "Shinyanga",
-    "Singida",
-    "Tabora",
-    "Tanga",
-    "Zanzibar Central/South",
-    "Zanzibar North",
-    "Zanzibar Urban/West"
-  ],
-  "region": "Africa",
-  "subregion": "Eastern Africa",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "tld": [
-    ".tz"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Vereinigte Republik Tansania",
-      "common": "Tansania"
-    },
-    "fra": {
-      "official": "République -Unie de Tanzanie",
-      "common": "Tanzanie"
-    },
-    "hrv": {
-      "official": "Ujedinjena Republika Tanzanija",
-      "common": "Tanzanija"
-    },
-    "ita": {
-      "official": "Repubblica Unita di Tanzania",
-      "common": "Tanzania"
-    },
-    "jpn": {
-      "official": "タンザニア連合共和国",
-      "common": "タンザニア"
-    },
-    "nld": {
-      "official": "Verenigde Republiek Tanzania",
-      "common": "Tanzania"
-    },
-    "por": {
-      "official": "República Unida da Tanzânia",
-      "common": "Tanzânia"
-    },
-    "rus": {
-      "official": "Объединенная Республика Танзания",
-      "common": "Танзания"
-    },
-    "spa": {
-      "official": "República Unida de Tanzania",
-      "common": "Tanzania"
-    },
-    "fin": {
-      "official": "Tansanian yhdistynyt tasavalta",
-      "common": "Tansania"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/tanzania",
-  "currency": [
-    "TZS"
-  ],
-  "callingCode": [
-    "255"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "TZ",
-    "ccn3": "834",
-    "cca3": "TZA",
-    "cioc": "TAN"
-  }
+  "flag": ""
 }

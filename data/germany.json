@@ -9,12 +9,74 @@
       }
     }
   },
+  "tld": [
+    ".de"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "49"
+  ],
+  "capital": "Berlin",
   "altSpellings": [
     "DE",
     "Federal Republic of Germany",
     "Bundesrepublik Deutschland"
   ],
-  "area": 357114,
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "languages": {
+    "deu": "German"
+  },
+  "translations": {
+    "deu": {
+      "official": "Bundesrepublik Deutschland",
+      "common": "Deutschland"
+    },
+    "fra": {
+      "official": "République fédérale d'Allemagne",
+      "common": "Allemagne"
+    },
+    "hrv": {
+      "official": "Njemačka Federativna Republika",
+      "common": "Njemačka"
+    },
+    "ita": {
+      "official": "Repubblica federale di Germania",
+      "common": "Germania"
+    },
+    "jpn": {
+      "official": "ドイツ連邦共和国",
+      "common": "ドイツ"
+    },
+    "nld": {
+      "official": "Bondsrepubliek Duitsland",
+      "common": "Duitsland"
+    },
+    "por": {
+      "official": "República Federal da Alemanha",
+      "common": "Alemanha"
+    },
+    "rus": {
+      "official": "Федеративная Республика Германия",
+      "common": "Германия"
+    },
+    "spa": {
+      "official": "República Federal de Alemania",
+      "common": "Alemania"
+    },
+    "fin": {
+      "official": "Saksan liittotasavalta",
+      "common": "Saksa"
+    }
+  },
+  "latlng": [
+    51,
+    9
+  ],
+  "demonym": "German",
+  "landlocked": false,
   "borders": [
     "AUT",
     "BEL",
@@ -26,9 +88,31 @@
     "POL",
     "CHE"
   ],
-  "capital": "Berlin",
-  "demonym": "German",
-  "flag": "",
+  "area": 357114,
+  "codes": {
+    "cca2": "DE",
+    "ccn3": "276",
+    "cca3": "DEU",
+    "cioc": "GER"
+  },
+  "provinces": [
+    "Baden-Wuerttemberg",
+    "Bayern",
+    "Berlin",
+    "Brandenburg",
+    "Bremen",
+    "Hamburg",
+    "Hessen",
+    "Mecklenburg-Vorpommern",
+    "Niedersachsen",
+    "Nordrhein-Westfalen",
+    "Rheinland-Pfalz",
+    "Saarland",
+    "Sachsen",
+    "Sachsen-Anhalt",
+    "Schleswig-Holstein",
+    "Thueringen"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -280,95 +364,5 @@
       }
     ]
   },
-  "languages": {
-    "deu": "German"
-  },
-  "latlng": [
-    51,
-    9
-  ],
-  "nativeName": "Deutschland",
-  "population": 80783000,
-  "provinces": [
-    "Baden-Wuerttemberg",
-    "Bayern",
-    "Berlin",
-    "Brandenburg",
-    "Bremen",
-    "Hamburg",
-    "Hessen",
-    "Mecklenburg-Vorpommern",
-    "Niedersachsen",
-    "Nordrhein-Westfalen",
-    "Rheinland-Pfalz",
-    "Saarland",
-    "Sachsen",
-    "Sachsen-Anhalt",
-    "Schleswig-Holstein",
-    "Thueringen"
-  ],
-  "region": "Europe",
-  "subregion": "Western Europe",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "tld": [
-    ".de"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Bundesrepublik Deutschland",
-      "common": "Deutschland"
-    },
-    "fra": {
-      "official": "République fédérale d'Allemagne",
-      "common": "Allemagne"
-    },
-    "hrv": {
-      "official": "Njemačka Federativna Republika",
-      "common": "Njemačka"
-    },
-    "ita": {
-      "official": "Repubblica federale di Germania",
-      "common": "Germania"
-    },
-    "jpn": {
-      "official": "ドイツ連邦共和国",
-      "common": "ドイツ"
-    },
-    "nld": {
-      "official": "Bondsrepubliek Duitsland",
-      "common": "Duitsland"
-    },
-    "por": {
-      "official": "República Federal da Alemanha",
-      "common": "Alemanha"
-    },
-    "rus": {
-      "official": "Федеративная Республика Германия",
-      "common": "Германия"
-    },
-    "spa": {
-      "official": "República Federal de Alemania",
-      "common": "Alemania"
-    },
-    "fin": {
-      "official": "Saksan liittotasavalta",
-      "common": "Saksa"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/germany",
-  "currency": [
-    "EUR"
-  ],
-  "callingCode": [
-    "49"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "DE",
-    "ccn3": "276",
-    "cca3": "DEU",
-    "cioc": "GER"
-  }
+  "flag": ""
 }

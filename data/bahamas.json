@@ -9,15 +9,108 @@
       }
     }
   },
+  "tld": [
+    ".bs"
+  ],
+  "currency": [
+    "BSD"
+  ],
+  "callingCode": [
+    "1242"
+  ],
+  "capital": "Nassau",
   "altSpellings": [
     "BS",
     "Commonwealth of the Bahamas"
   ],
-  "area": 13943,
-  "borders": [],
-  "capital": "Nassau",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English"
+  },
+  "translations": {
+    "cym": {
+      "official": "Commonwealth of the Bahamas",
+      "common": "Bahamas"
+    },
+    "deu": {
+      "official": "Commonwealth der Bahamas",
+      "common": "Bahamas"
+    },
+    "fra": {
+      "official": "Commonwealth des Bahamas",
+      "common": "Bahamas"
+    },
+    "hrv": {
+      "official": "Zajednica Bahama",
+      "common": "Bahami"
+    },
+    "ita": {
+      "official": "Commonwealth delle Bahamas",
+      "common": "Bahamas"
+    },
+    "jpn": {
+      "official": "バハマ",
+      "common": "バハマ"
+    },
+    "nld": {
+      "official": "Gemenebest van de Bahama's",
+      "common": "Bahama’s"
+    },
+    "por": {
+      "official": "Comunidade das Bahamas",
+      "common": "Bahamas"
+    },
+    "rus": {
+      "official": "Содружество Багамских Островов",
+      "common": "Багамские Острова"
+    },
+    "spa": {
+      "official": "Commonwealth de las Bahamas",
+      "common": "Bahamas"
+    },
+    "fin": {
+      "official": "Bahaman liittovaltio",
+      "common": "Bahamasaaret"
+    }
+  },
+  "latlng": [
+    24.25,
+    -76
+  ],
   "demonym": "Bahamian",
-  "flag": "",
+  "landlocked": false,
+  "borders": [],
+  "area": 13943,
+  "codes": {
+    "cca2": "BS",
+    "ccn3": "044",
+    "cca3": "BHS",
+    "cioc": "BAH"
+  },
+  "provinces": [
+    "Acklins and Crooked Islands",
+    "Bimini",
+    "Cat Island",
+    "Exuma",
+    "Freeport",
+    "Fresh Creek",
+    "Governor's Harbour",
+    "Green Turtle Cay",
+    "Harbour Island",
+    "High Rock",
+    "Inagua",
+    "Kemps Bay",
+    "Long Island",
+    "Marsh Harbour",
+    "Mayaguana",
+    "New Providence",
+    "Nicholls Town and Berry Islands",
+    "Ragged Island",
+    "Rock Sound",
+    "San Salvador and Rum Cay",
+    "Sandy Point"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -131,104 +224,5 @@
       }
     ]
   },
-  "languages": {
-    "eng": "English"
-  },
-  "latlng": [
-    24.25,
-    -76
-  ],
-  "nativeName": "Bahamas",
-  "population": 319031,
-  "provinces": [
-    "Acklins and Crooked Islands",
-    "Bimini",
-    "Cat Island",
-    "Exuma",
-    "Freeport",
-    "Fresh Creek",
-    "Governor's Harbour",
-    "Green Turtle Cay",
-    "Harbour Island",
-    "High Rock",
-    "Inagua",
-    "Kemps Bay",
-    "Long Island",
-    "Marsh Harbour",
-    "Mayaguana",
-    "New Providence",
-    "Nicholls Town and Berry Islands",
-    "Ragged Island",
-    "Rock Sound",
-    "San Salvador and Rum Cay",
-    "Sandy Point"
-  ],
-  "region": "Americas",
-  "subregion": "Caribbean",
-  "timezones": [
-    "UTC−05:00"
-  ],
-  "tld": [
-    ".bs"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Commonwealth of the Bahamas",
-      "common": "Bahamas"
-    },
-    "deu": {
-      "official": "Commonwealth der Bahamas",
-      "common": "Bahamas"
-    },
-    "fra": {
-      "official": "Commonwealth des Bahamas",
-      "common": "Bahamas"
-    },
-    "hrv": {
-      "official": "Zajednica Bahama",
-      "common": "Bahami"
-    },
-    "ita": {
-      "official": "Commonwealth delle Bahamas",
-      "common": "Bahamas"
-    },
-    "jpn": {
-      "official": "バハマ",
-      "common": "バハマ"
-    },
-    "nld": {
-      "official": "Gemenebest van de Bahama's",
-      "common": "Bahama’s"
-    },
-    "por": {
-      "official": "Comunidade das Bahamas",
-      "common": "Bahamas"
-    },
-    "rus": {
-      "official": "Содружество Багамских Островов",
-      "common": "Багамские Острова"
-    },
-    "spa": {
-      "official": "Commonwealth de las Bahamas",
-      "common": "Bahamas"
-    },
-    "fin": {
-      "official": "Bahaman liittovaltio",
-      "common": "Bahamasaaret"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/bahamas",
-  "currency": [
-    "BSD"
-  ],
-  "callingCode": [
-    "1242"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "BS",
-    "ccn3": "044",
-    "cca3": "BHS",
-    "cioc": "BAH"
-  }
+  "flag": ""
 }

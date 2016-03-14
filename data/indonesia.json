@@ -9,20 +9,121 @@
       }
     }
   },
+  "tld": [
+    ".id"
+  ],
+  "currency": [
+    "IDR"
+  ],
+  "callingCode": [
+    "62"
+  ],
+  "capital": "Jakarta",
   "altSpellings": [
     "ID",
     "Republic of Indonesia",
     "Republik Indonesia"
   ],
-  "area": 1904569,
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "languages": {
+    "ind": "Indonesian"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Indonesien",
+      "common": "Indonesien"
+    },
+    "fra": {
+      "official": "République d'Indonésie",
+      "common": "Indonésie"
+    },
+    "hrv": {
+      "official": "Republika Indonezija",
+      "common": "Indonezija"
+    },
+    "ita": {
+      "official": "Repubblica di Indonesia",
+      "common": "Indonesia"
+    },
+    "jpn": {
+      "official": "インドネシア共和国",
+      "common": "インドネシア"
+    },
+    "nld": {
+      "official": "Republiek Indonesië",
+      "common": "Indonesië"
+    },
+    "por": {
+      "official": "República da Indonésia",
+      "common": "Indonésia"
+    },
+    "rus": {
+      "official": "Республика Индонезия",
+      "common": "Индонезия"
+    },
+    "spa": {
+      "official": "República de Indonesia",
+      "common": "Indonesia"
+    },
+    "fin": {
+      "official": "Indonesian tasavalta",
+      "common": "Indonesia"
+    }
+  },
+  "latlng": [
+    -5,
+    120
+  ],
+  "demonym": "Indonesian",
+  "landlocked": false,
   "borders": [
     "TLS",
     "MYS",
     "PNG"
   ],
-  "capital": "Jakarta",
-  "demonym": "Indonesian",
-  "flag": "",
+  "area": 1904569,
+  "codes": {
+    "cca2": "ID",
+    "ccn3": "360",
+    "cca3": "IDN",
+    "cioc": "INA"
+  },
+  "provinces": [
+    "Aceh",
+    "Bali",
+    "Banten",
+    "Bengkulu",
+    "Gorontalo",
+    "Jakarta",
+    "Jambi",
+    "Jawa Barat",
+    "Jawa Tengah",
+    "Jawa Timur",
+    "Kalimantan Barat",
+    "Kalimantan Selatan",
+    "Kalimantan Tengah",
+    "Kalimantan Timur",
+    "Kalimantan Utara",
+    "Kepulauan Bangka Belitung",
+    "Kepulauan Riau",
+    "Lampung",
+    "Maluku",
+    "Maluku Utara",
+    "Nusa Tenggara Barat",
+    "Nusa Tenggara Timur",
+    "Papua",
+    "Papua Barat",
+    "Riau",
+    "Sulawesi Barat",
+    "Sulawesi Selatan",
+    "Sulawesi Tengah",
+    "Sulawesi Utara",
+    "Sumatera Barat",
+    "Sumatera Selatan",
+    "Sumatera Utara",
+    "Yogyakarta"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -1092,114 +1193,5 @@
       }
     ]
   },
-  "languages": {
-    "ind": "Indonesian"
-  },
-  "latlng": [
-    -5,
-    120
-  ],
-  "nativeName": "Indonesia",
-  "population": 252164800,
-  "provinces": [
-    "Aceh",
-    "Bali",
-    "Banten",
-    "Bengkulu",
-    "Gorontalo",
-    "Jakarta",
-    "Jambi",
-    "Jawa Barat",
-    "Jawa Tengah",
-    "Jawa Timur",
-    "Kalimantan Barat",
-    "Kalimantan Selatan",
-    "Kalimantan Tengah",
-    "Kalimantan Timur",
-    "Kalimantan Utara",
-    "Kepulauan Bangka Belitung",
-    "Kepulauan Riau",
-    "Lampung",
-    "Maluku",
-    "Maluku Utara",
-    "Nusa Tenggara Barat",
-    "Nusa Tenggara Timur",
-    "Papua",
-    "Papua Barat",
-    "Riau",
-    "Sulawesi Barat",
-    "Sulawesi Selatan",
-    "Sulawesi Tengah",
-    "Sulawesi Utara",
-    "Sumatera Barat",
-    "Sumatera Selatan",
-    "Sumatera Utara",
-    "Yogyakarta"
-  ],
-  "region": "Asia",
-  "subregion": "South-Eastern Asia",
-  "timezones": [
-    "UTC+07:00",
-    "UTC+08:00",
-    "UTC+09:00"
-  ],
-  "tld": [
-    ".id"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Indonesien",
-      "common": "Indonesien"
-    },
-    "fra": {
-      "official": "République d'Indonésie",
-      "common": "Indonésie"
-    },
-    "hrv": {
-      "official": "Republika Indonezija",
-      "common": "Indonezija"
-    },
-    "ita": {
-      "official": "Repubblica di Indonesia",
-      "common": "Indonesia"
-    },
-    "jpn": {
-      "official": "インドネシア共和国",
-      "common": "インドネシア"
-    },
-    "nld": {
-      "official": "Republiek Indonesië",
-      "common": "Indonesië"
-    },
-    "por": {
-      "official": "República da Indonésia",
-      "common": "Indonésia"
-    },
-    "rus": {
-      "official": "Республика Индонезия",
-      "common": "Индонезия"
-    },
-    "spa": {
-      "official": "República de Indonesia",
-      "common": "Indonesia"
-    },
-    "fin": {
-      "official": "Indonesian tasavalta",
-      "common": "Indonesia"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/indonesia",
-  "currency": [
-    "IDR"
-  ],
-  "callingCode": [
-    "62"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "ID",
-    "ccn3": "360",
-    "cca3": "IDN",
-    "cioc": "INA"
-  }
+  "flag": ""
 }

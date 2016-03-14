@@ -13,34 +13,25 @@
       }
     }
   },
+  "tld": [
+    ".nu"
+  ],
+  "currency": [
+    "NZD"
+  ],
+  "callingCode": [
+    "683"
+  ],
+  "capital": "Alofi",
   "altSpellings": [
     "NU"
   ],
-  "area": 260,
-  "borders": [],
-  "capital": "Alofi",
-  "demonym": "Niuean",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Oceania",
+  "subregion": "Polynesia",
   "languages": {
     "eng": "English",
     "niu": "Niuean"
   },
-  "latlng": [
-    -19.03333333,
-    -169.86666666
-  ],
-  "nativeName": "Niuē",
-  "population": 1613,
-  "provinces": [
-    "Niue"
-  ],
-  "region": "Oceania",
-  "subregion": "Polynesia",
-  "timezones": null,
-  "tld": [
-    ".nu"
-  ],
   "translations": {
     "deu": {
       "official": "Niue",
@@ -83,18 +74,23 @@
       "common": "Niue"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/niue",
-  "currency": [
-    "NZD"
+  "latlng": [
+    -19.03333333,
+    -169.86666666
   ],
-  "callingCode": [
-    "683"
-  ],
+  "demonym": "Niuean",
   "landlocked": false,
+  "borders": [],
+  "area": 260,
   "codes": {
     "cca2": "NU",
     "ccn3": "570",
     "cca3": "NIU",
     "cioc": ""
-  }
+  },
+  "provinces": [
+    "Niue"
+  ],
+  "geoJSON": {},
+  "flag": ""
 }

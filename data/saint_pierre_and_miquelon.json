@@ -9,35 +9,25 @@
       }
     }
   },
+  "tld": [
+    ".pm"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "508"
+  ],
+  "capital": "Saint-Pierre",
   "altSpellings": [
     "PM",
     "Collectivité territoriale de Saint-Pierre-et-Miquelon"
   ],
-  "area": 242,
-  "borders": [],
-  "capital": "Saint-Pierre",
-  "demonym": "French",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Americas",
+  "subregion": "Northern America",
   "languages": {
     "fra": "French"
   },
-  "latlng": [
-    46.83333333,
-    -56.33333333
-  ],
-  "nativeName": "Saint-Pierre-et-Miquelon",
-  "population": 6081,
-  "provinces": [
-    "Miquelon",
-    "Saint Pierre"
-  ],
-  "region": "Americas",
-  "subregion": "Northern America",
-  "timezones": null,
-  "tld": [
-    ".pm"
-  ],
   "translations": {
     "deu": {
       "official": "St. Pierre und Miquelon",
@@ -80,18 +70,24 @@
       "common": "Saint-Pierre ja Miquelon"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/saint_pierre_and_miquelon",
-  "currency": [
-    "EUR"
+  "latlng": [
+    46.83333333,
+    -56.33333333
   ],
-  "callingCode": [
-    "508"
-  ],
+  "demonym": "French",
   "landlocked": false,
+  "borders": [],
+  "area": 242,
   "codes": {
     "cca2": "PM",
     "ccn3": "666",
     "cca3": "SPM",
     "cioc": ""
-  }
+  },
+  "provinces": [
+    "Miquelon",
+    "Saint Pierre"
+  ],
+  "geoJSON": {},
+  "flag": ""
 }

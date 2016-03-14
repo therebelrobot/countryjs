@@ -9,12 +9,74 @@
       }
     }
   },
+  "tld": [
+    ".fr"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "33"
+  ],
+  "capital": "Paris",
   "altSpellings": [
     "FR",
     "French Republic",
     "République française"
   ],
-  "area": 551695,
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "languages": {
+    "fra": "French"
+  },
+  "translations": {
+    "deu": {
+      "official": "Französische Republik",
+      "common": "Frankreich"
+    },
+    "fra": {
+      "official": "République française",
+      "common": "France"
+    },
+    "hrv": {
+      "official": "Francuska Republika",
+      "common": "Francuska"
+    },
+    "ita": {
+      "official": "Repubblica francese",
+      "common": "Francia"
+    },
+    "jpn": {
+      "official": "フランス共和国",
+      "common": "フランス"
+    },
+    "nld": {
+      "official": "Franse Republiek",
+      "common": "Frankrijk"
+    },
+    "por": {
+      "official": "República Francesa",
+      "common": "França"
+    },
+    "rus": {
+      "official": "Французская Республика",
+      "common": "Франция"
+    },
+    "spa": {
+      "official": "República francés",
+      "common": "Francia"
+    },
+    "fin": {
+      "official": "Ranskan tasavalta",
+      "common": "Ranska"
+    }
+  },
+  "latlng": [
+    46,
+    2
+  ],
+  "demonym": "French",
+  "landlocked": false,
   "borders": [
     "AND",
     "BEL",
@@ -25,9 +87,38 @@
     "ESP",
     "CHE"
   ],
-  "capital": "Paris",
-  "demonym": "French",
-  "flag": "",
+  "area": 551695,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of France.svg",
+  "codes": {
+    "cca2": "FR",
+    "ccn3": "250",
+    "cca3": "FRA",
+    "cioc": "FRA"
+  },
+  "provinces": [
+    "Alsace",
+    "Aquitaine",
+    "Auvergne",
+    "Basse-Normandie",
+    "Bourgogne",
+    "Bretagne",
+    "Centre",
+    "Champagne-Ardenne",
+    "Corse",
+    "Franche-Comte",
+    "Haute-Normandie",
+    "Ile-de-France",
+    "Languedoc-Roussillon",
+    "Limousin",
+    "Lorraine",
+    "Midi-Pyrenees",
+    "Nord-Pas-de-Calais",
+    "Pays de la Loire",
+    "Picardie",
+    "Poitou-Charentes",
+    "Provence-Alpes-Cote d'Azur",
+    "Rhone-Alpes"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -272,113 +363,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "fra": "French"
-  },
-  "latlng": [
-    46,
-    2
-  ],
-  "nativeName": "France",
-  "population": 66078000,
-  "provinces": [
-    "Alsace",
-    "Aquitaine",
-    "Auvergne",
-    "Basse-Normandie",
-    "Bourgogne",
-    "Bretagne",
-    "Centre",
-    "Champagne-Ardenne",
-    "Corse",
-    "Franche-Comte",
-    "Haute-Normandie",
-    "Ile-de-France",
-    "Languedoc-Roussillon",
-    "Limousin",
-    "Lorraine",
-    "Midi-Pyrenees",
-    "Nord-Pas-de-Calais",
-    "Pays de la Loire",
-    "Picardie",
-    "Poitou-Charentes",
-    "Provence-Alpes-Cote d'Azur",
-    "Rhone-Alpes"
-  ],
-  "region": "Europe",
-  "subregion": "Western Europe",
-  "timezones": [
-    "UTC−10:00",
-    "UTC−09:30",
-    "UTC−09:00",
-    "UTC−08:00",
-    "UTC−04:00",
-    "UTC−03:00",
-    "UTC+01:00",
-    "UTC+03:00",
-    "UTC+04:00",
-    "UTC+05:00",
-    "UTC+11:00",
-    "UTC+12:00"
-  ],
-  "tld": [
-    ".fr"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Französische Republik",
-      "common": "Frankreich"
-    },
-    "fra": {
-      "official": "République française",
-      "common": "France"
-    },
-    "hrv": {
-      "official": "Francuska Republika",
-      "common": "Francuska"
-    },
-    "ita": {
-      "official": "Repubblica francese",
-      "common": "Francia"
-    },
-    "jpn": {
-      "official": "フランス共和国",
-      "common": "フランス"
-    },
-    "nld": {
-      "official": "Franse Republiek",
-      "common": "Frankrijk"
-    },
-    "por": {
-      "official": "República Francesa",
-      "common": "França"
-    },
-    "rus": {
-      "official": "Французская Республика",
-      "common": "Франция"
-    },
-    "spa": {
-      "official": "República francés",
-      "common": "Francia"
-    },
-    "fin": {
-      "official": "Ranskan tasavalta",
-      "common": "Ranska"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/france",
-  "currency": [
-    "EUR"
-  ],
-  "callingCode": [
-    "33"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "FR",
-    "ccn3": "250",
-    "cca3": "FRA",
-    "cioc": "FRA"
   }
 }

@@ -21,6 +21,17 @@
       }
     }
   },
+  "tld": [
+    ".bo"
+  ],
+  "currency": [
+    "BOB",
+    "BOV"
+  ],
+  "callingCode": [
+    "591"
+  ],
+  "capital": "Sucre",
   "altSpellings": [
     "BO",
     "Buliwya",
@@ -32,7 +43,66 @@
     "Wuliwya Suyu",
     "Tetã Volívia"
   ],
-  "area": 1098581,
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "aym": "Aymara",
+    "grn": "Guaraní",
+    "que": "Quechua",
+    "spa": "Spanish"
+  },
+  "translations": {
+    "cym": {
+      "official": "Plurinational State of Bolivia",
+      "common": "Bolifia"
+    },
+    "deu": {
+      "official": "Multinationaler Staat von Bolivien",
+      "common": "Bolivien"
+    },
+    "fra": {
+      "official": "État plurinational de Bolivie",
+      "common": "Bolivie"
+    },
+    "hrv": {
+      "official": "Plurinational State of Bolivia",
+      "common": "Bolivija"
+    },
+    "ita": {
+      "official": "Stato Plurinazionale della Bolivia",
+      "common": "Bolivia"
+    },
+    "jpn": {
+      "official": "ボリビアの多民族国",
+      "common": "ボリビア多民族国"
+    },
+    "nld": {
+      "official": "Plurinationale Staat van Bolivia",
+      "common": "Bolivia"
+    },
+    "por": {
+      "official": "Estado Plurinacional da Bolívia",
+      "common": "Bolívia"
+    },
+    "rus": {
+      "official": "Многонациональное Государство Боливия",
+      "common": "Боливия"
+    },
+    "spa": {
+      "official": "Estado Plurinacional de Bolivia",
+      "common": "Bolivia"
+    },
+    "fin": {
+      "official": "Bolivian monikansainen valtio",
+      "common": "Bolivia"
+    }
+  },
+  "latlng": [
+    -17,
+    -65
+  ],
+  "demonym": "Bolivian",
+  "landlocked": true,
   "borders": [
     "ARG",
     "BRA",
@@ -40,9 +110,25 @@
     "PRY",
     "PER"
   ],
-  "capital": "Sucre",
-  "demonym": "Bolivian",
-  "flag": "",
+  "area": 1098581,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Bolivia (state).svg",
+  "codes": {
+    "cca2": "BO",
+    "ccn3": "068",
+    "cca3": "BOL",
+    "cioc": "BOL"
+  },
+  "provinces": [
+    "Beni",
+    "Chuquisaca",
+    "Cochabamba",
+    "La Paz",
+    "Oruro",
+    "Pando",
+    "Potosi",
+    "Santa Cruz",
+    "Tarija"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -301,97 +387,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "aym": "Aymara",
-    "grn": "Guaraní",
-    "que": "Quechua",
-    "spa": "Spanish"
-  },
-  "latlng": [
-    -17,
-    -65
-  ],
-  "nativeName": "Bolivia",
-  "population": 10027254,
-  "provinces": [
-    "Beni",
-    "Chuquisaca",
-    "Cochabamba",
-    "La Paz",
-    "Oruro",
-    "Pando",
-    "Potosi",
-    "Santa Cruz",
-    "Tarija"
-  ],
-  "region": "Americas",
-  "subregion": "South America",
-  "timezones": [
-    "UTC−04:00"
-  ],
-  "tld": [
-    ".bo"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Plurinational State of Bolivia",
-      "common": "Bolifia"
-    },
-    "deu": {
-      "official": "Multinationaler Staat von Bolivien",
-      "common": "Bolivien"
-    },
-    "fra": {
-      "official": "État plurinational de Bolivie",
-      "common": "Bolivie"
-    },
-    "hrv": {
-      "official": "Plurinational State of Bolivia",
-      "common": "Bolivija"
-    },
-    "ita": {
-      "official": "Stato Plurinazionale della Bolivia",
-      "common": "Bolivia"
-    },
-    "jpn": {
-      "official": "ボリビアの多民族国",
-      "common": "ボリビア多民族国"
-    },
-    "nld": {
-      "official": "Plurinationale Staat van Bolivia",
-      "common": "Bolivia"
-    },
-    "por": {
-      "official": "Estado Plurinacional da Bolívia",
-      "common": "Bolívia"
-    },
-    "rus": {
-      "official": "Многонациональное Государство Боливия",
-      "common": "Боливия"
-    },
-    "spa": {
-      "official": "Estado Plurinacional de Bolivia",
-      "common": "Bolivia"
-    },
-    "fin": {
-      "official": "Bolivian monikansainen valtio",
-      "common": "Bolivia"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/bolivia",
-  "currency": [
-    "BOB",
-    "BOV"
-  ],
-  "callingCode": [
-    "591"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "BO",
-    "ccn3": "068",
-    "cca3": "BOL",
-    "cioc": "BOL"
   }
 }

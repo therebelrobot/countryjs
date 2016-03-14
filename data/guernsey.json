@@ -17,46 +17,28 @@
       }
     }
   },
+  "tld": [
+    ".gg"
+  ],
+  "currency": [
+    "GBP"
+  ],
+  "callingCode": [
+    "44"
+  ],
+  "capital": "St. Peter Port",
   "altSpellings": [
     "GG",
     "Bailiwick of Guernsey",
     "Bailliage de Guernesey"
   ],
-  "area": 78,
-  "borders": [],
-  "capital": "St. Peter Port",
-  "demonym": "Channel Islander",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Europe",
+  "subregion": "Northern Europe",
   "languages": {
     "eng": "English",
     "fra": "French",
     "nfr": "Guernésiais"
   },
-  "latlng": [
-    49.46666666,
-    -2.58333333
-  ],
-  "nativeName": "Guernsey",
-  "population": 63085,
-  "provinces": [
-    "Castel",
-    "Forest",
-    "St. Andrew",
-    "St. Martin",
-    "St. Peter Port",
-    "St. Pierre du Bois",
-    "St. Sampson",
-    "St. Saviour",
-    "Torteval",
-    "Vale"
-  ],
-  "region": "Europe",
-  "subregion": "Northern Europe",
-  "timezones": null,
-  "tld": [
-    ".gg"
-  ],
   "translations": {
     "deu": {
       "official": "Guernsey",
@@ -99,18 +81,32 @@
       "common": "Guernsey"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/guernsey",
-  "currency": [
-    "GBP"
+  "latlng": [
+    49.46666666,
+    -2.58333333
   ],
-  "callingCode": [
-    "44"
-  ],
+  "demonym": "Channel Islander",
   "landlocked": false,
+  "borders": [],
+  "area": 78,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Guernsey.svg",
   "codes": {
     "cca2": "GG",
     "ccn3": "831",
     "cca3": "GGY",
     "cioc": ""
-  }
+  },
+  "provinces": [
+    "Castel",
+    "Forest",
+    "St. Andrew",
+    "St. Martin",
+    "St. Peter Port",
+    "St. Pierre du Bois",
+    "St. Sampson",
+    "St. Saviour",
+    "Torteval",
+    "Vale"
+  ],
+  "geoJSON": {}
 }

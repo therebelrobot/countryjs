@@ -9,19 +9,107 @@
       }
     }
   },
+  "tld": [
+    ".uy"
+  ],
+  "currency": [
+    "UYI",
+    "UYU"
+  ],
+  "callingCode": [
+    "598"
+  ],
+  "capital": "Montevideo",
   "altSpellings": [
     "UY",
     "Oriental Republic of Uruguay",
     "República Oriental del Uruguay"
   ],
-  "area": 181034,
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "spa": "Spanish"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Östlich des Uruguay",
+      "common": "Uruguay"
+    },
+    "fra": {
+      "official": "République orientale de l'Uruguay",
+      "common": "Uruguay"
+    },
+    "hrv": {
+      "official": "Orijentalna Republika Urugvaj",
+      "common": "Urugvaj"
+    },
+    "ita": {
+      "official": "Repubblica Orientale dell'Uruguay",
+      "common": "Uruguay"
+    },
+    "jpn": {
+      "official": "ウルグアイ東方共和国",
+      "common": "ウルグアイ"
+    },
+    "nld": {
+      "official": "Oosterse Republiek Uruguay",
+      "common": "Uruguay"
+    },
+    "por": {
+      "official": "República Oriental do Uruguai",
+      "common": "Uruguai"
+    },
+    "rus": {
+      "official": "Восточной Республики Уругвай",
+      "common": "Уругвай"
+    },
+    "spa": {
+      "official": "República Oriental del Uruguay",
+      "common": "Uruguay"
+    },
+    "fin": {
+      "official": "Uruguayn itäinen tasavalta",
+      "common": "Uruguay"
+    }
+  },
+  "latlng": [
+    -33,
+    -56
+  ],
+  "demonym": "Uruguayan",
+  "landlocked": false,
   "borders": [
     "ARG",
     "BRA"
   ],
-  "capital": "Montevideo",
-  "demonym": "Uruguayan",
-  "flag": "",
+  "area": 181034,
+  "codes": {
+    "cca2": "UY",
+    "ccn3": "858",
+    "cca3": "URY",
+    "cioc": "URU"
+  },
+  "provinces": [
+    "Artigas",
+    "Canelones",
+    "Cerro Largo",
+    "Colonia",
+    "Durazno",
+    "Flores",
+    "Florida",
+    "Lavalleja",
+    "Maldonado",
+    "Montevideo",
+    "Paysandu",
+    "Rio Negro",
+    "Rivera",
+    "Rocha",
+    "Salto",
+    "San Jose",
+    "Soriano",
+    "Tacuarembo",
+    "Treinta y Tres"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -125,99 +213,5 @@
       }
     ]
   },
-  "languages": {
-    "spa": "Spanish"
-  },
-  "latlng": [
-    -33,
-    -56
-  ],
-  "nativeName": "Uruguay",
-  "population": 3404189,
-  "provinces": [
-    "Artigas",
-    "Canelones",
-    "Cerro Largo",
-    "Colonia",
-    "Durazno",
-    "Flores",
-    "Florida",
-    "Lavalleja",
-    "Maldonado",
-    "Montevideo",
-    "Paysandu",
-    "Rio Negro",
-    "Rivera",
-    "Rocha",
-    "Salto",
-    "San Jose",
-    "Soriano",
-    "Tacuarembo",
-    "Treinta y Tres"
-  ],
-  "region": "Americas",
-  "subregion": "South America",
-  "timezones": [
-    "UTC−03:00"
-  ],
-  "tld": [
-    ".uy"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Östlich des Uruguay",
-      "common": "Uruguay"
-    },
-    "fra": {
-      "official": "République orientale de l'Uruguay",
-      "common": "Uruguay"
-    },
-    "hrv": {
-      "official": "Orijentalna Republika Urugvaj",
-      "common": "Urugvaj"
-    },
-    "ita": {
-      "official": "Repubblica Orientale dell'Uruguay",
-      "common": "Uruguay"
-    },
-    "jpn": {
-      "official": "ウルグアイ東方共和国",
-      "common": "ウルグアイ"
-    },
-    "nld": {
-      "official": "Oosterse Republiek Uruguay",
-      "common": "Uruguay"
-    },
-    "por": {
-      "official": "República Oriental do Uruguai",
-      "common": "Uruguai"
-    },
-    "rus": {
-      "official": "Восточной Республики Уругвай",
-      "common": "Уругвай"
-    },
-    "spa": {
-      "official": "República Oriental del Uruguay",
-      "common": "Uruguay"
-    },
-    "fin": {
-      "official": "Uruguayn itäinen tasavalta",
-      "common": "Uruguay"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/uruguay",
-  "currency": [
-    "UYI",
-    "UYU"
-  ],
-  "callingCode": [
-    "598"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "UY",
-    "ccn3": "858",
-    "cca3": "URY",
-    "cioc": "URU"
-  }
+  "flag": ""
 }

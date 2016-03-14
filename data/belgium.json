@@ -17,6 +17,16 @@
       }
     }
   },
+  "tld": [
+    ".be"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "32"
+  ],
+  "capital": "Brussels",
   "altSpellings": [
     "BE",
     "België",
@@ -28,16 +38,92 @@
     "Royaume de Belgique",
     "Königreich Belgien"
   ],
-  "area": 30528,
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "languages": {
+    "deu": "German",
+    "fra": "French",
+    "nld": "Dutch"
+  },
+  "translations": {
+    "cym": {
+      "official": "Kingdom of Belgium",
+      "common": "Gwlad Belg"
+    },
+    "deu": {
+      "official": "Königreich Belgien",
+      "common": "Belgien"
+    },
+    "fra": {
+      "official": "Royaume de Belgique",
+      "common": "Belgique"
+    },
+    "hrv": {
+      "official": "Kraljevina Belgija",
+      "common": "Belgija"
+    },
+    "ita": {
+      "official": "Regno del Belgio",
+      "common": "Belgio"
+    },
+    "jpn": {
+      "official": "ベルギー王国",
+      "common": "ベルギー"
+    },
+    "nld": {
+      "official": "Koninkrijk België",
+      "common": "België"
+    },
+    "por": {
+      "official": "Reino da Bélgica",
+      "common": "Bélgica"
+    },
+    "rus": {
+      "official": "Королевство Бельгия",
+      "common": "Бельгия"
+    },
+    "spa": {
+      "official": "Reino de Bélgica",
+      "common": "Bélgica"
+    },
+    "fin": {
+      "official": "Belgian kuningaskunta",
+      "common": "Belgia"
+    }
+  },
+  "latlng": [
+    50.83333333,
+    4
+  ],
+  "demonym": "Belgian",
+  "landlocked": false,
   "borders": [
     "FRA",
     "DEU",
     "LUX",
     "NLD"
   ],
-  "capital": "Brussels",
-  "demonym": "Belgian",
-  "flag": "",
+  "area": 30528,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Belgium.svg",
+  "codes": {
+    "cca2": "BE",
+    "ccn3": "056",
+    "cca3": "BEL",
+    "cioc": "BEL"
+  },
+  "provinces": [
+    "Antwerpen",
+    "Brabant Wallon",
+    "Brussels Capitol Region",
+    "Hainaut",
+    "Liege",
+    "Limburg",
+    "Luxembourg",
+    "Namur",
+    "Oost-Vlaanderen",
+    "Vlaams Brabant",
+    "West-Vlaanderen"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -116,97 +202,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "deu": "German",
-    "fra": "French",
-    "nld": "Dutch"
-  },
-  "latlng": [
-    50.83333333,
-    4
-  ],
-  "nativeName": "België",
-  "population": 11225469,
-  "provinces": [
-    "Antwerpen",
-    "Brabant Wallon",
-    "Brussels Capitol Region",
-    "Hainaut",
-    "Liege",
-    "Limburg",
-    "Luxembourg",
-    "Namur",
-    "Oost-Vlaanderen",
-    "Vlaams Brabant",
-    "West-Vlaanderen"
-  ],
-  "region": "Europe",
-  "subregion": "Western Europe",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "tld": [
-    ".be"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Kingdom of Belgium",
-      "common": "Gwlad Belg"
-    },
-    "deu": {
-      "official": "Königreich Belgien",
-      "common": "Belgien"
-    },
-    "fra": {
-      "official": "Royaume de Belgique",
-      "common": "Belgique"
-    },
-    "hrv": {
-      "official": "Kraljevina Belgija",
-      "common": "Belgija"
-    },
-    "ita": {
-      "official": "Regno del Belgio",
-      "common": "Belgio"
-    },
-    "jpn": {
-      "official": "ベルギー王国",
-      "common": "ベルギー"
-    },
-    "nld": {
-      "official": "Koninkrijk België",
-      "common": "België"
-    },
-    "por": {
-      "official": "Reino da Bélgica",
-      "common": "Bélgica"
-    },
-    "rus": {
-      "official": "Королевство Бельгия",
-      "common": "Бельгия"
-    },
-    "spa": {
-      "official": "Reino de Bélgica",
-      "common": "Bélgica"
-    },
-    "fin": {
-      "official": "Belgian kuningaskunta",
-      "common": "Belgia"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/belgium",
-  "currency": [
-    "EUR"
-  ],
-  "callingCode": [
-    "32"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "BE",
-    "ccn3": "056",
-    "cca3": "BEL",
-    "cioc": "BEL"
   }
 }

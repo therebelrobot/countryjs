@@ -17,20 +17,97 @@
       }
     }
   },
+  "tld": [
+    ".ba"
+  ],
+  "currency": [
+    "BAM"
+  ],
+  "callingCode": [
+    "387"
+  ],
+  "capital": "Sarajevo",
   "altSpellings": [
     "BA",
     "Bosnia-Herzegovina",
     "Босна и Херцеговина"
   ],
-  "area": 51209,
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "languages": {
+    "bos": "Bosnian",
+    "hrv": "Croatian",
+    "srp": "Serbian"
+  },
+  "translations": {
+    "cym": {
+      "official": "Bosnia and Herzegovina",
+      "common": "Bosnia a Hercegovina"
+    },
+    "deu": {
+      "official": "Bosnien und Herzegowina",
+      "common": "Bosnien und Herzegowina"
+    },
+    "fra": {
+      "official": "Bosnie-et-Herzégovine",
+      "common": "Bosnie-Herzégovine"
+    },
+    "hrv": {
+      "official": "Bosna i Hercegovina",
+      "common": "Bosna i Hercegovina"
+    },
+    "ita": {
+      "official": "Bosnia-Erzegovina",
+      "common": "Bosnia ed Erzegovina"
+    },
+    "jpn": {
+      "official": "ボスニア·ヘルツェゴビナ",
+      "common": "ボスニア・ヘルツェゴビナ"
+    },
+    "nld": {
+      "official": "Bosnië-Herzegovina",
+      "common": "Bosnië en Herzegovina"
+    },
+    "por": {
+      "official": "Bósnia e Herzegovina",
+      "common": "Bósnia e Herzegovina"
+    },
+    "rus": {
+      "official": "Босния и Герцеговина",
+      "common": "Босния и Герцеговина"
+    },
+    "spa": {
+      "official": "Bosnia y Herzegovina",
+      "common": "Bosnia y Herzegovina"
+    },
+    "fin": {
+      "official": "Bosnia ja Hertsegovina",
+      "common": "Bosnia ja Hertsegovina"
+    }
+  },
+  "latlng": [
+    44,
+    18
+  ],
+  "demonym": "Bosnian, Herzegovinian",
+  "landlocked": false,
   "borders": [
     "HRV",
     "MNE",
     "SRB"
   ],
-  "capital": "Sarajevo",
-  "demonym": "Bosnian, Herzegovinian",
-  "flag": "",
+  "area": 51209,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Bosnia and Herzegovina.svg",
+  "codes": {
+    "cca2": "BA",
+    "ccn3": "070",
+    "cca3": "BIH",
+    "cioc": "BIH"
+  },
+  "provinces": [
+    "Federation of Bosnia and Herzegovina",
+    "Republika Srpska"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -137,88 +214,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "bos": "Bosnian",
-    "hrv": "Croatian",
-    "srp": "Serbian"
-  },
-  "latlng": [
-    44,
-    18
-  ],
-  "nativeName": "Bosna i Hercegovina",
-  "population": 3791622,
-  "provinces": [
-    "Federation of Bosnia and Herzegovina",
-    "Republika Srpska"
-  ],
-  "region": "Europe",
-  "subregion": "Southern Europe",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "tld": [
-    ".ba"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Bosnia and Herzegovina",
-      "common": "Bosnia a Hercegovina"
-    },
-    "deu": {
-      "official": "Bosnien und Herzegowina",
-      "common": "Bosnien und Herzegowina"
-    },
-    "fra": {
-      "official": "Bosnie-et-Herzégovine",
-      "common": "Bosnie-Herzégovine"
-    },
-    "hrv": {
-      "official": "Bosna i Hercegovina",
-      "common": "Bosna i Hercegovina"
-    },
-    "ita": {
-      "official": "Bosnia-Erzegovina",
-      "common": "Bosnia ed Erzegovina"
-    },
-    "jpn": {
-      "official": "ボスニア·ヘルツェゴビナ",
-      "common": "ボスニア・ヘルツェゴビナ"
-    },
-    "nld": {
-      "official": "Bosnië-Herzegovina",
-      "common": "Bosnië en Herzegovina"
-    },
-    "por": {
-      "official": "Bósnia e Herzegovina",
-      "common": "Bósnia e Herzegovina"
-    },
-    "rus": {
-      "official": "Босния и Герцеговина",
-      "common": "Босния и Герцеговина"
-    },
-    "spa": {
-      "official": "Bosnia y Herzegovina",
-      "common": "Bosnia y Herzegovina"
-    },
-    "fin": {
-      "official": "Bosnia ja Hertsegovina",
-      "common": "Bosnia ja Hertsegovina"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/bosnia_and_herzegovina",
-  "currency": [
-    "BAM"
-  ],
-  "callingCode": [
-    "387"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "BA",
-    "ccn3": "070",
-    "cca3": "BIH",
-    "cioc": "BIH"
   }
 }

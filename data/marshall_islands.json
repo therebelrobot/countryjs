@@ -13,70 +13,27 @@
       }
     }
   },
+  "tld": [
+    ".mh"
+  ],
+  "currency": [
+    "USD"
+  ],
+  "callingCode": [
+    "692"
+  ],
+  "capital": "Majuro",
   "altSpellings": [
     "MH",
     "Republic of the Marshall Islands",
     "Aolepān Aorōkin M̧ajeļ"
   ],
-  "area": 181,
-  "borders": [],
-  "capital": "Majuro",
-  "demonym": "Marshallese",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Oceania",
+  "subregion": "Micronesia",
   "languages": {
     "eng": "English",
     "mah": "Marshallese"
   },
-  "latlng": [
-    9,
-    168
-  ],
-  "nativeName": "M̧ajeļ",
-  "population": 56086,
-  "provinces": [
-    "Ailinginae",
-    "Ailinglaplap",
-    "Ailuk",
-    "Arno",
-    "Aur",
-    "Bikar",
-    "Bikini",
-    "Bokak",
-    "Ebon",
-    "Enewetak",
-    "Erikub",
-    "Jabat",
-    "Jaluit",
-    "Jemo",
-    "Kili",
-    "Kwajalein",
-    "Lae",
-    "Lib",
-    "Likiep",
-    "Majuro",
-    "Maloelap",
-    "Mejit",
-    "Mili",
-    "Namorik",
-    "Namu",
-    "Rongelap",
-    "Rongrik",
-    "Toke",
-    "Ujae",
-    "Ujelang",
-    "Utirik",
-    "Wotho",
-    "Wotje"
-  ],
-  "region": "Oceania",
-  "subregion": "Micronesia",
-  "timezones": [
-    "UTC+12:00"
-  ],
-  "tld": [
-    ".mh"
-  ],
   "translations": {
     "deu": {
       "official": "Republik der Marshall-Inseln",
@@ -119,18 +76,55 @@
       "common": "Marshallinsaaret"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/marshall_islands",
-  "currency": [
-    "USD"
+  "latlng": [
+    9,
+    168
   ],
-  "callingCode": [
-    "692"
-  ],
+  "demonym": "Marshallese",
   "landlocked": false,
+  "borders": [],
+  "area": 181,
   "codes": {
     "cca2": "MH",
     "ccn3": "584",
     "cca3": "MHL",
     "cioc": "MHL"
-  }
+  },
+  "provinces": [
+    "Ailinginae",
+    "Ailinglaplap",
+    "Ailuk",
+    "Arno",
+    "Aur",
+    "Bikar",
+    "Bikini",
+    "Bokak",
+    "Ebon",
+    "Enewetak",
+    "Erikub",
+    "Jabat",
+    "Jaluit",
+    "Jemo",
+    "Kili",
+    "Kwajalein",
+    "Lae",
+    "Lib",
+    "Likiep",
+    "Majuro",
+    "Maloelap",
+    "Mejit",
+    "Mili",
+    "Namorik",
+    "Namu",
+    "Rongelap",
+    "Rongrik",
+    "Toke",
+    "Ujae",
+    "Ujelang",
+    "Utirik",
+    "Wotho",
+    "Wotje"
+  ],
+  "geoJSON": {},
+  "flag": ""
 }

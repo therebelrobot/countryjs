@@ -13,17 +13,92 @@
       }
     }
   },
+  "tld": [
+    ".mg"
+  ],
+  "currency": [
+    "MGA"
+  ],
+  "callingCode": [
+    "261"
+  ],
+  "capital": "Antananarivo",
   "altSpellings": [
     "MG",
     "Republic of Madagascar",
     "Repoblikan'i Madagasikara",
     "République de Madagascar"
   ],
-  "area": 587041,
-  "borders": [],
-  "capital": "Antananarivo",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "fra": "French",
+    "mlg": "Malagasy"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Madagaskar",
+      "common": "Madagaskar"
+    },
+    "fra": {
+      "official": "République de Madagascar",
+      "common": "Madagascar"
+    },
+    "hrv": {
+      "official": "Republika Madagaskar",
+      "common": "Madagaskar"
+    },
+    "ita": {
+      "official": "Repubblica del Madagascar",
+      "common": "Madagascar"
+    },
+    "jpn": {
+      "official": "マダガスカル共和国",
+      "common": "マダガスカル"
+    },
+    "nld": {
+      "official": "Republiek Madagaskar",
+      "common": "Madagaskar"
+    },
+    "por": {
+      "official": "República de Madagáscar",
+      "common": "Madagáscar"
+    },
+    "rus": {
+      "official": "Республика Мадагаскар",
+      "common": "Мадагаскар"
+    },
+    "spa": {
+      "official": "República de Madagascar",
+      "common": "Madagascar"
+    },
+    "fin": {
+      "official": "Madagaskarin tasavalta",
+      "common": "Madagaskar"
+    }
+  },
+  "latlng": [
+    -20,
+    47
+  ],
   "demonym": "Malagasy",
-  "flag": "",
+  "landlocked": false,
+  "borders": [],
+  "area": 587041,
+  "codes": {
+    "cca2": "MG",
+    "ccn3": "450",
+    "cca3": "MDG",
+    "cioc": "MAD"
+  },
+  "provinces": [
+    "Antananarivo",
+    "Antsiranana",
+    "Fianarantsoa",
+    "Mahajanga",
+    "Toamasina",
+    "Toliara"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -239,86 +314,5 @@
       }
     ]
   },
-  "languages": {
-    "fra": "French",
-    "mlg": "Malagasy"
-  },
-  "latlng": [
-    -20,
-    47
-  ],
-  "nativeName": "Madagasikara",
-  "population": 21842167,
-  "provinces": [
-    "Antananarivo",
-    "Antsiranana",
-    "Fianarantsoa",
-    "Mahajanga",
-    "Toamasina",
-    "Toliara"
-  ],
-  "region": "Africa",
-  "subregion": "Eastern Africa",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "tld": [
-    ".mg"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Madagaskar",
-      "common": "Madagaskar"
-    },
-    "fra": {
-      "official": "République de Madagascar",
-      "common": "Madagascar"
-    },
-    "hrv": {
-      "official": "Republika Madagaskar",
-      "common": "Madagaskar"
-    },
-    "ita": {
-      "official": "Repubblica del Madagascar",
-      "common": "Madagascar"
-    },
-    "jpn": {
-      "official": "マダガスカル共和国",
-      "common": "マダガスカル"
-    },
-    "nld": {
-      "official": "Republiek Madagaskar",
-      "common": "Madagaskar"
-    },
-    "por": {
-      "official": "República de Madagáscar",
-      "common": "Madagáscar"
-    },
-    "rus": {
-      "official": "Республика Мадагаскар",
-      "common": "Мадагаскар"
-    },
-    "spa": {
-      "official": "República de Madagascar",
-      "common": "Madagascar"
-    },
-    "fin": {
-      "official": "Madagaskarin tasavalta",
-      "common": "Madagaskar"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/madagascar",
-  "currency": [
-    "MGA"
-  ],
-  "callingCode": [
-    "261"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "MG",
-    "ccn3": "450",
-    "cca3": "MDG",
-    "cioc": "MAD"
-  }
+  "flag": ""
 }

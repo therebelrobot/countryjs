@@ -49,13 +49,85 @@
       }
     }
   },
+  "tld": [
+    ".za"
+  ],
+  "currency": [
+    "ZAR"
+  ],
+  "callingCode": [
+    "27"
+  ],
+  "capital": "Pretoria",
   "altSpellings": [
     "ZA",
     "RSA",
     "Suid-Afrika",
     "Republic of South Africa"
   ],
-  "area": 1221037,
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "languages": {
+    "afr": "Afrikaans",
+    "eng": "English",
+    "nbl": "Southern Ndebele",
+    "nso": "Northern Sotho",
+    "sot": "Southern Sotho",
+    "ssw": "Swazi",
+    "tsn": "Tswana",
+    "tso": "Tsonga",
+    "ven": "Venda",
+    "xho": "Xhosa",
+    "zul": "Zulu"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Südafrika",
+      "common": "Republik Südafrika"
+    },
+    "fra": {
+      "official": "République d'Afrique du Sud",
+      "common": "Afrique du Sud"
+    },
+    "hrv": {
+      "official": "Južnoafrička Republika",
+      "common": "Južnoafrička Republika"
+    },
+    "ita": {
+      "official": "Repubblica del Sud Africa",
+      "common": "Sud Africa"
+    },
+    "jpn": {
+      "official": "南アフリカ共和国",
+      "common": "南アフリカ"
+    },
+    "nld": {
+      "official": "Zuid -Afrika",
+      "common": "Zuid-Afrika"
+    },
+    "por": {
+      "official": "República da África do Sul",
+      "common": "África do Sul"
+    },
+    "rus": {
+      "official": "Южно-Африканская Республика",
+      "common": "Южно-Африканская Республика"
+    },
+    "spa": {
+      "official": "República de Sudáfrica",
+      "common": "República de Sudáfrica"
+    },
+    "fin": {
+      "official": "Etelä-Afrikan tasavalta",
+      "common": "Etelä-Afrikka"
+    }
+  },
+  "latlng": [
+    -29,
+    24
+  ],
+  "demonym": "South African",
+  "landlocked": false,
   "borders": [
     "BWA",
     "LSO",
@@ -64,9 +136,24 @@
     "SWZ",
     "ZWE"
   ],
-  "capital": "Pretoria",
-  "demonym": "South African",
-  "flag": "",
+  "area": 1221037,
+  "codes": {
+    "cca2": "ZA",
+    "ccn3": "710",
+    "cca3": "ZAF",
+    "cioc": "RSA"
+  },
+  "provinces": [
+    "Eastern Cape",
+    "Free State",
+    "Gauteng",
+    "KwaZulu-Natal",
+    "Mpumalanga",
+    "North-West",
+    "Northern Cape",
+    "Northern Province",
+    "Western Cape"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -464,98 +551,5 @@
       }
     ]
   },
-  "languages": {
-    "afr": "Afrikaans",
-    "eng": "English",
-    "nbl": "Southern Ndebele",
-    "nso": "Northern Sotho",
-    "sot": "Southern Sotho",
-    "ssw": "Swazi",
-    "tsn": "Tswana",
-    "tso": "Tsonga",
-    "ven": "Venda",
-    "xho": "Xhosa",
-    "zul": "Zulu"
-  },
-  "latlng": [
-    -29,
-    24
-  ],
-  "nativeName": "South Africa",
-  "population": 54002000,
-  "provinces": [
-    "Eastern Cape",
-    "Free State",
-    "Gauteng",
-    "KwaZulu-Natal",
-    "Mpumalanga",
-    "North-West",
-    "Northern Cape",
-    "Northern Province",
-    "Western Cape"
-  ],
-  "region": "Africa",
-  "subregion": "Southern Africa",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "tld": [
-    ".za"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Südafrika",
-      "common": "Republik Südafrika"
-    },
-    "fra": {
-      "official": "République d'Afrique du Sud",
-      "common": "Afrique du Sud"
-    },
-    "hrv": {
-      "official": "Južnoafrička Republika",
-      "common": "Južnoafrička Republika"
-    },
-    "ita": {
-      "official": "Repubblica del Sud Africa",
-      "common": "Sud Africa"
-    },
-    "jpn": {
-      "official": "南アフリカ共和国",
-      "common": "南アフリカ"
-    },
-    "nld": {
-      "official": "Zuid -Afrika",
-      "common": "Zuid-Afrika"
-    },
-    "por": {
-      "official": "República da África do Sul",
-      "common": "África do Sul"
-    },
-    "rus": {
-      "official": "Южно-Африканская Республика",
-      "common": "Южно-Африканская Республика"
-    },
-    "spa": {
-      "official": "República de Sudáfrica",
-      "common": "República de Sudáfrica"
-    },
-    "fin": {
-      "official": "Etelä-Afrikan tasavalta",
-      "common": "Etelä-Afrikka"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/south_africa",
-  "currency": [
-    "ZAR"
-  ],
-  "callingCode": [
-    "27"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "ZA",
-    "ccn3": "710",
-    "cca3": "ZAF",
-    "cioc": "RSA"
-  }
+  "flag": ""
 }

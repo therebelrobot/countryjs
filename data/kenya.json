@@ -13,12 +13,75 @@
       }
     }
   },
+  "tld": [
+    ".ke"
+  ],
+  "currency": [
+    "KES"
+  ],
+  "callingCode": [
+    "254"
+  ],
+  "capital": "Nairobi",
   "altSpellings": [
     "KE",
     "Republic of Kenya",
     "Jamhuri ya Kenya"
   ],
-  "area": 580367,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "eng": "English",
+    "swa": "Swahili"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Kenia",
+      "common": "Kenia"
+    },
+    "fra": {
+      "official": "République du Kenya",
+      "common": "Kenya"
+    },
+    "hrv": {
+      "official": "Republika Kenija",
+      "common": "Kenija"
+    },
+    "ita": {
+      "official": "Repubblica del Kenya",
+      "common": "Kenya"
+    },
+    "jpn": {
+      "official": "ケニア共和国",
+      "common": "ケニア"
+    },
+    "nld": {
+      "official": "Republiek Kenia",
+      "common": "Kenia"
+    },
+    "por": {
+      "official": "República do Quénia",
+      "common": "Quénia"
+    },
+    "rus": {
+      "official": "Республика Кения",
+      "common": "Кения"
+    },
+    "spa": {
+      "official": "República de Kenya",
+      "common": "Kenia"
+    },
+    "fin": {
+      "official": "Kenian tasavalta",
+      "common": "Kenia"
+    }
+  },
+  "latlng": [
+    1,
+    38
+  ],
+  "demonym": "Kenyan",
+  "landlocked": false,
   "borders": [
     "ETH",
     "SOM",
@@ -26,9 +89,23 @@
     "TZA",
     "UGA"
   ],
-  "capital": "Nairobi",
-  "demonym": "Kenyan",
-  "flag": "",
+  "area": 580367,
+  "codes": {
+    "cca2": "KE",
+    "ccn3": "404",
+    "cca3": "KEN",
+    "cioc": "KEN"
+  },
+  "provinces": [
+    "Central",
+    "Coast",
+    "Eastern",
+    "Nairobi Area",
+    "North Eastern",
+    "Nyanza",
+    "Rift Valley",
+    "Western"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -196,88 +273,5 @@
       }
     ]
   },
-  "languages": {
-    "eng": "English",
-    "swa": "Swahili"
-  },
-  "latlng": [
-    1,
-    38
-  ],
-  "nativeName": "Kenya",
-  "population": 41800000,
-  "provinces": [
-    "Central",
-    "Coast",
-    "Eastern",
-    "Nairobi Area",
-    "North Eastern",
-    "Nyanza",
-    "Rift Valley",
-    "Western"
-  ],
-  "region": "Africa",
-  "subregion": "Eastern Africa",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "tld": [
-    ".ke"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Kenia",
-      "common": "Kenia"
-    },
-    "fra": {
-      "official": "République du Kenya",
-      "common": "Kenya"
-    },
-    "hrv": {
-      "official": "Republika Kenija",
-      "common": "Kenija"
-    },
-    "ita": {
-      "official": "Repubblica del Kenya",
-      "common": "Kenya"
-    },
-    "jpn": {
-      "official": "ケニア共和国",
-      "common": "ケニア"
-    },
-    "nld": {
-      "official": "Republiek Kenia",
-      "common": "Kenia"
-    },
-    "por": {
-      "official": "República do Quénia",
-      "common": "Quénia"
-    },
-    "rus": {
-      "official": "Республика Кения",
-      "common": "Кения"
-    },
-    "spa": {
-      "official": "República de Kenya",
-      "common": "Kenia"
-    },
-    "fin": {
-      "official": "Kenian tasavalta",
-      "common": "Kenia"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/kenya",
-  "currency": [
-    "KES"
-  ],
-  "callingCode": [
-    "254"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "KE",
-    "ccn3": "404",
-    "cca3": "KEN",
-    "cioc": "KEN"
-  }
+  "flag": ""
 }

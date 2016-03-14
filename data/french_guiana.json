@@ -9,19 +9,88 @@
       }
     }
   },
+  "tld": [
+    ".gf"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "594"
+  ],
+  "capital": "Cayenne",
   "altSpellings": [
     "GF",
     "Guiana",
     "Guyane"
   ],
-  "area": 83534,
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "fra": "French"
+  },
+  "translations": {
+    "deu": {
+      "official": "Guayana",
+      "common": "Französisch Guyana"
+    },
+    "fra": {
+      "official": "Guyane",
+      "common": "Guyane"
+    },
+    "hrv": {
+      "official": "Gijana",
+      "common": "Francuska Gvajana"
+    },
+    "ita": {
+      "official": "Guiana",
+      "common": "Guyana francese"
+    },
+    "jpn": {
+      "official": "ギアナ",
+      "common": "フランス領ギアナ"
+    },
+    "nld": {
+      "official": "Guyana",
+      "common": "Frans-Guyana"
+    },
+    "por": {
+      "official": "Guiana",
+      "common": "Guiana Francesa"
+    },
+    "rus": {
+      "official": "Гвиана",
+      "common": "Французская Гвиана"
+    },
+    "spa": {
+      "official": "Guayana",
+      "common": "Guayana Francesa"
+    },
+    "fin": {
+      "official": "Ranskan Guayana",
+      "common": "Ranskan Guayana"
+    }
+  },
+  "latlng": [
+    4,
+    -53
+  ],
+  "demonym": "",
+  "landlocked": false,
   "borders": [
     "BRA",
     "SUR"
   ],
-  "capital": "Cayenne",
-  "demonym": "",
-  "flag": "",
+  "area": 83534,
+  "codes": {
+    "cca2": "GF",
+    "ccn3": "254",
+    "cca3": "GUF",
+    "cioc": ""
+  },
+  "provinces": [
+    "French Guiana"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -117,78 +186,5 @@
       }
     ]
   },
-  "languages": {
-    "fra": "French"
-  },
-  "latlng": [
-    4,
-    -53
-  ],
-  "nativeName": "Guyane française",
-  "population": 237549,
-  "provinces": [
-    "French Guiana"
-  ],
-  "region": "Americas",
-  "subregion": "South America",
-  "timezones": null,
-  "tld": [
-    ".gf"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Guayana",
-      "common": "Französisch Guyana"
-    },
-    "fra": {
-      "official": "Guyane",
-      "common": "Guyane"
-    },
-    "hrv": {
-      "official": "Gijana",
-      "common": "Francuska Gvajana"
-    },
-    "ita": {
-      "official": "Guiana",
-      "common": "Guyana francese"
-    },
-    "jpn": {
-      "official": "ギアナ",
-      "common": "フランス領ギアナ"
-    },
-    "nld": {
-      "official": "Guyana",
-      "common": "Frans-Guyana"
-    },
-    "por": {
-      "official": "Guiana",
-      "common": "Guiana Francesa"
-    },
-    "rus": {
-      "official": "Гвиана",
-      "common": "Французская Гвиана"
-    },
-    "spa": {
-      "official": "Guayana",
-      "common": "Guayana Francesa"
-    },
-    "fin": {
-      "official": "Ranskan Guayana",
-      "common": "Ranskan Guayana"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/french_guiana",
-  "currency": [
-    "EUR"
-  ],
-  "callingCode": [
-    "594"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "GF",
-    "ccn3": "254",
-    "cca3": "GUF",
-    "cioc": ""
-  }
+  "flag": ""
 }

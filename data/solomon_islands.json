@@ -9,14 +9,93 @@
       }
     }
   },
+  "tld": [
+    ".sb"
+  ],
+  "currency": [
+    "SBD"
+  ],
+  "callingCode": [
+    "677"
+  ],
+  "capital": "Honiara",
   "altSpellings": [
     "SB"
   ],
-  "area": 28896,
-  "borders": [],
-  "capital": "Honiara",
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "languages": {
+    "eng": "English"
+  },
+  "translations": {
+    "deu": {
+      "official": "Salomon-Inseln",
+      "common": "Salomonen"
+    },
+    "fra": {
+      "official": "Îles Salomon",
+      "common": "Îles Salomon"
+    },
+    "hrv": {
+      "official": "Solomonski Otoci",
+      "common": "Solomonski Otoci"
+    },
+    "ita": {
+      "official": "Isole Salomone",
+      "common": "Isole Salomone"
+    },
+    "jpn": {
+      "official": "ソロモン諸島",
+      "common": "ソロモン諸島"
+    },
+    "nld": {
+      "official": "Solomon eilanden",
+      "common": "Salomonseilanden"
+    },
+    "por": {
+      "official": "Ilhas Salomão",
+      "common": "Ilhas Salomão"
+    },
+    "rus": {
+      "official": "Соломоновы острова",
+      "common": "Соломоновы Острова"
+    },
+    "spa": {
+      "official": "islas Salomón",
+      "common": "Islas Salomón"
+    },
+    "fin": {
+      "official": "Salomonsaaret",
+      "common": "Salomonsaaret"
+    }
+  },
+  "latlng": [
+    -8,
+    159
+  ],
   "demonym": "Solomon Islander",
-  "flag": "",
+  "landlocked": false,
+  "borders": [],
+  "area": 28896,
+  "codes": {
+    "cca2": "SB",
+    "ccn3": "090",
+    "cca3": "SLB",
+    "cioc": "SOL"
+  },
+  "provinces": [
+    "Bellona",
+    "Central",
+    "Choiseul (Lauru)",
+    "Guadalcanal",
+    "Honiara",
+    "Isabel",
+    "Makira",
+    "Malaita",
+    "Rennell",
+    "Temotu",
+    "Western"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -202,90 +281,5 @@
       }
     ]
   },
-  "languages": {
-    "eng": "English"
-  },
-  "latlng": [
-    -8,
-    159
-  ],
-  "nativeName": "Solomon Islands",
-  "population": 581344,
-  "provinces": [
-    "Bellona",
-    "Central",
-    "Choiseul (Lauru)",
-    "Guadalcanal",
-    "Honiara",
-    "Isabel",
-    "Makira",
-    "Malaita",
-    "Rennell",
-    "Temotu",
-    "Western"
-  ],
-  "region": "Oceania",
-  "subregion": "Melanesia",
-  "timezones": [
-    "UTC+11:00"
-  ],
-  "tld": [
-    ".sb"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Salomon-Inseln",
-      "common": "Salomonen"
-    },
-    "fra": {
-      "official": "Îles Salomon",
-      "common": "Îles Salomon"
-    },
-    "hrv": {
-      "official": "Solomonski Otoci",
-      "common": "Solomonski Otoci"
-    },
-    "ita": {
-      "official": "Isole Salomone",
-      "common": "Isole Salomone"
-    },
-    "jpn": {
-      "official": "ソロモン諸島",
-      "common": "ソロモン諸島"
-    },
-    "nld": {
-      "official": "Solomon eilanden",
-      "common": "Salomonseilanden"
-    },
-    "por": {
-      "official": "Ilhas Salomão",
-      "common": "Ilhas Salomão"
-    },
-    "rus": {
-      "official": "Соломоновы острова",
-      "common": "Соломоновы Острова"
-    },
-    "spa": {
-      "official": "islas Salomón",
-      "common": "Islas Salomón"
-    },
-    "fin": {
-      "official": "Salomonsaaret",
-      "common": "Salomonsaaret"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/solomon_islands",
-  "currency": [
-    "SBD"
-  ],
-  "callingCode": [
-    "677"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "SB",
-    "ccn3": "090",
-    "cca3": "SLB",
-    "cioc": "SOL"
-  }
+  "flag": ""
 }

@@ -17,17 +17,93 @@
       }
     }
   },
+  "tld": [
+    ".vu"
+  ],
+  "currency": [
+    "VUV"
+  ],
+  "callingCode": [
+    "678"
+  ],
+  "capital": "Port Vila",
   "altSpellings": [
     "VU",
     "Republic of Vanuatu",
     "Ripablik blong Vanuatu",
     "République de Vanuatu"
   ],
-  "area": 12189,
-  "borders": [],
-  "capital": "Port Vila",
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "languages": {
+    "bis": "Bislama",
+    "eng": "English",
+    "fra": "French"
+  },
+  "translations": {
+    "deu": {
+      "official": "Vanuatu",
+      "common": "Vanuatu"
+    },
+    "fra": {
+      "official": "République de Vanuatu",
+      "common": "Vanuatu"
+    },
+    "hrv": {
+      "official": "Republika Vanuatu",
+      "common": "Vanuatu"
+    },
+    "ita": {
+      "official": "Repubblica di Vanuatu",
+      "common": "Vanuatu"
+    },
+    "jpn": {
+      "official": "バヌアツ共和国",
+      "common": "バヌアツ"
+    },
+    "nld": {
+      "official": "Republiek Vanuatu",
+      "common": "Vanuatu"
+    },
+    "por": {
+      "official": "República de Vanuatu",
+      "common": "Vanuatu"
+    },
+    "rus": {
+      "official": "Республика Вануату",
+      "common": "Вануату"
+    },
+    "spa": {
+      "official": "República de Vanuatu",
+      "common": "Vanuatu"
+    },
+    "fin": {
+      "official": "Vanuatun tasavalta",
+      "common": "Vanuatu"
+    }
+  },
+  "latlng": [
+    -16,
+    167
+  ],
   "demonym": "Ni-Vanuatu",
-  "flag": "",
+  "landlocked": false,
+  "borders": [],
+  "area": 12189,
+  "codes": {
+    "cca2": "VU",
+    "ccn3": "548",
+    "cca3": "VUT",
+    "cioc": "VAN"
+  },
+  "provinces": [
+    "Malampa",
+    "Penama",
+    "Sanma",
+    "Shefa",
+    "Tafea",
+    "Torba"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -101,87 +177,5 @@
       }
     ]
   },
-  "languages": {
-    "bis": "Bislama",
-    "eng": "English",
-    "fra": "French"
-  },
-  "latlng": [
-    -16,
-    167
-  ],
-  "nativeName": "Vanuatu",
-  "population": 264652,
-  "provinces": [
-    "Malampa",
-    "Penama",
-    "Sanma",
-    "Shefa",
-    "Tafea",
-    "Torba"
-  ],
-  "region": "Oceania",
-  "subregion": "Melanesia",
-  "timezones": [
-    "UTC+11:00"
-  ],
-  "tld": [
-    ".vu"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Vanuatu",
-      "common": "Vanuatu"
-    },
-    "fra": {
-      "official": "République de Vanuatu",
-      "common": "Vanuatu"
-    },
-    "hrv": {
-      "official": "Republika Vanuatu",
-      "common": "Vanuatu"
-    },
-    "ita": {
-      "official": "Repubblica di Vanuatu",
-      "common": "Vanuatu"
-    },
-    "jpn": {
-      "official": "バヌアツ共和国",
-      "common": "バヌアツ"
-    },
-    "nld": {
-      "official": "Republiek Vanuatu",
-      "common": "Vanuatu"
-    },
-    "por": {
-      "official": "República de Vanuatu",
-      "common": "Vanuatu"
-    },
-    "rus": {
-      "official": "Республика Вануату",
-      "common": "Вануату"
-    },
-    "spa": {
-      "official": "República de Vanuatu",
-      "common": "Vanuatu"
-    },
-    "fin": {
-      "official": "Vanuatun tasavalta",
-      "common": "Vanuatu"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/vanuatu",
-  "currency": [
-    "VUV"
-  ],
-  "callingCode": [
-    "678"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "VU",
-    "ccn3": "548",
-    "cca3": "VUT",
-    "cioc": "VAN"
-  }
+  "flag": ""
 }

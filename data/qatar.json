@@ -9,18 +9,96 @@
       }
     }
   },
+  "tld": [
+    ".qa",
+    "قطر."
+  ],
+  "currency": [
+    "QAR"
+  ],
+  "callingCode": [
+    "974"
+  ],
+  "capital": "Doha",
   "altSpellings": [
     "QA",
     "State of Qatar",
     "Dawlat Qaṭar"
   ],
-  "area": 11586,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "ara": "Arabic"
+  },
+  "translations": {
+    "deu": {
+      "official": "Staat Katar",
+      "common": "Katar"
+    },
+    "fra": {
+      "official": "État du Qatar",
+      "common": "Qatar"
+    },
+    "hrv": {
+      "official": "Država Katar",
+      "common": "Katar"
+    },
+    "ita": {
+      "official": "Stato del Qatar",
+      "common": "Qatar"
+    },
+    "jpn": {
+      "official": "カタール国",
+      "common": "カタール"
+    },
+    "nld": {
+      "official": "Staat Qatar",
+      "common": "Qatar"
+    },
+    "por": {
+      "official": "Estado do Qatar",
+      "common": "Catar"
+    },
+    "rus": {
+      "official": "Государство Катар",
+      "common": "Катар"
+    },
+    "spa": {
+      "official": "Estado de Qatar",
+      "common": "Catar"
+    },
+    "fin": {
+      "official": "Qatarin valtio",
+      "common": "Qatar"
+    }
+  },
+  "latlng": [
+    25.5,
+    51.25
+  ],
+  "demonym": "Qatari",
+  "landlocked": false,
   "borders": [
     "SAU"
   ],
-  "capital": "Doha",
-  "demonym": "Qatari",
-  "flag": "",
+  "area": 11586,
+  "codes": {
+    "cca2": "QA",
+    "ccn3": "634",
+    "cca3": "QAT",
+    "cioc": "QAT"
+  },
+  "provinces": [
+    "Ad Dawhah",
+    "Al Ghuwayriyah",
+    "Al Jumayliyah",
+    "Al Khawr",
+    "Al Wakrah",
+    "Ar Rayyan",
+    "Jarayan al Batinah",
+    "Madinat ash Shamal",
+    "Umm Salal"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -76,89 +154,5 @@
       }
     ]
   },
-  "languages": {
-    "ara": "Arabic"
-  },
-  "latlng": [
-    25.5,
-    51.25
-  ],
-  "nativeName": "قطر",
-  "population": 2269672,
-  "provinces": [
-    "Ad Dawhah",
-    "Al Ghuwayriyah",
-    "Al Jumayliyah",
-    "Al Khawr",
-    "Al Wakrah",
-    "Ar Rayyan",
-    "Jarayan al Batinah",
-    "Madinat ash Shamal",
-    "Umm Salal"
-  ],
-  "region": "Asia",
-  "subregion": "Western Asia",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "tld": [
-    ".qa",
-    "قطر."
-  ],
-  "translations": {
-    "deu": {
-      "official": "Staat Katar",
-      "common": "Katar"
-    },
-    "fra": {
-      "official": "État du Qatar",
-      "common": "Qatar"
-    },
-    "hrv": {
-      "official": "Država Katar",
-      "common": "Katar"
-    },
-    "ita": {
-      "official": "Stato del Qatar",
-      "common": "Qatar"
-    },
-    "jpn": {
-      "official": "カタール国",
-      "common": "カタール"
-    },
-    "nld": {
-      "official": "Staat Qatar",
-      "common": "Qatar"
-    },
-    "por": {
-      "official": "Estado do Qatar",
-      "common": "Catar"
-    },
-    "rus": {
-      "official": "Государство Катар",
-      "common": "Катар"
-    },
-    "spa": {
-      "official": "Estado de Qatar",
-      "common": "Catar"
-    },
-    "fin": {
-      "official": "Qatarin valtio",
-      "common": "Qatar"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/qatar",
-  "currency": [
-    "QAR"
-  ],
-  "callingCode": [
-    "974"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "QA",
-    "ccn3": "634",
-    "cca3": "QAT",
-    "cioc": "QAT"
-  }
+  "flag": ""
 }

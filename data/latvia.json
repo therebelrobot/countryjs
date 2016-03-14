@@ -9,21 +9,122 @@
       }
     }
   },
+  "tld": [
+    ".lv"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "371"
+  ],
+  "capital": "Riga",
   "altSpellings": [
     "LV",
     "Republic of Latvia",
     "Latvijas Republika"
   ],
-  "area": 64559,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "languages": {
+    "lav": "Latvian"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Lettland",
+      "common": "Lettland"
+    },
+    "fra": {
+      "official": "République de Lettonie",
+      "common": "Lettonie"
+    },
+    "hrv": {
+      "official": "Republika Latvija",
+      "common": "Latvija"
+    },
+    "ita": {
+      "official": "Repubblica di Lettonia",
+      "common": "Lettonia"
+    },
+    "jpn": {
+      "official": "ラトビア共和国",
+      "common": "ラトビア"
+    },
+    "nld": {
+      "official": "Republiek Letland",
+      "common": "Letland"
+    },
+    "por": {
+      "official": "República da Letónia",
+      "common": "Letónia"
+    },
+    "rus": {
+      "official": "Латвийская Республика",
+      "common": "Латвия"
+    },
+    "spa": {
+      "official": "República de Letonia",
+      "common": "Letonia"
+    },
+    "fin": {
+      "official": "Latvian tasavalta",
+      "common": "Latvia"
+    }
+  },
+  "latlng": [
+    57,
+    25
+  ],
+  "demonym": "Latvian",
+  "landlocked": false,
   "borders": [
     "BLR",
     "EST",
     "LTU",
     "RUS"
   ],
-  "capital": "Riga",
-  "demonym": "Latvian",
-  "flag": "",
+  "area": 64559,
+  "codes": {
+    "cca2": "LV",
+    "ccn3": "428",
+    "cca3": "LVA",
+    "cioc": "LAT"
+  },
+  "provinces": [
+    "Aizkraukles Rajons",
+    "Aluksnes Rajons",
+    "Balvu Rajons",
+    "Bauskas Rajons",
+    "Cesu Rajons",
+    "Daugavpils",
+    "Daugavpils Rajons",
+    "Dobeles Rajons",
+    "Gulbenes Rajons",
+    "Jekabpils Rajons",
+    "Jelgava",
+    "Jelgavas Rajons",
+    "Jurmala",
+    "Kraslavas Rajons",
+    "Kuldigas Rajons",
+    "Leipaja",
+    "Liepajas Rajons",
+    "Limbazu Rajons",
+    "Ludzas Rajons",
+    "Madonas Rajons",
+    "Ogres Rajons",
+    "Preilu Rajons",
+    "Rezekne",
+    "Rezeknes Rajons",
+    "Riga",
+    "Rigas Rajons",
+    "Saldus Rajons",
+    "Talsu Rajons",
+    "Tukuma Rajons",
+    "Valkas Rajons",
+    "Valmieras Rajons",
+    "Ventspils",
+    "Ventspils Rajons"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -131,112 +232,5 @@
       }
     ]
   },
-  "languages": {
-    "lav": "Latvian"
-  },
-  "latlng": [
-    57,
-    25
-  ],
-  "nativeName": "Latvija",
-  "population": 1991800,
-  "provinces": [
-    "Aizkraukles Rajons",
-    "Aluksnes Rajons",
-    "Balvu Rajons",
-    "Bauskas Rajons",
-    "Cesu Rajons",
-    "Daugavpils",
-    "Daugavpils Rajons",
-    "Dobeles Rajons",
-    "Gulbenes Rajons",
-    "Jekabpils Rajons",
-    "Jelgava",
-    "Jelgavas Rajons",
-    "Jurmala",
-    "Kraslavas Rajons",
-    "Kuldigas Rajons",
-    "Leipaja",
-    "Liepajas Rajons",
-    "Limbazu Rajons",
-    "Ludzas Rajons",
-    "Madonas Rajons",
-    "Ogres Rajons",
-    "Preilu Rajons",
-    "Rezekne",
-    "Rezeknes Rajons",
-    "Riga",
-    "Rigas Rajons",
-    "Saldus Rajons",
-    "Talsu Rajons",
-    "Tukuma Rajons",
-    "Valkas Rajons",
-    "Valmieras Rajons",
-    "Ventspils",
-    "Ventspils Rajons"
-  ],
-  "region": "Europe",
-  "subregion": "Northern Europe",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "tld": [
-    ".lv"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Lettland",
-      "common": "Lettland"
-    },
-    "fra": {
-      "official": "République de Lettonie",
-      "common": "Lettonie"
-    },
-    "hrv": {
-      "official": "Republika Latvija",
-      "common": "Latvija"
-    },
-    "ita": {
-      "official": "Repubblica di Lettonia",
-      "common": "Lettonia"
-    },
-    "jpn": {
-      "official": "ラトビア共和国",
-      "common": "ラトビア"
-    },
-    "nld": {
-      "official": "Republiek Letland",
-      "common": "Letland"
-    },
-    "por": {
-      "official": "República da Letónia",
-      "common": "Letónia"
-    },
-    "rus": {
-      "official": "Латвийская Республика",
-      "common": "Латвия"
-    },
-    "spa": {
-      "official": "República de Letonia",
-      "common": "Letonia"
-    },
-    "fin": {
-      "official": "Latvian tasavalta",
-      "common": "Latvia"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/latvia",
-  "currency": [
-    "EUR"
-  ],
-  "callingCode": [
-    "371"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "LV",
-    "ccn3": "428",
-    "cca3": "LVA",
-    "cioc": "LAT"
-  }
+  "flag": ""
 }

@@ -1,52 +1,4 @@
 {
-  "flag": "",
-  "geoJSON": {},
-  "provinces": [
-    "Bacs-Kiskun",
-    "Baranya",
-    "Bekes",
-    "Bekescsaba",
-    "Borsod-Abauj-Zemplen",
-    "Budapest",
-    "Csongrad",
-    "Debrecen",
-    "Dunaujvaros",
-    "Eger",
-    "Fejer",
-    "Gyor",
-    "Gyor-Moson-Sopron",
-    "Hajdu-Bihar",
-    "Heves",
-    "Hodmezovasarhely",
-    "Jasz-Nagykun-Szolnok",
-    "Kaposvar",
-    "Kecskemet",
-    "Komarom-Esztergom",
-    "Miskolc",
-    "Nagykanizsa",
-    "Nograd",
-    "Nyiregyhaza",
-    "Pecs",
-    "Pest",
-    "Somogy",
-    "Sopron",
-    "Szabolcs-Szatmar-Bereg",
-    "Szeged",
-    "Szekesfehervar",
-    "Szolnok",
-    "Szombathely",
-    "Tatabanya",
-    "Tolna",
-    "Vas",
-    "Veszprem",
-    "Veszprem",
-    "Zala",
-    "Zalaegerszeg"
-  ],
-  "tld": [
-    ".hu"
-  ],
-  "wiki": "http://en.wikipedia.org/wiki/hungary",
   "name": {
     "common": "Hungary",
     "official": "Hungary",
@@ -57,6 +9,9 @@
       }
     }
   },
+  "tld": [
+    ".hu"
+  ],
   "currency": [
     "HUF"
   ],
@@ -130,10 +85,54 @@
     "UKR"
   ],
   "area": 93028,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Hungary.svg",
   "codes": {
     "cca2": "HU",
     "ccn3": "348",
     "cca3": "HUN",
     "cioc": "HUN"
-  }
+  },
+  "provinces": [
+    "Bacs-Kiskun",
+    "Baranya",
+    "Bekes",
+    "Bekescsaba",
+    "Borsod-Abauj-Zemplen",
+    "Budapest",
+    "Csongrad",
+    "Debrecen",
+    "Dunaujvaros",
+    "Eger",
+    "Fejer",
+    "Gyor",
+    "Gyor-Moson-Sopron",
+    "Hajdu-Bihar",
+    "Heves",
+    "Hodmezovasarhely",
+    "Jasz-Nagykun-Szolnok",
+    "Kaposvar",
+    "Kecskemet",
+    "Komarom-Esztergom",
+    "Miskolc",
+    "Nagykanizsa",
+    "Nograd",
+    "Nyiregyhaza",
+    "Pecs",
+    "Pest",
+    "Somogy",
+    "Sopron",
+    "Szabolcs-Szatmar-Bereg",
+    "Szeged",
+    "Szekesfehervar",
+    "Szolnok",
+    "Szombathely",
+    "Tatabanya",
+    "Tolna",
+    "Vas",
+    "Veszprem",
+    "Veszprem",
+    "Zala",
+    "Zalaegerszeg"
+  ],
+  "geoJSON": {}
 }

@@ -13,16 +13,218 @@
       }
     }
   },
+  "tld": [
+    ".ph"
+  ],
+  "currency": [
+    "PHP"
+  ],
+  "callingCode": [
+    "63"
+  ],
+  "capital": "Manila",
   "altSpellings": [
     "PH",
     "Republic of the Philippines",
     "Repúblika ng Pilipinas"
   ],
-  "area": 342353,
-  "borders": [],
-  "capital": "Manila",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "languages": {
+    "eng": "English",
+    "fil": "Filipino"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik der Philippinen",
+      "common": "Philippinen"
+    },
+    "fra": {
+      "official": "République des Philippines",
+      "common": "Philippines"
+    },
+    "hrv": {
+      "official": "Republika Filipini",
+      "common": "Filipini"
+    },
+    "ita": {
+      "official": "Repubblica delle Filippine",
+      "common": "Filippine"
+    },
+    "jpn": {
+      "official": "フィリピン共和国",
+      "common": "フィリピン"
+    },
+    "nld": {
+      "official": "Republiek der Filipijnen",
+      "common": "Filipijnen"
+    },
+    "por": {
+      "official": "República das Filipinas",
+      "common": "Filipinas"
+    },
+    "rus": {
+      "official": "Республика Филиппины",
+      "common": "Филиппины"
+    },
+    "spa": {
+      "official": "República de las Filipinas",
+      "common": "Filipinas"
+    },
+    "fin": {
+      "official": "Filippiinien tasavalta",
+      "common": "Filippiinit"
+    }
+  },
+  "latlng": [
+    13,
+    122
+  ],
   "demonym": "Filipino",
-  "flag": "",
+  "landlocked": false,
+  "borders": [],
+  "area": 342353,
+  "codes": {
+    "cca2": "PH",
+    "ccn3": "608",
+    "cca3": "PHL",
+    "cioc": "PHI"
+  },
+  "provinces": [
+    "Abra",
+    "Agusan del Norte",
+    "Agusan del Sur",
+    "Aklan",
+    "Albay",
+    "Angeles",
+    "Antique",
+    "Aurora",
+    "Bacolod",
+    "Bago",
+    "Baguio",
+    "Bais",
+    "Basilan",
+    "Basilan City",
+    "Bataan",
+    "Batanes",
+    "Batangas",
+    "Batangas City",
+    "Benguet",
+    "Bohol",
+    "Bukidnon",
+    "Bulacan",
+    "Butuan",
+    "Cabanatuan",
+    "Cadiz",
+    "Cagayan",
+    "Cagayan de Oro",
+    "Calbayog",
+    "Caloocan",
+    "Camarines Norte",
+    "Camarines Sur",
+    "Camiguin",
+    "Canlaon",
+    "Capiz",
+    "Catanduanes",
+    "Cavite",
+    "Cavite City",
+    "Cebu",
+    "Cebu City",
+    "Cotabato",
+    "Dagupan",
+    "Danao",
+    "Dapitan",
+    "Davao City Davao",
+    "Davao del Sur",
+    "Davao Oriental",
+    "Dipolog",
+    "Dumaguete",
+    "Eastern Samar",
+    "General Santos",
+    "Gingoog",
+    "Ifugao",
+    "Iligan",
+    "Ilocos Norte",
+    "Ilocos Sur",
+    "Iloilo",
+    "Iloilo City",
+    "Iriga",
+    "Isabela",
+    "Kalinga-Apayao",
+    "La Carlota",
+    "La Union",
+    "Laguna",
+    "Lanao del Norte",
+    "Lanao del Sur",
+    "Laoag",
+    "Lapu-Lapu",
+    "Legaspi",
+    "Leyte",
+    "Lipa",
+    "Lucena",
+    "Maguindanao",
+    "Mandaue",
+    "Manila",
+    "Marawi",
+    "Marinduque",
+    "Masbate",
+    "Mindoro Occidental",
+    "Mindoro Oriental",
+    "Misamis Occidental",
+    "Misamis Oriental",
+    "Mountain",
+    "Naga",
+    "Negros Occidental",
+    "Negros Oriental",
+    "North Cotabato",
+    "Northern Samar",
+    "Nueva Ecija",
+    "Nueva Vizcaya",
+    "Olongapo",
+    "Ormoc",
+    "Oroquieta",
+    "Ozamis",
+    "Pagadian",
+    "Palawan",
+    "Palayan",
+    "Pampanga",
+    "Pangasinan",
+    "Pasay",
+    "Puerto Princesa",
+    "Quezon",
+    "Quezon City",
+    "Quirino",
+    "Rizal",
+    "Romblon",
+    "Roxas",
+    "Samar",
+    "San Carlos (in Negros Occidental)",
+    "San Carlos (in Pangasinan)",
+    "San Jose",
+    "San Pablo",
+    "Silay",
+    "Siquijor",
+    "Sorsogon",
+    "South Cotabato",
+    "Southern Leyte",
+    "Sultan Kudarat",
+    "Sulu",
+    "Surigao",
+    "Surigao del Norte",
+    "Surigao del Sur",
+    "Tacloban",
+    "Tagaytay",
+    "Tagbilaran",
+    "Tangub",
+    "Tarlac",
+    "Tawitawi",
+    "Toledo",
+    "Trece Martires",
+    "Zambales",
+    "Zamboanga",
+    "Zamboanga del Norte",
+    "Zamboanga del Sur"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -508,213 +710,5 @@
       }
     ]
   },
-  "languages": {
-    "eng": "English",
-    "fil": "Filipino"
-  },
-  "latlng": [
-    13,
-    122
-  ],
-  "nativeName": "Pilipinas",
-  "population": 100697400,
-  "provinces": [
-    "Abra",
-    "Agusan del Norte",
-    "Agusan del Sur",
-    "Aklan",
-    "Albay",
-    "Angeles",
-    "Antique",
-    "Aurora",
-    "Bacolod",
-    "Bago",
-    "Baguio",
-    "Bais",
-    "Basilan",
-    "Basilan City",
-    "Bataan",
-    "Batanes",
-    "Batangas",
-    "Batangas City",
-    "Benguet",
-    "Bohol",
-    "Bukidnon",
-    "Bulacan",
-    "Butuan",
-    "Cabanatuan",
-    "Cadiz",
-    "Cagayan",
-    "Cagayan de Oro",
-    "Calbayog",
-    "Caloocan",
-    "Camarines Norte",
-    "Camarines Sur",
-    "Camiguin",
-    "Canlaon",
-    "Capiz",
-    "Catanduanes",
-    "Cavite",
-    "Cavite City",
-    "Cebu",
-    "Cebu City",
-    "Cotabato",
-    "Dagupan",
-    "Danao",
-    "Dapitan",
-    "Davao City Davao",
-    "Davao del Sur",
-    "Davao Oriental",
-    "Dipolog",
-    "Dumaguete",
-    "Eastern Samar",
-    "General Santos",
-    "Gingoog",
-    "Ifugao",
-    "Iligan",
-    "Ilocos Norte",
-    "Ilocos Sur",
-    "Iloilo",
-    "Iloilo City",
-    "Iriga",
-    "Isabela",
-    "Kalinga-Apayao",
-    "La Carlota",
-    "La Union",
-    "Laguna",
-    "Lanao del Norte",
-    "Lanao del Sur",
-    "Laoag",
-    "Lapu-Lapu",
-    "Legaspi",
-    "Leyte",
-    "Lipa",
-    "Lucena",
-    "Maguindanao",
-    "Mandaue",
-    "Manila",
-    "Marawi",
-    "Marinduque",
-    "Masbate",
-    "Mindoro Occidental",
-    "Mindoro Oriental",
-    "Misamis Occidental",
-    "Misamis Oriental",
-    "Mountain",
-    "Naga",
-    "Negros Occidental",
-    "Negros Oriental",
-    "North Cotabato",
-    "Northern Samar",
-    "Nueva Ecija",
-    "Nueva Vizcaya",
-    "Olongapo",
-    "Ormoc",
-    "Oroquieta",
-    "Ozamis",
-    "Pagadian",
-    "Palawan",
-    "Palayan",
-    "Pampanga",
-    "Pangasinan",
-    "Pasay",
-    "Puerto Princesa",
-    "Quezon",
-    "Quezon City",
-    "Quirino",
-    "Rizal",
-    "Romblon",
-    "Roxas",
-    "Samar",
-    "San Carlos (in Negros Occidental)",
-    "San Carlos (in Pangasinan)",
-    "San Jose",
-    "San Pablo",
-    "Silay",
-    "Siquijor",
-    "Sorsogon",
-    "South Cotabato",
-    "Southern Leyte",
-    "Sultan Kudarat",
-    "Sulu",
-    "Surigao",
-    "Surigao del Norte",
-    "Surigao del Sur",
-    "Tacloban",
-    "Tagaytay",
-    "Tagbilaran",
-    "Tangub",
-    "Tarlac",
-    "Tawitawi",
-    "Toledo",
-    "Trece Martires",
-    "Zambales",
-    "Zamboanga",
-    "Zamboanga del Norte",
-    "Zamboanga del Sur"
-  ],
-  "region": "Asia",
-  "subregion": "South-Eastern Asia",
-  "timezones": [
-    "UTC+08:00"
-  ],
-  "tld": [
-    ".ph"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik der Philippinen",
-      "common": "Philippinen"
-    },
-    "fra": {
-      "official": "République des Philippines",
-      "common": "Philippines"
-    },
-    "hrv": {
-      "official": "Republika Filipini",
-      "common": "Filipini"
-    },
-    "ita": {
-      "official": "Repubblica delle Filippine",
-      "common": "Filippine"
-    },
-    "jpn": {
-      "official": "フィリピン共和国",
-      "common": "フィリピン"
-    },
-    "nld": {
-      "official": "Republiek der Filipijnen",
-      "common": "Filipijnen"
-    },
-    "por": {
-      "official": "República das Filipinas",
-      "common": "Filipinas"
-    },
-    "rus": {
-      "official": "Республика Филиппины",
-      "common": "Филиппины"
-    },
-    "spa": {
-      "official": "República de las Filipinas",
-      "common": "Filipinas"
-    },
-    "fin": {
-      "official": "Filippiinien tasavalta",
-      "common": "Filippiinit"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/philippines",
-  "currency": [
-    "PHP"
-  ],
-  "callingCode": [
-    "63"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "PH",
-    "ccn3": "608",
-    "cca3": "PHL",
-    "cioc": "PHI"
-  }
+  "flag": ""
 }

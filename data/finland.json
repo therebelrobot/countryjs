@@ -13,6 +13,16 @@
       }
     }
   },
+  "tld": [
+    ".fi"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "358"
+  ],
+  "capital": "Helsinki",
   "altSpellings": [
     "FI",
     "Suomi",
@@ -20,15 +30,81 @@
     "Suomen tasavalta",
     "Republiken Finland"
   ],
-  "area": 338424,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "languages": {
+    "fin": "Finnish",
+    "swe": "Swedish"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Finnland",
+      "common": "Finnland"
+    },
+    "fra": {
+      "official": "République de Finlande",
+      "common": "Finlande"
+    },
+    "hrv": {
+      "official": "Republika Finska",
+      "common": "Finska"
+    },
+    "ita": {
+      "official": "Repubblica di Finlandia",
+      "common": "Finlandia"
+    },
+    "jpn": {
+      "official": "フィンランド共和国",
+      "common": "フィンランド"
+    },
+    "nld": {
+      "official": "Republiek Finland",
+      "common": "Finland"
+    },
+    "por": {
+      "official": "República da Finlândia",
+      "common": "Finlândia"
+    },
+    "rus": {
+      "official": "Финляндская Республика",
+      "common": "Финляндия"
+    },
+    "spa": {
+      "official": "República de Finlandia",
+      "common": "Finlandia"
+    },
+    "fin": {
+      "official": "Suomen tasavalta",
+      "common": "Suomi"
+    }
+  },
+  "latlng": [
+    64,
+    26
+  ],
+  "demonym": "Finnish",
+  "landlocked": false,
   "borders": [
     "NOR",
     "SWE",
     "RUS"
   ],
-  "capital": "Helsinki",
-  "demonym": "Finnish",
-  "flag": "",
+  "area": 338424,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Finland.svg",
+  "codes": {
+    "cca2": "FI",
+    "ccn3": "246",
+    "cca3": "FIN",
+    "cioc": "FIN"
+  },
+  "provinces": [
+    "Aland",
+    "Etela-Suomen Laani",
+    "Ita-Suomen Laani",
+    "Lansi-Suomen Laani",
+    "Lappi",
+    "Oulun Laani"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -199,87 +275,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "fin": "Finnish",
-    "swe": "Swedish"
-  },
-  "latlng": [
-    64,
-    26
-  ],
-  "nativeName": "Suomi",
-  "population": 5470437,
-  "provinces": [
-    "Aland",
-    "Etela-Suomen Laani",
-    "Ita-Suomen Laani",
-    "Lansi-Suomen Laani",
-    "Lappi",
-    "Oulun Laani"
-  ],
-  "region": "Europe",
-  "subregion": "Northern Europe",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "tld": [
-    ".fi"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Finnland",
-      "common": "Finnland"
-    },
-    "fra": {
-      "official": "République de Finlande",
-      "common": "Finlande"
-    },
-    "hrv": {
-      "official": "Republika Finska",
-      "common": "Finska"
-    },
-    "ita": {
-      "official": "Repubblica di Finlandia",
-      "common": "Finlandia"
-    },
-    "jpn": {
-      "official": "フィンランド共和国",
-      "common": "フィンランド"
-    },
-    "nld": {
-      "official": "Republiek Finland",
-      "common": "Finland"
-    },
-    "por": {
-      "official": "República da Finlândia",
-      "common": "Finlândia"
-    },
-    "rus": {
-      "official": "Финляндская Республика",
-      "common": "Финляндия"
-    },
-    "spa": {
-      "official": "República de Finlandia",
-      "common": "Finlandia"
-    },
-    "fin": {
-      "official": "Suomen tasavalta",
-      "common": "Suomi"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/finland",
-  "currency": [
-    "EUR"
-  ],
-  "callingCode": [
-    "358"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "FI",
-    "ccn3": "246",
-    "cca3": "FIN",
-    "cioc": "FIN"
   }
 }

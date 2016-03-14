@@ -13,13 +13,80 @@
       }
     }
   },
+  "tld": [
+    ".td"
+  ],
+  "currency": [
+    "XAF"
+  ],
+  "callingCode": [
+    "235"
+  ],
+  "capital": "N'Djamena",
   "altSpellings": [
     "TD",
     "Tchad",
     "Republic of Chad",
     "République du Tchad"
   ],
-  "area": 1284000,
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "languages": {
+    "ara": "Arabic",
+    "fra": "French"
+  },
+  "translations": {
+    "cym": {
+      "official": "Republic of Chad",
+      "common": "Tsiad"
+    },
+    "deu": {
+      "official": "Republik Tschad",
+      "common": "Tschad"
+    },
+    "fra": {
+      "official": "République du Tchad",
+      "common": "Tchad"
+    },
+    "hrv": {
+      "official": "Čadu",
+      "common": "Čad"
+    },
+    "ita": {
+      "official": "Repubblica del Ciad",
+      "common": "Ciad"
+    },
+    "jpn": {
+      "official": "チャド共和国",
+      "common": "チャド"
+    },
+    "nld": {
+      "official": "Republiek Tsjaad",
+      "common": "Tsjaad"
+    },
+    "por": {
+      "official": "República do Chade",
+      "common": "Chade"
+    },
+    "rus": {
+      "official": "Республика Чад",
+      "common": "Чад"
+    },
+    "spa": {
+      "official": "República de Chad",
+      "common": "Chad"
+    },
+    "fin": {
+      "official": "Tšadin tasavalta",
+      "common": "Tšad"
+    }
+  },
+  "latlng": [
+    15,
+    19
+  ],
+  "demonym": "Chadian",
+  "landlocked": true,
   "borders": [
     "CMR",
     "CAF",
@@ -28,9 +95,29 @@
     "NGA",
     "SSD"
   ],
-  "capital": "N'Djamena",
-  "demonym": "Chadian",
-  "flag": "",
+  "area": 1284000,
+  "codes": {
+    "cca2": "TD",
+    "ccn3": "148",
+    "cca3": "TCD",
+    "cioc": "CHA"
+  },
+  "provinces": [
+    "Batha",
+    "Biltine",
+    "Borkou-Ennedi-Tibesti",
+    "Chari-Baguirmi",
+    "Guera",
+    "Kanem",
+    "Lac",
+    "Logone Occidental",
+    "Logone Oriental",
+    "Mayo-Kebbi",
+    "Moyen-Chari",
+    "Ouaddai",
+    "Salamat",
+    "Tandjile"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -282,98 +369,5 @@
       }
     ]
   },
-  "languages": {
-    "ara": "Arabic",
-    "fra": "French"
-  },
-  "latlng": [
-    15,
-    19
-  ],
-  "nativeName": "Tchad",
-  "population": 13211000,
-  "provinces": [
-    "Batha",
-    "Biltine",
-    "Borkou-Ennedi-Tibesti",
-    "Chari-Baguirmi",
-    "Guera",
-    "Kanem",
-    "Lac",
-    "Logone Occidental",
-    "Logone Oriental",
-    "Mayo-Kebbi",
-    "Moyen-Chari",
-    "Ouaddai",
-    "Salamat",
-    "Tandjile"
-  ],
-  "region": "Africa",
-  "subregion": "Middle Africa",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "tld": [
-    ".td"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Republic of Chad",
-      "common": "Tsiad"
-    },
-    "deu": {
-      "official": "Republik Tschad",
-      "common": "Tschad"
-    },
-    "fra": {
-      "official": "République du Tchad",
-      "common": "Tchad"
-    },
-    "hrv": {
-      "official": "Čadu",
-      "common": "Čad"
-    },
-    "ita": {
-      "official": "Repubblica del Ciad",
-      "common": "Ciad"
-    },
-    "jpn": {
-      "official": "チャド共和国",
-      "common": "チャド"
-    },
-    "nld": {
-      "official": "Republiek Tsjaad",
-      "common": "Tsjaad"
-    },
-    "por": {
-      "official": "República do Chade",
-      "common": "Chade"
-    },
-    "rus": {
-      "official": "Республика Чад",
-      "common": "Чад"
-    },
-    "spa": {
-      "official": "República de Chad",
-      "common": "Chad"
-    },
-    "fin": {
-      "official": "Tšadin tasavalta",
-      "common": "Tšad"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/chad",
-  "currency": [
-    "XAF"
-  ],
-  "callingCode": [
-    "235"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "TD",
-    "ccn3": "148",
-    "cca3": "TCD",
-    "cioc": "CHA"
-  }
+  "flag": ""
 }

@@ -9,57 +9,27 @@
       }
     }
   },
+  "tld": [
+    ".mv"
+  ],
+  "currency": [
+    "MVR"
+  ],
+  "callingCode": [
+    "960"
+  ],
+  "capital": "Malé",
   "altSpellings": [
     "MV",
     "Maldive Islands",
     "Republic of the Maldives",
     "Dhivehi Raajjeyge Jumhooriyya"
   ],
-  "area": 300,
-  "borders": [],
-  "capital": "Malé",
-  "demonym": "Maldivan",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Asia",
+  "subregion": "Southern Asia",
   "languages": {
     "div": "Maldivian"
   },
-  "latlng": [
-    3.25,
-    73
-  ],
-  "nativeName": "Maldives",
-  "population": 341256,
-  "provinces": [
-    "Alifu",
-    "Baa",
-    "Dhaalu",
-    "Faafu",
-    "Gaafu Alifu",
-    "Gaafu Dhaalu",
-    "Gnaviyani",
-    "Haa Alifu",
-    "Haa Dhaalu",
-    "Kaafu",
-    "Laamu",
-    "Lhaviyani",
-    "Maale",
-    "Meemu",
-    "Noonu",
-    "Raa",
-    "Seenu",
-    "Shaviyani",
-    "Thaa",
-    "Vaavu"
-  ],
-  "region": "Asia",
-  "subregion": "Southern Asia",
-  "timezones": [
-    "UTC+05:00"
-  ],
-  "tld": [
-    ".mv"
-  ],
   "translations": {
     "deu": {
       "official": "Republik Malediven",
@@ -102,18 +72,42 @@
       "common": "Malediivit"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/maldives",
-  "currency": [
-    "MVR"
+  "latlng": [
+    3.25,
+    73
   ],
-  "callingCode": [
-    "960"
-  ],
+  "demonym": "Maldivan",
   "landlocked": false,
+  "borders": [],
+  "area": 300,
   "codes": {
     "cca2": "MV",
     "ccn3": "462",
     "cca3": "MDV",
     "cioc": "MDV"
-  }
+  },
+  "provinces": [
+    "Alifu",
+    "Baa",
+    "Dhaalu",
+    "Faafu",
+    "Gaafu Alifu",
+    "Gaafu Dhaalu",
+    "Gnaviyani",
+    "Haa Alifu",
+    "Haa Dhaalu",
+    "Kaafu",
+    "Laamu",
+    "Lhaviyani",
+    "Maale",
+    "Meemu",
+    "Noonu",
+    "Raa",
+    "Seenu",
+    "Shaviyani",
+    "Thaa",
+    "Vaavu"
+  ],
+  "geoJSON": {},
+  "flag": ""
 }

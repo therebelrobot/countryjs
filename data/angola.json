@@ -9,21 +9,118 @@
       }
     }
   },
+  "tld": [
+    ".ao"
+  ],
+  "currency": [
+    "AOA"
+  ],
+  "callingCode": [
+    "244"
+  ],
+  "capital": "Luanda",
   "altSpellings": [
     "AO",
     "República de Angola",
     "ʁɛpublika de an'ɡɔla"
   ],
-  "area": 1246700,
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "languages": {
+    "por": "Portuguese"
+  },
+  "translations": {
+    "cym": {
+      "official": "Republic of Angola",
+      "common": "Angola"
+    },
+    "deu": {
+      "official": "Republik Angola",
+      "common": "Angola"
+    },
+    "fra": {
+      "official": "République d'Angola",
+      "common": "Angola"
+    },
+    "hrv": {
+      "official": "Republika Angola",
+      "common": "Angola"
+    },
+    "ita": {
+      "official": "Repubblica dell'Angola",
+      "common": "Angola"
+    },
+    "jpn": {
+      "official": "アンゴラ共和国",
+      "common": "アンゴラ"
+    },
+    "nld": {
+      "official": "Republiek Angola",
+      "common": "Angola"
+    },
+    "por": {
+      "official": "República de Angola",
+      "common": "Angola"
+    },
+    "rus": {
+      "official": "Республика Ангола",
+      "common": "Ангола"
+    },
+    "spa": {
+      "official": "República de Angola",
+      "common": "Angola"
+    },
+    "fin": {
+      "official": "Angolan tasavalta",
+      "common": "Angola"
+    }
+  },
+  "latlng": [
+    -12.5,
+    18.5
+  ],
+  "demonym": "Angolan",
+  "landlocked": false,
   "borders": [
     "COG",
     "COD",
     "ZMB",
     "NAM"
   ],
-  "capital": "Luanda",
-  "demonym": "Angolan",
-  "flag": "",
+  "area": 1246700,
+  "codes": {
+    "cca2": "AO",
+    "ccn3": "024",
+    "cca3": "AGO",
+    "cioc": "ANG"
+  },
+  "provinces": [
+    "Andorra la Vella",
+    "Bengo",
+    "Benguela",
+    "Bie",
+    "Cabinda",
+    "Canillo",
+    "Cuando Cubango",
+    "Cuanza Norte",
+    "Cuanza Sul",
+    "Cunene",
+    "Encamp",
+    "Escaldes-Engordany",
+    "Huambo",
+    "Huila",
+    "La Massana",
+    "Luanda",
+    "Lunda Norte",
+    "Lunda Sul",
+    "Malanje",
+    "Moxico",
+    "Namibe",
+    "Ordino",
+    "Sant Julia de Loria",
+    "Uige",
+    "Zaire"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -349,108 +446,5 @@
       }
     ]
   },
-  "languages": {
-    "por": "Portuguese"
-  },
-  "latlng": [
-    -12.5,
-    18.5
-  ],
-  "nativeName": "Angola",
-  "population": 24383301,
-  "provinces": [
-    "Andorra la Vella",
-    "Bengo",
-    "Benguela",
-    "Bie",
-    "Cabinda",
-    "Canillo",
-    "Cuando Cubango",
-    "Cuanza Norte",
-    "Cuanza Sul",
-    "Cunene",
-    "Encamp",
-    "Escaldes-Engordany",
-    "Huambo",
-    "Huila",
-    "La Massana",
-    "Luanda",
-    "Lunda Norte",
-    "Lunda Sul",
-    "Malanje",
-    "Moxico",
-    "Namibe",
-    "Ordino",
-    "Sant Julia de Loria",
-    "Uige",
-    "Zaire"
-  ],
-  "region": "Africa",
-  "subregion": "Middle Africa",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "tld": [
-    ".ao"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Republic of Angola",
-      "common": "Angola"
-    },
-    "deu": {
-      "official": "Republik Angola",
-      "common": "Angola"
-    },
-    "fra": {
-      "official": "République d'Angola",
-      "common": "Angola"
-    },
-    "hrv": {
-      "official": "Republika Angola",
-      "common": "Angola"
-    },
-    "ita": {
-      "official": "Repubblica dell'Angola",
-      "common": "Angola"
-    },
-    "jpn": {
-      "official": "アンゴラ共和国",
-      "common": "アンゴラ"
-    },
-    "nld": {
-      "official": "Republiek Angola",
-      "common": "Angola"
-    },
-    "por": {
-      "official": "República de Angola",
-      "common": "Angola"
-    },
-    "rus": {
-      "official": "Республика Ангола",
-      "common": "Ангола"
-    },
-    "spa": {
-      "official": "República de Angola",
-      "common": "Angola"
-    },
-    "fin": {
-      "official": "Angolan tasavalta",
-      "common": "Angola"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/angola",
-  "currency": [
-    "AOA"
-  ],
-  "callingCode": [
-    "244"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "AO",
-    "ccn3": "024",
-    "cca3": "AGO",
-    "cioc": "ANG"
-  }
+  "flag": ""
 }

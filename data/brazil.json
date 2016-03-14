@@ -9,13 +9,79 @@
       }
     }
   },
+  "tld": [
+    ".br"
+  ],
+  "currency": [
+    "BRL"
+  ],
+  "callingCode": [
+    "55"
+  ],
+  "capital": "Brasília",
   "altSpellings": [
     "BR",
     "Brasil",
     "Federative Republic of Brazil",
     "República Federativa do Brasil"
   ],
-  "area": 8515767,
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "por": "Portuguese"
+  },
+  "translations": {
+    "cym": {
+      "official": "Federative Republic of Brazil",
+      "common": "Brasil"
+    },
+    "deu": {
+      "official": "Föderative Republik Brasilien",
+      "common": "Brasilien"
+    },
+    "fra": {
+      "official": "République fédérative du Brésil",
+      "common": "Brésil"
+    },
+    "hrv": {
+      "official": "Savezne Republike Brazil",
+      "common": "Brazil"
+    },
+    "ita": {
+      "official": "Repubblica federativa del Brasile",
+      "common": "Brasile"
+    },
+    "jpn": {
+      "official": "ブラジル連邦共和国",
+      "common": "ブラジル"
+    },
+    "nld": {
+      "official": "Federale Republiek Brazilië",
+      "common": "Brazilië"
+    },
+    "por": {
+      "official": "República Federativa do Brasil",
+      "common": "Brasil"
+    },
+    "rus": {
+      "official": "Федеративная Республика Бразилия",
+      "common": "Бразилия"
+    },
+    "spa": {
+      "official": "República Federativa del Brasil",
+      "common": "Brasil"
+    },
+    "fin": {
+      "official": "Brasilian liittotasavalta",
+      "common": "Brasilia"
+    }
+  },
+  "latlng": [
+    -10,
+    -55
+  ],
+  "demonym": "Brazilian",
+  "landlocked": false,
   "borders": [
     "ARG",
     "BOL",
@@ -28,9 +94,43 @@
     "URY",
     "VEN"
   ],
-  "capital": "Brasília",
-  "demonym": "Brazilian",
-  "flag": "",
+  "area": 8515767,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Brazil.svg",
+  "codes": {
+    "cca2": "BR",
+    "ccn3": "076",
+    "cca3": "BRA",
+    "cioc": "BRA"
+  },
+  "provinces": [
+    "Acre",
+    "Alagoas",
+    "Amapa",
+    "Amazonas",
+    "Bahia",
+    "Ceara",
+    "Distrito Federal",
+    "Espirito Santo",
+    "Goias",
+    "Maranhao",
+    "Mato Grosso",
+    "Mato Grosso do Sul",
+    "Minas Gerais",
+    "Para",
+    "Paraiba",
+    "Parana",
+    "Pernambuco",
+    "Piaui",
+    "Rio de Janeiro",
+    "Rio Grande do Norte",
+    "Rio Grande do Sul",
+    "Rondonia",
+    "Roraima",
+    "Santa Catarina",
+    "Sao Paulo",
+    "Sergipe",
+    "Tocantins"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -861,114 +961,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "por": "Portuguese"
-  },
-  "latlng": [
-    -10,
-    -55
-  ],
-  "nativeName": "Brasil",
-  "population": 203586000,
-  "provinces": [
-    "Acre",
-    "Alagoas",
-    "Amapa",
-    "Amazonas",
-    "Bahia",
-    "Ceara",
-    "Distrito Federal",
-    "Espirito Santo",
-    "Goias",
-    "Maranhao",
-    "Mato Grosso",
-    "Mato Grosso do Sul",
-    "Minas Gerais",
-    "Para",
-    "Paraiba",
-    "Parana",
-    "Pernambuco",
-    "Piaui",
-    "Rio de Janeiro",
-    "Rio Grande do Norte",
-    "Rio Grande do Sul",
-    "Rondonia",
-    "Roraima",
-    "Santa Catarina",
-    "Sao Paulo",
-    "Sergipe",
-    "Tocantins"
-  ],
-  "region": "Americas",
-  "subregion": "South America",
-  "timezones": [
-    "UTC−05:00",
-    "UTC−04:00",
-    "UTC−03:00",
-    "UTC−02:00"
-  ],
-  "tld": [
-    ".br"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Federative Republic of Brazil",
-      "common": "Brasil"
-    },
-    "deu": {
-      "official": "Föderative Republik Brasilien",
-      "common": "Brasilien"
-    },
-    "fra": {
-      "official": "République fédérative du Brésil",
-      "common": "Brésil"
-    },
-    "hrv": {
-      "official": "Savezne Republike Brazil",
-      "common": "Brazil"
-    },
-    "ita": {
-      "official": "Repubblica federativa del Brasile",
-      "common": "Brasile"
-    },
-    "jpn": {
-      "official": "ブラジル連邦共和国",
-      "common": "ブラジル"
-    },
-    "nld": {
-      "official": "Federale Republiek Brazilië",
-      "common": "Brazilië"
-    },
-    "por": {
-      "official": "República Federativa do Brasil",
-      "common": "Brasil"
-    },
-    "rus": {
-      "official": "Федеративная Республика Бразилия",
-      "common": "Бразилия"
-    },
-    "spa": {
-      "official": "República Federativa del Brasil",
-      "common": "Brasil"
-    },
-    "fin": {
-      "official": "Brasilian liittotasavalta",
-      "common": "Brasilia"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/brazil",
-  "currency": [
-    "BRL"
-  ],
-  "callingCode": [
-    "55"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "BR",
-    "ccn3": "076",
-    "cca3": "BRA",
-    "cioc": "BRA"
   }
 }

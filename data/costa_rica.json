@@ -9,19 +9,98 @@
       }
     }
   },
+  "tld": [
+    ".cr"
+  ],
+  "currency": [
+    "CRC"
+  ],
+  "callingCode": [
+    "506"
+  ],
+  "capital": "San José",
   "altSpellings": [
     "CR",
     "Republic of Costa Rica",
     "República de Costa Rica"
   ],
-  "area": 51100,
+  "region": "Americas",
+  "subregion": "Central America",
+  "languages": {
+    "spa": "Spanish"
+  },
+  "translations": {
+    "cym": {
+      "official": "Republic of Costa Rica",
+      "common": "Costa Rica"
+    },
+    "deu": {
+      "official": "Republik Costa Rica",
+      "common": "Costa Rica"
+    },
+    "fra": {
+      "official": "République du Costa Rica",
+      "common": "Costa Rica"
+    },
+    "hrv": {
+      "official": "Republika Kostarika",
+      "common": "Kostarika"
+    },
+    "ita": {
+      "official": "Repubblica di Costa Rica",
+      "common": "Costa Rica"
+    },
+    "jpn": {
+      "official": "コスタリカ共和国",
+      "common": "コスタリカ"
+    },
+    "nld": {
+      "official": "Republiek Costa Rica",
+      "common": "Costa Rica"
+    },
+    "por": {
+      "official": "República da Costa Rica",
+      "common": "Costa Rica"
+    },
+    "rus": {
+      "official": "Республика Коста-Рика",
+      "common": "Коста-Рика"
+    },
+    "spa": {
+      "official": "República de Costa Rica",
+      "common": "Costa Rica"
+    },
+    "fin": {
+      "official": "Costa Rican tasavalta",
+      "common": "Costa Rica"
+    }
+  },
+  "latlng": [
+    10,
+    -84
+  ],
+  "demonym": "Costa Rican",
+  "landlocked": false,
   "borders": [
     "NIC",
     "PAN"
   ],
-  "capital": "San José",
-  "demonym": "Costa Rican",
-  "flag": "",
+  "area": 51100,
+  "codes": {
+    "cca2": "CR",
+    "ccn3": "188",
+    "cca3": "CRI",
+    "cioc": "CRC"
+  },
+  "provinces": [
+    "Alajuela",
+    "Cartago",
+    "Guanacaste",
+    "Heredia",
+    "Limon",
+    "Puntarenas",
+    "San Jose"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -185,90 +264,5 @@
       }
     ]
   },
-  "languages": {
-    "spa": "Spanish"
-  },
-  "latlng": [
-    10,
-    -84
-  ],
-  "nativeName": "Costa Rica",
-  "population": 4713168,
-  "provinces": [
-    "Alajuela",
-    "Cartago",
-    "Guanacaste",
-    "Heredia",
-    "Limon",
-    "Puntarenas",
-    "San Jose"
-  ],
-  "region": "Americas",
-  "subregion": "Central America",
-  "timezones": [
-    "UTC−06:00"
-  ],
-  "tld": [
-    ".cr"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Republic of Costa Rica",
-      "common": "Costa Rica"
-    },
-    "deu": {
-      "official": "Republik Costa Rica",
-      "common": "Costa Rica"
-    },
-    "fra": {
-      "official": "République du Costa Rica",
-      "common": "Costa Rica"
-    },
-    "hrv": {
-      "official": "Republika Kostarika",
-      "common": "Kostarika"
-    },
-    "ita": {
-      "official": "Repubblica di Costa Rica",
-      "common": "Costa Rica"
-    },
-    "jpn": {
-      "official": "コスタリカ共和国",
-      "common": "コスタリカ"
-    },
-    "nld": {
-      "official": "Republiek Costa Rica",
-      "common": "Costa Rica"
-    },
-    "por": {
-      "official": "República da Costa Rica",
-      "common": "Costa Rica"
-    },
-    "rus": {
-      "official": "Республика Коста-Рика",
-      "common": "Коста-Рика"
-    },
-    "spa": {
-      "official": "República de Costa Rica",
-      "common": "Costa Rica"
-    },
-    "fin": {
-      "official": "Costa Rican tasavalta",
-      "common": "Costa Rica"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/costa_rica",
-  "currency": [
-    "CRC"
-  ],
-  "callingCode": [
-    "506"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "CR",
-    "ccn3": "188",
-    "cca3": "CRI",
-    "cioc": "CRC"
-  }
+  "flag": ""
 }

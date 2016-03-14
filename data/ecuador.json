@@ -9,19 +9,113 @@
       }
     }
   },
+  "tld": [
+    ".ec"
+  ],
+  "currency": [
+    "USD"
+  ],
+  "callingCode": [
+    "593"
+  ],
+  "capital": "Quito",
   "altSpellings": [
     "EC",
     "Republic of Ecuador",
     "República del Ecuador"
   ],
-  "area": 276841,
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "spa": "Spanish"
+  },
+  "translations": {
+    "cym": {
+      "official": "Republic of Ecuador",
+      "common": "Ecwador"
+    },
+    "deu": {
+      "official": "Republik Ecuador",
+      "common": "Ecuador"
+    },
+    "fra": {
+      "official": "République de l'Équateur",
+      "common": "Équateur"
+    },
+    "hrv": {
+      "official": "Republika Ekvador",
+      "common": "Ekvador"
+    },
+    "ita": {
+      "official": "Repubblica dell'Ecuador",
+      "common": "Ecuador"
+    },
+    "jpn": {
+      "official": "エクアドル共和国",
+      "common": "エクアドル"
+    },
+    "nld": {
+      "official": "Republiek Ecuador",
+      "common": "Ecuador"
+    },
+    "por": {
+      "official": "República do Equador",
+      "common": "Equador"
+    },
+    "rus": {
+      "official": "Республика Эквадор",
+      "common": "Эквадор"
+    },
+    "spa": {
+      "official": "República del Ecuador",
+      "common": "Ecuador"
+    },
+    "fin": {
+      "official": "Ecuadorin tasavalta",
+      "common": "Ecuador"
+    }
+  },
+  "latlng": [
+    -2,
+    -77.5
+  ],
+  "demonym": "Ecuadorean",
+  "landlocked": false,
   "borders": [
     "COL",
     "PER"
   ],
-  "capital": "Quito",
-  "demonym": "Ecuadorean",
-  "flag": "",
+  "area": 276841,
+  "codes": {
+    "cca2": "EC",
+    "ccn3": "218",
+    "cca3": "ECU",
+    "cioc": "ECU"
+  },
+  "provinces": [
+    "Azuay",
+    "Bolivar",
+    "Canar",
+    "Carchi",
+    "Chimborazo",
+    "Cotopaxi",
+    "El Oro",
+    "Esmeraldas",
+    "Galapagos",
+    "Guayas",
+    "Imbabura",
+    "Loja",
+    "Los Rios",
+    "Manabi",
+    "Morona-Santiago",
+    "Napo",
+    "Orellana",
+    "Pastaza",
+    "Pichincha",
+    "Sucumbios",
+    "Tungurahua",
+    "Zamora-Chinchipe"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -173,106 +267,5 @@
       }
     ]
   },
-  "languages": {
-    "spa": "Spanish"
-  },
-  "latlng": [
-    -2,
-    -77.5
-  ],
-  "nativeName": "Ecuador",
-  "population": 15888900,
-  "provinces": [
-    "Azuay",
-    "Bolivar",
-    "Canar",
-    "Carchi",
-    "Chimborazo",
-    "Cotopaxi",
-    "El Oro",
-    "Esmeraldas",
-    "Galapagos",
-    "Guayas",
-    "Imbabura",
-    "Loja",
-    "Los Rios",
-    "Manabi",
-    "Morona-Santiago",
-    "Napo",
-    "Orellana",
-    "Pastaza",
-    "Pichincha",
-    "Sucumbios",
-    "Tungurahua",
-    "Zamora-Chinchipe"
-  ],
-  "region": "Americas",
-  "subregion": "South America",
-  "timezones": [
-    "UTC−06:00",
-    "UTC−05:00"
-  ],
-  "tld": [
-    ".ec"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Republic of Ecuador",
-      "common": "Ecwador"
-    },
-    "deu": {
-      "official": "Republik Ecuador",
-      "common": "Ecuador"
-    },
-    "fra": {
-      "official": "République de l'Équateur",
-      "common": "Équateur"
-    },
-    "hrv": {
-      "official": "Republika Ekvador",
-      "common": "Ekvador"
-    },
-    "ita": {
-      "official": "Repubblica dell'Ecuador",
-      "common": "Ecuador"
-    },
-    "jpn": {
-      "official": "エクアドル共和国",
-      "common": "エクアドル"
-    },
-    "nld": {
-      "official": "Republiek Ecuador",
-      "common": "Ecuador"
-    },
-    "por": {
-      "official": "República do Equador",
-      "common": "Equador"
-    },
-    "rus": {
-      "official": "Республика Эквадор",
-      "common": "Эквадор"
-    },
-    "spa": {
-      "official": "República del Ecuador",
-      "common": "Ecuador"
-    },
-    "fin": {
-      "official": "Ecuadorin tasavalta",
-      "common": "Ecuador"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/ecuador",
-  "currency": [
-    "USD"
-  ],
-  "callingCode": [
-    "593"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "EC",
-    "ccn3": "218",
-    "cca3": "ECU",
-    "cioc": "ECU"
-  }
+  "flag": ""
 }

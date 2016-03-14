@@ -13,11 +13,75 @@
       }
     }
   },
+  "tld": [
+    ".ua",
+    ".укр"
+  ],
+  "currency": [
+    "UAH"
+  ],
+  "callingCode": [
+    "380"
+  ],
+  "capital": "Kiev",
   "altSpellings": [
     "UA",
     "Ukrayina"
   ],
-  "area": 603500,
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "languages": {
+    "rus": "Russian",
+    "ukr": "Ukrainian"
+  },
+  "translations": {
+    "deu": {
+      "official": "Ukraine",
+      "common": "Ukraine"
+    },
+    "fra": {
+      "official": "Ukraine",
+      "common": "Ukraine"
+    },
+    "hrv": {
+      "official": "Ukrajina",
+      "common": "Ukrajina"
+    },
+    "ita": {
+      "official": "Ucraina",
+      "common": "Ucraina"
+    },
+    "jpn": {
+      "official": "ウクライナ",
+      "common": "ウクライナ"
+    },
+    "nld": {
+      "official": "Oekraïne",
+      "common": "Oekraïne"
+    },
+    "por": {
+      "official": "Ucrânia",
+      "common": "Ucrânia"
+    },
+    "rus": {
+      "official": "Украина",
+      "common": "Украина"
+    },
+    "spa": {
+      "official": "Ucrania",
+      "common": "Ucrania"
+    },
+    "fin": {
+      "official": "Ukraina",
+      "common": "Ukraina"
+    }
+  },
+  "latlng": [
+    49,
+    32
+  ],
+  "demonym": "Ukrainian",
+  "landlocked": false,
   "borders": [
     "BLR",
     "HUN",
@@ -27,9 +91,42 @@
     "RUS",
     "SVK"
   ],
-  "capital": "Kiev",
-  "demonym": "Ukrainian",
-  "flag": "",
+  "area": 603500,
+  "codes": {
+    "cca2": "UA",
+    "ccn3": "804",
+    "cca3": "UKR",
+    "cioc": "UKR"
+  },
+  "provinces": [
+    "Avtonomna Respublika Krym (Simferopol')",
+    "Cherkas'ka (Cherkasy)",
+    "Chernihivs'ka (Chernihiv)",
+    "Chernivets'ka (Chernivtsi)",
+    "Dnipropetrovs'ka (Dnipropetrovs'k)",
+    "Donets'ka (Donets'k)",
+    "Ivano-Frankivs'ka (Ivano-Frankivs'k)",
+    "Kharkivs'ka (Kharkiv)",
+    "Khersons'ka (Kherson)",
+    "Khmel'nyts'ka (Khmel'nyts'kyy)",
+    "Kirovohrads'ka (Kirovohrad)",
+    "Kyyiv",
+    "Kyyivs'ka (Kiev)",
+    "L'vivs'ka (L'viv)",
+    "Luhans'ka (Luhans'k)",
+    "Mykolayivs'ka (Mykolayiv)",
+    "Odes'ka (Odesa)",
+    "Poltavs'ka (Poltava)",
+    "Rivnens'ka (Rivne)",
+    "Sevastopol'",
+    "Sums'ka (Sumy)",
+    "Ternopil's'ka (Ternopil')",
+    "Vinnyts'ka (Vinnytsya)",
+    "Volyns'ka (Luts'k)",
+    "Zakarpats'ka (Uzhhorod)",
+    "Zaporiz'ka (Zaporizhzhya)",
+    "Zhytomyrs'ka (Zhytomyr)"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -441,108 +538,5 @@
       }
     ]
   },
-  "languages": {
-    "rus": "Russian",
-    "ukr": "Ukrainian"
-  },
-  "latlng": [
-    49,
-    32
-  ],
-  "nativeName": "Україна",
-  "population": 42973696,
-  "provinces": [
-    "Avtonomna Respublika Krym (Simferopol')",
-    "Cherkas'ka (Cherkasy)",
-    "Chernihivs'ka (Chernihiv)",
-    "Chernivets'ka (Chernivtsi)",
-    "Dnipropetrovs'ka (Dnipropetrovs'k)",
-    "Donets'ka (Donets'k)",
-    "Ivano-Frankivs'ka (Ivano-Frankivs'k)",
-    "Kharkivs'ka (Kharkiv)",
-    "Khersons'ka (Kherson)",
-    "Khmel'nyts'ka (Khmel'nyts'kyy)",
-    "Kirovohrads'ka (Kirovohrad)",
-    "Kyyiv",
-    "Kyyivs'ka (Kiev)",
-    "L'vivs'ka (L'viv)",
-    "Luhans'ka (Luhans'k)",
-    "Mykolayivs'ka (Mykolayiv)",
-    "Odes'ka (Odesa)",
-    "Poltavs'ka (Poltava)",
-    "Rivnens'ka (Rivne)",
-    "Sevastopol'",
-    "Sums'ka (Sumy)",
-    "Ternopil's'ka (Ternopil')",
-    "Vinnyts'ka (Vinnytsya)",
-    "Volyns'ka (Luts'k)",
-    "Zakarpats'ka (Uzhhorod)",
-    "Zaporiz'ka (Zaporizhzhya)",
-    "Zhytomyrs'ka (Zhytomyr)"
-  ],
-  "region": "Europe",
-  "subregion": "Eastern Europe",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "tld": [
-    ".ua",
-    ".укр"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Ukraine",
-      "common": "Ukraine"
-    },
-    "fra": {
-      "official": "Ukraine",
-      "common": "Ukraine"
-    },
-    "hrv": {
-      "official": "Ukrajina",
-      "common": "Ukrajina"
-    },
-    "ita": {
-      "official": "Ucraina",
-      "common": "Ucraina"
-    },
-    "jpn": {
-      "official": "ウクライナ",
-      "common": "ウクライナ"
-    },
-    "nld": {
-      "official": "Oekraïne",
-      "common": "Oekraïne"
-    },
-    "por": {
-      "official": "Ucrânia",
-      "common": "Ucrânia"
-    },
-    "rus": {
-      "official": "Украина",
-      "common": "Украина"
-    },
-    "spa": {
-      "official": "Ucrania",
-      "common": "Ucrania"
-    },
-    "fin": {
-      "official": "Ukraina",
-      "common": "Ukraina"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/ukraine",
-  "currency": [
-    "UAH"
-  ],
-  "callingCode": [
-    "380"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "UA",
-    "ccn3": "804",
-    "cca3": "UKR",
-    "cioc": "UKR"
-  }
+  "flag": ""
 }

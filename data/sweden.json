@@ -9,19 +9,108 @@
       }
     }
   },
+  "tld": [
+    ".se"
+  ],
+  "currency": [
+    "SEK"
+  ],
+  "callingCode": [
+    "46"
+  ],
+  "capital": "Stockholm",
   "altSpellings": [
     "SE",
     "Kingdom of Sweden",
     "Konungariket Sverige"
   ],
-  "area": 450295,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "languages": {
+    "swe": "Swedish"
+  },
+  "translations": {
+    "deu": {
+      "official": "Königreich Schweden",
+      "common": "Schweden"
+    },
+    "fra": {
+      "official": "Royaume de Suède",
+      "common": "Suède"
+    },
+    "hrv": {
+      "official": "Kraljevina Švedska",
+      "common": "Švedska"
+    },
+    "ita": {
+      "official": "Regno di Svezia",
+      "common": "Svezia"
+    },
+    "jpn": {
+      "official": "スウェーデン王国",
+      "common": "スウェーデン"
+    },
+    "nld": {
+      "official": "Koninkrijk Zweden",
+      "common": "Zweden"
+    },
+    "por": {
+      "official": "Reino da Suécia",
+      "common": "Suécia"
+    },
+    "rus": {
+      "official": "Королевство Швеция",
+      "common": "Швеция"
+    },
+    "spa": {
+      "official": "Reino de Suecia",
+      "common": "Suecia"
+    },
+    "fin": {
+      "official": "Ruotsin kuningaskunta",
+      "common": "Ruotsi"
+    }
+  },
+  "latlng": [
+    62,
+    15
+  ],
+  "demonym": "Swedish",
+  "landlocked": false,
   "borders": [
     "FIN",
     "NOR"
   ],
-  "capital": "Stockholm",
-  "demonym": "Swedish",
-  "flag": "",
+  "area": 450295,
+  "codes": {
+    "cca2": "SE",
+    "ccn3": "752",
+    "cca3": "SWE",
+    "cioc": "SWE"
+  },
+  "provinces": [
+    "Blekinge",
+    "Dalarnas",
+    "Gavleborgs",
+    "Gotlands",
+    "Hallands",
+    "Jamtlands",
+    "Jonkopings",
+    "Kalmar",
+    "Kronobergs",
+    "Norrbottens",
+    "Orebro",
+    "Ostergotlands",
+    "Skane",
+    "Sodermanlands",
+    "Stockholms",
+    "Uppsala",
+    "Varmlands",
+    "Vasterbottens",
+    "Vasternorrlands",
+    "Vastmanlands",
+    "Vastra Gotalands"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -337,100 +426,5 @@
       }
     ]
   },
-  "languages": {
-    "swe": "Swedish"
-  },
-  "latlng": [
-    62,
-    15
-  ],
-  "nativeName": "Sverige",
-  "population": 9737521,
-  "provinces": [
-    "Blekinge",
-    "Dalarnas",
-    "Gavleborgs",
-    "Gotlands",
-    "Hallands",
-    "Jamtlands",
-    "Jonkopings",
-    "Kalmar",
-    "Kronobergs",
-    "Norrbottens",
-    "Orebro",
-    "Ostergotlands",
-    "Skane",
-    "Sodermanlands",
-    "Stockholms",
-    "Uppsala",
-    "Varmlands",
-    "Vasterbottens",
-    "Vasternorrlands",
-    "Vastmanlands",
-    "Vastra Gotalands"
-  ],
-  "region": "Europe",
-  "subregion": "Northern Europe",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "tld": [
-    ".se"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Königreich Schweden",
-      "common": "Schweden"
-    },
-    "fra": {
-      "official": "Royaume de Suède",
-      "common": "Suède"
-    },
-    "hrv": {
-      "official": "Kraljevina Švedska",
-      "common": "Švedska"
-    },
-    "ita": {
-      "official": "Regno di Svezia",
-      "common": "Svezia"
-    },
-    "jpn": {
-      "official": "スウェーデン王国",
-      "common": "スウェーデン"
-    },
-    "nld": {
-      "official": "Koninkrijk Zweden",
-      "common": "Zweden"
-    },
-    "por": {
-      "official": "Reino da Suécia",
-      "common": "Suécia"
-    },
-    "rus": {
-      "official": "Королевство Швеция",
-      "common": "Швеция"
-    },
-    "spa": {
-      "official": "Reino de Suecia",
-      "common": "Suecia"
-    },
-    "fin": {
-      "official": "Ruotsin kuningaskunta",
-      "common": "Ruotsi"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/sweden",
-  "currency": [
-    "SEK"
-  ],
-  "callingCode": [
-    "46"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "SE",
-    "ccn3": "752",
-    "cca3": "SWE",
-    "cioc": "SWE"
-  }
+  "flag": ""
 }

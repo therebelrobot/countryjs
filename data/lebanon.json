@@ -13,19 +13,93 @@
       }
     }
   },
+  "tld": [
+    ".lb"
+  ],
+  "currency": [
+    "LBP"
+  ],
+  "callingCode": [
+    "961"
+  ],
+  "capital": "Beirut",
   "altSpellings": [
     "LB",
     "Lebanese Republic",
     "Al-Jumhūrīyah Al-Libnānīyah"
   ],
-  "area": 10452,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "ara": "Arabic",
+    "fra": "French"
+  },
+  "translations": {
+    "deu": {
+      "official": "Libanesische Republik",
+      "common": "Libanon"
+    },
+    "fra": {
+      "official": "République libanaise",
+      "common": "Liban"
+    },
+    "hrv": {
+      "official": "Libanonska Republika",
+      "common": "Libanon"
+    },
+    "ita": {
+      "official": "Repubblica libanese",
+      "common": "Libano"
+    },
+    "jpn": {
+      "official": "レバノン共和国",
+      "common": "レバノン"
+    },
+    "nld": {
+      "official": "Libanese Republiek",
+      "common": "Libanon"
+    },
+    "por": {
+      "official": "República Libanesa",
+      "common": "Líbano"
+    },
+    "rus": {
+      "official": "Ливанская Республика",
+      "common": "Ливан"
+    },
+    "spa": {
+      "official": "República Libanesa",
+      "common": "Líbano"
+    },
+    "fin": {
+      "official": "Libanonin tasavalta",
+      "common": "Libanon"
+    }
+  },
+  "latlng": [
+    33.83333333,
+    35.83333333
+  ],
+  "demonym": "Lebanese",
+  "landlocked": false,
   "borders": [
     "ISR",
     "SYR"
   ],
-  "capital": "Beirut",
-  "demonym": "Lebanese",
-  "flag": "",
+  "area": 10452,
+  "codes": {
+    "cca2": "LB",
+    "ccn3": "422",
+    "cca3": "LBN",
+    "cioc": "LIB"
+  },
+  "provinces": [
+    "Beyrouth",
+    "Ech Chimal",
+    "Ej Jnoub",
+    "El Bekaa",
+    "Jabal Loubnane"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -89,85 +163,5 @@
       }
     ]
   },
-  "languages": {
-    "ara": "Arabic",
-    "fra": "French"
-  },
-  "latlng": [
-    33.83333333,
-    35.83333333
-  ],
-  "nativeName": "لبنان",
-  "population": 4104000,
-  "provinces": [
-    "Beyrouth",
-    "Ech Chimal",
-    "Ej Jnoub",
-    "El Bekaa",
-    "Jabal Loubnane"
-  ],
-  "region": "Asia",
-  "subregion": "Western Asia",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "tld": [
-    ".lb"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Libanesische Republik",
-      "common": "Libanon"
-    },
-    "fra": {
-      "official": "République libanaise",
-      "common": "Liban"
-    },
-    "hrv": {
-      "official": "Libanonska Republika",
-      "common": "Libanon"
-    },
-    "ita": {
-      "official": "Repubblica libanese",
-      "common": "Libano"
-    },
-    "jpn": {
-      "official": "レバノン共和国",
-      "common": "レバノン"
-    },
-    "nld": {
-      "official": "Libanese Republiek",
-      "common": "Libanon"
-    },
-    "por": {
-      "official": "República Libanesa",
-      "common": "Líbano"
-    },
-    "rus": {
-      "official": "Ливанская Республика",
-      "common": "Ливан"
-    },
-    "spa": {
-      "official": "República Libanesa",
-      "common": "Líbano"
-    },
-    "fin": {
-      "official": "Libanonin tasavalta",
-      "common": "Libanon"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/lebanon",
-  "currency": [
-    "LBP"
-  ],
-  "callingCode": [
-    "961"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "LB",
-    "ccn3": "422",
-    "cca3": "LBN",
-    "cioc": "LIB"
-  }
+  "flag": ""
 }

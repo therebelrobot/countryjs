@@ -9,20 +9,152 @@
       }
     }
   },
+  "tld": [
+    ".ge"
+  ],
+  "currency": [
+    "GEL"
+  ],
+  "callingCode": [
+    "995"
+  ],
+  "capital": "Tbilisi",
   "altSpellings": [
     "GE",
     "Sakartvelo"
   ],
-  "area": 69700,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "kat": "Georgian"
+  },
+  "translations": {
+    "deu": {
+      "official": "Georgia",
+      "common": "Georgien"
+    },
+    "fra": {
+      "official": "République de Géorgie",
+      "common": "Géorgie"
+    },
+    "hrv": {
+      "official": "Gruzija",
+      "common": "Gruzija"
+    },
+    "ita": {
+      "official": "Georgia",
+      "common": "Georgia"
+    },
+    "jpn": {
+      "official": "グルジア",
+      "common": "グルジア"
+    },
+    "nld": {
+      "official": "Georgia",
+      "common": "Georgië"
+    },
+    "por": {
+      "official": "Georgia",
+      "common": "Geórgia"
+    },
+    "rus": {
+      "official": "Грузия",
+      "common": "Грузия"
+    },
+    "spa": {
+      "official": "Georgia",
+      "common": "Georgia"
+    },
+    "fin": {
+      "official": "Georgia",
+      "common": "Georgia"
+    }
+  },
+  "latlng": [
+    42,
+    43.5
+  ],
+  "demonym": "Georgian",
+  "landlocked": false,
   "borders": [
     "ARM",
     "AZE",
     "RUS",
     "TUR"
   ],
-  "capital": "Tbilisi",
-  "demonym": "Georgian",
-  "flag": "",
+  "area": 69700,
+  "codes": {
+    "cca2": "GE",
+    "ccn3": "268",
+    "cca3": "GEO",
+    "cioc": "GEO"
+  },
+  "provinces": [
+    "Abashis",
+    "Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi)",
+    "Adigenis",
+    "Ajaria or Acharis Avtonomiuri Respublika (Bat'umi)",
+    "Akhalgoris",
+    "Akhalk'alak'is",
+    "Akhalts'ikhis",
+    "Akhmetis",
+    "Ambrolauris",
+    "Aspindzis",
+    "Baghdat'is",
+    "Bolnisis",
+    "Borjomis",
+    "Ch'khorotsqus",
+    "Ch'okhatauris",
+    "Chiat'ura",
+    "Dedop'listsqaros",
+    "Dmanisis",
+    "Dushet'is",
+    "Gardabanis",
+    "Gori",
+    "Goris",
+    "Gurjaanis",
+    "Javis",
+    "K'arelis",
+    "K'ut'aisi",
+    "Kaspis",
+    "Kharagaulis",
+    "Khashuris",
+    "Khobis",
+    "Khonis",
+    "Lagodekhis",
+    "Lanch'khut'is",
+    "Lentekhis",
+    "Marneulis",
+    "Martvilis",
+    "Mestiis",
+    "Mts'khet'is",
+    "Ninotsmindis",
+    "Onis",
+    "Ozurget'is",
+    "P'ot'i",
+    "Qazbegis",
+    "Qvarlis",
+    "Rust'avi",
+    "Sach'kheris",
+    "Sagarejos",
+    "Samtrediis",
+    "Senakis",
+    "Sighnaghis",
+    "T'bilisi",
+    "T'elavis",
+    "T'erjolis",
+    "T'et'ritsqaros",
+    "T'ianet'is",
+    "Tqibuli",
+    "Ts'ageris",
+    "Tsalenjikhis",
+    "Tsalkis",
+    "Tsqaltubo",
+    "Vanis",
+    "Zestap'onis",
+    "Zugdidi",
+    "Zugdidis"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -138,141 +270,5 @@
       }
     ]
   },
-  "languages": {
-    "kat": "Georgian"
-  },
-  "latlng": [
-    42,
-    43.5
-  ],
-  "nativeName": "საქართველო",
-  "population": 4490500,
-  "provinces": [
-    "Abashis",
-    "Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi)",
-    "Adigenis",
-    "Ajaria or Acharis Avtonomiuri Respublika (Bat'umi)",
-    "Akhalgoris",
-    "Akhalk'alak'is",
-    "Akhalts'ikhis",
-    "Akhmetis",
-    "Ambrolauris",
-    "Aspindzis",
-    "Baghdat'is",
-    "Bolnisis",
-    "Borjomis",
-    "Ch'khorotsqus",
-    "Ch'okhatauris",
-    "Chiat'ura",
-    "Dedop'listsqaros",
-    "Dmanisis",
-    "Dushet'is",
-    "Gardabanis",
-    "Gori",
-    "Goris",
-    "Gurjaanis",
-    "Javis",
-    "K'arelis",
-    "K'ut'aisi",
-    "Kaspis",
-    "Kharagaulis",
-    "Khashuris",
-    "Khobis",
-    "Khonis",
-    "Lagodekhis",
-    "Lanch'khut'is",
-    "Lentekhis",
-    "Marneulis",
-    "Martvilis",
-    "Mestiis",
-    "Mts'khet'is",
-    "Ninotsmindis",
-    "Onis",
-    "Ozurget'is",
-    "P'ot'i",
-    "Qazbegis",
-    "Qvarlis",
-    "Rust'avi",
-    "Sach'kheris",
-    "Sagarejos",
-    "Samtrediis",
-    "Senakis",
-    "Sighnaghis",
-    "T'bilisi",
-    "T'elavis",
-    "T'erjolis",
-    "T'et'ritsqaros",
-    "T'ianet'is",
-    "Tqibuli",
-    "Ts'ageris",
-    "Tsalenjikhis",
-    "Tsalkis",
-    "Tsqaltubo",
-    "Vanis",
-    "Zestap'onis",
-    "Zugdidi",
-    "Zugdidis"
-  ],
-  "region": "Asia",
-  "subregion": "Western Asia",
-  "timezones": null,
-  "tld": [
-    ".ge"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Georgia",
-      "common": "Georgien"
-    },
-    "fra": {
-      "official": "République de Géorgie",
-      "common": "Géorgie"
-    },
-    "hrv": {
-      "official": "Gruzija",
-      "common": "Gruzija"
-    },
-    "ita": {
-      "official": "Georgia",
-      "common": "Georgia"
-    },
-    "jpn": {
-      "official": "グルジア",
-      "common": "グルジア"
-    },
-    "nld": {
-      "official": "Georgia",
-      "common": "Georgië"
-    },
-    "por": {
-      "official": "Georgia",
-      "common": "Geórgia"
-    },
-    "rus": {
-      "official": "Грузия",
-      "common": "Грузия"
-    },
-    "spa": {
-      "official": "Georgia",
-      "common": "Georgia"
-    },
-    "fin": {
-      "official": "Georgia",
-      "common": "Georgia"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/georgia",
-  "currency": [
-    "GEL"
-  ],
-  "callingCode": [
-    "995"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "GE",
-    "ccn3": "268",
-    "cca3": "GEO",
-    "cioc": "GEO"
-  }
+  "flag": ""
 }

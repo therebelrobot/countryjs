@@ -9,40 +9,26 @@
       }
     }
   },
+  "tld": [
+    ".cc"
+  ],
+  "currency": [
+    "AUD"
+  ],
+  "callingCode": [
+    "61"
+  ],
+  "capital": "West Island",
   "altSpellings": [
     "CC",
     "Territory of the Cocos (Keeling) Islands",
     "Keeling Islands"
   ],
-  "area": 14,
-  "borders": [],
-  "capital": "West Island",
-  "demonym": "Cocos Islander",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
   "languages": {
     "eng": "English"
   },
-  "latlng": [
-    -12.5,
-    96.83333333
-  ],
-  "nativeName": "Cocos (Keeling) Islands",
-  "population": 550,
-  "provinces": [
-    "Direction Island",
-    "Home Island",
-    "Horsburgh Island",
-    "North Keeling Island",
-    "South Island",
-    "West Island"
-  ],
-  "region": "Oceania",
-  "subregion": "Australia and New Zealand",
-  "timezones": null,
-  "tld": [
-    ".cc"
-  ],
   "translations": {
     "cym": {
       "official": "Territory of the Cocos (Keeling) Islands",
@@ -89,18 +75,28 @@
       "common": "Kookossaaret"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/cocos_keeling_islands",
-  "currency": [
-    "AUD"
+  "latlng": [
+    -12.5,
+    96.83333333
   ],
-  "callingCode": [
-    "61"
-  ],
+  "demonym": "Cocos Islander",
   "landlocked": false,
+  "borders": [],
+  "area": 14,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of the Cocos (Keeling) Islands.svg",
   "codes": {
     "cca2": "CC",
     "ccn3": "166",
     "cca3": "CCK",
     "cioc": ""
-  }
+  },
+  "provinces": [
+    "Direction Island",
+    "Home Island",
+    "Horsburgh Island",
+    "North Keeling Island",
+    "South Island",
+    "West Island"
+  ],
+  "geoJSON": {}
 }

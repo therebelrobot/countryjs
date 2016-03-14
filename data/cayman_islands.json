@@ -9,40 +9,24 @@
       }
     }
   },
-  "altSpellings": [
-    "KY"
-  ],
-  "area": 264,
-  "borders": [],
-  "capital": "George Town",
-  "demonym": "Caymanian",
-  "flag": "",
-  "geoJSON": {},
-  "languages": {
-    "eng": "English"
-  },
-  "latlng": [
-    19.5,
-    -80.5
-  ],
-  "nativeName": "Cayman Islands",
-  "population": 55456,
-  "provinces": [
-    "Creek",
-    "Eastern",
-    "Midland",
-    "South Town",
-    "Spot Bay",
-    "Stake Bay",
-    "West End",
-    "Western"
-  ],
-  "region": "Americas",
-  "subregion": "Caribbean",
-  "timezones": null,
   "tld": [
     ".ky"
   ],
+  "currency": [
+    "KYD"
+  ],
+  "callingCode": [
+    "1345"
+  ],
+  "capital": "George Town",
+  "altSpellings": [
+    "KY"
+  ],
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English"
+  },
   "translations": {
     "cym": {
       "official": "Cayman Islands",
@@ -89,18 +73,30 @@
       "common": "Caymansaaret"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/cayman_islands",
-  "currency": [
-    "KYD"
+  "latlng": [
+    19.5,
+    -80.5
   ],
-  "callingCode": [
-    "1345"
-  ],
+  "demonym": "Caymanian",
   "landlocked": false,
+  "borders": [],
+  "area": 264,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of the Cayman Islands.svg",
   "codes": {
     "cca2": "KY",
     "ccn3": "136",
     "cca3": "CYM",
     "cioc": "CAY"
-  }
+  },
+  "provinces": [
+    "Creek",
+    "Eastern",
+    "Midland",
+    "South Town",
+    "Spot Bay",
+    "Stake Bay",
+    "West End",
+    "Western"
+  ],
+  "geoJSON": {}
 }

@@ -9,6 +9,18 @@
       }
     }
   },
+  "tld": [
+    ".tw",
+    ".台湾",
+    ".台灣"
+  ],
+  "currency": [
+    "TWD"
+  ],
+  "callingCode": [
+    "886"
+  ],
+  "capital": "Taipei",
   "altSpellings": [
     "TW",
     "Táiwān",
@@ -18,11 +30,93 @@
     "Chinese Taipei for IOC",
     "Taiwan, Province of China"
   ],
-  "area": 36193,
-  "borders": [],
-  "capital": "Taipei",
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "languages": {
+    "cmn": "Mandarin"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik China (Taiwan)",
+      "common": "Taiwan"
+    },
+    "fra": {
+      "official": "République de Chine (Taïwan)",
+      "common": "Taïwan"
+    },
+    "hrv": {
+      "official": "Republika Kina",
+      "common": "Tajvan"
+    },
+    "ita": {
+      "official": "Repubblica cinese (Taiwan)",
+      "common": "Taiwan"
+    },
+    "jpn": {
+      "official": "中華民国",
+      "common": "台湾（台湾省/中華民国）"
+    },
+    "nld": {
+      "official": "Republiek China (Taiwan)",
+      "common": "Taiwan"
+    },
+    "por": {
+      "official": "República da China",
+      "common": "Ilha Formosa"
+    },
+    "rus": {
+      "official": "Китайская Республика",
+      "common": "Тайвань"
+    },
+    "spa": {
+      "official": "República de China en Taiwán",
+      "common": "Taiwán"
+    },
+    "fin": {
+      "official": "Kiinan tasavalta",
+      "common": "Taiwan"
+    }
+  },
+  "latlng": [
+    23.5,
+    121
+  ],
   "demonym": "Taiwanese",
-  "flag": "",
+  "landlocked": false,
+  "borders": [],
+  "area": 36193,
+  "codes": {
+    "cca2": "TW",
+    "ccn3": "158",
+    "cca3": "TWN",
+    "cioc": "TPE"
+  },
+  "provinces": [
+    "Chang-hua",
+    "Chi-lung",
+    "Chia-i",
+    "Chia-i",
+    "Chung-hsing-hsin-ts'un",
+    "Hsin-chu",
+    "Hsin-chu",
+    "Hua-lien",
+    "I-lan",
+    "Kao-hsiung",
+    "Kao-hsiung",
+    "Miao-li",
+    "Nan-t'ou",
+    "P'eng-hu",
+    "P'ing-tung",
+    "T'ai-chung",
+    "T'ai-chung",
+    "T'ai-nan",
+    "T'ai-nan",
+    "T'ai-pei",
+    "T'ai-pei",
+    "T'ai-tung",
+    "T'ao-yuan",
+    "Yun-lin"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -78,105 +172,5 @@
       }
     ]
   },
-  "languages": {
-    "cmn": "Mandarin"
-  },
-  "latlng": [
-    23.5,
-    121
-  ],
-  "nativeName": "臺灣",
-  "population": 23424615,
-  "provinces": [
-    "Chang-hua",
-    "Chi-lung",
-    "Chia-i",
-    "Chia-i",
-    "Chung-hsing-hsin-ts'un",
-    "Hsin-chu",
-    "Hsin-chu",
-    "Hua-lien",
-    "I-lan",
-    "Kao-hsiung",
-    "Kao-hsiung",
-    "Miao-li",
-    "Nan-t'ou",
-    "P'eng-hu",
-    "P'ing-tung",
-    "T'ai-chung",
-    "T'ai-chung",
-    "T'ai-nan",
-    "T'ai-nan",
-    "T'ai-pei",
-    "T'ai-pei",
-    "T'ai-tung",
-    "T'ao-yuan",
-    "Yun-lin"
-  ],
-  "region": "Asia",
-  "subregion": "Eastern Asia",
-  "timezones": [
-    "UTC+08:00"
-  ],
-  "tld": [
-    ".tw",
-    ".台湾",
-    ".台灣"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik China (Taiwan)",
-      "common": "Taiwan"
-    },
-    "fra": {
-      "official": "République de Chine (Taïwan)",
-      "common": "Taïwan"
-    },
-    "hrv": {
-      "official": "Republika Kina",
-      "common": "Tajvan"
-    },
-    "ita": {
-      "official": "Repubblica cinese (Taiwan)",
-      "common": "Taiwan"
-    },
-    "jpn": {
-      "official": "中華民国",
-      "common": "台湾（台湾省/中華民国）"
-    },
-    "nld": {
-      "official": "Republiek China (Taiwan)",
-      "common": "Taiwan"
-    },
-    "por": {
-      "official": "República da China",
-      "common": "Ilha Formosa"
-    },
-    "rus": {
-      "official": "Китайская Республика",
-      "common": "Тайвань"
-    },
-    "spa": {
-      "official": "República de China en Taiwán",
-      "common": "Taiwán"
-    },
-    "fin": {
-      "official": "Kiinan tasavalta",
-      "common": "Taiwan"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/taiwan",
-  "currency": [
-    "TWD"
-  ],
-  "callingCode": [
-    "886"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "TW",
-    "ccn3": "158",
-    "cca3": "TWN",
-    "cioc": "TPE"
-  }
+  "flag": ""
 }

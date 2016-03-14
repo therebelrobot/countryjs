@@ -9,19 +9,110 @@
       }
     }
   },
+  "tld": [
+    ".gt"
+  ],
+  "currency": [
+    "GTQ"
+  ],
+  "callingCode": [
+    "502"
+  ],
+  "capital": "Guatemala City",
   "altSpellings": [
     "GT"
   ],
-  "area": 108889,
+  "region": "Americas",
+  "subregion": "Central America",
+  "languages": {
+    "spa": "Spanish"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Guatemala",
+      "common": "Guatemala"
+    },
+    "fra": {
+      "official": "République du Guatemala",
+      "common": "Guatemala"
+    },
+    "hrv": {
+      "official": "Republika Gvatemala",
+      "common": "Gvatemala"
+    },
+    "ita": {
+      "official": "Repubblica del Guatemala",
+      "common": "Guatemala"
+    },
+    "jpn": {
+      "official": "グアテマラ共和国",
+      "common": "グアテマラ"
+    },
+    "nld": {
+      "official": "Republiek Guatemala",
+      "common": "Guatemala"
+    },
+    "por": {
+      "official": "República da Guatemala",
+      "common": "Guatemala"
+    },
+    "rus": {
+      "official": "Республика Гватемала",
+      "common": "Гватемала"
+    },
+    "spa": {
+      "official": "República de Guatemala",
+      "common": "Guatemala"
+    },
+    "fin": {
+      "official": "Guatemalan tasavalta",
+      "common": "Guatemala"
+    }
+  },
+  "latlng": [
+    15.5,
+    -90.25
+  ],
+  "demonym": "Guatemalan",
+  "landlocked": false,
   "borders": [
     "BLZ",
     "SLV",
     "HND",
     "MEX"
   ],
-  "capital": "Guatemala City",
-  "demonym": "Guatemalan",
-  "flag": "",
+  "area": 108889,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Guatemala.svg",
+  "codes": {
+    "cca2": "GT",
+    "ccn3": "320",
+    "cca3": "GTM",
+    "cioc": "GUA"
+  },
+  "provinces": [
+    "Alta Verapaz",
+    "Baja Verapaz",
+    "Chimaltenango",
+    "Chiquimula",
+    "El Progreso",
+    "Escuintla",
+    "Guatemala",
+    "Huehuetenango",
+    "Izabal",
+    "Jalapa",
+    "Jutiapa",
+    "Peten",
+    "Quetzaltenango",
+    "Quiche",
+    "Retalhuleu",
+    "Sacatepequez",
+    "San Marcos",
+    "Santa Rosa",
+    "Solola",
+    "Suchitepequez",
+    "Totonicapan",
+    "Zacapa"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -180,102 +271,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "spa": "Spanish"
-  },
-  "latlng": [
-    15.5,
-    -90.25
-  ],
-  "nativeName": "Guatemala",
-  "population": 15806675,
-  "provinces": [
-    "Alta Verapaz",
-    "Baja Verapaz",
-    "Chimaltenango",
-    "Chiquimula",
-    "El Progreso",
-    "Escuintla",
-    "Guatemala",
-    "Huehuetenango",
-    "Izabal",
-    "Jalapa",
-    "Jutiapa",
-    "Peten",
-    "Quetzaltenango",
-    "Quiche",
-    "Retalhuleu",
-    "Sacatepequez",
-    "San Marcos",
-    "Santa Rosa",
-    "Solola",
-    "Suchitepequez",
-    "Totonicapan",
-    "Zacapa"
-  ],
-  "region": "Americas",
-  "subregion": "Central America",
-  "timezones": [
-    "UTC−06:00"
-  ],
-  "tld": [
-    ".gt"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Guatemala",
-      "common": "Guatemala"
-    },
-    "fra": {
-      "official": "République du Guatemala",
-      "common": "Guatemala"
-    },
-    "hrv": {
-      "official": "Republika Gvatemala",
-      "common": "Gvatemala"
-    },
-    "ita": {
-      "official": "Repubblica del Guatemala",
-      "common": "Guatemala"
-    },
-    "jpn": {
-      "official": "グアテマラ共和国",
-      "common": "グアテマラ"
-    },
-    "nld": {
-      "official": "Republiek Guatemala",
-      "common": "Guatemala"
-    },
-    "por": {
-      "official": "República da Guatemala",
-      "common": "Guatemala"
-    },
-    "rus": {
-      "official": "Республика Гватемала",
-      "common": "Гватемала"
-    },
-    "spa": {
-      "official": "República de Guatemala",
-      "common": "Guatemala"
-    },
-    "fin": {
-      "official": "Guatemalan tasavalta",
-      "common": "Guatemala"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/guatemala",
-  "currency": [
-    "GTQ"
-  ],
-  "callingCode": [
-    "502"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "GT",
-    "ccn3": "320",
-    "cca3": "GTM",
-    "cioc": "GUA"
   }
 }

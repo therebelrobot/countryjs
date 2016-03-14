@@ -17,12 +17,76 @@
       }
     }
   },
+  "tld": [
+    ".pe"
+  ],
+  "currency": [
+    "PEN"
+  ],
+  "callingCode": [
+    "51"
+  ],
+  "capital": "Lima",
   "altSpellings": [
     "PE",
     "Republic of Peru",
     "República del Perú"
   ],
-  "area": 1285216,
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "aym": "Aymara",
+    "que": "Quechua",
+    "spa": "Spanish"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Peru",
+      "common": "Peru"
+    },
+    "fra": {
+      "official": "République du Pérou",
+      "common": "Pérou"
+    },
+    "hrv": {
+      "official": "Republika Peru",
+      "common": "Peru"
+    },
+    "ita": {
+      "official": "Repubblica del Perù",
+      "common": "Perù"
+    },
+    "jpn": {
+      "official": "ペルー共和国",
+      "common": "ペルー"
+    },
+    "nld": {
+      "official": "Republiek Peru",
+      "common": "Peru"
+    },
+    "por": {
+      "official": "República do Peru",
+      "common": "Perú"
+    },
+    "rus": {
+      "official": "Республика Перу",
+      "common": "Перу"
+    },
+    "spa": {
+      "official": "República de Perú",
+      "common": "Perú"
+    },
+    "fin": {
+      "official": "Perun tasavalta",
+      "common": "Peru"
+    }
+  },
+  "latlng": [
+    -10,
+    -76
+  ],
+  "demonym": "Peruvian",
+  "landlocked": false,
   "borders": [
     "BOL",
     "BRA",
@@ -30,9 +94,40 @@
     "COL",
     "ECU"
   ],
-  "capital": "Lima",
-  "demonym": "Peruvian",
-  "flag": "",
+  "area": 1285216,
+  "codes": {
+    "cca2": "PE",
+    "ccn3": "604",
+    "cca3": "PER",
+    "cioc": "PER"
+  },
+  "provinces": [
+    "Amazonas",
+    "Ancash",
+    "Apurimac",
+    "Arequipa",
+    "Ayacucho",
+    "Cajamarca",
+    "Callao",
+    "Cusco",
+    "Huancavelica",
+    "Huanuco",
+    "Ica",
+    "Junin",
+    "La Libertad",
+    "Lambayeque",
+    "Lima",
+    "Loreto",
+    "Madre de Dios",
+    "Moquegua",
+    "Pasco",
+    "Piura",
+    "Puno",
+    "San Martin",
+    "Tacna",
+    "Tumbes",
+    "Ucayali"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -356,106 +451,5 @@
       }
     ]
   },
-  "languages": {
-    "aym": "Aymara",
-    "que": "Quechua",
-    "spa": "Spanish"
-  },
-  "latlng": [
-    -10,
-    -76
-  ],
-  "nativeName": "Perú",
-  "population": 30814175,
-  "provinces": [
-    "Amazonas",
-    "Ancash",
-    "Apurimac",
-    "Arequipa",
-    "Ayacucho",
-    "Cajamarca",
-    "Callao",
-    "Cusco",
-    "Huancavelica",
-    "Huanuco",
-    "Ica",
-    "Junin",
-    "La Libertad",
-    "Lambayeque",
-    "Lima",
-    "Loreto",
-    "Madre de Dios",
-    "Moquegua",
-    "Pasco",
-    "Piura",
-    "Puno",
-    "San Martin",
-    "Tacna",
-    "Tumbes",
-    "Ucayali"
-  ],
-  "region": "Americas",
-  "subregion": "South America",
-  "timezones": [
-    "UTC−05:00"
-  ],
-  "tld": [
-    ".pe"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Peru",
-      "common": "Peru"
-    },
-    "fra": {
-      "official": "République du Pérou",
-      "common": "Pérou"
-    },
-    "hrv": {
-      "official": "Republika Peru",
-      "common": "Peru"
-    },
-    "ita": {
-      "official": "Repubblica del Perù",
-      "common": "Perù"
-    },
-    "jpn": {
-      "official": "ペルー共和国",
-      "common": "ペルー"
-    },
-    "nld": {
-      "official": "Republiek Peru",
-      "common": "Peru"
-    },
-    "por": {
-      "official": "República do Peru",
-      "common": "Perú"
-    },
-    "rus": {
-      "official": "Республика Перу",
-      "common": "Перу"
-    },
-    "spa": {
-      "official": "República de Perú",
-      "common": "Perú"
-    },
-    "fin": {
-      "official": "Perun tasavalta",
-      "common": "Peru"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/peru",
-  "currency": [
-    "PEN"
-  ],
-  "callingCode": [
-    "51"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "PE",
-    "ccn3": "604",
-    "cca3": "PER",
-    "cioc": "PER"
-  }
+  "flag": ""
 }

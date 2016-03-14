@@ -9,19 +9,93 @@
       }
     }
   },
+  "tld": [
+    ".kw"
+  ],
+  "currency": [
+    "KWD"
+  ],
+  "callingCode": [
+    "965"
+  ],
+  "capital": "Kuwait City",
   "altSpellings": [
     "KW",
     "State of Kuwait",
     "Dawlat al-Kuwait"
   ],
-  "area": 17818,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "ara": "Arabic"
+  },
+  "translations": {
+    "deu": {
+      "official": "Staat Kuwait",
+      "common": "Kuwait"
+    },
+    "fra": {
+      "official": "État du Koweït",
+      "common": "Koweït"
+    },
+    "hrv": {
+      "official": "Država Kuvajt",
+      "common": "Kuvajt"
+    },
+    "ita": {
+      "official": "Stato del Kuwait",
+      "common": "Kuwait"
+    },
+    "jpn": {
+      "official": "クウェート国",
+      "common": "クウェート"
+    },
+    "nld": {
+      "official": "Staat Koeweit",
+      "common": "Koeweit"
+    },
+    "por": {
+      "official": "Estado do Kuwait",
+      "common": "Kuwait"
+    },
+    "rus": {
+      "official": "Государство Кувейт",
+      "common": "Кувейт"
+    },
+    "spa": {
+      "official": "Estado de Kuwait",
+      "common": "Kuwait"
+    },
+    "fin": {
+      "official": "Kuwaitin valtio",
+      "common": "Kuwait"
+    }
+  },
+  "latlng": [
+    29.5,
+    45.75
+  ],
+  "demonym": "Kuwaiti",
+  "landlocked": false,
   "borders": [
     "IRQ",
     "SAU"
   ],
-  "capital": "Kuwait City",
-  "demonym": "Kuwaiti",
-  "flag": "",
+  "area": 17818,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Kuwait.svg",
+  "codes": {
+    "cca2": "KW",
+    "ccn3": "414",
+    "cca3": "KWT",
+    "cioc": "KUW"
+  },
+  "provinces": [
+    "Al 'Asimah",
+    "Al Ahmadi",
+    "Al Farwaniyah",
+    "Al Jahra'",
+    "Hawalli"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -76,85 +150,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "ara": "Arabic"
-  },
-  "latlng": [
-    29.5,
-    45.75
-  ],
-  "nativeName": "الكويت",
-  "population": 3268431,
-  "provinces": [
-    "Al 'Asimah",
-    "Al Ahmadi",
-    "Al Farwaniyah",
-    "Al Jahra'",
-    "Hawalli"
-  ],
-  "region": "Asia",
-  "subregion": "Western Asia",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "tld": [
-    ".kw"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Staat Kuwait",
-      "common": "Kuwait"
-    },
-    "fra": {
-      "official": "État du Koweït",
-      "common": "Koweït"
-    },
-    "hrv": {
-      "official": "Država Kuvajt",
-      "common": "Kuvajt"
-    },
-    "ita": {
-      "official": "Stato del Kuwait",
-      "common": "Kuwait"
-    },
-    "jpn": {
-      "official": "クウェート国",
-      "common": "クウェート"
-    },
-    "nld": {
-      "official": "Staat Koeweit",
-      "common": "Koeweit"
-    },
-    "por": {
-      "official": "Estado do Kuwait",
-      "common": "Kuwait"
-    },
-    "rus": {
-      "official": "Государство Кувейт",
-      "common": "Кувейт"
-    },
-    "spa": {
-      "official": "Estado de Kuwait",
-      "common": "Kuwait"
-    },
-    "fin": {
-      "official": "Kuwaitin valtio",
-      "common": "Kuwait"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/kuwait",
-  "currency": [
-    "KWD"
-  ],
-  "callingCode": [
-    "965"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "KW",
-    "ccn3": "414",
-    "cca3": "KWT",
-    "cioc": "KUW"
   }
 }

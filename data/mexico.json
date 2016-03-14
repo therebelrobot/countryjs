@@ -9,21 +9,121 @@
       }
     }
   },
+  "tld": [
+    ".mx"
+  ],
+  "currency": [
+    "MXN"
+  ],
+  "callingCode": [
+    "52"
+  ],
+  "capital": "Mexico City",
   "altSpellings": [
     "MX",
     "Mexicanos",
     "United Mexican States",
     "Estados Unidos Mexicanos"
   ],
-  "area": 1964375,
+  "region": "Americas",
+  "subregion": "Central America",
+  "languages": {
+    "spa": "Spanish"
+  },
+  "translations": {
+    "deu": {
+      "official": "Vereinigte Mexikanische Staaten",
+      "common": "Mexiko"
+    },
+    "fra": {
+      "official": "États-Unis du Mexique",
+      "common": "Mexique"
+    },
+    "hrv": {
+      "official": "Sjedinjene Meksičke Države",
+      "common": "Meksiko"
+    },
+    "ita": {
+      "official": "Stati Uniti del Messico",
+      "common": "Messico"
+    },
+    "jpn": {
+      "official": "メキシコ合衆国",
+      "common": "メキシコ"
+    },
+    "nld": {
+      "official": "Verenigde Mexicaanse Staten",
+      "common": "Mexico"
+    },
+    "por": {
+      "official": "Estados Unidos Mexicanos",
+      "common": "México"
+    },
+    "rus": {
+      "official": "Мексиканских Соединенных Штатов",
+      "common": "Мексика"
+    },
+    "spa": {
+      "official": "Estados Unidos Mexicanos",
+      "common": "México"
+    },
+    "fin": {
+      "official": "Meksikon yhdysvallat",
+      "common": "Meksiko"
+    }
+  },
+  "latlng": [
+    23,
+    -102
+  ],
+  "demonym": "Mexican",
+  "landlocked": false,
   "borders": [
     "BLZ",
     "GTM",
     "USA"
   ],
-  "capital": "Mexico City",
-  "demonym": "Mexican",
-  "flag": "",
+  "area": 1964375,
+  "codes": {
+    "cca2": "MX",
+    "ccn3": "484",
+    "cca3": "MEX",
+    "cioc": "MEX"
+  },
+  "provinces": [
+    "Aguascalientes",
+    "Baja California",
+    "Baja California Sur",
+    "Campeche",
+    "Chiapas",
+    "Chihuahua",
+    "Coahuila de Zaragoza",
+    "Colima",
+    "Distrito Federal",
+    "Durango",
+    "Guanajuato",
+    "Guerrero",
+    "Hidalgo",
+    "Jalisco",
+    "Mexico",
+    "Michoacan de Ocampo",
+    "Morelos",
+    "Nayarit",
+    "Nuevo Leon",
+    "Oaxaca",
+    "Puebla",
+    "Queretaro de Arteaga",
+    "Quintana Roo",
+    "San Luis Potosi",
+    "Sinaloa",
+    "Sonora",
+    "Tabasco",
+    "Tamaulipas",
+    "Tlaxcala",
+    "Veracruz-Llave",
+    "Yucatan",
+    "Zacatecas"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -723,113 +823,5 @@
       }
     ]
   },
-  "languages": {
-    "spa": "Spanish"
-  },
-  "latlng": [
-    23,
-    -102
-  ],
-  "nativeName": "México",
-  "population": 119713203,
-  "provinces": [
-    "Aguascalientes",
-    "Baja California",
-    "Baja California Sur",
-    "Campeche",
-    "Chiapas",
-    "Chihuahua",
-    "Coahuila de Zaragoza",
-    "Colima",
-    "Distrito Federal",
-    "Durango",
-    "Guanajuato",
-    "Guerrero",
-    "Hidalgo",
-    "Jalisco",
-    "Mexico",
-    "Michoacan de Ocampo",
-    "Morelos",
-    "Nayarit",
-    "Nuevo Leon",
-    "Oaxaca",
-    "Puebla",
-    "Queretaro de Arteaga",
-    "Quintana Roo",
-    "San Luis Potosi",
-    "Sinaloa",
-    "Sonora",
-    "Tabasco",
-    "Tamaulipas",
-    "Tlaxcala",
-    "Veracruz-Llave",
-    "Yucatan",
-    "Zacatecas"
-  ],
-  "region": "Americas",
-  "subregion": "Central America",
-  "timezones": [
-    "UTC−08:00",
-    "UTC−07:00",
-    "UTC−06:00"
-  ],
-  "tld": [
-    ".mx"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Vereinigte Mexikanische Staaten",
-      "common": "Mexiko"
-    },
-    "fra": {
-      "official": "États-Unis du Mexique",
-      "common": "Mexique"
-    },
-    "hrv": {
-      "official": "Sjedinjene Meksičke Države",
-      "common": "Meksiko"
-    },
-    "ita": {
-      "official": "Stati Uniti del Messico",
-      "common": "Messico"
-    },
-    "jpn": {
-      "official": "メキシコ合衆国",
-      "common": "メキシコ"
-    },
-    "nld": {
-      "official": "Verenigde Mexicaanse Staten",
-      "common": "Mexico"
-    },
-    "por": {
-      "official": "Estados Unidos Mexicanos",
-      "common": "México"
-    },
-    "rus": {
-      "official": "Мексиканских Соединенных Штатов",
-      "common": "Мексика"
-    },
-    "spa": {
-      "official": "Estados Unidos Mexicanos",
-      "common": "México"
-    },
-    "fin": {
-      "official": "Meksikon yhdysvallat",
-      "common": "Meksiko"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/mexico",
-  "currency": [
-    "MXN"
-  ],
-  "callingCode": [
-    "52"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "MX",
-    "ccn3": "484",
-    "cca3": "MEX",
-    "cioc": "MEX"
-  }
+  "flag": ""
 }

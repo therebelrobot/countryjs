@@ -9,34 +9,25 @@
       }
     }
   },
+  "tld": [
+    ".cx"
+  ],
+  "currency": [
+    "AUD"
+  ],
+  "callingCode": [
+    "61"
+  ],
+  "capital": "Flying Fish Cove",
   "altSpellings": [
     "CX",
     "Territory of Christmas Island"
   ],
-  "area": 135,
-  "borders": [],
-  "capital": "Flying Fish Cove",
-  "demonym": "Christmas Island",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
   "languages": {
     "eng": "English"
   },
-  "latlng": [
-    -10.5,
-    105.66666666
-  ],
-  "nativeName": "Christmas Island",
-  "population": 2072,
-  "provinces": [
-    "Christmas Island"
-  ],
-  "region": "Oceania",
-  "subregion": "Australia and New Zealand",
-  "timezones": null,
-  "tld": [
-    ".cx"
-  ],
   "translations": {
     "cym": {
       "official": "Territory of Christmas Island",
@@ -83,18 +74,23 @@
       "common": "Joulusaari"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/christmas_island",
-  "currency": [
-    "AUD"
+  "latlng": [
+    -10.5,
+    105.66666666
   ],
-  "callingCode": [
-    "61"
-  ],
+  "demonym": "Christmas Island",
   "landlocked": false,
+  "borders": [],
+  "area": 135,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Christmas Island.svg",
   "codes": {
     "cca2": "CX",
     "ccn3": "162",
     "cca3": "CXR",
     "cioc": ""
-  }
+  },
+  "provinces": [
+    "Christmas Island"
+  ],
+  "geoJSON": {}
 }

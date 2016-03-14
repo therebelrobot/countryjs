@@ -9,21 +9,114 @@
       }
     }
   },
+  "tld": [
+    ".ve"
+  ],
+  "currency": [
+    "VEF"
+  ],
+  "callingCode": [
+    "58"
+  ],
+  "capital": "Caracas",
   "altSpellings": [
     "VE",
     "Bolivarian Republic of Venezuela",
     "Venezuela, Bolivarian Republic of",
     "República Bolivariana de Venezuela"
   ],
-  "area": 916445,
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "spa": "Spanish"
+  },
+  "translations": {
+    "deu": {
+      "official": "Bolivarische Republik Venezuela",
+      "common": "Venezuela"
+    },
+    "fra": {
+      "official": "République bolivarienne du Venezuela",
+      "common": "Venezuela"
+    },
+    "hrv": {
+      "official": "BOLIVARIJANSKA Republika Venezuela",
+      "common": "Venezuela"
+    },
+    "ita": {
+      "official": "Repubblica Bolivariana del Venezuela",
+      "common": "Venezuela"
+    },
+    "jpn": {
+      "official": "ベネズエラ·ボリバル共和国",
+      "common": "ベネズエラ・ボリバル共和国"
+    },
+    "nld": {
+      "official": "Bolivariaanse Republiek Venezuela",
+      "common": "Venezuela"
+    },
+    "por": {
+      "official": "República Bolivariana da Venezuela",
+      "common": "Venezuela"
+    },
+    "rus": {
+      "official": "Боливарианская Республика Венесуэла",
+      "common": "Венесуэла"
+    },
+    "spa": {
+      "official": "República Bolivariana de Venezuela",
+      "common": "Venezuela"
+    },
+    "fin": {
+      "official": "Venezuelan bolivariaainen tasavalta",
+      "common": "Venezuela"
+    }
+  },
+  "latlng": [
+    8,
+    -66
+  ],
+  "demonym": "Venezuelan",
+  "landlocked": false,
   "borders": [
     "BRA",
     "COL",
     "GUY"
   ],
-  "capital": "Caracas",
-  "demonym": "Venezuelan",
-  "flag": "",
+  "area": 916445,
+  "codes": {
+    "cca2": "VE",
+    "ccn3": "862",
+    "cca3": "VEN",
+    "cioc": "VEN"
+  },
+  "provinces": [
+    "Amazonas",
+    "Anzoategui",
+    "Apure",
+    "Aragua",
+    "Barinas",
+    "Bolivar",
+    "Carabobo",
+    "Cojedes",
+    "Delta Amacuro",
+    "Dependencias Federales",
+    "Distrito Federal",
+    "Falcon",
+    "Guarico",
+    "Lara",
+    "Merida",
+    "Miranda",
+    "Monagas",
+    "Nueva Esparta",
+    "Portuguesa",
+    "Sucre",
+    "Tachira",
+    "Trujillo",
+    "Vargas",
+    "Yaracuy",
+    "Zulia"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -411,104 +504,5 @@
       }
     ]
   },
-  "languages": {
-    "spa": "Spanish"
-  },
-  "latlng": [
-    8,
-    -66
-  ],
-  "nativeName": "Venezuela",
-  "population": 30206307,
-  "provinces": [
-    "Amazonas",
-    "Anzoategui",
-    "Apure",
-    "Aragua",
-    "Barinas",
-    "Bolivar",
-    "Carabobo",
-    "Cojedes",
-    "Delta Amacuro",
-    "Dependencias Federales",
-    "Distrito Federal",
-    "Falcon",
-    "Guarico",
-    "Lara",
-    "Merida",
-    "Miranda",
-    "Monagas",
-    "Nueva Esparta",
-    "Portuguesa",
-    "Sucre",
-    "Tachira",
-    "Trujillo",
-    "Vargas",
-    "Yaracuy",
-    "Zulia"
-  ],
-  "region": "Americas",
-  "subregion": "South America",
-  "timezones": [
-    "UTC−04:30"
-  ],
-  "tld": [
-    ".ve"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Bolivarische Republik Venezuela",
-      "common": "Venezuela"
-    },
-    "fra": {
-      "official": "République bolivarienne du Venezuela",
-      "common": "Venezuela"
-    },
-    "hrv": {
-      "official": "BOLIVARIJANSKA Republika Venezuela",
-      "common": "Venezuela"
-    },
-    "ita": {
-      "official": "Repubblica Bolivariana del Venezuela",
-      "common": "Venezuela"
-    },
-    "jpn": {
-      "official": "ベネズエラ·ボリバル共和国",
-      "common": "ベネズエラ・ボリバル共和国"
-    },
-    "nld": {
-      "official": "Bolivariaanse Republiek Venezuela",
-      "common": "Venezuela"
-    },
-    "por": {
-      "official": "República Bolivariana da Venezuela",
-      "common": "Venezuela"
-    },
-    "rus": {
-      "official": "Боливарианская Республика Венесуэла",
-      "common": "Венесуэла"
-    },
-    "spa": {
-      "official": "República Bolivariana de Venezuela",
-      "common": "Venezuela"
-    },
-    "fin": {
-      "official": "Venezuelan bolivariaainen tasavalta",
-      "common": "Venezuela"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/venezuela",
-  "currency": [
-    "VEF"
-  ],
-  "callingCode": [
-    "58"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "VE",
-    "ccn3": "862",
-    "cca3": "VEN",
-    "cioc": "VEN"
-  }
+  "flag": ""
 }

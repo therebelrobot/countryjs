@@ -9,11 +9,73 @@
       }
     }
   },
+  "tld": [
+    ".ne"
+  ],
+  "currency": [
+    "XOF"
+  ],
+  "callingCode": [
+    "227"
+  ],
+  "capital": "Niamey",
   "altSpellings": [
     "NE",
     "Nijar"
   ],
-  "area": 1267000,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "languages": {
+    "fra": "French"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Niger",
+      "common": "Niger"
+    },
+    "fra": {
+      "official": "République du Niger",
+      "common": "Niger"
+    },
+    "hrv": {
+      "official": "Republika Niger",
+      "common": "Niger"
+    },
+    "ita": {
+      "official": "Repubblica del Niger",
+      "common": "Niger"
+    },
+    "jpn": {
+      "official": "ニジェール共和国",
+      "common": "ニジェール"
+    },
+    "nld": {
+      "official": "Republiek Niger",
+      "common": "Niger"
+    },
+    "por": {
+      "official": "República do Níger",
+      "common": "Níger"
+    },
+    "rus": {
+      "official": "Республика Нигер",
+      "common": "Нигер"
+    },
+    "spa": {
+      "official": "República de Níger",
+      "common": "Níger"
+    },
+    "fin": {
+      "official": "Nigerin tasavalta",
+      "common": "Niger"
+    }
+  },
+  "latlng": [
+    16,
+    8
+  ],
+  "demonym": "Nigerien",
+  "landlocked": true,
   "borders": [
     "DZA",
     "BEN",
@@ -23,9 +85,23 @@
     "MLI",
     "NGA"
   ],
-  "capital": "Niamey",
-  "demonym": "Nigerien",
-  "flag": "",
+  "area": 1267000,
+  "codes": {
+    "cca2": "NE",
+    "ccn3": "562",
+    "cca3": "NER",
+    "cioc": "NIG"
+  },
+  "provinces": [
+    "Agadez",
+    "Diffa",
+    "Dosso",
+    "Maradi",
+    "Niamey",
+    "Tahoua",
+    "Tillaberi",
+    "Zinder"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -277,87 +353,5 @@
       }
     ]
   },
-  "languages": {
-    "fra": "French"
-  },
-  "latlng": [
-    16,
-    8
-  ],
-  "nativeName": "Niger",
-  "population": 17138707,
-  "provinces": [
-    "Agadez",
-    "Diffa",
-    "Dosso",
-    "Maradi",
-    "Niamey",
-    "Tahoua",
-    "Tillaberi",
-    "Zinder"
-  ],
-  "region": "Africa",
-  "subregion": "Western Africa",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "tld": [
-    ".ne"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Niger",
-      "common": "Niger"
-    },
-    "fra": {
-      "official": "République du Niger",
-      "common": "Niger"
-    },
-    "hrv": {
-      "official": "Republika Niger",
-      "common": "Niger"
-    },
-    "ita": {
-      "official": "Repubblica del Niger",
-      "common": "Niger"
-    },
-    "jpn": {
-      "official": "ニジェール共和国",
-      "common": "ニジェール"
-    },
-    "nld": {
-      "official": "Republiek Niger",
-      "common": "Niger"
-    },
-    "por": {
-      "official": "República do Níger",
-      "common": "Níger"
-    },
-    "rus": {
-      "official": "Республика Нигер",
-      "common": "Нигер"
-    },
-    "spa": {
-      "official": "República de Níger",
-      "common": "Níger"
-    },
-    "fin": {
-      "official": "Nigerin tasavalta",
-      "common": "Niger"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/niger",
-  "currency": [
-    "XOF"
-  ],
-  "callingCode": [
-    "227"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "NE",
-    "ccn3": "562",
-    "cca3": "NER",
-    "cioc": "NIG"
-  }
+  "flag": ""
 }

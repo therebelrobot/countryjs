@@ -9,14 +9,86 @@
       }
     }
   },
+  "tld": [
+    ".nc"
+  ],
+  "currency": [
+    "XPF"
+  ],
+  "callingCode": [
+    "687"
+  ],
+  "capital": "Nouméa",
   "altSpellings": [
     "NC"
   ],
-  "area": 18575,
-  "borders": [],
-  "capital": "Nouméa",
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "languages": {
+    "fra": "French"
+  },
+  "translations": {
+    "deu": {
+      "official": "Neukaledonien",
+      "common": "Neukaledonien"
+    },
+    "fra": {
+      "official": "Nouvelle-Calédonie",
+      "common": "Nouvelle-Calédonie"
+    },
+    "hrv": {
+      "official": "Nova Kaledonija",
+      "common": "Nova Kaledonija"
+    },
+    "ita": {
+      "official": "Nuova Caledonia",
+      "common": "Nuova Caledonia"
+    },
+    "jpn": {
+      "official": "ニューカレドニア",
+      "common": "ニューカレドニア"
+    },
+    "nld": {
+      "official": "nieuw -Caledonië",
+      "common": "Nieuw-Caledonië"
+    },
+    "por": {
+      "official": "New Caledonia",
+      "common": "Nova Caledónia"
+    },
+    "rus": {
+      "official": "Новая Каледония",
+      "common": "Новая Каледония"
+    },
+    "spa": {
+      "official": "nueva Caledonia",
+      "common": "Nueva Caledonia"
+    },
+    "fin": {
+      "official": "Uusi-Kaledonia",
+      "common": "Uusi-Kaledonia"
+    }
+  },
+  "latlng": [
+    -21.5,
+    165.5
+  ],
   "demonym": "New Caledonian",
-  "flag": "",
+  "landlocked": false,
+  "borders": [],
+  "area": 18575,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of France.svg",
+  "codes": {
+    "cca2": "NC",
+    "ccn3": "540",
+    "cca3": "NCL",
+    "cioc": ""
+  },
+  "provinces": [
+    "Iles Loyaute",
+    "Nord",
+    "Sud"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -87,81 +159,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "fra": "French"
-  },
-  "latlng": [
-    -21.5,
-    165.5
-  ],
-  "nativeName": "Nouvelle-Calédonie",
-  "population": 268767,
-  "provinces": [
-    "Iles Loyaute",
-    "Nord",
-    "Sud"
-  ],
-  "region": "Oceania",
-  "subregion": "Melanesia",
-  "timezones": null,
-  "tld": [
-    ".nc"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Neukaledonien",
-      "common": "Neukaledonien"
-    },
-    "fra": {
-      "official": "Nouvelle-Calédonie",
-      "common": "Nouvelle-Calédonie"
-    },
-    "hrv": {
-      "official": "Nova Kaledonija",
-      "common": "Nova Kaledonija"
-    },
-    "ita": {
-      "official": "Nuova Caledonia",
-      "common": "Nuova Caledonia"
-    },
-    "jpn": {
-      "official": "ニューカレドニア",
-      "common": "ニューカレドニア"
-    },
-    "nld": {
-      "official": "nieuw -Caledonië",
-      "common": "Nieuw-Caledonië"
-    },
-    "por": {
-      "official": "New Caledonia",
-      "common": "Nova Caledónia"
-    },
-    "rus": {
-      "official": "Новая Каледония",
-      "common": "Новая Каледония"
-    },
-    "spa": {
-      "official": "nueva Caledonia",
-      "common": "Nueva Caledonia"
-    },
-    "fin": {
-      "official": "Uusi-Kaledonia",
-      "common": "Uusi-Kaledonia"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/new_caledonia",
-  "currency": [
-    "XPF"
-  ],
-  "callingCode": [
-    "687"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "NC",
-    "ccn3": "540",
-    "cca3": "NCL",
-    "cioc": ""
   }
 }

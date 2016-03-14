@@ -13,34 +13,25 @@
       }
     }
   },
+  "tld": [
+    ".aw"
+  ],
+  "currency": [
+    "AWG"
+  ],
+  "callingCode": [
+    "297"
+  ],
+  "capital": "Oranjestad",
   "altSpellings": [
     "AW"
   ],
-  "area": 180,
-  "borders": [],
-  "capital": "Oranjestad",
-  "demonym": "Aruban",
-  "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Aruba.svg",
-  "geoJSON": {},
+  "region": "Americas",
+  "subregion": "Caribbean",
   "languages": {
     "nld": "Dutch",
     "pap": "Papiamento"
   },
-  "latlng": [
-    12.5,
-    -69.96666666
-  ],
-  "nativeName": "Aruba",
-  "population": 101484,
-  "provinces": [
-    "Aruba"
-  ],
-  "region": "Americas",
-  "subregion": "Caribbean",
-  "timezones": null,
-  "tld": [
-    ".aw"
-  ],
   "translations": {
     "deu": {
       "official": "Aruba",
@@ -83,18 +74,23 @@
       "common": "Aruba"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/aruba",
-  "currency": [
-    "AWG"
+  "latlng": [
+    12.5,
+    -69.96666666
   ],
-  "callingCode": [
-    "297"
-  ],
+  "demonym": "Aruban",
   "landlocked": false,
+  "borders": [],
+  "area": 180,
   "codes": {
     "cca2": "AW",
     "ccn3": "533",
     "cca3": "ABW",
     "cioc": "ARU"
-  }
+  },
+  "provinces": [
+    "Aruba"
+  ],
+  "geoJSON": {},
+  "flag": "http://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Aruba.svg"
 }

@@ -1,148 +1,26 @@
 {
-  "name": {
-    "common": "United States",
-    "official": "United States of America",
-    "native": {
-      "eng": {
-        "official": "United States of America",
-        "common": "United States"
-      }
-    }
-  },
-  "tld": [
-    ".us"
-  ],
-  "currency": [
-    "USD",
-    "USN",
-    "USS"
-  ],
-  "callingCode": [
-    "1"
-  ],
-  "capital": "Washington D.C.",
+  "name": "United States",
   "altSpellings": [
     "US",
     "USA",
     "United States of America"
   ],
-  "region": "Americas",
-  "subregion": "Northern America",
-  "languages": {
-    "eng": "English"
-  },
-  "translations": {
-    "deu": {
-      "official": "Vereinigte Staaten von Amerika",
-      "common": "Vereinigte Staaten von Amerika"
-    },
-    "fra": {
-      "official": "Les états-unis d'Amérique",
-      "common": "États-Unis"
-    },
-    "hrv": {
-      "official": "Sjedinjene Države Amerike",
-      "common": "Sjedinjene Američke Države"
-    },
-    "ita": {
-      "official": "Stati Uniti d'America",
-      "common": "Stati Uniti d'America"
-    },
-    "jpn": {
-      "official": "アメリカ合衆国",
-      "common": "アメリカ合衆国"
-    },
-    "nld": {
-      "official": "Verenigde Staten van Amerika",
-      "common": "Verenigde Staten"
-    },
-    "por": {
-      "official": "Estados Unidos da América",
-      "common": "Estados Unidos"
-    },
-    "rus": {
-      "official": "Соединенные Штаты Америки",
-      "common": "Соединённые Штаты Америки"
-    },
-    "spa": {
-      "official": "Estados Unidos de América",
-      "common": "Estados Unidos"
-    },
-    "fin": {
-      "official": "Amerikan yhdysvallat",
-      "common": "Yhdysvallat"
-    }
-  },
-  "latlng": [
-    38,
-    -97
-  ],
-  "demonym": "American",
-  "landlocked": false,
+  "area": 9629091,
   "borders": [
     "CAN",
     "MEX"
   ],
-  "area": 9372610,
-  "codes": {
-    "cca2": "US",
-    "ccn3": "840",
-    "cca3": "USA",
-    "cioc": "USA"
-  },
-  "provinces": [
-    "Alabama",
-    "Alaska",
-    "Arizona",
-    "Arkansas",
-    "California",
-    "Colorado",
-    "Connecticut",
-    "Delaware",
-    "District of Columbia",
-    "Florida",
-    "Georgia",
-    "Hawaii",
-    "Idaho",
-    "Illinois",
-    "Indiana",
-    "Iowa",
-    "Kansas",
-    "Kentucky",
-    "Louisiana",
-    "Maine",
-    "Maryland",
-    "Massachusetts",
-    "Michigan",
-    "Minnesota",
-    "Mississippi",
-    "Missouri",
-    "Montana",
-    "Nebraska",
-    "Nevada",
-    "New Hampshire",
-    "New Jersey",
-    "New Mexico",
-    "New York",
-    "North Carolina",
-    "North Dakota",
-    "Ohio",
-    "Oklahoma",
-    "Oregon",
-    "Pennsylvania",
-    "Rhode Island",
-    "South Carolina",
-    "South Dakota",
-    "Tennessee",
-    "Texas",
-    "Utah",
-    "Vermont",
-    "Virginia",
-    "Washington",
-    "West Virginia",
-    "Wisconsin",
-    "Wyoming"
+  "callingCodes": [
+    "1"
   ],
+  "capital": "Washington D.C.",
+  "currencies": [
+    "USD",
+    "USN",
+    "USS"
+  ],
+  "demonym": "American",
+  "flag": "",
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -1972,5 +1850,96 @@
       }
     ]
   },
-  "flag": ""
+  "ISO": {
+    "alpha2": "US",
+    "alpha3": "USA"
+  },
+  "languages": [
+    "en"
+  ],
+  "latlng": [
+    38,
+    -97
+  ],
+  "nativeName": "United States",
+  "population": 319259000,
+  "provinces": [
+    "Alabama",
+    "Alaska",
+    "Arizona",
+    "Arkansas",
+    "California",
+    "Colorado",
+    "Connecticut",
+    "Delaware",
+    "District of Columbia",
+    "Florida",
+    "Georgia",
+    "Hawaii",
+    "Idaho",
+    "Illinois",
+    "Indiana",
+    "Iowa",
+    "Kansas",
+    "Kentucky",
+    "Louisiana",
+    "Maine",
+    "Maryland",
+    "Massachusetts",
+    "Michigan",
+    "Minnesota",
+    "Mississippi",
+    "Missouri",
+    "Montana",
+    "Nebraska",
+    "Nevada",
+    "New Hampshire",
+    "New Jersey",
+    "New Mexico",
+    "New York",
+    "North Carolina",
+    "North Dakota",
+    "Ohio",
+    "Oklahoma",
+    "Oregon",
+    "Pennsylvania",
+    "Rhode Island",
+    "South Carolina",
+    "South Dakota",
+    "Tennessee",
+    "Texas",
+    "Utah",
+    "Vermont",
+    "Virginia",
+    "Washington",
+    "West Virginia",
+    "Wisconsin",
+    "Wyoming"
+  ],
+  "region": "Americas",
+  "subregion": "Northern America",
+  "timezones": [
+    "UTC−12:00",
+    "UTC−11:00",
+    "UTC−10:00",
+    "UTC−09:00",
+    "UTC−08:00",
+    "UTC−07:00",
+    "UTC−06:00",
+    "UTC−05:00",
+    "UTC−04:00",
+    "UTC+10:00",
+    "UTC+12:00"
+  ],
+  "tld": [
+    ".us"
+  ],
+  "translations": {
+    "de": "Vereinigte Staaten von Amerika",
+    "es": "Estados Unidos",
+    "fr": "États-Unis",
+    "ja": "アメリカ合衆国",
+    "it": "Stati Uniti D'America"
+  },
+  "wiki": "http://en.wikipedia.org/wiki/united_states_of_america"
 }

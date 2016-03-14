@@ -9,19 +9,106 @@
       }
     }
   },
+  "tld": [
+    ".sv"
+  ],
+  "currency": [
+    "SVC",
+    "USD"
+  ],
+  "callingCode": [
+    "503"
+  ],
+  "capital": "San Salvador",
   "altSpellings": [
     "SV",
     "Republic of El Salvador",
     "República de El Salvador"
   ],
-  "area": 21041,
+  "region": "Americas",
+  "subregion": "Central America",
+  "languages": {
+    "spa": "Spanish"
+  },
+  "translations": {
+    "cym": {
+      "official": "Republic of El Salvador",
+      "common": "El Salvador"
+    },
+    "deu": {
+      "official": "Republik El Salvador",
+      "common": "El Salvador"
+    },
+    "fra": {
+      "official": "République du Salvador",
+      "common": "Salvador"
+    },
+    "hrv": {
+      "official": "Republika El Salvador",
+      "common": "Salvador"
+    },
+    "ita": {
+      "official": "Repubblica di El Salvador",
+      "common": "El Salvador"
+    },
+    "jpn": {
+      "official": "エルサルバドル共和国",
+      "common": "エルサルバドル"
+    },
+    "nld": {
+      "official": "Republiek El Salvador",
+      "common": "El Salvador"
+    },
+    "por": {
+      "official": "República de El Salvador",
+      "common": "El Salvador"
+    },
+    "rus": {
+      "official": "Республика Эль-Сальвадор",
+      "common": "Сальвадор"
+    },
+    "spa": {
+      "official": "República de El Salvador",
+      "common": "El Salvador"
+    },
+    "fin": {
+      "official": "El Salvadorin tasavalta",
+      "common": "El Salvador"
+    }
+  },
+  "latlng": [
+    13.83333333,
+    -88.91666666
+  ],
+  "demonym": "Salvadoran",
+  "landlocked": false,
   "borders": [
     "GTM",
     "HND"
   ],
-  "capital": "San Salvador",
-  "demonym": "Salvadoran",
-  "flag": "",
+  "area": 21041,
+  "codes": {
+    "cca2": "SV",
+    "ccn3": "222",
+    "cca3": "SLV",
+    "cioc": "ESA"
+  },
+  "provinces": [
+    "Ahuachapan",
+    "Cabanas",
+    "Chalatenango",
+    "Cuscatlan",
+    "La Libertad",
+    "La Paz",
+    "La Union",
+    "Morazan",
+    "San Miguel",
+    "San Salvador",
+    "San Vicente",
+    "Santa Ana",
+    "Sonsonate",
+    "Usulutan"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -121,98 +208,5 @@
       }
     ]
   },
-  "languages": {
-    "spa": "Spanish"
-  },
-  "latlng": [
-    13.83333333,
-    -88.91666666
-  ],
-  "nativeName": "El Salvador",
-  "population": 6401240,
-  "provinces": [
-    "Ahuachapan",
-    "Cabanas",
-    "Chalatenango",
-    "Cuscatlan",
-    "La Libertad",
-    "La Paz",
-    "La Union",
-    "Morazan",
-    "San Miguel",
-    "San Salvador",
-    "San Vicente",
-    "Santa Ana",
-    "Sonsonate",
-    "Usulutan"
-  ],
-  "region": "Americas",
-  "subregion": "Central America",
-  "timezones": [
-    "UTC−06:00"
-  ],
-  "tld": [
-    ".sv"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Republic of El Salvador",
-      "common": "El Salvador"
-    },
-    "deu": {
-      "official": "Republik El Salvador",
-      "common": "El Salvador"
-    },
-    "fra": {
-      "official": "République du Salvador",
-      "common": "Salvador"
-    },
-    "hrv": {
-      "official": "Republika El Salvador",
-      "common": "Salvador"
-    },
-    "ita": {
-      "official": "Repubblica di El Salvador",
-      "common": "El Salvador"
-    },
-    "jpn": {
-      "official": "エルサルバドル共和国",
-      "common": "エルサルバドル"
-    },
-    "nld": {
-      "official": "Republiek El Salvador",
-      "common": "El Salvador"
-    },
-    "por": {
-      "official": "República de El Salvador",
-      "common": "El Salvador"
-    },
-    "rus": {
-      "official": "Республика Эль-Сальвадор",
-      "common": "Сальвадор"
-    },
-    "spa": {
-      "official": "República de El Salvador",
-      "common": "El Salvador"
-    },
-    "fin": {
-      "official": "El Salvadorin tasavalta",
-      "common": "El Salvador"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/el_salvador",
-  "currency": [
-    "SVC",
-    "USD"
-  ],
-  "callingCode": [
-    "503"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "SV",
-    "ccn3": "222",
-    "cca3": "SLV",
-    "cioc": "ESA"
-  }
+  "flag": ""
 }

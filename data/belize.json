@@ -17,17 +17,98 @@
       }
     }
   },
+  "tld": [
+    ".bz"
+  ],
+  "currency": [
+    "BZD"
+  ],
+  "callingCode": [
+    "501"
+  ],
+  "capital": "Belmopan",
   "altSpellings": [
     "BZ"
   ],
-  "area": 22966,
+  "region": "Americas",
+  "subregion": "Central America",
+  "languages": {
+    "bjz": "Belizean Creole",
+    "eng": "English",
+    "spa": "Spanish"
+  },
+  "translations": {
+    "cym": {
+      "official": "Belize",
+      "common": "Belize"
+    },
+    "deu": {
+      "official": "Belize",
+      "common": "Belize"
+    },
+    "fra": {
+      "official": "Belize",
+      "common": "Belize"
+    },
+    "hrv": {
+      "official": "Belize",
+      "common": "Belize"
+    },
+    "ita": {
+      "official": "Belize",
+      "common": "Belize"
+    },
+    "jpn": {
+      "official": "ベリーズ",
+      "common": "ベリーズ"
+    },
+    "nld": {
+      "official": "Belize",
+      "common": "Belize"
+    },
+    "por": {
+      "official": "Belize",
+      "common": "Belize"
+    },
+    "rus": {
+      "official": "Белиз",
+      "common": "Белиз"
+    },
+    "spa": {
+      "official": "Belice",
+      "common": "Belice"
+    },
+    "fin": {
+      "official": "Belize",
+      "common": "Belize"
+    }
+  },
+  "latlng": [
+    17.25,
+    -88.75
+  ],
+  "demonym": "Belizean",
+  "landlocked": false,
   "borders": [
     "GTM",
     "MEX"
   ],
-  "capital": "Belmopan",
-  "demonym": "Belizean",
-  "flag": "",
+  "area": 22966,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Belize.svg",
+  "codes": {
+    "cca2": "BZ",
+    "ccn3": "084",
+    "cca3": "BLZ",
+    "cioc": "BIZ"
+  },
+  "provinces": [
+    "Belize",
+    "Cayo",
+    "Corozal",
+    "Orange Walk",
+    "Stann Creek",
+    "Toledo"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -126,92 +207,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "bjz": "Belizean Creole",
-    "eng": "English",
-    "spa": "Spanish"
-  },
-  "latlng": [
-    17.25,
-    -88.75
-  ],
-  "nativeName": "Belize",
-  "population": 349728,
-  "provinces": [
-    "Belize",
-    "Cayo",
-    "Corozal",
-    "Orange Walk",
-    "Stann Creek",
-    "Toledo"
-  ],
-  "region": "Americas",
-  "subregion": "Central America",
-  "timezones": [
-    "UTC−06:00"
-  ],
-  "tld": [
-    ".bz"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Belize",
-      "common": "Belize"
-    },
-    "deu": {
-      "official": "Belize",
-      "common": "Belize"
-    },
-    "fra": {
-      "official": "Belize",
-      "common": "Belize"
-    },
-    "hrv": {
-      "official": "Belize",
-      "common": "Belize"
-    },
-    "ita": {
-      "official": "Belize",
-      "common": "Belize"
-    },
-    "jpn": {
-      "official": "ベリーズ",
-      "common": "ベリーズ"
-    },
-    "nld": {
-      "official": "Belize",
-      "common": "Belize"
-    },
-    "por": {
-      "official": "Belize",
-      "common": "Belize"
-    },
-    "rus": {
-      "official": "Белиз",
-      "common": "Белиз"
-    },
-    "spa": {
-      "official": "Belice",
-      "common": "Belice"
-    },
-    "fin": {
-      "official": "Belize",
-      "common": "Belize"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/belize",
-  "currency": [
-    "BZD"
-  ],
-  "callingCode": [
-    "501"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "BZ",
-    "ccn3": "084",
-    "cca3": "BLZ",
-    "cioc": "BIZ"
   }
 }

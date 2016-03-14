@@ -9,18 +9,90 @@
       }
     }
   },
+  "tld": [
+    ".sl"
+  ],
+  "currency": [
+    "SLL"
+  ],
+  "callingCode": [
+    "232"
+  ],
+  "capital": "Freetown",
   "altSpellings": [
     "SL",
     "Republic of Sierra Leone"
   ],
-  "area": 71740,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "languages": {
+    "eng": "English"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "fra": {
+      "official": "République de Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "hrv": {
+      "official": "Republika Sijera Leone",
+      "common": "Sijera Leone"
+    },
+    "ita": {
+      "official": "Repubblica della Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "jpn": {
+      "official": "シエラレオネ共和国",
+      "common": "シエラレオネ"
+    },
+    "nld": {
+      "official": "Republiek Sierra Leone",
+      "common": "Sierra Leone"
+    },
+    "por": {
+      "official": "República da Serra Leoa",
+      "common": "Serra Leoa"
+    },
+    "rus": {
+      "official": "Республика Сьерра-Леоне",
+      "common": "Сьерра-Леоне"
+    },
+    "spa": {
+      "official": "República de Sierra Leona",
+      "common": "Sierra Leone"
+    },
+    "fin": {
+      "official": "Sierra Leonen tasavalta",
+      "common": "Sierra Leone"
+    }
+  },
+  "latlng": [
+    8.5,
+    -11.5
+  ],
+  "demonym": "Sierra Leonean",
+  "landlocked": false,
   "borders": [
     "GIN",
     "LBR"
   ],
-  "capital": "Freetown",
-  "demonym": "Sierra Leonean",
-  "flag": "",
+  "area": 71740,
+  "codes": {
+    "cca2": "SL",
+    "ccn3": "694",
+    "cca3": "SLE",
+    "cioc": "SLE"
+  },
+  "provinces": [
+    "Eastern",
+    "Northern",
+    "Southern",
+    "Western"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -128,83 +200,5 @@
       }
     ]
   },
-  "languages": {
-    "eng": "English"
-  },
-  "latlng": [
-    8.5,
-    -11.5
-  ],
-  "nativeName": "Sierra Leone",
-  "population": 6205000,
-  "provinces": [
-    "Eastern",
-    "Northern",
-    "Southern",
-    "Western"
-  ],
-  "region": "Africa",
-  "subregion": "Western Africa",
-  "timezones": [
-    "UTC"
-  ],
-  "tld": [
-    ".sl"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Sierra Leone",
-      "common": "Sierra Leone"
-    },
-    "fra": {
-      "official": "République de Sierra Leone",
-      "common": "Sierra Leone"
-    },
-    "hrv": {
-      "official": "Republika Sijera Leone",
-      "common": "Sijera Leone"
-    },
-    "ita": {
-      "official": "Repubblica della Sierra Leone",
-      "common": "Sierra Leone"
-    },
-    "jpn": {
-      "official": "シエラレオネ共和国",
-      "common": "シエラレオネ"
-    },
-    "nld": {
-      "official": "Republiek Sierra Leone",
-      "common": "Sierra Leone"
-    },
-    "por": {
-      "official": "República da Serra Leoa",
-      "common": "Serra Leoa"
-    },
-    "rus": {
-      "official": "Республика Сьерра-Леоне",
-      "common": "Сьерра-Леоне"
-    },
-    "spa": {
-      "official": "República de Sierra Leona",
-      "common": "Sierra Leone"
-    },
-    "fin": {
-      "official": "Sierra Leonen tasavalta",
-      "common": "Sierra Leone"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/sierra_leone",
-  "currency": [
-    "SLL"
-  ],
-  "callingCode": [
-    "232"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "SL",
-    "ccn3": "694",
-    "cca3": "SLE",
-    "cioc": "SLE"
-  }
+  "flag": ""
 }

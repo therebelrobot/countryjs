@@ -13,55 +13,27 @@
       }
     }
   },
+  "tld": [
+    ".pw"
+  ],
+  "currency": [
+    "USD"
+  ],
+  "callingCode": [
+    "680"
+  ],
+  "capital": "Ngerulmud",
   "altSpellings": [
     "PW",
     "Republic of Palau",
     "Beluu er a Belau"
   ],
-  "area": 459,
-  "borders": [],
-  "capital": "Ngerulmud",
-  "demonym": "Palauan",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Oceania",
+  "subregion": "Micronesia",
   "languages": {
     "eng": "English",
     "pau": "Palauan"
   },
-  "latlng": [
-    7.5,
-    134.5
-  ],
-  "nativeName": "Palau",
-  "population": 20901,
-  "provinces": [
-    "Aimeliik",
-    "Airai",
-    "Angaur",
-    "Hatobohei",
-    "Kayangel",
-    "Koror",
-    "Melekeok",
-    "Ngaraard",
-    "Ngarchelong",
-    "Ngardmau",
-    "Ngatpang",
-    "Ngchesar",
-    "Ngeremlengui",
-    "Ngiwal",
-    "Palau Island",
-    "Peleliu",
-    "Sonsoral",
-    "Tobi"
-  ],
-  "region": "Oceania",
-  "subregion": "Micronesia",
-  "timezones": [
-    "UTC+09:00"
-  ],
-  "tld": [
-    ".pw"
-  ],
   "translations": {
     "deu": {
       "official": "Palau",
@@ -104,18 +76,40 @@
       "common": "Palau"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/palau",
-  "currency": [
-    "USD"
+  "latlng": [
+    7.5,
+    134.5
   ],
-  "callingCode": [
-    "680"
-  ],
+  "demonym": "Palauan",
   "landlocked": false,
+  "borders": [],
+  "area": 459,
   "codes": {
     "cca2": "PW",
     "ccn3": "585",
     "cca3": "PLW",
     "cioc": "PLW"
-  }
+  },
+  "provinces": [
+    "Aimeliik",
+    "Airai",
+    "Angaur",
+    "Hatobohei",
+    "Kayangel",
+    "Koror",
+    "Melekeok",
+    "Ngaraard",
+    "Ngarchelong",
+    "Ngardmau",
+    "Ngatpang",
+    "Ngchesar",
+    "Ngeremlengui",
+    "Ngiwal",
+    "Palau Island",
+    "Peleliu",
+    "Sonsoral",
+    "Tobi"
+  ],
+  "geoJSON": {},
+  "flag": ""
 }

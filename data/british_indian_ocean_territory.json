@@ -81,6 +81,7 @@
   "landlocked": false,
   "borders": [],
   "area": 60,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of the British Indian Ocean Territory.svg",
   "codes": {
     "cca2": "IO",
     "ccn3": "086",

@@ -17,50 +17,28 @@
       }
     }
   },
+  "tld": [
+    ".mu"
+  ],
+  "currency": [
+    "MUR"
+  ],
+  "callingCode": [
+    "230"
+  ],
+  "capital": "Port Louis",
   "altSpellings": [
     "MU",
     "Republic of Mauritius",
     "République de Maurice"
   ],
-  "area": 2040,
-  "borders": [],
-  "capital": "Port Louis",
-  "demonym": "Mauritian",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Africa",
+  "subregion": "Eastern Africa",
   "languages": {
     "eng": "English",
     "fra": "French",
     "mfe": "Mauritian Creole"
   },
-  "latlng": [
-    -20.28333333,
-    57.55
-  ],
-  "nativeName": "Maurice",
-  "population": 1261208,
-  "provinces": [
-    "Agalega Islands",
-    "Black River",
-    "Cargados Carajos Shoals",
-    "Flacq",
-    "Grand Port",
-    "Moka",
-    "Pamplemousses",
-    "Plaines Wilhems",
-    "Port Louis",
-    "Riviere du Rempart",
-    "Rodrigues",
-    "Savanne"
-  ],
-  "region": "Africa",
-  "subregion": "Eastern Africa",
-  "timezones": [
-    "UTC+04:00"
-  ],
-  "tld": [
-    ".mu"
-  ],
   "translations": {
     "deu": {
       "official": "Republik Mauritius",
@@ -103,18 +81,34 @@
       "common": "Mauritius"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/mauritius",
-  "currency": [
-    "MUR"
+  "latlng": [
+    -20.28333333,
+    57.55
   ],
-  "callingCode": [
-    "230"
-  ],
+  "demonym": "Mauritian",
   "landlocked": false,
+  "borders": [],
+  "area": 2040,
   "codes": {
     "cca2": "MU",
     "ccn3": "480",
     "cca3": "MUS",
     "cioc": "MRI"
-  }
+  },
+  "provinces": [
+    "Agalega Islands",
+    "Black River",
+    "Cargados Carajos Shoals",
+    "Flacq",
+    "Grand Port",
+    "Moka",
+    "Pamplemousses",
+    "Plaines Wilhems",
+    "Port Louis",
+    "Riviere du Rempart",
+    "Rodrigues",
+    "Savanne"
+  ],
+  "geoJSON": {},
+  "flag": ""
 }

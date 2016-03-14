@@ -13,20 +13,129 @@
       }
     }
   },
+  "tld": [
+    ".ma",
+    "المغرب."
+  ],
+  "currency": [
+    "MAD"
+  ],
+  "callingCode": [
+    "212"
+  ],
+  "capital": "Rabat",
   "altSpellings": [
     "MA",
     "Kingdom of Morocco",
     "Al-Mamlakah al-Maġribiyah"
   ],
-  "area": 446550,
+  "region": "Africa",
+  "subregion": "Northern Africa",
+  "languages": {
+    "ara": "Arabic",
+    "ber": "Berber"
+  },
+  "translations": {
+    "deu": {
+      "official": "Königreich Marokko",
+      "common": "Marokko"
+    },
+    "fra": {
+      "official": "Royaume du Maroc",
+      "common": "Maroc"
+    },
+    "hrv": {
+      "official": "Kraljevina Maroko",
+      "common": "Maroko"
+    },
+    "ita": {
+      "official": "Regno del Marocco",
+      "common": "Marocco"
+    },
+    "jpn": {
+      "official": "モロッコ王国",
+      "common": "モロッコ"
+    },
+    "nld": {
+      "official": "Koninkrijk Marokko",
+      "common": "Marokko"
+    },
+    "por": {
+      "official": "Reino de Marrocos",
+      "common": "Marrocos"
+    },
+    "rus": {
+      "official": "Королевство Марокко",
+      "common": "Марокко"
+    },
+    "spa": {
+      "official": "Reino de Marruecos",
+      "common": "Marruecos"
+    },
+    "fin": {
+      "official": "Marokon kuningaskunta",
+      "common": "Marokko"
+    }
+  },
+  "latlng": [
+    32,
+    -5
+  ],
+  "demonym": "Moroccan",
+  "landlocked": false,
   "borders": [
     "DZA",
     "ESH",
     "ESP"
   ],
-  "capital": "Rabat",
-  "demonym": "Moroccan",
-  "flag": "",
+  "area": 446550,
+  "codes": {
+    "cca2": "MA",
+    "ccn3": "504",
+    "cca3": "MAR",
+    "cioc": "MAR"
+  },
+  "provinces": [
+    "Agadir",
+    "Al Hoceima",
+    "Azilal",
+    "Ben Slimane",
+    "Beni Mellal",
+    "Boulemane",
+    "Casablanca",
+    "Chaouen",
+    "El Jadida",
+    "El Kelaa des Srarhna",
+    "Er Rachidia",
+    "Essaouira",
+    "Fes",
+    "Figuig",
+    "Guelmim",
+    "Ifrane",
+    "Kenitra",
+    "Khemisset",
+    "Khenifra",
+    "Khouribga",
+    "Laayoune",
+    "Larache",
+    "Marrakech",
+    "Meknes",
+    "Nador",
+    "Ouarzazate",
+    "Oujda",
+    "Rabat-Sale",
+    "Safi",
+    "Settat",
+    "Sidi Kacem",
+    "Tan-Tan",
+    "Tanger",
+    "Taounate",
+    "Taroudannt",
+    "Tata",
+    "Taza",
+    "Tetouan",
+    "Tiznit"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -302,120 +411,5 @@
       }
     ]
   },
-  "languages": {
-    "ara": "Arabic",
-    "ber": "Berber"
-  },
-  "latlng": [
-    32,
-    -5
-  ],
-  "nativeName": "المغرب",
-  "population": 33465000,
-  "provinces": [
-    "Agadir",
-    "Al Hoceima",
-    "Azilal",
-    "Ben Slimane",
-    "Beni Mellal",
-    "Boulemane",
-    "Casablanca",
-    "Chaouen",
-    "El Jadida",
-    "El Kelaa des Srarhna",
-    "Er Rachidia",
-    "Essaouira",
-    "Fes",
-    "Figuig",
-    "Guelmim",
-    "Ifrane",
-    "Kenitra",
-    "Khemisset",
-    "Khenifra",
-    "Khouribga",
-    "Laayoune",
-    "Larache",
-    "Marrakech",
-    "Meknes",
-    "Nador",
-    "Ouarzazate",
-    "Oujda",
-    "Rabat-Sale",
-    "Safi",
-    "Settat",
-    "Sidi Kacem",
-    "Tan-Tan",
-    "Tanger",
-    "Taounate",
-    "Taroudannt",
-    "Tata",
-    "Taza",
-    "Tetouan",
-    "Tiznit"
-  ],
-  "region": "Africa",
-  "subregion": "Northern Africa",
-  "timezones": [
-    "UTC"
-  ],
-  "tld": [
-    ".ma",
-    "المغرب."
-  ],
-  "translations": {
-    "deu": {
-      "official": "Königreich Marokko",
-      "common": "Marokko"
-    },
-    "fra": {
-      "official": "Royaume du Maroc",
-      "common": "Maroc"
-    },
-    "hrv": {
-      "official": "Kraljevina Maroko",
-      "common": "Maroko"
-    },
-    "ita": {
-      "official": "Regno del Marocco",
-      "common": "Marocco"
-    },
-    "jpn": {
-      "official": "モロッコ王国",
-      "common": "モロッコ"
-    },
-    "nld": {
-      "official": "Koninkrijk Marokko",
-      "common": "Marokko"
-    },
-    "por": {
-      "official": "Reino de Marrocos",
-      "common": "Marrocos"
-    },
-    "rus": {
-      "official": "Королевство Марокко",
-      "common": "Марокко"
-    },
-    "spa": {
-      "official": "Reino de Marruecos",
-      "common": "Marruecos"
-    },
-    "fin": {
-      "official": "Marokon kuningaskunta",
-      "common": "Marokko"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/morocco",
-  "currency": [
-    "MAD"
-  ],
-  "callingCode": [
-    "212"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "MA",
-    "ccn3": "504",
-    "cca3": "MAR",
-    "cioc": "MAR"
-  }
+  "flag": ""
 }

@@ -17,38 +17,29 @@
       }
     }
   },
+  "tld": [
+    ".je"
+  ],
+  "currency": [
+    "GBP"
+  ],
+  "callingCode": [
+    "44"
+  ],
+  "capital": "Saint Helier",
   "altSpellings": [
     "JE",
     "Bailiwick of Jersey",
     "Bailliage de Jersey",
     "Bailliage dé Jèrri"
   ],
-  "area": 116,
-  "borders": [],
-  "capital": "Saint Helier",
-  "demonym": "Channel Islander",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Europe",
+  "subregion": "Northern Europe",
   "languages": {
     "eng": "English",
     "fra": "French",
     "nrf": "Jèrriais"
   },
-  "latlng": [
-    49.25,
-    -2.16666666
-  ],
-  "nativeName": "Jersey",
-  "population": 99000,
-  "provinces": [
-    "Jersey"
-  ],
-  "region": "Europe",
-  "subregion": "Northern Europe",
-  "timezones": null,
-  "tld": [
-    ".je"
-  ],
   "translations": {
     "deu": {
       "official": "Vogtei Jersey",
@@ -91,18 +82,23 @@
       "common": "Jersey"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/jersey",
-  "currency": [
-    "GBP"
+  "latlng": [
+    49.25,
+    -2.16666666
   ],
-  "callingCode": [
-    "44"
-  ],
+  "demonym": "Channel Islander",
   "landlocked": false,
+  "borders": [],
+  "area": 116,
   "codes": {
     "cca2": "JE",
     "ccn3": "832",
     "cca3": "JEY",
     "cioc": ""
-  }
+  },
+  "provinces": [
+    "Jersey"
+  ],
+  "geoJSON": {},
+  "flag": ""
 }

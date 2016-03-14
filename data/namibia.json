@@ -41,21 +41,111 @@
       }
     }
   },
+  "tld": [
+    ".na"
+  ],
+  "currency": [
+    "NAD",
+    "ZAR"
+  ],
+  "callingCode": [
+    "264"
+  ],
+  "capital": "Windhoek",
   "altSpellings": [
     "NA",
     "Namibië",
     "Republic of Namibia"
   ],
-  "area": 825615,
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "languages": {
+    "afr": "Afrikaans",
+    "deu": "German",
+    "eng": "English",
+    "her": "Herero",
+    "hgm": "Khoekhoe",
+    "kwn": "Kwangali",
+    "loz": "Lozi",
+    "ndo": "Ndonga",
+    "tsn": "Tswana"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Namibia",
+      "common": "Namibia"
+    },
+    "fra": {
+      "official": "République de Namibie",
+      "common": "Namibie"
+    },
+    "hrv": {
+      "official": "Republika Namibija",
+      "common": "Namibija"
+    },
+    "ita": {
+      "official": "Repubblica di Namibia",
+      "common": "Namibia"
+    },
+    "jpn": {
+      "official": "ナミビア共和国",
+      "common": "ナミビア"
+    },
+    "nld": {
+      "official": "Republiek Namibië",
+      "common": "Namibië"
+    },
+    "por": {
+      "official": "República da Namíbia",
+      "common": "Namíbia"
+    },
+    "rus": {
+      "official": "Республика Намибия",
+      "common": "Намибия"
+    },
+    "spa": {
+      "official": "República de Namibia",
+      "common": "Namibia"
+    },
+    "fin": {
+      "official": "Namibian tasavalta",
+      "common": "Namibia"
+    }
+  },
+  "latlng": [
+    -22,
+    17
+  ],
+  "demonym": "Namibian",
+  "landlocked": false,
   "borders": [
     "AGO",
     "BWA",
     "ZAF",
     "ZMB"
   ],
-  "capital": "Windhoek",
-  "demonym": "Namibian",
-  "flag": "",
+  "area": 825615,
+  "codes": {
+    "cca2": "NA",
+    "ccn3": "516",
+    "cca3": "NAM",
+    "cioc": "NAM"
+  },
+  "provinces": [
+    "Caprivi",
+    "Erongo",
+    "Hardap",
+    "Karas",
+    "Khomas",
+    "Kunene",
+    "Ohangwena",
+    "Okavango",
+    "Omaheke",
+    "Omusati",
+    "Oshana",
+    "Oshikoto",
+    "Otjozondjupa"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -251,101 +341,5 @@
       }
     ]
   },
-  "languages": {
-    "afr": "Afrikaans",
-    "deu": "German",
-    "eng": "English",
-    "her": "Herero",
-    "hgm": "Khoekhoe",
-    "kwn": "Kwangali",
-    "loz": "Lozi",
-    "ndo": "Ndonga",
-    "tsn": "Tswana"
-  },
-  "latlng": [
-    -22,
-    17
-  ],
-  "nativeName": "Namibia",
-  "population": 2113077,
-  "provinces": [
-    "Caprivi",
-    "Erongo",
-    "Hardap",
-    "Karas",
-    "Khomas",
-    "Kunene",
-    "Ohangwena",
-    "Okavango",
-    "Omaheke",
-    "Omusati",
-    "Oshana",
-    "Oshikoto",
-    "Otjozondjupa"
-  ],
-  "region": "Africa",
-  "subregion": "Southern Africa",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "tld": [
-    ".na"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Namibia",
-      "common": "Namibia"
-    },
-    "fra": {
-      "official": "République de Namibie",
-      "common": "Namibie"
-    },
-    "hrv": {
-      "official": "Republika Namibija",
-      "common": "Namibija"
-    },
-    "ita": {
-      "official": "Repubblica di Namibia",
-      "common": "Namibia"
-    },
-    "jpn": {
-      "official": "ナミビア共和国",
-      "common": "ナミビア"
-    },
-    "nld": {
-      "official": "Republiek Namibië",
-      "common": "Namibië"
-    },
-    "por": {
-      "official": "República da Namíbia",
-      "common": "Namíbia"
-    },
-    "rus": {
-      "official": "Республика Намибия",
-      "common": "Намибия"
-    },
-    "spa": {
-      "official": "República de Namibia",
-      "common": "Namibia"
-    },
-    "fin": {
-      "official": "Namibian tasavalta",
-      "common": "Namibia"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/namibia",
-  "currency": [
-    "NAD",
-    "ZAR"
-  ],
-  "callingCode": [
-    "264"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "NA",
-    "ccn3": "516",
-    "cca3": "NAM",
-    "cioc": "NAM"
-  }
+  "flag": ""
 }

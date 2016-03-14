@@ -13,12 +13,75 @@
       }
     }
   },
+  "tld": [
+    ".ug"
+  ],
+  "currency": [
+    "UGX"
+  ],
+  "callingCode": [
+    "256"
+  ],
+  "capital": "Kampala",
   "altSpellings": [
     "UG",
     "Republic of Uganda",
     "Jamhuri ya Uganda"
   ],
-  "area": 241550,
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "languages": {
+    "eng": "English",
+    "swa": "Swahili"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Uganda",
+      "common": "Uganda"
+    },
+    "fra": {
+      "official": "République de l'Ouganda",
+      "common": "Ouganda"
+    },
+    "hrv": {
+      "official": "Republika Uganda",
+      "common": "Uganda"
+    },
+    "ita": {
+      "official": "Repubblica di Uganda",
+      "common": "Uganda"
+    },
+    "jpn": {
+      "official": "ウガンダ共和国",
+      "common": "ウガンダ"
+    },
+    "nld": {
+      "official": "Republiek Uganda",
+      "common": "Oeganda"
+    },
+    "por": {
+      "official": "República do Uganda",
+      "common": "Uganda"
+    },
+    "rus": {
+      "official": "Республика Уганда",
+      "common": "Уганда"
+    },
+    "spa": {
+      "official": "República de Uganda",
+      "common": "Uganda"
+    },
+    "fin": {
+      "official": "Ugandan tasavalta",
+      "common": "Uganda"
+    }
+  },
+  "latlng": [
+    1,
+    32
+  ],
+  "demonym": "Ugandan",
+  "landlocked": true,
   "borders": [
     "COD",
     "KEN",
@@ -26,9 +89,60 @@
     "SSD",
     "TZA"
   ],
-  "capital": "Kampala",
-  "demonym": "Ugandan",
-  "flag": "",
+  "area": 241550,
+  "codes": {
+    "cca2": "UG",
+    "ccn3": "800",
+    "cca3": "UGA",
+    "cioc": "UGA"
+  },
+  "provinces": [
+    "Adjumani",
+    "Apac",
+    "Arua",
+    "Bugiri",
+    "Bundibugyo",
+    "Bushenyi",
+    "Busia",
+    "Gulu",
+    "Hoima",
+    "Iganga",
+    "Jinja",
+    "Kabale",
+    "Kabarole",
+    "Kalangala",
+    "Kampala",
+    "Kamuli",
+    "Kapchorwa",
+    "Kasese",
+    "Katakwi",
+    "Kibale",
+    "Kiboga",
+    "Kisoro",
+    "Kitgum",
+    "Kotido",
+    "Kumi",
+    "Lira",
+    "Luwero",
+    "Masaka",
+    "Masindi",
+    "Mbale",
+    "Mbarara",
+    "Moroto",
+    "Moyo",
+    "Mpigi",
+    "Mubende",
+    "Mukono",
+    "Nakasongola",
+    "Nebbi",
+    "Ntungamo",
+    "Pallisa",
+    "Rakai",
+    "Rukungiri",
+    "Sembabule",
+    "Soroti",
+    "Tororo"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -156,125 +270,5 @@
       }
     ]
   },
-  "languages": {
-    "eng": "English",
-    "swa": "Swahili"
-  },
-  "latlng": [
-    1,
-    32
-  ],
-  "nativeName": "Uganda",
-  "population": 34856813,
-  "provinces": [
-    "Adjumani",
-    "Apac",
-    "Arua",
-    "Bugiri",
-    "Bundibugyo",
-    "Bushenyi",
-    "Busia",
-    "Gulu",
-    "Hoima",
-    "Iganga",
-    "Jinja",
-    "Kabale",
-    "Kabarole",
-    "Kalangala",
-    "Kampala",
-    "Kamuli",
-    "Kapchorwa",
-    "Kasese",
-    "Katakwi",
-    "Kibale",
-    "Kiboga",
-    "Kisoro",
-    "Kitgum",
-    "Kotido",
-    "Kumi",
-    "Lira",
-    "Luwero",
-    "Masaka",
-    "Masindi",
-    "Mbale",
-    "Mbarara",
-    "Moroto",
-    "Moyo",
-    "Mpigi",
-    "Mubende",
-    "Mukono",
-    "Nakasongola",
-    "Nebbi",
-    "Ntungamo",
-    "Pallisa",
-    "Rakai",
-    "Rukungiri",
-    "Sembabule",
-    "Soroti",
-    "Tororo"
-  ],
-  "region": "Africa",
-  "subregion": "Eastern Africa",
-  "timezones": [
-    "UTC+03:00"
-  ],
-  "tld": [
-    ".ug"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Uganda",
-      "common": "Uganda"
-    },
-    "fra": {
-      "official": "République de l'Ouganda",
-      "common": "Ouganda"
-    },
-    "hrv": {
-      "official": "Republika Uganda",
-      "common": "Uganda"
-    },
-    "ita": {
-      "official": "Repubblica di Uganda",
-      "common": "Uganda"
-    },
-    "jpn": {
-      "official": "ウガンダ共和国",
-      "common": "ウガンダ"
-    },
-    "nld": {
-      "official": "Republiek Uganda",
-      "common": "Oeganda"
-    },
-    "por": {
-      "official": "República do Uganda",
-      "common": "Uganda"
-    },
-    "rus": {
-      "official": "Республика Уганда",
-      "common": "Уганда"
-    },
-    "spa": {
-      "official": "República de Uganda",
-      "common": "Uganda"
-    },
-    "fin": {
-      "official": "Ugandan tasavalta",
-      "common": "Uganda"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/uganda",
-  "currency": [
-    "UGX"
-  ],
-  "callingCode": [
-    "256"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "UG",
-    "ccn3": "800",
-    "cca3": "UGA",
-    "cioc": "UGA"
-  }
+  "flag": ""
 }

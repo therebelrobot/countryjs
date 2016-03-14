@@ -9,10 +9,76 @@
       }
     }
   },
+  "tld": [
+    ".bf"
+  ],
+  "currency": [
+    "XOF"
+  ],
+  "callingCode": [
+    "226"
+  ],
+  "capital": "Ouagadougou",
   "altSpellings": [
     "BF"
   ],
-  "area": 272967,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "languages": {
+    "fra": "French"
+  },
+  "translations": {
+    "cym": {
+      "official": "Burkina Faso",
+      "common": "Burkina Faso"
+    },
+    "deu": {
+      "official": "Burkina Faso",
+      "common": "Burkina Faso"
+    },
+    "fra": {
+      "official": "République du Burkina",
+      "common": "Burkina Faso"
+    },
+    "hrv": {
+      "official": "Burkina Faso",
+      "common": "Burkina Faso"
+    },
+    "ita": {
+      "official": "Burkina Faso",
+      "common": "Burkina Faso"
+    },
+    "jpn": {
+      "official": "ブルキナファソ",
+      "common": "ブルキナファソ"
+    },
+    "nld": {
+      "official": "Burkina Faso",
+      "common": "Burkina Faso"
+    },
+    "por": {
+      "official": "Burkina Faso",
+      "common": "Burkina Faso"
+    },
+    "rus": {
+      "official": "Буркина -Фасо",
+      "common": "Буркина-Фасо"
+    },
+    "spa": {
+      "official": "Burkina Faso",
+      "common": "Burkina Faso"
+    },
+    "fin": {
+      "official": "Burkina Faso",
+      "common": "Burkina Faso"
+    }
+  },
+  "latlng": [
+    13,
+    -2
+  ],
+  "demonym": "Burkinabe",
+  "landlocked": true,
   "borders": [
     "BEN",
     "CIV",
@@ -21,9 +87,61 @@
     "NER",
     "TGO"
   ],
-  "capital": "Ouagadougou",
-  "demonym": "Burkinabe",
-  "flag": "",
+  "area": 272967,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Burkina Faso.svg",
+  "codes": {
+    "cca2": "BF",
+    "ccn3": "854",
+    "cca3": "BFA",
+    "cioc": "BUR"
+  },
+  "provinces": [
+    "Bale",
+    "Bam",
+    "Banwa",
+    "Bazega",
+    "Bougouriba",
+    "Boulgou",
+    "Boulkiemde",
+    "Comoe",
+    "Ganzourgou",
+    "Gnagna",
+    "Gourma",
+    "Houet",
+    "Ioba",
+    "Kadiogo",
+    "Kenedougou",
+    "Komandjari",
+    "Kompienga",
+    "Kossi",
+    "Koupelogo",
+    "Kouritenga",
+    "Kourweogo",
+    "Leraba",
+    "Loroum",
+    "Mouhoun",
+    "Nahouri",
+    "Namentenga",
+    "Naumbiel",
+    "Nayala",
+    "Oubritenga",
+    "Oudalan",
+    "Passore",
+    "Poni",
+    "Samentenga",
+    "Sanguie",
+    "Seno",
+    "Sissili",
+    "Soum",
+    "Sourou",
+    "Tapoa",
+    "Tuy",
+    "Yagha",
+    "Yatenga",
+    "Ziro",
+    "Zondomo",
+    "Zoundweogo"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -198,129 +316,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "fra": "French"
-  },
-  "latlng": [
-    13,
-    -2
-  ],
-  "nativeName": "Burkina Faso",
-  "population": 17322796,
-  "provinces": [
-    "Bale",
-    "Bam",
-    "Banwa",
-    "Bazega",
-    "Bougouriba",
-    "Boulgou",
-    "Boulkiemde",
-    "Comoe",
-    "Ganzourgou",
-    "Gnagna",
-    "Gourma",
-    "Houet",
-    "Ioba",
-    "Kadiogo",
-    "Kenedougou",
-    "Komandjari",
-    "Kompienga",
-    "Kossi",
-    "Koupelogo",
-    "Kouritenga",
-    "Kourweogo",
-    "Leraba",
-    "Loroum",
-    "Mouhoun",
-    "Nahouri",
-    "Namentenga",
-    "Naumbiel",
-    "Nayala",
-    "Oubritenga",
-    "Oudalan",
-    "Passore",
-    "Poni",
-    "Samentenga",
-    "Sanguie",
-    "Seno",
-    "Sissili",
-    "Soum",
-    "Sourou",
-    "Tapoa",
-    "Tuy",
-    "Yagha",
-    "Yatenga",
-    "Ziro",
-    "Zondomo",
-    "Zoundweogo"
-  ],
-  "region": "Africa",
-  "subregion": "Western Africa",
-  "timezones": [
-    "UTC"
-  ],
-  "tld": [
-    ".bf"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Burkina Faso",
-      "common": "Burkina Faso"
-    },
-    "deu": {
-      "official": "Burkina Faso",
-      "common": "Burkina Faso"
-    },
-    "fra": {
-      "official": "République du Burkina",
-      "common": "Burkina Faso"
-    },
-    "hrv": {
-      "official": "Burkina Faso",
-      "common": "Burkina Faso"
-    },
-    "ita": {
-      "official": "Burkina Faso",
-      "common": "Burkina Faso"
-    },
-    "jpn": {
-      "official": "ブルキナファソ",
-      "common": "ブルキナファソ"
-    },
-    "nld": {
-      "official": "Burkina Faso",
-      "common": "Burkina Faso"
-    },
-    "por": {
-      "official": "Burkina Faso",
-      "common": "Burkina Faso"
-    },
-    "rus": {
-      "official": "Буркина -Фасо",
-      "common": "Буркина-Фасо"
-    },
-    "spa": {
-      "official": "Burkina Faso",
-      "common": "Burkina Faso"
-    },
-    "fin": {
-      "official": "Burkina Faso",
-      "common": "Burkina Faso"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/burkina_faso",
-  "currency": [
-    "XOF"
-  ],
-  "callingCode": [
-    "226"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "BF",
-    "ccn3": "854",
-    "cca3": "BFA",
-    "cioc": "BUR"
   }
 }

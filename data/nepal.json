@@ -9,19 +9,102 @@
       }
     }
   },
+  "tld": [
+    ".np"
+  ],
+  "currency": [
+    "NPR"
+  ],
+  "callingCode": [
+    "977"
+  ],
+  "capital": "Kathmandu",
   "altSpellings": [
     "NP",
     "Federal Democratic Republic of Nepal",
     "Loktāntrik Ganatantra Nepāl"
   ],
-  "area": 147181,
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "languages": {
+    "nep": "Nepali"
+  },
+  "translations": {
+    "deu": {
+      "official": "Demokratischen Bundesrepublik Nepal",
+      "common": "Népal"
+    },
+    "fra": {
+      "official": "République du Népal",
+      "common": "Népal"
+    },
+    "hrv": {
+      "official": "Savezna Demokratska Republika Nepal",
+      "common": "Nepal"
+    },
+    "ita": {
+      "official": "Repubblica federale democratica del Nepal",
+      "common": "Nepal"
+    },
+    "jpn": {
+      "official": "ネパール連邦民主共和国",
+      "common": "ネパール"
+    },
+    "nld": {
+      "official": "Federale Democratische Republiek Nepal",
+      "common": "Nepal"
+    },
+    "por": {
+      "official": "República Democrática Federal do Nepal",
+      "common": "Nepal"
+    },
+    "rus": {
+      "official": "Федеративная Демократическая Республика Непал",
+      "common": "Непал"
+    },
+    "spa": {
+      "official": "República Democrática Federal de Nepal",
+      "common": "Nepal"
+    },
+    "fin": {
+      "official": "Nepalin demokraattinen liittotasavalta",
+      "common": "Nepal"
+    }
+  },
+  "latlng": [
+    28,
+    84
+  ],
+  "demonym": "Nepalese",
+  "landlocked": true,
   "borders": [
     "CHN",
     "IND"
   ],
-  "capital": "Kathmandu",
-  "demonym": "Nepalese",
-  "flag": "",
+  "area": 147181,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Nepal.svg",
+  "codes": {
+    "cca2": "NP",
+    "ccn3": "524",
+    "cca3": "NPL",
+    "cioc": "NEP"
+  },
+  "provinces": [
+    "Bagmati",
+    "Bheri",
+    "Dhawalagiri",
+    "Gandaki",
+    "Janakpur",
+    "Karnali",
+    "Kosi",
+    "Lumbini",
+    "Mahakali",
+    "Mechi",
+    "Narayani",
+    "Rapti",
+    "Sagarmatha",
+    "Seti"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -132,94 +215,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "nep": "Nepali"
-  },
-  "latlng": [
-    28,
-    84
-  ],
-  "nativeName": "नपल",
-  "population": 27646053,
-  "provinces": [
-    "Bagmati",
-    "Bheri",
-    "Dhawalagiri",
-    "Gandaki",
-    "Janakpur",
-    "Karnali",
-    "Kosi",
-    "Lumbini",
-    "Mahakali",
-    "Mechi",
-    "Narayani",
-    "Rapti",
-    "Sagarmatha",
-    "Seti"
-  ],
-  "region": "Asia",
-  "subregion": "Southern Asia",
-  "timezones": [
-    "UTC+05:45"
-  ],
-  "tld": [
-    ".np"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Demokratischen Bundesrepublik Nepal",
-      "common": "Népal"
-    },
-    "fra": {
-      "official": "République du Népal",
-      "common": "Népal"
-    },
-    "hrv": {
-      "official": "Savezna Demokratska Republika Nepal",
-      "common": "Nepal"
-    },
-    "ita": {
-      "official": "Repubblica federale democratica del Nepal",
-      "common": "Nepal"
-    },
-    "jpn": {
-      "official": "ネパール連邦民主共和国",
-      "common": "ネパール"
-    },
-    "nld": {
-      "official": "Federale Democratische Republiek Nepal",
-      "common": "Nepal"
-    },
-    "por": {
-      "official": "República Democrática Federal do Nepal",
-      "common": "Nepal"
-    },
-    "rus": {
-      "official": "Федеративная Демократическая Республика Непал",
-      "common": "Непал"
-    },
-    "spa": {
-      "official": "República Democrática Federal de Nepal",
-      "common": "Nepal"
-    },
-    "fin": {
-      "official": "Nepalin demokraattinen liittotasavalta",
-      "common": "Nepal"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/nepal",
-  "currency": [
-    "NPR"
-  ],
-  "callingCode": [
-    "977"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "NP",
-    "ccn3": "524",
-    "cca3": "NPL",
-    "cioc": "NEP"
   }
 }

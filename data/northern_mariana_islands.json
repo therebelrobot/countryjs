@@ -17,40 +17,28 @@
       }
     }
   },
+  "tld": [
+    ".mp"
+  ],
+  "currency": [
+    "USD"
+  ],
+  "callingCode": [
+    "1670"
+  ],
+  "capital": "Saipan",
   "altSpellings": [
     "MP",
     "Commonwealth of the Northern Mariana Islands",
     "Sankattan Siha Na Islas Mariånas"
   ],
-  "area": 464,
-  "borders": [],
-  "capital": "Saipan",
-  "demonym": "American",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Oceania",
+  "subregion": "Micronesia",
   "languages": {
     "cal": "Carolinian",
     "cha": "Chamorro",
     "eng": "English"
   },
-  "latlng": [
-    15.2,
-    145.75
-  ],
-  "nativeName": "Northern Mariana Islands",
-  "population": 53883,
-  "provinces": [
-    "Northern Islands",
-    "Rota",
-    "Saipan",
-    "Tinian"
-  ],
-  "region": "Oceania",
-  "subregion": "Micronesia",
-  "timezones": null,
-  "tld": [
-    ".mp"
-  ],
   "translations": {
     "deu": {
       "official": "Commonwealth der Nördlichen Marianen",
@@ -93,18 +81,26 @@
       "common": "Pohjois-Mariaanit"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/northern_mariana_islands",
-  "currency": [
-    "USD"
+  "latlng": [
+    15.2,
+    145.75
   ],
-  "callingCode": [
-    "1670"
-  ],
+  "demonym": "American",
   "landlocked": false,
+  "borders": [],
+  "area": 464,
   "codes": {
     "cca2": "MP",
     "ccn3": "580",
     "cca3": "MNP",
     "cioc": ""
-  }
+  },
+  "provinces": [
+    "Northern Islands",
+    "Rota",
+    "Saipan",
+    "Tinian"
+  ],
+  "geoJSON": {},
+  "flag": ""
 }

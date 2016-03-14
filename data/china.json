@@ -9,6 +9,20 @@
       }
     }
   },
+  "tld": [
+    ".cn",
+    ".中国",
+    ".中國",
+    ".公司",
+    ".网络"
+  ],
+  "currency": [
+    "CNY"
+  ],
+  "callingCode": [
+    "86"
+  ],
+  "capital": "Beijing",
   "altSpellings": [
     "CN",
     "Zhōngguó",
@@ -18,7 +32,63 @@
     "中华人民共和国",
     "Zhōnghuá Rénmín Gònghéguó"
   ],
-  "area": 9706961,
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "languages": {
+    "cmn": "Mandarin"
+  },
+  "translations": {
+    "cym": {
+      "official": "People's Republic of China",
+      "common": "Tsieina"
+    },
+    "deu": {
+      "official": "Volksrepublik China",
+      "common": "China"
+    },
+    "fra": {
+      "official": "République populaire de Chine",
+      "common": "Chine"
+    },
+    "hrv": {
+      "official": "Narodna Republika Kina",
+      "common": "Kina"
+    },
+    "ita": {
+      "official": "Repubblica popolare cinese",
+      "common": "Cina"
+    },
+    "jpn": {
+      "official": "中華人民共和国",
+      "common": "中国"
+    },
+    "nld": {
+      "official": "Volksrepubliek China",
+      "common": "China"
+    },
+    "por": {
+      "official": "República Popular da China",
+      "common": "China"
+    },
+    "rus": {
+      "official": "Народная Республика Китай",
+      "common": "Китай"
+    },
+    "spa": {
+      "official": "República Popular de China",
+      "common": "China"
+    },
+    "fin": {
+      "official": "Kiinan kansantasavalta",
+      "common": "Kiina"
+    }
+  },
+  "latlng": [
+    35,
+    105
+  ],
+  "demonym": "Chinese",
+  "landlocked": false,
   "borders": [
     "AFG",
     "BTN",
@@ -36,9 +106,47 @@
     "TJK",
     "VNM"
   ],
-  "capital": "Beijing",
-  "demonym": "Chinese",
-  "flag": "",
+  "area": 9706961,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag_of_the_People%27s_Republic_of_China.svg",
+  "codes": {
+    "cca2": "CN",
+    "ccn3": "156",
+    "cca3": "CHN",
+    "cioc": "CHN"
+  },
+  "provinces": [
+    "Anhui",
+    "Beijing",
+    "Chongqing",
+    "Fujian",
+    "Gansu",
+    "Guangdong",
+    "Guangxi",
+    "Guizhou",
+    "Hainan",
+    "Hebei",
+    "Heilongjiang",
+    "Henan",
+    "Hubei",
+    "Hunan",
+    "Jiangsu",
+    "Jiangxi",
+    "Jilin",
+    "Liaoning",
+    "Nei Mongol",
+    "Ningxia",
+    "Qinghai",
+    "Shaanxi",
+    "Shandong",
+    "Shanghai",
+    "Shanxi",
+    "Sichuan",
+    "Tianjin",
+    "Xinjiang",
+    "Xizang (Tibet)",
+    "Yunnan",
+    "Zhejiang"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -1023,119 +1131,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "cmn": "Mandarin"
-  },
-  "latlng": [
-    35,
-    105
-  ],
-  "nativeName": "中国",
-  "population": 1367110000,
-  "provinces": [
-    "Anhui",
-    "Beijing",
-    "Chongqing",
-    "Fujian",
-    "Gansu",
-    "Guangdong",
-    "Guangxi",
-    "Guizhou",
-    "Hainan",
-    "Hebei",
-    "Heilongjiang",
-    "Henan",
-    "Hubei",
-    "Hunan",
-    "Jiangsu",
-    "Jiangxi",
-    "Jilin",
-    "Liaoning",
-    "Nei Mongol",
-    "Ningxia",
-    "Qinghai",
-    "Shaanxi",
-    "Shandong",
-    "Shanghai",
-    "Shanxi",
-    "Sichuan",
-    "Tianjin",
-    "Xinjiang",
-    "Xizang (Tibet)",
-    "Yunnan",
-    "Zhejiang"
-  ],
-  "region": "Asia",
-  "subregion": "Eastern Asia",
-  "timezones": [
-    "UTC+08:00"
-  ],
-  "tld": [
-    ".cn",
-    ".中国",
-    ".中國",
-    ".公司",
-    ".网络"
-  ],
-  "translations": {
-    "cym": {
-      "official": "People's Republic of China",
-      "common": "Tsieina"
-    },
-    "deu": {
-      "official": "Volksrepublik China",
-      "common": "China"
-    },
-    "fra": {
-      "official": "République populaire de Chine",
-      "common": "Chine"
-    },
-    "hrv": {
-      "official": "Narodna Republika Kina",
-      "common": "Kina"
-    },
-    "ita": {
-      "official": "Repubblica popolare cinese",
-      "common": "Cina"
-    },
-    "jpn": {
-      "official": "中華人民共和国",
-      "common": "中国"
-    },
-    "nld": {
-      "official": "Volksrepubliek China",
-      "common": "China"
-    },
-    "por": {
-      "official": "República Popular da China",
-      "common": "China"
-    },
-    "rus": {
-      "official": "Народная Республика Китай",
-      "common": "Китай"
-    },
-    "spa": {
-      "official": "República Popular de China",
-      "common": "China"
-    },
-    "fin": {
-      "official": "Kiinan kansantasavalta",
-      "common": "Kiina"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/china",
-  "currency": [
-    "CNY"
-  ],
-  "callingCode": [
-    "86"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "CN",
-    "ccn3": "156",
-    "cca3": "CHN",
-    "cioc": "CHN"
   }
 }

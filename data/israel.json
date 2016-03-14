@@ -13,21 +13,97 @@
       }
     }
   },
+  "tld": [
+    ".il"
+  ],
+  "currency": [
+    "ILS"
+  ],
+  "callingCode": [
+    "972"
+  ],
+  "capital": "Jerusalem",
   "altSpellings": [
     "IL",
     "State of Israel",
     "Medīnat Yisrā'el"
   ],
-  "area": 20770,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "ara": "Arabic",
+    "heb": "Hebrew"
+  },
+  "translations": {
+    "deu": {
+      "official": "Staat Israel",
+      "common": "Israel"
+    },
+    "fra": {
+      "official": "État d'Israël",
+      "common": "Israël"
+    },
+    "hrv": {
+      "official": "Država Izrael",
+      "common": "Izrael"
+    },
+    "ita": {
+      "official": "Stato di Israele",
+      "common": "Israele"
+    },
+    "jpn": {
+      "official": "イスラエル国",
+      "common": "イスラエル"
+    },
+    "nld": {
+      "official": "Staat Israël",
+      "common": "Israël"
+    },
+    "por": {
+      "official": "Estado de Israel",
+      "common": "Israel"
+    },
+    "rus": {
+      "official": "Государство Израиль",
+      "common": "Израиль"
+    },
+    "spa": {
+      "official": "Estado de Israel",
+      "common": "Israel"
+    },
+    "fin": {
+      "official": "Israelin valtio",
+      "common": "Israel"
+    }
+  },
+  "latlng": [
+    31.47,
+    35.13
+  ],
+  "demonym": "Israeli",
+  "landlocked": false,
   "borders": [
     "EGY",
     "JOR",
     "LBN",
     "SYR"
   ],
-  "capital": "Jerusalem",
-  "demonym": "Israeli",
-  "flag": "",
+  "area": 20770,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Israel.svg",
+  "codes": {
+    "cca2": "IL",
+    "ccn3": "376",
+    "cca3": "ISR",
+    "cioc": "ISR"
+  },
+  "provinces": [
+    "Central",
+    "Haifa",
+    "Jerusalem",
+    "Northern",
+    "Southern",
+    "Tel Aviv"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -138,87 +214,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "ara": "Arabic",
-    "heb": "Hebrew"
-  },
-  "latlng": [
-    31.47,
-    35.13
-  ],
-  "nativeName": "יִשְׂרָאֵל",
-  "population": 8268400,
-  "provinces": [
-    "Central",
-    "Haifa",
-    "Jerusalem",
-    "Northern",
-    "Southern",
-    "Tel Aviv"
-  ],
-  "region": "Asia",
-  "subregion": "Western Asia",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "tld": [
-    ".il"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Staat Israel",
-      "common": "Israel"
-    },
-    "fra": {
-      "official": "État d'Israël",
-      "common": "Israël"
-    },
-    "hrv": {
-      "official": "Država Izrael",
-      "common": "Izrael"
-    },
-    "ita": {
-      "official": "Stato di Israele",
-      "common": "Israele"
-    },
-    "jpn": {
-      "official": "イスラエル国",
-      "common": "イスラエル"
-    },
-    "nld": {
-      "official": "Staat Israël",
-      "common": "Israël"
-    },
-    "por": {
-      "official": "Estado de Israel",
-      "common": "Israel"
-    },
-    "rus": {
-      "official": "Государство Израиль",
-      "common": "Израиль"
-    },
-    "spa": {
-      "official": "Estado de Israel",
-      "common": "Israel"
-    },
-    "fin": {
-      "official": "Israelin valtio",
-      "common": "Israel"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/israel",
-  "currency": [
-    "ILS"
-  ],
-  "callingCode": [
-    "972"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "IL",
-    "ccn3": "376",
-    "cca3": "ISR",
-    "cioc": "ISR"
   }
 }

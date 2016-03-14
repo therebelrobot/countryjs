@@ -9,16 +9,105 @@
       }
     }
   },
+  "tld": [
+    ".cu"
+  ],
+  "currency": [
+    "CUC",
+    "CUP"
+  ],
+  "callingCode": [
+    "53"
+  ],
+  "capital": "Havana",
   "altSpellings": [
     "CU",
     "Republic of Cuba",
     "República de Cuba"
   ],
-  "area": 109884,
-  "borders": [],
-  "capital": "Havana",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "spa": "Spanish"
+  },
+  "translations": {
+    "cym": {
+      "official": "Republic of Cuba",
+      "common": "Ciwba"
+    },
+    "deu": {
+      "official": "Republik Kuba",
+      "common": "Kuba"
+    },
+    "fra": {
+      "official": "République de Cuba",
+      "common": "Cuba"
+    },
+    "hrv": {
+      "official": "Republika Kuba",
+      "common": "Kuba"
+    },
+    "ita": {
+      "official": "Repubblica di Cuba",
+      "common": "Cuba"
+    },
+    "jpn": {
+      "official": "キューバ共和国",
+      "common": "キューバ"
+    },
+    "nld": {
+      "official": "Republiek Cuba",
+      "common": "Cuba"
+    },
+    "por": {
+      "official": "República de Cuba",
+      "common": "Cuba"
+    },
+    "rus": {
+      "official": "Республика Куба",
+      "common": "Куба"
+    },
+    "spa": {
+      "official": "República de Cuba",
+      "common": "Cuba"
+    },
+    "fin": {
+      "official": "Kuuban tasavalta",
+      "common": "Kuuba"
+    }
+  },
+  "latlng": [
+    21.5,
+    -80
+  ],
   "demonym": "Cuban",
-  "flag": "",
+  "landlocked": false,
+  "borders": [],
+  "area": 109884,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Cuba.svg",
+  "codes": {
+    "cca2": "CU",
+    "ccn3": "192",
+    "cca3": "CUB",
+    "cioc": "CUB"
+  },
+  "provinces": [
+    "Camaguey",
+    "Ciego de Avila",
+    "Cienfuegos",
+    "Ciudad de La Habana",
+    "Granma",
+    "Guantanamo",
+    "Holguin",
+    "Isla de la Juventud",
+    "La Habana",
+    "Las Tunas",
+    "Matanzas",
+    "Pinar del Rio",
+    "Sancti Spiritus",
+    "Santiago de Cuba",
+    "Villa Clara"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -205,100 +294,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "spa": "Spanish"
-  },
-  "latlng": [
-    21.5,
-    -80
-  ],
-  "nativeName": "Cuba",
-  "population": 11210064,
-  "provinces": [
-    "Camaguey",
-    "Ciego de Avila",
-    "Cienfuegos",
-    "Ciudad de La Habana",
-    "Granma",
-    "Guantanamo",
-    "Holguin",
-    "Isla de la Juventud",
-    "La Habana",
-    "Las Tunas",
-    "Matanzas",
-    "Pinar del Rio",
-    "Sancti Spiritus",
-    "Santiago de Cuba",
-    "Villa Clara"
-  ],
-  "region": "Americas",
-  "subregion": "Caribbean",
-  "timezones": [
-    "UTC−05:00"
-  ],
-  "tld": [
-    ".cu"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Republic of Cuba",
-      "common": "Ciwba"
-    },
-    "deu": {
-      "official": "Republik Kuba",
-      "common": "Kuba"
-    },
-    "fra": {
-      "official": "République de Cuba",
-      "common": "Cuba"
-    },
-    "hrv": {
-      "official": "Republika Kuba",
-      "common": "Kuba"
-    },
-    "ita": {
-      "official": "Repubblica di Cuba",
-      "common": "Cuba"
-    },
-    "jpn": {
-      "official": "キューバ共和国",
-      "common": "キューバ"
-    },
-    "nld": {
-      "official": "Republiek Cuba",
-      "common": "Cuba"
-    },
-    "por": {
-      "official": "República de Cuba",
-      "common": "Cuba"
-    },
-    "rus": {
-      "official": "Республика Куба",
-      "common": "Куба"
-    },
-    "spa": {
-      "official": "República de Cuba",
-      "common": "Cuba"
-    },
-    "fin": {
-      "official": "Kuuban tasavalta",
-      "common": "Kuuba"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/cuba",
-  "currency": [
-    "CUC",
-    "CUP"
-  ],
-  "callingCode": [
-    "53"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "CU",
-    "ccn3": "192",
-    "cca3": "CUB",
-    "cioc": "CUB"
   }
 }

@@ -9,20 +9,98 @@
       }
     }
   },
+  "tld": [
+    ".ga"
+  ],
+  "currency": [
+    "XAF"
+  ],
+  "callingCode": [
+    "241"
+  ],
+  "capital": "Libreville",
   "altSpellings": [
     "GA",
     "Gabonese Republic",
     "République Gabonaise"
   ],
-  "area": 267668,
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "languages": {
+    "fra": "French"
+  },
+  "translations": {
+    "deu": {
+      "official": "Gabunische Republik",
+      "common": "Gabun"
+    },
+    "fra": {
+      "official": "République gabonaise",
+      "common": "Gabon"
+    },
+    "hrv": {
+      "official": "Gabon Republika",
+      "common": "Gabon"
+    },
+    "ita": {
+      "official": "Repubblica gabonese",
+      "common": "Gabon"
+    },
+    "jpn": {
+      "official": "ガボン共和国",
+      "common": "ガボン"
+    },
+    "nld": {
+      "official": "Republiek Gabon",
+      "common": "Gabon"
+    },
+    "por": {
+      "official": "República do Gabão",
+      "common": "Gabão"
+    },
+    "rus": {
+      "official": "Габона Республика",
+      "common": "Габон"
+    },
+    "spa": {
+      "official": "República de Gabón",
+      "common": "Gabón"
+    },
+    "fin": {
+      "official": "Gabonin tasavalta",
+      "common": "Gabon"
+    }
+  },
+  "latlng": [
+    -1,
+    11.75
+  ],
+  "demonym": "Gabonese",
+  "landlocked": false,
   "borders": [
     "CMR",
     "COG",
     "GNQ"
   ],
-  "capital": "Libreville",
-  "demonym": "Gabonese",
-  "flag": "",
+  "area": 267668,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Gabon.svg",
+  "codes": {
+    "cca2": "GA",
+    "ccn3": "266",
+    "cca3": "GAB",
+    "cioc": "GAB"
+  },
+  "provinces": [
+    "Estuaire",
+    "Haut-Ogooue",
+    "Moyen-Ogooue",
+    "Ngounie",
+    "Nyanga",
+    "Ogooue-Ivindo",
+    "Ogooue-Lolo",
+    "Ogooue-Maritime",
+    "Woleu-Ntem"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -165,89 +243,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "fra": "French"
-  },
-  "latlng": [
-    -1,
-    11.75
-  ],
-  "nativeName": "Gabon",
-  "population": 1711000,
-  "provinces": [
-    "Estuaire",
-    "Haut-Ogooue",
-    "Moyen-Ogooue",
-    "Ngounie",
-    "Nyanga",
-    "Ogooue-Ivindo",
-    "Ogooue-Lolo",
-    "Ogooue-Maritime",
-    "Woleu-Ntem"
-  ],
-  "region": "Africa",
-  "subregion": "Middle Africa",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "tld": [
-    ".ga"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Gabunische Republik",
-      "common": "Gabun"
-    },
-    "fra": {
-      "official": "République gabonaise",
-      "common": "Gabon"
-    },
-    "hrv": {
-      "official": "Gabon Republika",
-      "common": "Gabon"
-    },
-    "ita": {
-      "official": "Repubblica gabonese",
-      "common": "Gabon"
-    },
-    "jpn": {
-      "official": "ガボン共和国",
-      "common": "ガボン"
-    },
-    "nld": {
-      "official": "Republiek Gabon",
-      "common": "Gabon"
-    },
-    "por": {
-      "official": "República do Gabão",
-      "common": "Gabão"
-    },
-    "rus": {
-      "official": "Габона Республика",
-      "common": "Габон"
-    },
-    "spa": {
-      "official": "República de Gabón",
-      "common": "Gabón"
-    },
-    "fin": {
-      "official": "Gabonin tasavalta",
-      "common": "Gabon"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/gabon",
-  "currency": [
-    "XAF"
-  ],
-  "callingCode": [
-    "241"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "GA",
-    "ccn3": "266",
-    "cca3": "GAB",
-    "cioc": "GAB"
   }
 }

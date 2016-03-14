@@ -9,17 +9,106 @@
       }
     }
   },
+  "tld": [
+    ".mn"
+  ],
+  "currency": [
+    "MNT"
+  ],
+  "callingCode": [
+    "976"
+  ],
+  "capital": "Ulan Bator",
   "altSpellings": [
     "MN"
   ],
-  "area": 1564110,
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "languages": {
+    "mon": "Mongolian"
+  },
+  "translations": {
+    "deu": {
+      "official": "Mongolei",
+      "common": "Mongolei"
+    },
+    "fra": {
+      "official": "Mongolie",
+      "common": "Mongolie"
+    },
+    "hrv": {
+      "official": "Mongolija",
+      "common": "Mongolija"
+    },
+    "ita": {
+      "official": "Mongolia",
+      "common": "Mongolia"
+    },
+    "jpn": {
+      "official": "モンゴル",
+      "common": "モンゴル"
+    },
+    "nld": {
+      "official": "Mongolië",
+      "common": "Mongolië"
+    },
+    "por": {
+      "official": "Mongólia",
+      "common": "Mongólia"
+    },
+    "rus": {
+      "official": "Монголия",
+      "common": "Монголия"
+    },
+    "spa": {
+      "official": "Mongolia",
+      "common": "Mongolia"
+    },
+    "fin": {
+      "official": "Mongolian tasavalta",
+      "common": "Mongolia"
+    }
+  },
+  "latlng": [
+    46,
+    105
+  ],
+  "demonym": "Mongolian",
+  "landlocked": true,
   "borders": [
     "CHN",
     "RUS"
   ],
-  "capital": "Ulan Bator",
-  "demonym": "Mongolian",
-  "flag": "",
+  "area": 1564110,
+  "codes": {
+    "cca2": "MN",
+    "ccn3": "496",
+    "cca3": "MNG",
+    "cioc": "MGL"
+  },
+  "provinces": [
+    "Arhangay",
+    "Bayan-Olgiy",
+    "Bayanhongor",
+    "Bulgan",
+    "Darhan",
+    "Dornod",
+    "Dornogovi",
+    "Dundgovi",
+    "Dzavhan",
+    "Erdenet",
+    "Govi-Altay",
+    "Hentiy",
+    "Hovd",
+    "Hovsgol",
+    "Omnogovi",
+    "Ovorhangay",
+    "Selenge",
+    "Suhbaatar",
+    "Tov",
+    "Ulaanbaatar",
+    "Uvs"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -339,101 +428,5 @@
       }
     ]
   },
-  "languages": {
-    "mon": "Mongolian"
-  },
-  "latlng": [
-    46,
-    105
-  ],
-  "nativeName": "Монгол улс",
-  "population": 2987733,
-  "provinces": [
-    "Arhangay",
-    "Bayan-Olgiy",
-    "Bayanhongor",
-    "Bulgan",
-    "Darhan",
-    "Dornod",
-    "Dornogovi",
-    "Dundgovi",
-    "Dzavhan",
-    "Erdenet",
-    "Govi-Altay",
-    "Hentiy",
-    "Hovd",
-    "Hovsgol",
-    "Omnogovi",
-    "Ovorhangay",
-    "Selenge",
-    "Suhbaatar",
-    "Tov",
-    "Ulaanbaatar",
-    "Uvs"
-  ],
-  "region": "Asia",
-  "subregion": "Eastern Asia",
-  "timezones": [
-    "UTC+07:00",
-    "UTC+08:00"
-  ],
-  "tld": [
-    ".mn"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Mongolei",
-      "common": "Mongolei"
-    },
-    "fra": {
-      "official": "Mongolie",
-      "common": "Mongolie"
-    },
-    "hrv": {
-      "official": "Mongolija",
-      "common": "Mongolija"
-    },
-    "ita": {
-      "official": "Mongolia",
-      "common": "Mongolia"
-    },
-    "jpn": {
-      "official": "モンゴル",
-      "common": "モンゴル"
-    },
-    "nld": {
-      "official": "Mongolië",
-      "common": "Mongolië"
-    },
-    "por": {
-      "official": "Mongólia",
-      "common": "Mongólia"
-    },
-    "rus": {
-      "official": "Монголия",
-      "common": "Монголия"
-    },
-    "spa": {
-      "official": "Mongolia",
-      "common": "Mongolia"
-    },
-    "fin": {
-      "official": "Mongolian tasavalta",
-      "common": "Mongolia"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/mongolia",
-  "currency": [
-    "MNT"
-  ],
-  "callingCode": [
-    "976"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "MN",
-    "ccn3": "496",
-    "cca3": "MNG",
-    "cioc": "MGL"
-  }
+  "flag": ""
 }

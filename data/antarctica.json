@@ -1,5 +1,92 @@
 {
-  "flag": "",
+  "name": {
+    "common": "Antarctica",
+    "official": "Antarctica",
+    "native": []
+  },
+  "tld": [
+    ".aq"
+  ],
+  "currency": [],
+  "callingCode": [],
+  "capital": "",
+  "altSpellings": [
+    "AQ"
+  ],
+  "region": "",
+  "subregion": "",
+  "languages": {},
+  "translations": {
+    "cym": {
+      "official": "Antarctica",
+      "common": "Antarctica"
+    },
+    "deu": {
+      "official": "Antarktika",
+      "common": "Antarktis"
+    },
+    "fra": {
+      "official": "Antarctique",
+      "common": "Antarctique"
+    },
+    "hrv": {
+      "official": "Antarktika",
+      "common": "Antarktika"
+    },
+    "ita": {
+      "official": "Antartide",
+      "common": "Antartide"
+    },
+    "jpn": {
+      "official": "南極大陸",
+      "common": "南極"
+    },
+    "nld": {
+      "official": "Antarctica",
+      "common": "Antarctica"
+    },
+    "por": {
+      "official": "Antártica",
+      "common": "Antártida"
+    },
+    "rus": {
+      "official": "Антарктида",
+      "common": "Антарктида"
+    },
+    "spa": {
+      "official": "Antártida",
+      "common": "Antártida"
+    },
+    "fin": {
+      "official": "Etelämanner",
+      "common": "Etelämanner"
+    }
+  },
+  "latlng": [
+    -90,
+    0
+  ],
+  "demonym": "Antarctican",
+  "landlocked": false,
+  "borders": [],
+  "area": 14000000,
+  "codes": {
+    "cca2": "AQ",
+    "ccn3": "010",
+    "cca3": "ATA",
+    "cioc": ""
+  },
+  "provinces": [
+    "British Antarctic Territory",
+    "Ross Dependency",
+    "Adélie Land",
+    "Peter I Island",
+    "Australian Antarctic Territory",
+    "Queen Maud Land",
+    "Antártica",
+    "Argentine Antarctica",
+    "Marie Byrd Land"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -2673,93 +2760,5 @@
       }
     ]
   },
-  "provinces": [
-    "British Antarctic Territory",
-    "Ross Dependency",
-    "Adélie Land",
-    "Peter I Island",
-    "Australian Antarctic Territory",
-    "Queen Maud Land",
-    "Antártica",
-    "Argentine Antarctica",
-    "Marie Byrd Land"
-  ],
-  "tld": [
-    ".aq"
-  ],
-  "wiki": "http://en.wikipedia.org/wiki/antarctica",
-  "name": {
-    "common": "Antarctica",
-    "official": "Antarctica",
-    "native": []
-  },
-  "currency": [],
-  "callingCode": [],
-  "capital": "",
-  "altSpellings": [
-    "AQ"
-  ],
-  "region": "",
-  "subregion": "",
-  "languages": {},
-  "translations": {
-    "cym": {
-      "official": "Antarctica",
-      "common": "Antarctica"
-    },
-    "deu": {
-      "official": "Antarktika",
-      "common": "Antarktis"
-    },
-    "fra": {
-      "official": "Antarctique",
-      "common": "Antarctique"
-    },
-    "hrv": {
-      "official": "Antarktika",
-      "common": "Antarktika"
-    },
-    "ita": {
-      "official": "Antartide",
-      "common": "Antartide"
-    },
-    "jpn": {
-      "official": "南極大陸",
-      "common": "南極"
-    },
-    "nld": {
-      "official": "Antarctica",
-      "common": "Antarctica"
-    },
-    "por": {
-      "official": "Antártica",
-      "common": "Antártida"
-    },
-    "rus": {
-      "official": "Антарктида",
-      "common": "Антарктида"
-    },
-    "spa": {
-      "official": "Antártida",
-      "common": "Antártida"
-    },
-    "fin": {
-      "official": "Etelämanner",
-      "common": "Etelämanner"
-    }
-  },
-  "latlng": [
-    -90,
-    0
-  ],
-  "demonym": "Antarctican",
-  "landlocked": false,
-  "borders": [],
-  "area": 14000000,
-  "codes": {
-    "cca2": "AQ",
-    "ccn3": "010",
-    "cca3": "ATA",
-    "cioc": ""
-  }
+  "flag": ""
 }

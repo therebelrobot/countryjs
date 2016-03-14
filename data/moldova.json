@@ -9,20 +9,100 @@
       }
     }
   },
+  "tld": [
+    ".md"
+  ],
+  "currency": [
+    "MDL"
+  ],
+  "callingCode": [
+    "373"
+  ],
+  "capital": "Chișinău",
   "altSpellings": [
     "MD",
     "Moldova, Republic of",
     "Republic of Moldova",
     "Republica Moldova"
   ],
-  "area": 33846,
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "languages": {
+    "ron": "Moldavian"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Moldau",
+      "common": "Moldawie"
+    },
+    "fra": {
+      "official": "République de Moldavie",
+      "common": "Moldavie"
+    },
+    "hrv": {
+      "official": "Moldavija",
+      "common": "Moldova"
+    },
+    "ita": {
+      "official": "Repubblica di Moldova",
+      "common": "Moldavia"
+    },
+    "jpn": {
+      "official": "モルドバ共和国",
+      "common": "モルドバ共和国"
+    },
+    "nld": {
+      "official": "Republiek Moldavië",
+      "common": "Moldavië"
+    },
+    "por": {
+      "official": "República da Moldávia",
+      "common": "Moldávia"
+    },
+    "rus": {
+      "official": "Молдова",
+      "common": "Молдавия"
+    },
+    "spa": {
+      "official": "República de Moldova",
+      "common": "Moldavia"
+    },
+    "fin": {
+      "official": "Moldovan tasavalta",
+      "common": "Moldova"
+    }
+  },
+  "latlng": [
+    47,
+    29
+  ],
+  "demonym": "Moldovan",
+  "landlocked": true,
   "borders": [
     "ROU",
     "UKR"
   ],
-  "capital": "Chișinău",
-  "demonym": "Moldovan",
-  "flag": "",
+  "area": 33846,
+  "codes": {
+    "cca2": "MD",
+    "ccn3": "498",
+    "cca3": "MDA",
+    "cioc": "MDA"
+  },
+  "provinces": [
+    "Balti",
+    "Cahul",
+    "Chisinau",
+    "Chisinau",
+    "Dubasari",
+    "Edinet",
+    "Gagauzia",
+    "Lapusna",
+    "Orhei",
+    "Soroca",
+    "Tighina",
+    "Ungheni"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -150,91 +230,5 @@
       }
     ]
   },
-  "languages": {
-    "ron": "Moldavian"
-  },
-  "latlng": [
-    47,
-    29
-  ],
-  "nativeName": "Moldova",
-  "population": 3557600,
-  "provinces": [
-    "Balti",
-    "Cahul",
-    "Chisinau",
-    "Chisinau",
-    "Dubasari",
-    "Edinet",
-    "Gagauzia",
-    "Lapusna",
-    "Orhei",
-    "Soroca",
-    "Tighina",
-    "Ungheni"
-  ],
-  "region": "Europe",
-  "subregion": "Eastern Europe",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "tld": [
-    ".md"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Moldau",
-      "common": "Moldawie"
-    },
-    "fra": {
-      "official": "République de Moldavie",
-      "common": "Moldavie"
-    },
-    "hrv": {
-      "official": "Moldavija",
-      "common": "Moldova"
-    },
-    "ita": {
-      "official": "Repubblica di Moldova",
-      "common": "Moldavia"
-    },
-    "jpn": {
-      "official": "モルドバ共和国",
-      "common": "モルドバ共和国"
-    },
-    "nld": {
-      "official": "Republiek Moldavië",
-      "common": "Moldavië"
-    },
-    "por": {
-      "official": "República da Moldávia",
-      "common": "Moldávia"
-    },
-    "rus": {
-      "official": "Молдова",
-      "common": "Молдавия"
-    },
-    "spa": {
-      "official": "República de Moldova",
-      "common": "Moldavia"
-    },
-    "fin": {
-      "official": "Moldovan tasavalta",
-      "common": "Moldova"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/moldova",
-  "currency": [
-    "MDL"
-  ],
-  "callingCode": [
-    "373"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "MD",
-    "ccn3": "498",
-    "cca3": "MDA",
-    "cioc": "MDA"
-  }
+  "flag": ""
 }

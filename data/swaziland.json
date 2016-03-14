@@ -13,6 +13,16 @@
       }
     }
   },
+  "tld": [
+    ".sz"
+  ],
+  "currency": [
+    "SZL"
+  ],
+  "callingCode": [
+    "268"
+  ],
+  "capital": "Lobamba",
   "altSpellings": [
     "SZ",
     "weSwatini",
@@ -21,14 +31,78 @@
     "Kingdom of Swaziland",
     "Umbuso waseSwatini"
   ],
-  "area": 17364,
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "languages": {
+    "eng": "English",
+    "ssw": "Swazi"
+  },
+  "translations": {
+    "deu": {
+      "official": "Königreich Swasiland",
+      "common": "Swasiland"
+    },
+    "fra": {
+      "official": "Royaume du Swaziland",
+      "common": "Swaziland"
+    },
+    "hrv": {
+      "official": "Kraljevina Svazi",
+      "common": "Svazi"
+    },
+    "ita": {
+      "official": "Regno dello Swaziland",
+      "common": "Swaziland"
+    },
+    "jpn": {
+      "official": "スワジランド王国",
+      "common": "スワジランド"
+    },
+    "nld": {
+      "official": "Koninkrijk Swaziland",
+      "common": "Swaziland"
+    },
+    "por": {
+      "official": "Reino da Suazilândia",
+      "common": "Suazilândia"
+    },
+    "rus": {
+      "official": "Королевство Свазиленд",
+      "common": "Свазиленд"
+    },
+    "spa": {
+      "official": "Reino de Swazilandia",
+      "common": "Suazilandia"
+    },
+    "fin": {
+      "official": "Swazimaan kuningaskunta",
+      "common": "Swazimaa"
+    }
+  },
+  "latlng": [
+    -26.5,
+    31.5
+  ],
+  "demonym": "Swazi",
+  "landlocked": true,
   "borders": [
     "MOZ",
     "ZAF"
   ],
-  "capital": "Lobamba",
-  "demonym": "Swazi",
-  "flag": "",
+  "area": 17364,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Swaziland.svg",
+  "codes": {
+    "cca2": "SZ",
+    "ccn3": "748",
+    "cca3": "SWZ",
+    "cioc": "SWZ"
+  },
+  "provinces": [
+    "Hhohho",
+    "Lubombo",
+    "Manzini",
+    "Shiselweni"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -91,85 +165,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "eng": "English",
-    "ssw": "Swazi"
-  },
-  "latlng": [
-    -26.5,
-    31.5
-  ],
-  "nativeName": "Swaziland",
-  "population": 1106189,
-  "provinces": [
-    "Hhohho",
-    "Lubombo",
-    "Manzini",
-    "Shiselweni"
-  ],
-  "region": "Africa",
-  "subregion": "Southern Africa",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "tld": [
-    ".sz"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Königreich Swasiland",
-      "common": "Swasiland"
-    },
-    "fra": {
-      "official": "Royaume du Swaziland",
-      "common": "Swaziland"
-    },
-    "hrv": {
-      "official": "Kraljevina Svazi",
-      "common": "Svazi"
-    },
-    "ita": {
-      "official": "Regno dello Swaziland",
-      "common": "Swaziland"
-    },
-    "jpn": {
-      "official": "スワジランド王国",
-      "common": "スワジランド"
-    },
-    "nld": {
-      "official": "Koninkrijk Swaziland",
-      "common": "Swaziland"
-    },
-    "por": {
-      "official": "Reino da Suazilândia",
-      "common": "Suazilândia"
-    },
-    "rus": {
-      "official": "Королевство Свазиленд",
-      "common": "Свазиленд"
-    },
-    "spa": {
-      "official": "Reino de Swazilandia",
-      "common": "Suazilandia"
-    },
-    "fin": {
-      "official": "Swazimaan kuningaskunta",
-      "common": "Swazimaa"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/swaziland",
-  "currency": [
-    "SZL"
-  ],
-  "callingCode": [
-    "268"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "SZ",
-    "ccn3": "748",
-    "cca3": "SWZ",
-    "cioc": "SWZ"
   }
 }

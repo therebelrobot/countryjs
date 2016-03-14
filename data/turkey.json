@@ -9,13 +9,75 @@
       }
     }
   },
+  "tld": [
+    ".tr"
+  ],
+  "currency": [
+    "TRY"
+  ],
+  "callingCode": [
+    "90"
+  ],
+  "capital": "Ankara",
   "altSpellings": [
     "TR",
     "Turkiye",
     "Republic of Turkey",
     "Türkiye Cumhuriyeti"
   ],
-  "area": 783562,
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "tur": "Turkish"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Türkei",
+      "common": "Türkei"
+    },
+    "fra": {
+      "official": "République de Turquie",
+      "common": "Turquie"
+    },
+    "hrv": {
+      "official": "Republika Turska",
+      "common": "Turska"
+    },
+    "ita": {
+      "official": "Repubblica di Turchia",
+      "common": "Turchia"
+    },
+    "jpn": {
+      "official": "トルコ共和国",
+      "common": "トルコ"
+    },
+    "nld": {
+      "official": "Republiek Turkije",
+      "common": "Turkije"
+    },
+    "por": {
+      "official": "República da Turquia",
+      "common": "Turquia"
+    },
+    "rus": {
+      "official": "Республика Турции",
+      "common": "Турция"
+    },
+    "spa": {
+      "official": "República de Turquía",
+      "common": "Turquía"
+    },
+    "fin": {
+      "official": "Turkin tasavalta",
+      "common": "Turkki"
+    }
+  },
+  "latlng": [
+    39,
+    35
+  ],
+  "demonym": "Turkish",
+  "landlocked": false,
   "borders": [
     "ARM",
     "AZE",
@@ -26,9 +88,96 @@
     "IRQ",
     "SYR"
   ],
-  "capital": "Ankara",
-  "demonym": "Turkish",
-  "flag": "",
+  "area": 783562,
+  "codes": {
+    "cca2": "TR",
+    "ccn3": "792",
+    "cca3": "TUR",
+    "cioc": "TUR"
+  },
+  "provinces": [
+    "Adana",
+    "Adiyaman",
+    "Afyon",
+    "Agri",
+    "Aksaray",
+    "Amasya",
+    "Ankara",
+    "Antalya",
+    "Ardahan",
+    "Artvin",
+    "Aydin",
+    "Balikesir",
+    "Bartin",
+    "Batman",
+    "Bayburt",
+    "Bilecik",
+    "Bingol",
+    "Bitlis",
+    "Bolu",
+    "Burdur",
+    "Bursa",
+    "Canakkale",
+    "Cankiri",
+    "Corum",
+    "Denizli",
+    "Diyarbakir",
+    "Duzce",
+    "Edirne",
+    "Elazig",
+    "Erzincan",
+    "Erzurum",
+    "Eskisehir",
+    "Gaziantep",
+    "Giresun",
+    "Gumushane",
+    "Hakkari",
+    "Hatay",
+    "Icel",
+    "Igdir",
+    "Isparta",
+    "Istanbul",
+    "Izmir",
+    "Kahramanmaras",
+    "Karabuk",
+    "Karaman",
+    "Kars",
+    "Kastamonu",
+    "Kayseri",
+    "Kilis",
+    "Kirikkale",
+    "Kirklareli",
+    "Kirsehir",
+    "Kocaeli",
+    "Konya",
+    "Kutahya",
+    "Malatya",
+    "Manisa",
+    "Mardin",
+    "Mugla",
+    "Mus",
+    "Nevsehir",
+    "Nigde",
+    "Ordu",
+    "Osmaniye",
+    "Rize",
+    "Sakarya",
+    "Samsun",
+    "Sanliurfa",
+    "Siirt",
+    "Sinop",
+    "Sirnak",
+    "Sivas",
+    "Tekirdag",
+    "Tokat",
+    "Trabzon",
+    "Tunceli",
+    "Usak",
+    "Van",
+    "Yalova",
+    "Yozgat",
+    "Zonguldak"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -322,160 +471,5 @@
       }
     ]
   },
-  "languages": {
-    "tur": "Turkish"
-  },
-  "latlng": [
-    39,
-    35
-  ],
-  "nativeName": "Türkiye",
-  "population": 76667864,
-  "provinces": [
-    "Adana",
-    "Adiyaman",
-    "Afyon",
-    "Agri",
-    "Aksaray",
-    "Amasya",
-    "Ankara",
-    "Antalya",
-    "Ardahan",
-    "Artvin",
-    "Aydin",
-    "Balikesir",
-    "Bartin",
-    "Batman",
-    "Bayburt",
-    "Bilecik",
-    "Bingol",
-    "Bitlis",
-    "Bolu",
-    "Burdur",
-    "Bursa",
-    "Canakkale",
-    "Cankiri",
-    "Corum",
-    "Denizli",
-    "Diyarbakir",
-    "Duzce",
-    "Edirne",
-    "Elazig",
-    "Erzincan",
-    "Erzurum",
-    "Eskisehir",
-    "Gaziantep",
-    "Giresun",
-    "Gumushane",
-    "Hakkari",
-    "Hatay",
-    "Icel",
-    "Igdir",
-    "Isparta",
-    "Istanbul",
-    "Izmir",
-    "Kahramanmaras",
-    "Karabuk",
-    "Karaman",
-    "Kars",
-    "Kastamonu",
-    "Kayseri",
-    "Kilis",
-    "Kirikkale",
-    "Kirklareli",
-    "Kirsehir",
-    "Kocaeli",
-    "Konya",
-    "Kutahya",
-    "Malatya",
-    "Manisa",
-    "Mardin",
-    "Mugla",
-    "Mus",
-    "Nevsehir",
-    "Nigde",
-    "Ordu",
-    "Osmaniye",
-    "Rize",
-    "Sakarya",
-    "Samsun",
-    "Sanliurfa",
-    "Siirt",
-    "Sinop",
-    "Sirnak",
-    "Sivas",
-    "Tekirdag",
-    "Tokat",
-    "Trabzon",
-    "Tunceli",
-    "Usak",
-    "Van",
-    "Yalova",
-    "Yozgat",
-    "Zonguldak"
-  ],
-  "region": "Asia",
-  "subregion": "Western Asia",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "tld": [
-    ".tr"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Türkei",
-      "common": "Türkei"
-    },
-    "fra": {
-      "official": "République de Turquie",
-      "common": "Turquie"
-    },
-    "hrv": {
-      "official": "Republika Turska",
-      "common": "Turska"
-    },
-    "ita": {
-      "official": "Repubblica di Turchia",
-      "common": "Turchia"
-    },
-    "jpn": {
-      "official": "トルコ共和国",
-      "common": "トルコ"
-    },
-    "nld": {
-      "official": "Republiek Turkije",
-      "common": "Turkije"
-    },
-    "por": {
-      "official": "República da Turquia",
-      "common": "Turquia"
-    },
-    "rus": {
-      "official": "Республика Турции",
-      "common": "Турция"
-    },
-    "spa": {
-      "official": "República de Turquía",
-      "common": "Turquía"
-    },
-    "fin": {
-      "official": "Turkin tasavalta",
-      "common": "Turkki"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/turkey",
-  "currency": [
-    "TRY"
-  ],
-  "callingCode": [
-    "90"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "TR",
-    "ccn3": "792",
-    "cca3": "TUR",
-    "cioc": "TUR"
-  }
+  "flag": ""
 }

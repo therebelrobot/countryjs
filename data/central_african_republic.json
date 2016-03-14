@@ -13,12 +13,79 @@
       }
     }
   },
+  "tld": [
+    ".cf"
+  ],
+  "currency": [
+    "XAF"
+  ],
+  "callingCode": [
+    "236"
+  ],
+  "capital": "Bangui",
   "altSpellings": [
     "CF",
     "Central African Republic",
     "République centrafricaine"
   ],
-  "area": 622984,
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "languages": {
+    "fra": "French",
+    "sag": "Sango"
+  },
+  "translations": {
+    "cym": {
+      "official": "Central African Republic",
+      "common": "Gweriniaeth Canolbarth Affrica"
+    },
+    "deu": {
+      "official": "Zentralafrikanische Republik",
+      "common": "Zentralafrikanische Republik"
+    },
+    "fra": {
+      "official": "République centrafricaine",
+      "common": "République centrafricaine"
+    },
+    "hrv": {
+      "official": "Centralna Afrička Republika",
+      "common": "Srednjoafrička Republika"
+    },
+    "ita": {
+      "official": "Repubblica Centrafricana",
+      "common": "Repubblica Centrafricana"
+    },
+    "jpn": {
+      "official": "中央アフリカ共和国",
+      "common": "中央アフリカ共和国"
+    },
+    "nld": {
+      "official": "Centraal-Afrikaanse Republiek",
+      "common": "Centraal-Afrikaanse Republiek"
+    },
+    "por": {
+      "official": "República Centro-Africano",
+      "common": "República Centro-Africana"
+    },
+    "rus": {
+      "official": "Центрально-Африканская Республика",
+      "common": "Центральноафриканская Республика"
+    },
+    "spa": {
+      "official": "República Centroafricana",
+      "common": "República Centroafricana"
+    },
+    "fin": {
+      "official": "Keski-Afrikan tasavalta",
+      "common": "Keski-Afrikan tasavalta"
+    }
+  },
+  "latlng": [
+    7,
+    21
+  ],
+  "demonym": "Central African",
+  "landlocked": true,
   "borders": [
     "CMR",
     "TCD",
@@ -27,9 +94,33 @@
     "SSD",
     "SDN"
   ],
-  "capital": "Bangui",
-  "demonym": "Central African",
-  "flag": "",
+  "area": 622984,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of the Central African Republic.svg",
+  "codes": {
+    "cca2": "CF",
+    "ccn3": "140",
+    "cca3": "CAF",
+    "cioc": "CAF"
+  },
+  "provinces": [
+    "Bamingui-Bangoran",
+    "Bangui",
+    "Basse-Kotto",
+    "Gribingui",
+    "Haut-Mbomou",
+    "Haute-Kotto",
+    "Haute-Sangha",
+    "Kemo-Gribingui",
+    "Lobaye",
+    "Mbomou",
+    "Nana-Mambere",
+    "Ombella-Mpoko",
+    "Ouaka",
+    "Ouham",
+    "Ouham-Pende",
+    "Sangha",
+    "Vakaga"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -296,102 +387,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "fra": "French",
-    "sag": "Sango"
-  },
-  "latlng": [
-    7,
-    21
-  ],
-  "nativeName": "Ködörösêse tî Bêafrîka",
-  "population": 4709000,
-  "provinces": [
-    "Bamingui-Bangoran",
-    "Bangui",
-    "Basse-Kotto",
-    "Gribingui",
-    "Haut-Mbomou",
-    "Haute-Kotto",
-    "Haute-Sangha",
-    "Kemo-Gribingui",
-    "Lobaye",
-    "Mbomou",
-    "Nana-Mambere",
-    "Ombella-Mpoko",
-    "Ouaka",
-    "Ouham",
-    "Ouham-Pende",
-    "Sangha",
-    "Vakaga"
-  ],
-  "region": "Africa",
-  "subregion": "Middle Africa",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "tld": [
-    ".cf"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Central African Republic",
-      "common": "Gweriniaeth Canolbarth Affrica"
-    },
-    "deu": {
-      "official": "Zentralafrikanische Republik",
-      "common": "Zentralafrikanische Republik"
-    },
-    "fra": {
-      "official": "République centrafricaine",
-      "common": "République centrafricaine"
-    },
-    "hrv": {
-      "official": "Centralna Afrička Republika",
-      "common": "Srednjoafrička Republika"
-    },
-    "ita": {
-      "official": "Repubblica Centrafricana",
-      "common": "Repubblica Centrafricana"
-    },
-    "jpn": {
-      "official": "中央アフリカ共和国",
-      "common": "中央アフリカ共和国"
-    },
-    "nld": {
-      "official": "Centraal-Afrikaanse Republiek",
-      "common": "Centraal-Afrikaanse Republiek"
-    },
-    "por": {
-      "official": "República Centro-Africano",
-      "common": "República Centro-Africana"
-    },
-    "rus": {
-      "official": "Центрально-Африканская Республика",
-      "common": "Центральноафриканская Республика"
-    },
-    "spa": {
-      "official": "República Centroafricana",
-      "common": "República Centroafricana"
-    },
-    "fin": {
-      "official": "Keski-Afrikan tasavalta",
-      "common": "Keski-Afrikan tasavalta"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/central_african_republic",
-  "currency": [
-    "XAF"
-  ],
-  "callingCode": [
-    "236"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "CF",
-    "ccn3": "140",
-    "cca3": "CAF",
-    "cioc": "CAF"
   }
 }

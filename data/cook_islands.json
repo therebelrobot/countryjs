@@ -13,50 +13,26 @@
       }
     }
   },
+  "tld": [
+    ".ck"
+  ],
+  "currency": [
+    "NZD"
+  ],
+  "callingCode": [
+    "682"
+  ],
+  "capital": "Avarua",
   "altSpellings": [
     "CK",
     "Kūki 'Āirani"
   ],
-  "area": 236,
-  "borders": [],
-  "capital": "Avarua",
-  "demonym": "Cook Islander",
-  "flag": "",
-  "geoJSON": {},
+  "region": "Oceania",
+  "subregion": "Polynesia",
   "languages": {
     "eng": "English",
     "rar": "Cook Islands Māori"
   },
-  "latlng": [
-    -21.23333333,
-    -159.76666666
-  ],
-  "nativeName": "Cook Islands",
-  "population": 14974,
-  "provinces": [
-    "Aitutaki",
-    "Atiu",
-    "Avarua",
-    "Mangaia",
-    "Manihiki",
-    "Manuae",
-    "Mauke",
-    "Mitiaro",
-    "Nassau Island",
-    "Palmerston",
-    "Penrhyn",
-    "Pukapuka",
-    "Rakahanga",
-    "Rarotonga",
-    "Suwarrow",
-    "Takutea"
-  ],
-  "region": "Oceania",
-  "subregion": "Polynesia",
-  "timezones": null,
-  "tld": [
-    ".ck"
-  ],
   "translations": {
     "cym": {
       "official": "Cook Islands",
@@ -103,18 +79,38 @@
       "common": "Cookinsaaret"
     }
   },
-  "wiki": "http://en.wikipedia.org/wiki/cook_islands",
-  "currency": [
-    "NZD"
+  "latlng": [
+    -21.23333333,
+    -159.76666666
   ],
-  "callingCode": [
-    "682"
-  ],
+  "demonym": "Cook Islander",
   "landlocked": false,
+  "borders": [],
+  "area": 236,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of the Cook Islands.svg",
   "codes": {
     "cca2": "CK",
     "ccn3": "184",
     "cca3": "COK",
     "cioc": "COK"
-  }
+  },
+  "provinces": [
+    "Aitutaki",
+    "Atiu",
+    "Avarua",
+    "Mangaia",
+    "Manihiki",
+    "Manuae",
+    "Mauke",
+    "Mitiaro",
+    "Nassau Island",
+    "Palmerston",
+    "Penrhyn",
+    "Pukapuka",
+    "Rakahanga",
+    "Rarotonga",
+    "Suwarrow",
+    "Takutea"
+  ],
+  "geoJSON": {}
 }

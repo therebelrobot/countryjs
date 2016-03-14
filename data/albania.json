@@ -9,22 +9,132 @@
       }
     }
   },
+  "tld": [
+    ".al"
+  ],
+  "currency": [
+    "ALL"
+  ],
+  "callingCode": [
+    "355"
+  ],
+  "capital": "Tirana",
   "altSpellings": [
     "AL",
     "Shqipëri",
     "Shqipëria",
     "Shqipnia"
   ],
-  "area": 28748,
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "languages": {
+    "sqi": "Albanian"
+  },
+  "translations": {
+    "cym": {
+      "official": "Republic of Albania",
+      "common": "Albania"
+    },
+    "deu": {
+      "official": "Republik Albanien",
+      "common": "Albanien"
+    },
+    "fra": {
+      "official": "République d'Albanie",
+      "common": "Albanie"
+    },
+    "hrv": {
+      "official": "Republika Albanija",
+      "common": "Albanija"
+    },
+    "ita": {
+      "official": "Repubblica d'Albania",
+      "common": "Albania"
+    },
+    "jpn": {
+      "official": "アルバニア共和国",
+      "common": "アルバニア"
+    },
+    "nld": {
+      "official": "Republiek Albanië",
+      "common": "Albanië"
+    },
+    "por": {
+      "official": "República da Albânia",
+      "common": "Albânia"
+    },
+    "rus": {
+      "official": "Республика Албания",
+      "common": "Албания"
+    },
+    "spa": {
+      "official": "República de Albania",
+      "common": "Albania"
+    },
+    "fin": {
+      "official": "Albanian tasavalta",
+      "common": "Albania"
+    }
+  },
+  "latlng": [
+    41,
+    20
+  ],
+  "demonym": "Albanian",
+  "landlocked": false,
   "borders": [
     "MNE",
     "GRC",
     "MKD",
     "KOS"
   ],
-  "capital": "Tirana",
-  "demonym": "Albanian",
+  "area": 28748,
   "flag": "http://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg",
+  "codes": {
+    "cca2": "AL",
+    "ccn3": "008",
+    "cca3": "ALB",
+    "cioc": "ALB"
+  },
+  "provinces": [
+    "Berat",
+    "Bulqize",
+    "Delvine",
+    "Devoll (Bilisht)",
+    "Diber (Peshkopi)",
+    "Durres",
+    "Elbasan",
+    "Fier",
+    "Gjirokaster",
+    "Gramsh",
+    "Has (Krume)",
+    "Kavaje",
+    "Kolonje (Erseke)",
+    "Korce",
+    "Kruje",
+    "Kucove",
+    "Kukes",
+    "Kurbin",
+    "Lezhe",
+    "Librazhd",
+    "Lushnje",
+    "Malesi e Madhe (Koplik)",
+    "Mallakaster (Ballsh)",
+    "Mat (Burrel)",
+    "Mirdite (Rreshen)",
+    "Peqin",
+    "Permet",
+    "Pogradec",
+    "Puke",
+    "Sarande",
+    "Shkoder",
+    "Skrapar (Corovode)",
+    "Tepelene",
+    "Tirane (Tirana)",
+    "Tirane (Tirana)",
+    "Tropoje (Bajram Curri)",
+    "Vlore"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -131,121 +241,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "sqi": "Albanian"
-  },
-  "latlng": [
-    41,
-    20
-  ],
-  "nativeName": "Shqipëria",
-  "population": 2895947,
-  "provinces": [
-    "Berat",
-    "Bulqize",
-    "Delvine",
-    "Devoll (Bilisht)",
-    "Diber (Peshkopi)",
-    "Durres",
-    "Elbasan",
-    "Fier",
-    "Gjirokaster",
-    "Gramsh",
-    "Has (Krume)",
-    "Kavaje",
-    "Kolonje (Erseke)",
-    "Korce",
-    "Kruje",
-    "Kucove",
-    "Kukes",
-    "Kurbin",
-    "Lezhe",
-    "Librazhd",
-    "Lushnje",
-    "Malesi e Madhe (Koplik)",
-    "Mallakaster (Ballsh)",
-    "Mat (Burrel)",
-    "Mirdite (Rreshen)",
-    "Peqin",
-    "Permet",
-    "Pogradec",
-    "Puke",
-    "Sarande",
-    "Shkoder",
-    "Skrapar (Corovode)",
-    "Tepelene",
-    "Tirane (Tirana)",
-    "Tirane (Tirana)",
-    "Tropoje (Bajram Curri)",
-    "Vlore"
-  ],
-  "region": "Europe",
-  "subregion": "Southern Europe",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "tld": [
-    ".al"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Republic of Albania",
-      "common": "Albania"
-    },
-    "deu": {
-      "official": "Republik Albanien",
-      "common": "Albanien"
-    },
-    "fra": {
-      "official": "République d'Albanie",
-      "common": "Albanie"
-    },
-    "hrv": {
-      "official": "Republika Albanija",
-      "common": "Albanija"
-    },
-    "ita": {
-      "official": "Repubblica d'Albania",
-      "common": "Albania"
-    },
-    "jpn": {
-      "official": "アルバニア共和国",
-      "common": "アルバニア"
-    },
-    "nld": {
-      "official": "Republiek Albanië",
-      "common": "Albanië"
-    },
-    "por": {
-      "official": "República da Albânia",
-      "common": "Albânia"
-    },
-    "rus": {
-      "official": "Республика Албания",
-      "common": "Албания"
-    },
-    "spa": {
-      "official": "República de Albania",
-      "common": "Albania"
-    },
-    "fin": {
-      "official": "Albanian tasavalta",
-      "common": "Albania"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/albania",
-  "currency": [
-    "ALL"
-  ],
-  "callingCode": [
-    "355"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "AL",
-    "ccn3": "008",
-    "cca3": "ALB",
-    "cioc": "ALB"
   }
 }

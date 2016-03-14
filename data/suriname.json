@@ -9,6 +9,16 @@
       }
     }
   },
+  "tld": [
+    ".sr"
+  ],
+  "currency": [
+    "SRD"
+  ],
+  "callingCode": [
+    "597"
+  ],
+  "capital": "Paramaribo",
   "altSpellings": [
     "SR",
     "Sarnam",
@@ -16,15 +26,83 @@
     "Republic of Suriname",
     "Republiek Suriname"
   ],
-  "area": 163820,
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "nld": "Dutch"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Suriname",
+      "common": "Suriname"
+    },
+    "fra": {
+      "official": "République du Suriname",
+      "common": "Surinam"
+    },
+    "hrv": {
+      "official": "Republika Surinam",
+      "common": "Surinam"
+    },
+    "ita": {
+      "official": "Repubblica del Suriname",
+      "common": "Suriname"
+    },
+    "jpn": {
+      "official": "スリナム共和国",
+      "common": "スリナム"
+    },
+    "nld": {
+      "official": "Republiek Suriname",
+      "common": "Suriname"
+    },
+    "por": {
+      "official": "República do Suriname",
+      "common": "Suriname"
+    },
+    "rus": {
+      "official": "Республика Суринам",
+      "common": "Суринам"
+    },
+    "spa": {
+      "official": "República de Suriname",
+      "common": "Surinam"
+    },
+    "fin": {
+      "official": "Surinamen tasavalta",
+      "common": "Suriname"
+    }
+  },
+  "latlng": [
+    4,
+    -56
+  ],
+  "demonym": "Surinamer",
+  "landlocked": false,
   "borders": [
     "BRA",
     "GUF",
     "GUY"
   ],
-  "capital": "Paramaribo",
-  "demonym": "Surinamer",
-  "flag": "",
+  "area": 163820,
+  "codes": {
+    "cca2": "SR",
+    "ccn3": "740",
+    "cca3": "SUR",
+    "cioc": "SUR"
+  },
+  "provinces": [
+    "Brokopondo",
+    "Commewijne",
+    "Coronie",
+    "Marowijne",
+    "Nickerie",
+    "Para",
+    "Paramaribo",
+    "Saramacca",
+    "Sipaliwini",
+    "Wanica"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -148,89 +226,5 @@
       }
     ]
   },
-  "languages": {
-    "nld": "Dutch"
-  },
-  "latlng": [
-    4,
-    -56
-  ],
-  "nativeName": "Suriname",
-  "population": 534189,
-  "provinces": [
-    "Brokopondo",
-    "Commewijne",
-    "Coronie",
-    "Marowijne",
-    "Nickerie",
-    "Para",
-    "Paramaribo",
-    "Saramacca",
-    "Sipaliwini",
-    "Wanica"
-  ],
-  "region": "Americas",
-  "subregion": "South America",
-  "timezones": [
-    "UTC−03:00"
-  ],
-  "tld": [
-    ".sr"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Suriname",
-      "common": "Suriname"
-    },
-    "fra": {
-      "official": "République du Suriname",
-      "common": "Surinam"
-    },
-    "hrv": {
-      "official": "Republika Surinam",
-      "common": "Surinam"
-    },
-    "ita": {
-      "official": "Repubblica del Suriname",
-      "common": "Suriname"
-    },
-    "jpn": {
-      "official": "スリナム共和国",
-      "common": "スリナム"
-    },
-    "nld": {
-      "official": "Republiek Suriname",
-      "common": "Suriname"
-    },
-    "por": {
-      "official": "República do Suriname",
-      "common": "Suriname"
-    },
-    "rus": {
-      "official": "Республика Суринам",
-      "common": "Суринам"
-    },
-    "spa": {
-      "official": "República de Suriname",
-      "common": "Surinam"
-    },
-    "fin": {
-      "official": "Surinamen tasavalta",
-      "common": "Suriname"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/suriname",
-  "currency": [
-    "SRD"
-  ],
-  "callingCode": [
-    "597"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "SR",
-    "ccn3": "740",
-    "cca3": "SUR",
-    "cioc": "SUR"
-  }
+  "flag": ""
 }

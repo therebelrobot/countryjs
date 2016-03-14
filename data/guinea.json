@@ -9,12 +9,74 @@
       }
     }
   },
+  "tld": [
+    ".gn"
+  ],
+  "currency": [
+    "GNF"
+  ],
+  "callingCode": [
+    "224"
+  ],
+  "capital": "Conakry",
   "altSpellings": [
     "GN",
     "Republic of Guinea",
     "République de Guinée"
   ],
-  "area": 245857,
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "languages": {
+    "fra": "French"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Guinea",
+      "common": "Guinea"
+    },
+    "fra": {
+      "official": "République de Guinée",
+      "common": "Guinée"
+    },
+    "hrv": {
+      "official": "Republika Gvineja",
+      "common": "Gvineja"
+    },
+    "ita": {
+      "official": "Repubblica di Guinea",
+      "common": "Guinea"
+    },
+    "jpn": {
+      "official": "ギニア共和国",
+      "common": "ギニア"
+    },
+    "nld": {
+      "official": "Republiek Guinee",
+      "common": "Guinee"
+    },
+    "por": {
+      "official": "República da Guiné",
+      "common": "Guiné"
+    },
+    "rus": {
+      "official": "Республика Гвинея",
+      "common": "Гвинея"
+    },
+    "spa": {
+      "official": "República de Guinea",
+      "common": "Guinea"
+    },
+    "fin": {
+      "official": "Guinean tasavalta",
+      "common": "Guinea"
+    }
+  },
+  "latlng": [
+    11,
+    -10
+  ],
+  "demonym": "Guinean",
+  "landlocked": false,
   "borders": [
     "CIV",
     "GNB",
@@ -23,9 +85,49 @@
     "SEN",
     "SLE"
   ],
-  "capital": "Conakry",
-  "demonym": "Guinean",
-  "flag": "",
+  "area": 245857,
+  "codes": {
+    "cca2": "GN",
+    "ccn3": "324",
+    "cca3": "GIN",
+    "cioc": "GUI"
+  },
+  "provinces": [
+    "Beyla",
+    "Boffa",
+    "Boke",
+    "Conakry",
+    "Coyah",
+    "Dabola",
+    "Dalaba",
+    "Dinguiraye",
+    "Dubreka",
+    "Faranah",
+    "Forecariah",
+    "Fria",
+    "Gaoual",
+    "Gueckedou",
+    "Kankan",
+    "Kerouane",
+    "Kindia",
+    "Kissidougou",
+    "Koubia",
+    "Koundara",
+    "Kouroussa",
+    "Labe",
+    "Lelouma",
+    "Lola",
+    "Macenta",
+    "Mali",
+    "Mamou",
+    "Mandiana",
+    "Nzerekore",
+    "Pita",
+    "Siguiri",
+    "Telimele",
+    "Tougue",
+    "Yomou"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -325,113 +427,5 @@
       }
     ]
   },
-  "languages": {
-    "fra": "French"
-  },
-  "latlng": [
-    11,
-    -10
-  ],
-  "nativeName": "Guinée",
-  "population": 10628972,
-  "provinces": [
-    "Beyla",
-    "Boffa",
-    "Boke",
-    "Conakry",
-    "Coyah",
-    "Dabola",
-    "Dalaba",
-    "Dinguiraye",
-    "Dubreka",
-    "Faranah",
-    "Forecariah",
-    "Fria",
-    "Gaoual",
-    "Gueckedou",
-    "Kankan",
-    "Kerouane",
-    "Kindia",
-    "Kissidougou",
-    "Koubia",
-    "Koundara",
-    "Kouroussa",
-    "Labe",
-    "Lelouma",
-    "Lola",
-    "Macenta",
-    "Mali",
-    "Mamou",
-    "Mandiana",
-    "Nzerekore",
-    "Pita",
-    "Siguiri",
-    "Telimele",
-    "Tougue",
-    "Yomou"
-  ],
-  "region": "Africa",
-  "subregion": "Western Africa",
-  "timezones": [
-    "UTC"
-  ],
-  "tld": [
-    ".gn"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Guinea",
-      "common": "Guinea"
-    },
-    "fra": {
-      "official": "République de Guinée",
-      "common": "Guinée"
-    },
-    "hrv": {
-      "official": "Republika Gvineja",
-      "common": "Gvineja"
-    },
-    "ita": {
-      "official": "Repubblica di Guinea",
-      "common": "Guinea"
-    },
-    "jpn": {
-      "official": "ギニア共和国",
-      "common": "ギニア"
-    },
-    "nld": {
-      "official": "Republiek Guinee",
-      "common": "Guinee"
-    },
-    "por": {
-      "official": "República da Guiné",
-      "common": "Guiné"
-    },
-    "rus": {
-      "official": "Республика Гвинея",
-      "common": "Гвинея"
-    },
-    "spa": {
-      "official": "República de Guinea",
-      "common": "Guinea"
-    },
-    "fin": {
-      "official": "Guinean tasavalta",
-      "common": "Guinea"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/guinea",
-  "currency": [
-    "GNF"
-  ],
-  "callingCode": [
-    "224"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "GN",
-    "ccn3": "324",
-    "cca3": "GIN",
-    "cioc": "GUI"
-  }
+  "flag": ""
 }

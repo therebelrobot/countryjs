@@ -9,12 +9,78 @@
       }
     }
   },
+  "tld": [
+    ".at"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "43"
+  ],
+  "capital": "Vienna",
   "altSpellings": [
     "AT",
     "Osterreich",
     "Oesterreich"
   ],
-  "area": 83871,
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "languages": {
+    "bar": "Austro-Bavarian German"
+  },
+  "translations": {
+    "cym": {
+      "official": "Republic of Austria",
+      "common": "Awstria"
+    },
+    "deu": {
+      "official": "Republik Österreich",
+      "common": "Österreich"
+    },
+    "fra": {
+      "official": "République d'Autriche",
+      "common": "Autriche"
+    },
+    "hrv": {
+      "official": "Republika Austrija",
+      "common": "Austrija"
+    },
+    "ita": {
+      "official": "Repubblica d'Austria",
+      "common": "Austria"
+    },
+    "jpn": {
+      "official": "オーストリア共和国",
+      "common": "オーストリア"
+    },
+    "nld": {
+      "official": "Republiek Oostenrijk",
+      "common": "Oostenrijk"
+    },
+    "por": {
+      "official": "República da Áustria",
+      "common": "Áustria"
+    },
+    "rus": {
+      "official": "Австрийская Республика",
+      "common": "Австрия"
+    },
+    "spa": {
+      "official": "República de Austria",
+      "common": "Austria"
+    },
+    "fin": {
+      "official": "Itävallan tasavalta",
+      "common": "Itävalta"
+    }
+  },
+  "latlng": [
+    47.33333333,
+    13.33333333
+  ],
+  "demonym": "Austrian",
+  "landlocked": true,
   "borders": [
     "CZE",
     "DEU",
@@ -25,9 +91,24 @@
     "SVN",
     "CHE"
   ],
-  "capital": "Vienna",
-  "demonym": "Austrian",
-  "flag": "http://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
+  "area": 83871,
+  "codes": {
+    "cca2": "AT",
+    "ccn3": "040",
+    "cca3": "AUT",
+    "cioc": "AUT"
+  },
+  "provinces": [
+    "Burgenland",
+    "Kaernten",
+    "Niederoesterreich",
+    "Oberoesterreich",
+    "Salzburg",
+    "Steiermark",
+    "Tirol",
+    "Vorarlberg",
+    "Wien"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -195,92 +276,5 @@
       }
     ]
   },
-  "languages": {
-    "bar": "Austro-Bavarian German"
-  },
-  "latlng": [
-    47.33333333,
-    13.33333333
-  ],
-  "nativeName": "Österreich",
-  "population": 8527230,
-  "provinces": [
-    "Burgenland",
-    "Kaernten",
-    "Niederoesterreich",
-    "Oberoesterreich",
-    "Salzburg",
-    "Steiermark",
-    "Tirol",
-    "Vorarlberg",
-    "Wien"
-  ],
-  "region": "Europe",
-  "subregion": "Western Europe",
-  "timezones": [
-    "UTC+01:00"
-  ],
-  "tld": [
-    ".at"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Republic of Austria",
-      "common": "Awstria"
-    },
-    "deu": {
-      "official": "Republik Österreich",
-      "common": "Österreich"
-    },
-    "fra": {
-      "official": "République d'Autriche",
-      "common": "Autriche"
-    },
-    "hrv": {
-      "official": "Republika Austrija",
-      "common": "Austrija"
-    },
-    "ita": {
-      "official": "Repubblica d'Austria",
-      "common": "Austria"
-    },
-    "jpn": {
-      "official": "オーストリア共和国",
-      "common": "オーストリア"
-    },
-    "nld": {
-      "official": "Republiek Oostenrijk",
-      "common": "Oostenrijk"
-    },
-    "por": {
-      "official": "República da Áustria",
-      "common": "Áustria"
-    },
-    "rus": {
-      "official": "Австрийская Республика",
-      "common": "Австрия"
-    },
-    "spa": {
-      "official": "República de Austria",
-      "common": "Austria"
-    },
-    "fin": {
-      "official": "Itävallan tasavalta",
-      "common": "Itävalta"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/austria",
-  "currency": [
-    "EUR"
-  ],
-  "callingCode": [
-    "43"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "AT",
-    "ccn3": "040",
-    "cca3": "AUT",
-    "cioc": "AUT"
-  }
+  "flag": "http://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg"
 }

@@ -9,19 +9,98 @@
       }
     }
   },
+  "tld": [
+    ".gy"
+  ],
+  "currency": [
+    "GYD"
+  ],
+  "callingCode": [
+    "592"
+  ],
+  "capital": "Georgetown",
   "altSpellings": [
     "GY",
     "Co-operative Republic of Guyana"
   ],
-  "area": 214969,
+  "region": "Americas",
+  "subregion": "South America",
+  "languages": {
+    "eng": "English"
+  },
+  "translations": {
+    "deu": {
+      "official": "Kooperative Republik Guyana",
+      "common": "Guyana"
+    },
+    "fra": {
+      "official": "République coopérative de Guyana",
+      "common": "Guyana"
+    },
+    "hrv": {
+      "official": "Zadruga Republika Gvajana",
+      "common": "Gvajana"
+    },
+    "ita": {
+      "official": "Co -operative Republic of Guyana",
+      "common": "Guyana"
+    },
+    "jpn": {
+      "official": "ガイアナの協同共和国",
+      "common": "ガイアナ"
+    },
+    "nld": {
+      "official": "Coöperatieve Republiek Guyana",
+      "common": "Guyana"
+    },
+    "por": {
+      "official": "Co -operative República da Guiana",
+      "common": "Guiana"
+    },
+    "rus": {
+      "official": "Кооперативная Республика Гайана",
+      "common": "Гайана"
+    },
+    "spa": {
+      "official": "República Cooperativa de Guyana",
+      "common": "Guyana"
+    },
+    "fin": {
+      "official": "Guayanan osuustoiminnallinen tasavalta",
+      "common": "Guayana"
+    }
+  },
+  "latlng": [
+    5,
+    -59
+  ],
+  "demonym": "Guyanese",
+  "landlocked": false,
   "borders": [
     "BRA",
     "SUR",
     "VEN"
   ],
-  "capital": "Georgetown",
-  "demonym": "Guyanese",
-  "flag": "",
+  "area": 214969,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Guyana.svg",
+  "codes": {
+    "cca2": "GY",
+    "ccn3": "328",
+    "cca3": "GUY",
+    "cioc": "GUY"
+  },
+  "provinces": [
+    "Barima-Waini",
+    "Cuyuni-Mazaruni",
+    "Demerara-Mahaica",
+    "East Berbice-Corentyne",
+    "Essequibo Islands-West Demerara",
+    "Mahaica-Berbice",
+    "Pomeroon-Supenaam",
+    "Potaro-Siparuni",
+    "Upper Demerara-Berbice",
+    "Upper Takutu-Upper Essequibo"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -200,90 +279,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "eng": "English"
-  },
-  "latlng": [
-    5,
-    -59
-  ],
-  "nativeName": "Guyana",
-  "population": 784894,
-  "provinces": [
-    "Barima-Waini",
-    "Cuyuni-Mazaruni",
-    "Demerara-Mahaica",
-    "East Berbice-Corentyne",
-    "Essequibo Islands-West Demerara",
-    "Mahaica-Berbice",
-    "Pomeroon-Supenaam",
-    "Potaro-Siparuni",
-    "Upper Demerara-Berbice",
-    "Upper Takutu-Upper Essequibo"
-  ],
-  "region": "Americas",
-  "subregion": "South America",
-  "timezones": [
-    "UTC−04:00"
-  ],
-  "tld": [
-    ".gy"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Kooperative Republik Guyana",
-      "common": "Guyana"
-    },
-    "fra": {
-      "official": "République coopérative de Guyana",
-      "common": "Guyana"
-    },
-    "hrv": {
-      "official": "Zadruga Republika Gvajana",
-      "common": "Gvajana"
-    },
-    "ita": {
-      "official": "Co -operative Republic of Guyana",
-      "common": "Guyana"
-    },
-    "jpn": {
-      "official": "ガイアナの協同共和国",
-      "common": "ガイアナ"
-    },
-    "nld": {
-      "official": "Coöperatieve Republiek Guyana",
-      "common": "Guyana"
-    },
-    "por": {
-      "official": "Co -operative República da Guiana",
-      "common": "Guiana"
-    },
-    "rus": {
-      "official": "Кооперативная Республика Гайана",
-      "common": "Гайана"
-    },
-    "spa": {
-      "official": "República Cooperativa de Guyana",
-      "common": "Guyana"
-    },
-    "fin": {
-      "official": "Guayanan osuustoiminnallinen tasavalta",
-      "common": "Guayana"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/guyana",
-  "currency": [
-    "GYD"
-  ],
-  "callingCode": [
-    "592"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "GY",
-    "ccn3": "328",
-    "cca3": "GUY",
-    "cioc": "GUY"
   }
 }

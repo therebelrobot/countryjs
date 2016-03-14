@@ -9,16 +9,121 @@
       }
     }
   },
+  "tld": [
+    ".do"
+  ],
+  "currency": [
+    "DOP"
+  ],
+  "callingCode": [
+    "1809",
+    "1829",
+    "1849"
+  ],
+  "capital": "Santo Domingo",
   "altSpellings": [
     "DO"
   ],
-  "area": 48671,
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "spa": "Spanish"
+  },
+  "translations": {
+    "cym": {
+      "official": "Dominican Republic",
+      "common": "Gweriniaeth_Dominica"
+    },
+    "deu": {
+      "official": "Dominikanische Republik",
+      "common": "Dominikanische Republik"
+    },
+    "fra": {
+      "official": "République Dominicaine",
+      "common": "République dominicaine"
+    },
+    "hrv": {
+      "official": "Dominikanska Republika",
+      "common": "Dominikanska Republika"
+    },
+    "ita": {
+      "official": "Repubblica Dominicana",
+      "common": "Repubblica Dominicana"
+    },
+    "jpn": {
+      "official": "ドミニカ共和国",
+      "common": "ドミニカ共和国"
+    },
+    "nld": {
+      "official": "Dominicaanse Republiek",
+      "common": "Dominicaanse Republiek"
+    },
+    "por": {
+      "official": "República Dominicana",
+      "common": "República Dominicana"
+    },
+    "rus": {
+      "official": "Доминиканская Республика",
+      "common": "Доминиканская Республика"
+    },
+    "spa": {
+      "official": "República Dominicana",
+      "common": "República Dominicana"
+    },
+    "fin": {
+      "official": "Dominikaaninen tasavalta",
+      "common": "Dominikaaninen tasavalta"
+    }
+  },
+  "latlng": [
+    19,
+    -70.66666666
+  ],
+  "demonym": "Dominican",
+  "landlocked": false,
   "borders": [
     "HTI"
   ],
-  "capital": "Santo Domingo",
-  "demonym": "Dominican",
-  "flag": "",
+  "area": 48671,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of the Dominican Republic.svg",
+  "codes": {
+    "cca2": "DO",
+    "ccn3": "214",
+    "cca3": "DOM",
+    "cioc": "DOM"
+  },
+  "provinces": [
+    "Azua",
+    "Baoruco",
+    "Barahona",
+    "Dajabon",
+    "Distrito Nacional",
+    "Duarte",
+    "El Seibo",
+    "Elias Pina",
+    "Espaillat",
+    "Hato Mayor",
+    "Independencia",
+    "La Altagracia",
+    "La Romana",
+    "La Vega",
+    "Maria Trinidad Sanchez",
+    "Monsenor Nouel",
+    "Monte Cristi",
+    "Monte Plata",
+    "Pedernales",
+    "Peravia",
+    "Puerto Plata",
+    "Salcedo",
+    "Samana",
+    "San Cristobal",
+    "San Juan",
+    "San Pedro de Macoris",
+    "Sanchez Ramirez",
+    "Santiago",
+    "Santiago Rodriguez",
+    "Valverde"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -141,116 +246,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "spa": "Spanish"
-  },
-  "latlng": [
-    19,
-    -70.66666666
-  ],
-  "nativeName": "República Dominicana",
-  "population": 10378267,
-  "provinces": [
-    "Azua",
-    "Baoruco",
-    "Barahona",
-    "Dajabon",
-    "Distrito Nacional",
-    "Duarte",
-    "El Seibo",
-    "Elias Pina",
-    "Espaillat",
-    "Hato Mayor",
-    "Independencia",
-    "La Altagracia",
-    "La Romana",
-    "La Vega",
-    "Maria Trinidad Sanchez",
-    "Monsenor Nouel",
-    "Monte Cristi",
-    "Monte Plata",
-    "Pedernales",
-    "Peravia",
-    "Puerto Plata",
-    "Salcedo",
-    "Samana",
-    "San Cristobal",
-    "San Juan",
-    "San Pedro de Macoris",
-    "Sanchez Ramirez",
-    "Santiago",
-    "Santiago Rodriguez",
-    "Valverde"
-  ],
-  "region": "Americas",
-  "subregion": "Caribbean",
-  "timezones": [
-    "UTC−04:00"
-  ],
-  "tld": [
-    ".do"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Dominican Republic",
-      "common": "Gweriniaeth_Dominica"
-    },
-    "deu": {
-      "official": "Dominikanische Republik",
-      "common": "Dominikanische Republik"
-    },
-    "fra": {
-      "official": "République Dominicaine",
-      "common": "République dominicaine"
-    },
-    "hrv": {
-      "official": "Dominikanska Republika",
-      "common": "Dominikanska Republika"
-    },
-    "ita": {
-      "official": "Repubblica Dominicana",
-      "common": "Repubblica Dominicana"
-    },
-    "jpn": {
-      "official": "ドミニカ共和国",
-      "common": "ドミニカ共和国"
-    },
-    "nld": {
-      "official": "Dominicaanse Republiek",
-      "common": "Dominicaanse Republiek"
-    },
-    "por": {
-      "official": "República Dominicana",
-      "common": "República Dominicana"
-    },
-    "rus": {
-      "official": "Доминиканская Республика",
-      "common": "Доминиканская Республика"
-    },
-    "spa": {
-      "official": "República Dominicana",
-      "common": "República Dominicana"
-    },
-    "fin": {
-      "official": "Dominikaaninen tasavalta",
-      "common": "Dominikaaninen tasavalta"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/dominican_republic",
-  "currency": [
-    "DOP"
-  ],
-  "callingCode": [
-    "1809",
-    "1829",
-    "1849"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "DO",
-    "ccn3": "214",
-    "cca3": "DOM",
-    "cioc": "DOM"
   }
 }

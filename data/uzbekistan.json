@@ -13,13 +13,76 @@
       }
     }
   },
+  "tld": [
+    ".uz"
+  ],
+  "currency": [
+    "UZS"
+  ],
+  "callingCode": [
+    "998"
+  ],
+  "capital": "Tashkent",
   "altSpellings": [
     "UZ",
     "Republic of Uzbekistan",
     "O‘zbekiston Respublikasi",
     "Ўзбекистон Республикаси"
   ],
-  "area": 447400,
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "languages": {
+    "rus": "Russian",
+    "uzb": "Uzbek"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Usbekistan",
+      "common": "Usbekistan"
+    },
+    "fra": {
+      "official": "République d'Ouzbékistan",
+      "common": "Ouzbékistan"
+    },
+    "hrv": {
+      "official": "Republika Uzbekistan",
+      "common": "Uzbekistan"
+    },
+    "ita": {
+      "official": "Repubblica di Uzbekistan",
+      "common": "Uzbekistan"
+    },
+    "jpn": {
+      "official": "ウズベキスタン共和国",
+      "common": "ウズベキスタン"
+    },
+    "nld": {
+      "official": "Republiek Oezbekistan",
+      "common": "Oezbekistan"
+    },
+    "por": {
+      "official": "República do Usbequistão",
+      "common": "Uzbequistão"
+    },
+    "rus": {
+      "official": "Республика Узбекистан",
+      "common": "Узбекистан"
+    },
+    "spa": {
+      "official": "República de Uzbekistán",
+      "common": "Uzbekistán"
+    },
+    "fin": {
+      "official": "Uzbekistanin tasavalta",
+      "common": "Uzbekistan"
+    }
+  },
+  "latlng": [
+    41,
+    64
+  ],
+  "demonym": "Uzbekistani",
+  "landlocked": true,
   "borders": [
     "AFG",
     "KAZ",
@@ -27,9 +90,29 @@
     "TJK",
     "TKM"
   ],
-  "capital": "Tashkent",
-  "demonym": "Uzbekistani",
-  "flag": "",
+  "area": 447400,
+  "codes": {
+    "cca2": "UZ",
+    "ccn3": "860",
+    "cca3": "UZB",
+    "cioc": "UZB"
+  },
+  "provinces": [
+    "Andijon Wiloyati",
+    "Bukhoro Wiloyati",
+    "Farghona Wiloyati",
+    "Jizzakh Wiloyati",
+    "Khorazm Wiloyati (Urganch)",
+    "Namangan Wiloyati",
+    "Nawoiy Wiloyati",
+    "Qashqadaryo Wiloyati (Qarshi)",
+    "Qoraqalpoghiston (Nukus)",
+    "Samarqand Wiloyati",
+    "Sirdaryo Wiloyati (Guliston)",
+    "Surkhondaryo Wiloyati (Termiz)",
+    "Toshkent Shahri",
+    "Toshkent Wiloyati"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -265,94 +348,5 @@
       }
     ]
   },
-  "languages": {
-    "rus": "Russian",
-    "uzb": "Uzbek"
-  },
-  "latlng": [
-    41,
-    64
-  ],
-  "nativeName": "O‘zbekiston",
-  "population": 30492800,
-  "provinces": [
-    "Andijon Wiloyati",
-    "Bukhoro Wiloyati",
-    "Farghona Wiloyati",
-    "Jizzakh Wiloyati",
-    "Khorazm Wiloyati (Urganch)",
-    "Namangan Wiloyati",
-    "Nawoiy Wiloyati",
-    "Qashqadaryo Wiloyati (Qarshi)",
-    "Qoraqalpoghiston (Nukus)",
-    "Samarqand Wiloyati",
-    "Sirdaryo Wiloyati (Guliston)",
-    "Surkhondaryo Wiloyati (Termiz)",
-    "Toshkent Shahri",
-    "Toshkent Wiloyati"
-  ],
-  "region": "Asia",
-  "subregion": "Central Asia",
-  "timezones": [
-    "UTC+05:00"
-  ],
-  "tld": [
-    ".uz"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Republik Usbekistan",
-      "common": "Usbekistan"
-    },
-    "fra": {
-      "official": "République d'Ouzbékistan",
-      "common": "Ouzbékistan"
-    },
-    "hrv": {
-      "official": "Republika Uzbekistan",
-      "common": "Uzbekistan"
-    },
-    "ita": {
-      "official": "Repubblica di Uzbekistan",
-      "common": "Uzbekistan"
-    },
-    "jpn": {
-      "official": "ウズベキスタン共和国",
-      "common": "ウズベキスタン"
-    },
-    "nld": {
-      "official": "Republiek Oezbekistan",
-      "common": "Oezbekistan"
-    },
-    "por": {
-      "official": "República do Usbequistão",
-      "common": "Uzbequistão"
-    },
-    "rus": {
-      "official": "Республика Узбекистан",
-      "common": "Узбекистан"
-    },
-    "spa": {
-      "official": "República de Uzbekistán",
-      "common": "Uzbekistán"
-    },
-    "fin": {
-      "official": "Uzbekistanin tasavalta",
-      "common": "Uzbekistan"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/uzbekistan",
-  "currency": [
-    "UZS"
-  ],
-  "callingCode": [
-    "998"
-  ],
-  "landlocked": true,
-  "codes": {
-    "cca2": "UZ",
-    "ccn3": "860",
-    "cca3": "UZB",
-    "cioc": "UZB"
-  }
+  "flag": ""
 }

@@ -9,19 +9,107 @@
       }
     }
   },
+  "tld": [
+    ".pt"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "351"
+  ],
+  "capital": "Lisbon",
   "altSpellings": [
     "PT",
     "Portuguesa",
     "Portuguese Republic",
     "República Portuguesa"
   ],
-  "area": 92090,
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "languages": {
+    "por": "Portuguese"
+  },
+  "translations": {
+    "deu": {
+      "official": "Portugiesische Republik",
+      "common": "Portugal"
+    },
+    "fra": {
+      "official": "République portugaise",
+      "common": "Portugal"
+    },
+    "hrv": {
+      "official": "Portugalska Republika",
+      "common": "Portugal"
+    },
+    "ita": {
+      "official": "Repubblica portoghese",
+      "common": "Portogallo"
+    },
+    "jpn": {
+      "official": "ポルトガル共和国",
+      "common": "ポルトガル"
+    },
+    "nld": {
+      "official": "Portugese Republiek",
+      "common": "Portugal"
+    },
+    "por": {
+      "official": "República português",
+      "common": "Portugal"
+    },
+    "rus": {
+      "official": "Португальская Республика",
+      "common": "Португалия"
+    },
+    "spa": {
+      "official": "República Portuguesa",
+      "common": "Portugal"
+    },
+    "fin": {
+      "official": "Portugalin tasavalta",
+      "common": "Portugali"
+    }
+  },
+  "latlng": [
+    39.5,
+    -8
+  ],
+  "demonym": "Portuguese",
+  "landlocked": false,
   "borders": [
     "ESP"
   ],
-  "capital": "Lisbon",
-  "demonym": "Portuguese",
-  "flag": "",
+  "area": 92090,
+  "codes": {
+    "cca2": "PT",
+    "ccn3": "620",
+    "cca3": "PRT",
+    "cioc": "POR"
+  },
+  "provinces": [
+    "Acores (Azores)",
+    "Aveiro",
+    "Beja",
+    "Braga",
+    "Braganca",
+    "Castelo Branco",
+    "Coimbra",
+    "Evora",
+    "Faro",
+    "Guarda",
+    "Leiria",
+    "Lisboa",
+    "Madeira",
+    "Portalegre",
+    "Porto",
+    "Santarem",
+    "Setubal",
+    "Viana do Castelo",
+    "Vila Real",
+    "Viseu"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -173,100 +261,5 @@
       }
     ]
   },
-  "languages": {
-    "por": "Portuguese"
-  },
-  "latlng": [
-    39.5,
-    -8
-  ],
-  "nativeName": "Portugal",
-  "population": 10477800,
-  "provinces": [
-    "Acores (Azores)",
-    "Aveiro",
-    "Beja",
-    "Braga",
-    "Braganca",
-    "Castelo Branco",
-    "Coimbra",
-    "Evora",
-    "Faro",
-    "Guarda",
-    "Leiria",
-    "Lisboa",
-    "Madeira",
-    "Portalegre",
-    "Porto",
-    "Santarem",
-    "Setubal",
-    "Viana do Castelo",
-    "Vila Real",
-    "Viseu"
-  ],
-  "region": "Europe",
-  "subregion": "Southern Europe",
-  "timezones": [
-    "UTC−01:00",
-    "UTC"
-  ],
-  "tld": [
-    ".pt"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Portugiesische Republik",
-      "common": "Portugal"
-    },
-    "fra": {
-      "official": "République portugaise",
-      "common": "Portugal"
-    },
-    "hrv": {
-      "official": "Portugalska Republika",
-      "common": "Portugal"
-    },
-    "ita": {
-      "official": "Repubblica portoghese",
-      "common": "Portogallo"
-    },
-    "jpn": {
-      "official": "ポルトガル共和国",
-      "common": "ポルトガル"
-    },
-    "nld": {
-      "official": "Portugese Republiek",
-      "common": "Portugal"
-    },
-    "por": {
-      "official": "República português",
-      "common": "Portugal"
-    },
-    "rus": {
-      "official": "Португальская Республика",
-      "common": "Португалия"
-    },
-    "spa": {
-      "official": "República Portuguesa",
-      "common": "Portugal"
-    },
-    "fin": {
-      "official": "Portugalin tasavalta",
-      "common": "Portugali"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/portugal",
-  "currency": [
-    "EUR"
-  ],
-  "callingCode": [
-    "351"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "PT",
-    "ccn3": "620",
-    "cca3": "PRT",
-    "cioc": "POR"
-  }
+  "flag": ""
 }

@@ -9,15 +9,85 @@
       }
     }
   },
+  "tld": [
+    ".tf"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [],
+  "capital": "Port-aux-Français",
   "altSpellings": [
     "TF",
     "French Southern Territories"
   ],
-  "area": 7747,
-  "borders": [],
-  "capital": "Port-aux-Français",
+  "region": "",
+  "subregion": "",
+  "languages": {
+    "fra": "French"
+  },
+  "translations": {
+    "deu": {
+      "official": "Gebiet der Französisch Süd-und Antarktisgebiete",
+      "common": "Französische Süd-und Antarktisgebiete"
+    },
+    "fra": {
+      "official": "Territoire des Terres australes et antarctiques françaises",
+      "common": "Terres australes et antarctiques françaises"
+    },
+    "hrv": {
+      "official": "Teritoriju Francuski južni i antarktički teritoriji",
+      "common": "Francuski južni i antarktički teritoriji"
+    },
+    "ita": {
+      "official": "Territorio della australi e antartiche francesi Terre",
+      "common": "Territori Francesi del Sud"
+    },
+    "jpn": {
+      "official": "フランス領南方·南極地域の領土",
+      "common": "フランス領南方・南極地域"
+    },
+    "nld": {
+      "official": "Grondgebied van de Franse Zuidelijke en Antarctische gebieden",
+      "common": "Franse Gebieden in de zuidelijke Indische Oceaan"
+    },
+    "por": {
+      "official": "Território do Sul e Antártica Francesa",
+      "common": "Terras Austrais e Antárticas Francesas"
+    },
+    "rus": {
+      "official": "Территория Французские Южные и Антарктические земли",
+      "common": "Французские Южные и Антарктические территории"
+    },
+    "spa": {
+      "official": "Territorio del Francés Tierras australes y antárticas",
+      "common": "Tierras Australes y Antárticas Francesas"
+    },
+    "fin": {
+      "official": "Ranskan eteläiset ja antarktiset alueet",
+      "common": "Ranskan eteläiset ja antarktiset alueet"
+    }
+  },
+  "latlng": [
+    -49.25,
+    69.167
+  ],
   "demonym": "French",
-  "flag": "",
+  "landlocked": false,
+  "borders": [],
+  "area": 7747,
+  "codes": {
+    "cca2": "TF",
+    "ccn3": "260",
+    "cca3": "ATF",
+    "cioc": ""
+  },
+  "provinces": [
+    "Adelie Land",
+    "Ile Crozet",
+    "Iles Kerguelen",
+    "Iles Saint-Paul et Amsterdam"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -73,79 +143,5 @@
       }
     ]
   },
-  "languages": {
-    "fra": "French"
-  },
-  "latlng": [
-    -49.25,
-    69.167
-  ],
-  "nativeName": "Territoire des Terres australes et antarctiques françaises",
-  "population": 140,
-  "provinces": [
-    "Adelie Land",
-    "Ile Crozet",
-    "Iles Kerguelen",
-    "Iles Saint-Paul et Amsterdam"
-  ],
-  "region": "",
-  "subregion": "",
-  "timezones": null,
-  "tld": [
-    ".tf"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Gebiet der Französisch Süd-und Antarktisgebiete",
-      "common": "Französische Süd-und Antarktisgebiete"
-    },
-    "fra": {
-      "official": "Territoire des Terres australes et antarctiques françaises",
-      "common": "Terres australes et antarctiques françaises"
-    },
-    "hrv": {
-      "official": "Teritoriju Francuski južni i antarktički teritoriji",
-      "common": "Francuski južni i antarktički teritoriji"
-    },
-    "ita": {
-      "official": "Territorio della australi e antartiche francesi Terre",
-      "common": "Territori Francesi del Sud"
-    },
-    "jpn": {
-      "official": "フランス領南方·南極地域の領土",
-      "common": "フランス領南方・南極地域"
-    },
-    "nld": {
-      "official": "Grondgebied van de Franse Zuidelijke en Antarctische gebieden",
-      "common": "Franse Gebieden in de zuidelijke Indische Oceaan"
-    },
-    "por": {
-      "official": "Território do Sul e Antártica Francesa",
-      "common": "Terras Austrais e Antárticas Francesas"
-    },
-    "rus": {
-      "official": "Территория Французские Южные и Антарктические земли",
-      "common": "Французские Южные и Антарктические территории"
-    },
-    "spa": {
-      "official": "Territorio del Francés Tierras australes y antárticas",
-      "common": "Tierras Australes y Antárticas Francesas"
-    },
-    "fin": {
-      "official": "Ranskan eteläiset ja antarktiset alueet",
-      "common": "Ranskan eteläiset ja antarktiset alueet"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/french_southern_and_antarctic_lands",
-  "currency": [
-    "EUR"
-  ],
-  "callingCode": [],
-  "landlocked": false,
-  "codes": {
-    "cca2": "TF",
-    "ccn3": "260",
-    "cca3": "ATF",
-    "cioc": ""
-  }
+  "flag": ""
 }

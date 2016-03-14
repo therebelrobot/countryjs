@@ -13,18 +13,102 @@
       }
     }
   },
+  "tld": [
+    ".my"
+  ],
+  "currency": [
+    "MYR"
+  ],
+  "callingCode": [
+    "60"
+  ],
+  "capital": "Kuala Lumpur",
   "altSpellings": [
     "MY"
   ],
-  "area": 330803,
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "languages": {
+    "eng": "English",
+    "msa": "Malay"
+  },
+  "translations": {
+    "deu": {
+      "official": "Malaysia",
+      "common": "Malaysia"
+    },
+    "fra": {
+      "official": "Fédération de Malaisie",
+      "common": "Malaisie"
+    },
+    "hrv": {
+      "official": "Malezija",
+      "common": "Malezija"
+    },
+    "ita": {
+      "official": "Malaysia",
+      "common": "Malesia"
+    },
+    "jpn": {
+      "official": "マレーシア",
+      "common": "マレーシア"
+    },
+    "nld": {
+      "official": "Maleisië",
+      "common": "Maleisië"
+    },
+    "por": {
+      "official": "Malásia",
+      "common": "Malásia"
+    },
+    "rus": {
+      "official": "Малайзия",
+      "common": "Малайзия"
+    },
+    "spa": {
+      "official": "Malasia",
+      "common": "Malasia"
+    },
+    "fin": {
+      "official": "Malesia",
+      "common": "Malesia"
+    }
+  },
+  "latlng": [
+    2.5,
+    112.5
+  ],
+  "demonym": "Malaysian",
+  "landlocked": false,
   "borders": [
     "BRN",
     "IDN",
     "THA"
   ],
-  "capital": "Kuala Lumpur",
-  "demonym": "Malaysian",
-  "flag": "",
+  "area": 330803,
+  "codes": {
+    "cca2": "MY",
+    "ccn3": "458",
+    "cca3": "MYS",
+    "cioc": "MAS"
+  },
+  "provinces": [
+    "Johor",
+    "Kedah",
+    "Kelantan",
+    "Labuan",
+    "Melaka",
+    "Negeri Sembilan",
+    "Pahang",
+    "Perak",
+    "Perlis",
+    "Pulau Pinang",
+    "Sabah",
+    "Sarawak",
+    "Selangor",
+    "Terengganu",
+    "Wilayah Persekutuan"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -298,95 +382,5 @@
       }
     ]
   },
-  "languages": {
-    "eng": "English",
-    "msa": "Malay"
-  },
-  "latlng": [
-    2.5,
-    112.5
-  ],
-  "nativeName": "Malaysia",
-  "population": 30430500,
-  "provinces": [
-    "Johor",
-    "Kedah",
-    "Kelantan",
-    "Labuan",
-    "Melaka",
-    "Negeri Sembilan",
-    "Pahang",
-    "Perak",
-    "Perlis",
-    "Pulau Pinang",
-    "Sabah",
-    "Sarawak",
-    "Selangor",
-    "Terengganu",
-    "Wilayah Persekutuan"
-  ],
-  "region": "Asia",
-  "subregion": "South-Eastern Asia",
-  "timezones": [
-    "UTC+08:00"
-  ],
-  "tld": [
-    ".my"
-  ],
-  "translations": {
-    "deu": {
-      "official": "Malaysia",
-      "common": "Malaysia"
-    },
-    "fra": {
-      "official": "Fédération de Malaisie",
-      "common": "Malaisie"
-    },
-    "hrv": {
-      "official": "Malezija",
-      "common": "Malezija"
-    },
-    "ita": {
-      "official": "Malaysia",
-      "common": "Malesia"
-    },
-    "jpn": {
-      "official": "マレーシア",
-      "common": "マレーシア"
-    },
-    "nld": {
-      "official": "Maleisië",
-      "common": "Maleisië"
-    },
-    "por": {
-      "official": "Malásia",
-      "common": "Malásia"
-    },
-    "rus": {
-      "official": "Малайзия",
-      "common": "Малайзия"
-    },
-    "spa": {
-      "official": "Malasia",
-      "common": "Malasia"
-    },
-    "fin": {
-      "official": "Malesia",
-      "common": "Malesia"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/malaysia",
-  "currency": [
-    "MYR"
-  ],
-  "callingCode": [
-    "60"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "MY",
-    "ccn3": "458",
-    "cca3": "MYS",
-    "cioc": "MAS"
-  }
+  "flag": ""
 }

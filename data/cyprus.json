@@ -13,6 +13,16 @@
       }
     }
   },
+  "tld": [
+    ".cy"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "357"
+  ],
+  "capital": "Nicosia",
   "altSpellings": [
     "CY",
     "Kýpros",
@@ -21,13 +31,83 @@
     "Κυπριακή Δημοκρατία",
     "Kıbrıs Cumhuriyeti"
   ],
-  "area": 9251,
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "languages": {
+    "ell": "Greek",
+    "tur": "Turkish"
+  },
+  "translations": {
+    "cym": {
+      "official": "Republic of Cyprus",
+      "common": "Cyprus"
+    },
+    "deu": {
+      "official": "Republik Zypern",
+      "common": "Zypern"
+    },
+    "fra": {
+      "official": "République de Chypre",
+      "common": "Chypre"
+    },
+    "hrv": {
+      "official": "Republika Cipar",
+      "common": "Cipar"
+    },
+    "ita": {
+      "official": "Repubblica di Cipro",
+      "common": "Cipro"
+    },
+    "jpn": {
+      "official": "キプロス共和国",
+      "common": "キプロス"
+    },
+    "nld": {
+      "official": "Republiek Cyprus",
+      "common": "Cyprus"
+    },
+    "por": {
+      "official": "República de Chipre",
+      "common": "Chipre"
+    },
+    "rus": {
+      "official": "Республика Кипр",
+      "common": "Кипр"
+    },
+    "spa": {
+      "official": "República de Chipre",
+      "common": "Chipre"
+    },
+    "fin": {
+      "official": "Kyproksen tasavalta",
+      "common": "Kypros"
+    }
+  },
+  "latlng": [
+    35,
+    33
+  ],
+  "demonym": "Cypriot",
+  "landlocked": false,
   "borders": [
     "GBR"
   ],
-  "capital": "Nicosia",
-  "demonym": "Cypriot",
-  "flag": "",
+  "area": 9251,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Cyprus.svg",
+  "codes": {
+    "cca2": "CY",
+    "ccn3": "196",
+    "cca3": "CYP",
+    "cioc": "CYP"
+  },
+  "provinces": [
+    "Famagusta",
+    "Kyrenia",
+    "Larnaca",
+    "Limassol",
+    "Nicosia",
+    "Paphos"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -106,91 +186,5 @@
         }
       }
     ]
-  },
-  "languages": {
-    "ell": "Greek",
-    "tur": "Turkish"
-  },
-  "latlng": [
-    35,
-    33
-  ],
-  "nativeName": "Κύπρος",
-  "population": 858000,
-  "provinces": [
-    "Famagusta",
-    "Kyrenia",
-    "Larnaca",
-    "Limassol",
-    "Nicosia",
-    "Paphos"
-  ],
-  "region": "Europe",
-  "subregion": "Eastern Europe",
-  "timezones": [
-    "UTC+02:00"
-  ],
-  "tld": [
-    ".cy"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Republic of Cyprus",
-      "common": "Cyprus"
-    },
-    "deu": {
-      "official": "Republik Zypern",
-      "common": "Zypern"
-    },
-    "fra": {
-      "official": "République de Chypre",
-      "common": "Chypre"
-    },
-    "hrv": {
-      "official": "Republika Cipar",
-      "common": "Cipar"
-    },
-    "ita": {
-      "official": "Repubblica di Cipro",
-      "common": "Cipro"
-    },
-    "jpn": {
-      "official": "キプロス共和国",
-      "common": "キプロス"
-    },
-    "nld": {
-      "official": "Republiek Cyprus",
-      "common": "Cyprus"
-    },
-    "por": {
-      "official": "República de Chipre",
-      "common": "Chipre"
-    },
-    "rus": {
-      "official": "Республика Кипр",
-      "common": "Кипр"
-    },
-    "spa": {
-      "official": "República de Chipre",
-      "common": "Chipre"
-    },
-    "fin": {
-      "official": "Kyproksen tasavalta",
-      "common": "Kypros"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/cyprus",
-  "currency": [
-    "EUR"
-  ],
-  "callingCode": [
-    "357"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "CY",
-    "ccn3": "196",
-    "cca3": "CYP",
-    "cioc": "CYP"
   }
 }

@@ -9,19 +9,107 @@
       }
     }
   },
+  "tld": [
+    ".dk"
+  ],
+  "currency": [
+    "DKK"
+  ],
+  "callingCode": [
+    "45"
+  ],
+  "capital": "Copenhagen",
   "altSpellings": [
     "DK",
     "Danmark",
     "Kingdom of Denmark",
     "Kongeriget Danmark"
   ],
-  "area": 43094,
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "languages": {
+    "dan": "Danish"
+  },
+  "translations": {
+    "cym": {
+      "official": "Kingdom of Denmark",
+      "common": "Denmarc"
+    },
+    "deu": {
+      "official": "Königreich Dänemark",
+      "common": "Dänemark"
+    },
+    "fra": {
+      "official": "Royaume du Danemark",
+      "common": "Danemark"
+    },
+    "hrv": {
+      "official": "Kraljevina Danska",
+      "common": "Danska"
+    },
+    "ita": {
+      "official": "Regno di Danimarca",
+      "common": "Danimarca"
+    },
+    "jpn": {
+      "official": "デンマーク王国",
+      "common": "デンマーク"
+    },
+    "nld": {
+      "official": "Koninkrijk Denemarken",
+      "common": "Denemarken"
+    },
+    "por": {
+      "official": "Reino da Dinamarca",
+      "common": "Dinamarca"
+    },
+    "rus": {
+      "official": "Королевство Дания",
+      "common": "Дания"
+    },
+    "spa": {
+      "official": "Reino de Dinamarca",
+      "common": "Dinamarca"
+    },
+    "fin": {
+      "official": "Tanskan kuningaskunta",
+      "common": "Tanska"
+    }
+  },
+  "latlng": [
+    56,
+    10
+  ],
+  "demonym": "Danish",
+  "landlocked": false,
   "borders": [
     "DEU"
   ],
-  "capital": "Copenhagen",
-  "demonym": "Danish",
-  "flag": "",
+  "area": 43094,
+  "codes": {
+    "cca2": "DK",
+    "ccn3": "208",
+    "cca3": "DNK",
+    "cioc": "DEN"
+  },
+  "provinces": [
+    "Arhus",
+    "Bornholm",
+    "Fredericksberg",
+    "Frederiksborg",
+    "Fyn",
+    "Kobenhavn",
+    "Kobenhavns",
+    "Nordjylland",
+    "Ribe",
+    "Ringkobing",
+    "Roskilde",
+    "Sonderjylland",
+    "Storstrom",
+    "Vejle",
+    "Vestsjalland",
+    "Viborg"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -143,103 +231,5 @@
       }
     ]
   },
-  "languages": {
-    "dan": "Danish"
-  },
-  "latlng": [
-    56,
-    10
-  ],
-  "nativeName": "Danmark",
-  "population": 5655750,
-  "provinces": [
-    "Arhus",
-    "Bornholm",
-    "Fredericksberg",
-    "Frederiksborg",
-    "Fyn",
-    "Kobenhavn",
-    "Kobenhavns",
-    "Nordjylland",
-    "Ribe",
-    "Ringkobing",
-    "Roskilde",
-    "Sonderjylland",
-    "Storstrom",
-    "Vejle",
-    "Vestsjalland",
-    "Viborg"
-  ],
-  "region": "Europe",
-  "subregion": "Northern Europe",
-  "timezones": [
-    "UTC−04:00",
-    "UTC−03:00",
-    "UTC−01:00",
-    "UTC",
-    "UTC+01:00"
-  ],
-  "tld": [
-    ".dk"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Kingdom of Denmark",
-      "common": "Denmarc"
-    },
-    "deu": {
-      "official": "Königreich Dänemark",
-      "common": "Dänemark"
-    },
-    "fra": {
-      "official": "Royaume du Danemark",
-      "common": "Danemark"
-    },
-    "hrv": {
-      "official": "Kraljevina Danska",
-      "common": "Danska"
-    },
-    "ita": {
-      "official": "Regno di Danimarca",
-      "common": "Danimarca"
-    },
-    "jpn": {
-      "official": "デンマーク王国",
-      "common": "デンマーク"
-    },
-    "nld": {
-      "official": "Koninkrijk Denemarken",
-      "common": "Denemarken"
-    },
-    "por": {
-      "official": "Reino da Dinamarca",
-      "common": "Dinamarca"
-    },
-    "rus": {
-      "official": "Королевство Дания",
-      "common": "Дания"
-    },
-    "spa": {
-      "official": "Reino de Dinamarca",
-      "common": "Dinamarca"
-    },
-    "fin": {
-      "official": "Tanskan kuningaskunta",
-      "common": "Tanska"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/denmark",
-  "currency": [
-    "DKK"
-  ],
-  "callingCode": [
-    "45"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "DK",
-    "ccn3": "208",
-    "cca3": "DNK",
-    "cioc": "DEN"
-  }
+  "flag": ""
 }

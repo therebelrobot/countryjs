@@ -9,14 +9,94 @@
       }
     }
   },
+  "tld": [
+    ".au"
+  ],
+  "currency": [
+    "AUD"
+  ],
+  "callingCode": [
+    "61"
+  ],
+  "capital": "Canberra",
   "altSpellings": [
     "AU"
   ],
-  "area": 7692024,
-  "borders": [],
-  "capital": "Canberra",
+  "region": "Oceania",
+  "subregion": "Australia and New Zealand",
+  "languages": {
+    "eng": "English"
+  },
+  "translations": {
+    "cym": {
+      "official": "Commonwealth of Australia",
+      "common": "Awstralia"
+    },
+    "deu": {
+      "official": "Commonwealth Australien",
+      "common": "Australien"
+    },
+    "fra": {
+      "official": "Australie",
+      "common": "Australie"
+    },
+    "hrv": {
+      "official": "Commonwealth of Australia",
+      "common": "Australija"
+    },
+    "ita": {
+      "official": "Commonwealth dell'Australia",
+      "common": "Australia"
+    },
+    "jpn": {
+      "official": "オーストラリア連邦",
+      "common": "オーストラリア"
+    },
+    "nld": {
+      "official": "Gemenebest van Australië",
+      "common": "Australië"
+    },
+    "por": {
+      "official": "Comunidade da Austrália",
+      "common": "Austrália"
+    },
+    "rus": {
+      "official": "Содружество Австралии",
+      "common": "Австралия"
+    },
+    "spa": {
+      "official": "Mancomunidad de Australia",
+      "common": "Australia"
+    },
+    "fin": {
+      "official": "Australian liittovaltio",
+      "common": "Australia"
+    }
+  },
+  "latlng": [
+    -27,
+    133
+  ],
   "demonym": "Australian",
-  "flag": "http://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
+  "landlocked": false,
+  "borders": [],
+  "area": 7692024,
+  "codes": {
+    "cca2": "AU",
+    "ccn3": "036",
+    "cca3": "AUS",
+    "cioc": "AUS"
+  },
+  "provinces": [
+    "Australian Capital Territory",
+    "New South Wales",
+    "Northern Territory",
+    "Queensland",
+    "South Australia",
+    "Tasmania",
+    "Victoria",
+    "Western Australia"
+  ],
   "geoJSON": {
     "type": "FeatureCollection",
     "features": [
@@ -1006,98 +1086,5 @@
       }
     ]
   },
-  "languages": {
-    "eng": "English"
-  },
-  "latlng": [
-    -27,
-    133
-  ],
-  "nativeName": "Australia",
-  "population": 23696900,
-  "provinces": [
-    "Australian Capital Territory",
-    "New South Wales",
-    "Northern Territory",
-    "Queensland",
-    "South Australia",
-    "Tasmania",
-    "Victoria",
-    "Western Australia"
-  ],
-  "region": "Oceania",
-  "subregion": "Australia and New Zealand",
-  "timezones": [
-    "UTC+05:00",
-    "UTC+06:30",
-    "UTC+07:00",
-    "UTC+08:00",
-    "UTC+09:30",
-    "UTC+10:00",
-    "UTC+10:30",
-    "UTC+11:30"
-  ],
-  "tld": [
-    ".au"
-  ],
-  "translations": {
-    "cym": {
-      "official": "Commonwealth of Australia",
-      "common": "Awstralia"
-    },
-    "deu": {
-      "official": "Commonwealth Australien",
-      "common": "Australien"
-    },
-    "fra": {
-      "official": "Australie",
-      "common": "Australie"
-    },
-    "hrv": {
-      "official": "Commonwealth of Australia",
-      "common": "Australija"
-    },
-    "ita": {
-      "official": "Commonwealth dell'Australia",
-      "common": "Australia"
-    },
-    "jpn": {
-      "official": "オーストラリア連邦",
-      "common": "オーストラリア"
-    },
-    "nld": {
-      "official": "Gemenebest van Australië",
-      "common": "Australië"
-    },
-    "por": {
-      "official": "Comunidade da Austrália",
-      "common": "Austrália"
-    },
-    "rus": {
-      "official": "Содружество Австралии",
-      "common": "Австралия"
-    },
-    "spa": {
-      "official": "Mancomunidad de Australia",
-      "common": "Australia"
-    },
-    "fin": {
-      "official": "Australian liittovaltio",
-      "common": "Australia"
-    }
-  },
-  "wiki": "http://en.wikipedia.org/wiki/australia",
-  "currency": [
-    "AUD"
-  ],
-  "callingCode": [
-    "61"
-  ],
-  "landlocked": false,
-  "codes": {
-    "cca2": "AU",
-    "ccn3": "036",
-    "cca3": "AUS",
-    "cioc": "AUS"
-  }
+  "flag": "http://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg"
 }
