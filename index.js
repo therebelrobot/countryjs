@@ -11,4 +11,8 @@
 // DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS
 // ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
+const Country = require('./lib/countryjs')
+
+console.log(Country.info('756','Number'));
+
 module.exports = require('./lib/countryjs')
