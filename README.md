@@ -406,7 +406,7 @@ country.wiki('US') // Defaults to 'ISO2'
 
 ### `.all()`
 
-Return all country data. This will be super big. Not recommended.
+Return array of data for all countries. This will be super big. Not recommended.
 
 ```JavaScript
 var country = require('countryjs');
