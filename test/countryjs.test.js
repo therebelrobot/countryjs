@@ -107,13 +107,13 @@ test('it should get all available info using approximate string matching', (t) =
   })
   t.end() // t.end(err)
 })
-//
-// test('it should get list of states for United States', (t) => {
-//   t.plan(0)
-//   let testCountry = country
-//   t.equal()
-//   t.end() // t.end(err)
-// })
+
+test('it should get list of states for United States', (t) => {
+  t.plan(0)
+  let testCountry = country.states('US')
+  t.deepEqual()
+  t.end() // t.end(err)
+})
 //
 // test('it should get list of provinces for United States', (t) => {
 //   t.plan(0)
