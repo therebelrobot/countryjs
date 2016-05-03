@@ -48,8 +48,8 @@ describe('countryjs', function () {
       .and.to.have.lengthOf(2)
     done()
   })
-  it('should get altSpellings for the country code 32', function (done) {
-    var tester = country.altSpellings(32, 'callCode')
+  it('should get ISOcodes for the country code 32', function (done) {
+    var tester = country.ISOcodes(32, 'callCode')
     expect(tester).to.be.an('array')
       .and.to.have.lengthOf(1)
     done()
