@@ -42,6 +42,18 @@ describe('countryjs', function () {
     expect(tester).to.be.an('object')
     done()
   })
+  it('should get all available info for the country code 1', function (done) {
+    var tester = country.info(1, 'callCode')
+    expect(tester).to.be.an('array')
+      .and.to.have.lengthOf(2)
+    done()
+  })
+  it('should get altSpellings for the country code 32', function (done) {
+    var tester = country.altSpellings(32, 'callCode')
+    expect(tester).to.be.an('array')
+      .and.to.have.lengthOf(1)
+    done()
+  })
   it('should get all available info using approximate string matching', function (done) {
     var searches = {
       'thailande': 'Thailand',
