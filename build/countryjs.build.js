@@ -11,8 +11,8 @@ var _ = require('lodash')
 var str2snake = require('to-snake-case')
 var path = require('path')
 var fs = require('fs')
-var wikipedia = require("node-wikipedia");
-var wtf_wikipedia = require("wtf_wikipedia")
+// var wikipedia = require('node-wikipedia')
+var wtf_wikipedia = require('wtf_wikipedia')
 
 request.get('https://raw.githubusercontent.com/mledoze/countries/master/dist/countries.json')
   .type('json')
@@ -65,12 +65,12 @@ function _buildCountry (filename, liveCountry, legacyCountry) {
     liveCountry.provinces = legacyCountry.provinces
     liveCountry.geoJSON = legacyCountry.geoJSON
     liveCountry.flag = legacyCountry.flag
-    if(!legacyCountry.provinces || !legacyCountry.provinces.length){
+    if (!legacyCountry.provinces || !legacyCountry.provinces.length) {
       // retrieve provinces from wikipedia
     }
-    if(!liveCountry.flag || liveCountry.flag === ''){
-      if(wiki.image_flag && wiki.image_flag.text){
-        liveCountry.flag = 'https://en.m.wikipedia.org/wiki/File:'+wiki.image_flag.text
+    if (!liveCountry.flag || liveCountry.flag === '') {
+      if (wiki.image_flag && wiki.image_flag.text) {
+        liveCountry.flag = 'https://en.m.wikipedia.org/wiki/File:' + wiki.image_flag.text
       }
     }
     console.log(filename)
@@ -82,26 +82,27 @@ function _buildCountry (filename, liveCountry, legacyCountry) {
 
 }
 
-function _callWiki(country){
-  return new Promise((resolve, reject) =>{
-    wtf_wikipedia.from_api(country.name.common, "en", function(markup){
-      var wiki= wtf_wikipedia.parse(markup)
-      if(wiki.type === 'disambiguation'){
+function _callWiki (country) {
+  return new Promise((resolve, reject) => {
+    wtf_wikipedia.from_api(country.name.common, 'en', function (markup) {
+      console.log(markup)
+      var wiki = wtf_wikipedia.parse(markup)
+      if (wiki.type === 'disambiguation') {
         console.log(country.name.common, 'disambiguation. fetching flag from +(country)')
-        return wtf_wikipedia.from_api(country.name.common + ' (country)', "en", function(markup){
-          var wiki= wtf_wikipedia.parse(markup)
+        return wtf_wikipedia.from_api(country.name.common + ' (country)', 'en', function (markup) {
+          var wiki = wtf_wikipedia.parse(markup)
           console.log(country.name.common, '(country) wiki', wiki)
           console.log(country.name.common, '(country) infobox', wiki.infobox)
-          if(wiki.infobox && wiki.infobox.image_flag && wiki.infobox.image_flag.text){
+          if (wiki.infobox && wiki.infobox.image_flag && wiki.infobox.image_flag.text) {
             console.log(country.name.common, '(country) flag', wiki.infobox.image_flag.text)
           }
           resolve(wiki.infobox)
         })
       }
       console.log(country.name.common, 'infobox', wiki.infobox)
-      if(wiki.infobox && wiki.infobox.image_flag && wiki.infobox.image_flag.text){
+      if (wiki.infobox && wiki.infobox.image_flag && wiki.infobox.image_flag.text) {
         console.log(country.name.common, 'flag', wiki.infobox.image_flag.text)
-        country.flag = 'https://en.m.wikipedia.org/wiki/File:'+wiki.infobox.image_flag.text
+        country.flag = 'https://en.m.wikipedia.org/wiki/File:' + wiki.infobox.image_flag.text
       }
       resolve(wiki.infobox)
     })

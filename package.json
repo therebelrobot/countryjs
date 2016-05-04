@@ -17,8 +17,10 @@
   ],
   "scripts": {
     "pretest": "standard",
-    "test": "istanbul cover _mocha --",
-    "build": "node build/countryjs.build.js && browserify -e index.js -s countryjs -o dist/country.js"
+    "test": "tape test/*.test.js",
+    "build:countries": "node build/countryjs.build.js",
+    "build:script": "browserify -e index.js -s countryjs -o dist/country.js",
+    "build": "build:countries && build:script"
   },
   "keywords": [
     "country",

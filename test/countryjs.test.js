@@ -109,9 +109,9 @@ test('it should get all available info using approximate string matching', (t) =
 })
 
 test('it should get list of states for United States', (t) => {
-  t.plan(0)
-  let testCountry = country.states('US')
-  t.deepEqual()
+  t.plan(1)
+  let testStates = country.states('US')
+  t.deepEqual(testStates[0], staticUS.provinces)
   t.end() // t.end(err)
 })
 //
