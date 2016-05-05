@@ -8,6 +8,7 @@ const path = require('path')
 const country = require('../lib/countryjs')
 const dataDir = fs.readdirSync(path.resolve(__dirname, '../data'))
 const staticUS = require('../data/united_states.json')
+const staticBE = require('../data/belgium.json')
 
 process.env.DEBUG = 'function,block'
 
@@ -56,6 +57,22 @@ test('it should get all available info for United States (CIOC)', (t) => {
   let testCountry = country.info('USA', 'cioc')
   t.ok(_.isArray(testCountry), 'should be array')
   t.deepEqual(testCountry[0], staticUS)
+  t.end() // t.end(err)
+})
+
+test('it should get all available info for country code 32 (Belgium)', (t) => {
+  t.plan(2)
+  let testCountry = country.info('32', 'callCode')
+  t.ok(_.isArray(testCountry), 'should be array')
+  t.deepEqual(testCountry[0], staticBE)
+  t.end() // t.end(err)
+})
+
+test('it should get codes available for country code 32 (Belgium)', (t) => {
+  t.plan(2)
+  let testCountry = country.codes('32', 'callCode')
+  t.ok(_.isArray(testCountry), 'should be array')
+  t.deepEqual(testCountry[0], staticBE.codes)
   t.end() // t.end(err)
 })
 
