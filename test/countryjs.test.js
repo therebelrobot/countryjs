@@ -60,7 +60,7 @@ test('it should get all available info for United States (CIOC)', (t) => {
   t.end() // t.end(err)
 })
 
-test('it should get all available info for country code 32 (Belgium)', (t) => {
+test('it should get all available info for callCode 32 (Belgium)', (t) => {
   t.plan(2)
   let testCountry = country.info('32', 'callCode')
   t.ok(_.isArray(testCountry), 'should be array')
@@ -131,161 +131,42 @@ test('it should get list of states for United States', (t) => {
   t.deepEqual(testStates[0], staticUS.provinces)
   t.end() // t.end(err)
 })
-//
-// test('it should get list of provinces for United States', (t) => {
-//   t.plan(0)
-//   let testCountry = country
-//   t.equal()
-//   t.end() // t.end(err)
-// })
-//
-// test('it should get name for United States', (t) => {
-//   t.plan(0)
-//   let testCountry = country
-//   t.equal()
-//   t.end() // t.end(err)
-// })
-//
-// test('it should get alternate spellings for United States', (t) => {
-//   t.plan(0)
-//   let testCountry = country
-//   t.equal()
-//   t.end() // t.end(err)
-// })
-//
-// test('it should get area (km²) of United States', (t) => {
-//   t.plan(0)
-//   let testCountry = country
-//   t.equal()
-//   t.end() // t.end(err)
-// })
-//
-// test('it should get list of bordering countries for United States', (t) => {
-//   t.plan(0)
-//   let testCountry = country
-//   t.equal()
-//   t.end() // t.end(err)
-// })
-//
-// test('it should get list of calling codes for United States', (t) => {
-//   t.plan(0)
-//   let testCountry = country
-//   t.equal()
-//   t.end() // t.end(err)
-// })
-//
-// test('it should get capital for United States', (t) => {
-//   t.plan(0)
-//   let testCountry = country
-//   t.equal()
-//   t.end() // t.end(err)
-// })
-//
-// test('it should get list of currencies for United States', (t) => {
-//   t.plan(0)
-//   let testCountry = country
-//   t.equal()
-//   t.end() // t.end(err)
-// })
-//
-// test('it should get demonym for United States', (t) => {
-//   t.plan(0)
-//   let testCountry = country
-//   t.equal()
-//   t.end() // t.end(err)
-// })
-//
-// test('it should get flag for United States', (t) => {
-//   t.plan(0)
-//   let testCountry = country
-//   t.equal()
-//   t.end() // t.end(err)
-// })
-//
-// test('it should get geoJSON for United States', (t) => {
-//   t.plan(0)
-//   let testCountry = country
-//   t.equal()
-//   t.end() // t.end(err)
-// })
-//
-// test('it should get list of ISO codes for United States', (t) => {
-//   t.plan(0)
-//   let testCountry = country
-//   t.equal()
-//   t.end() // t.end(err)
-// })
-//
-// test('it should get list of languages for United States', (t) => {
-//   t.plan(0)
-//   let testCountry = country
-//   t.equal()
-//   t.end() // t.end(err)
-// })
-//
-// test('it should get approximate latitude and longitude coordinates for United States', (t) => {
-//   t.plan(0)
-//   let testCountry = country
-//   t.equal()
-//   t.end() // t.end(err)
-// })
-//
-// test('it should get native name for United States', (t) => {
-//   t.plan(0)
-//   let testCountry = country
-//   t.equal()
-//   t.end() // t.end(err)
-// })
-//
-// test('it should get population for United States', (t) => {
-//   t.plan(0)
-//   let testCountry = country
-//   t.equal()
-//   t.end() // t.end(err)
-// })
-//
-// test('it should get region for United States', (t) => {
-//   t.plan(0)
-//   let testCountry = country
-//   t.equal()
-//   t.end() // t.end(err)
-// })
-//
-// test('it should get subregion for United States', (t) => {
-//   t.plan(0)
-//   let testCountry = country
-//   t.equal()
-//   t.end() // t.end(err)
-// })
-//
-// test('it should get list of timezones for United States', (t) => {
-//   t.plan(0)
-//   let testCountry = country
-//   t.equal()
-//   t.end() // t.end(err)
-// })
-//
-// test('it should get tld for United States', (t) => {
-//   t.plan(0)
-//   let testCountry = country
-//   t.equal()
-//   t.end() // t.end(err)
-// })
-//
-// test('it should get list of translations of the name of United States', (t) => {
-//   t.plan(0)
-//   let testCountry = country
-//   t.equal()
-//   t.end() // t.end(err)
-// })
-//
-// test('it should get wiki page link for United States', (t) => {
-//   t.plan(0)
-//   let testCountry = country
-//   t.equal()
-//   t.end() // t.end(err)
-// })
-//
+
+test('it should get each of the properties of US solely', (t) => {
+  var methods = {
+      name: 'name',
+      altSpellings: 'altSpellings',
+      area: 'area',
+      borders: 'borders',
+      capital: 'capital',
+      demonym: 'demonym',
+      flag: 'flag',
+      geoJSON: 'geoJSON',
+      languages: 'languages',
+      latlng: 'latlng',
+      nativeName: 'nativeName',
+      population: 'population',
+      states: 'provinces',
+      provinces: 'provinces',
+      region: 'region',
+      subregion: 'subregion',
+      timezones: 'timezones',
+      tld: 'tld',
+      translations: 'translations',
+      wiki: 'wiki',
+      currency: 'currency',
+      callingCode: 'callingCode',
+      landlocked: 'landlocked',
+      codes: 'codes'
+    },
+    keys = Object.keys(methods)
+  t.plan(keys.length)
+  keys.forEach((method) => {
+    t.deepEqual(country[method]('US')[0], staticUS[methods[method]])
+  })
+  t.end()
+})
+
 // test('it should get info for all countries under same ISO code', (t) => {
 //   t.plan(0)
 //   let testCountry = country
@@ -314,9 +195,9 @@ test('it should get list of states for United States', (t) => {
 //   t.end() // t.end(err)
 // })
 //
-// test('it should undefined for a mismatched country identifier (other methods)', (t) => {
-//   t.plan(0)
-//   let testCountry = country
-//   t.equal()
-//   t.end() // t.end(err)
-// })
+test('it should get an empty array for a mismatched country identifier (other methods)', (t) => {
+  t.plan(1)
+  let testCountry = country.info('abc')
+  t.equal(testCountry.length, 0)
+  t.end()
+})
