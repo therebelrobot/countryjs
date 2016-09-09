@@ -12,6 +12,10 @@
 
 A Node.js module for returning data about countries, ISO info and states/provinces within them.
 
+![Up for adoption](http://therebelrobot.com/adoption-puppy-module.jpg)
+
+***This module is up for adoption. Are you interested in taking it over / maintaining it? Send an email to `adopt``@``therebelrobot.com` with a link to your Github/NPM profile, and I'll see about getting you access.***
+
 ## Table of Contents
 
 * [Install](#install)
