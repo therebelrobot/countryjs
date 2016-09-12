@@ -1,1 +1,138 @@
-{"flag":"","geoJSON":{},"ISO":{"alpha2":"HU","alpha3":"HUN"},"provinces":["Bacs-Kiskun","Baranya","Bekes","Bekescsaba","Borsod-Abauj-Zemplen","Budapest","Csongrad","Debrecen","Dunaujvaros","Eger","Fejer","Gyor","Gyor-Moson-Sopron","Hajdu-Bihar","Heves","Hodmezovasarhely","Jasz-Nagykun-Szolnok","Kaposvar","Kecskemet","Komarom-Esztergom","Miskolc","Nagykanizsa","Nograd","Nyiregyhaza","Pecs","Pest","Somogy","Sopron","Szabolcs-Szatmar-Bereg","Szeged","Szekesfehervar","Szolnok","Szombathely","Tatabanya","Tolna","Vas","Veszprem","Veszprem","Zala","Zalaegerszeg"],"tld":[],"wiki":"http://en.wikipedia.org/wiki/hungary"}
+{
+  "name": {
+    "common": "Hungary",
+    "official": "Hungary",
+    "native": {
+      "hun": {
+        "official": "Magyarország",
+        "common": "Magyarország"
+      }
+    }
+  },
+  "tld": [
+    ".hu"
+  ],
+  "currency": [
+    "HUF"
+  ],
+  "callingCode": [
+    "36"
+  ],
+  "capital": "Budapest",
+  "altSpellings": [
+    "HU"
+  ],
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "languages": {
+    "hun": "Hungarian"
+  },
+  "translations": {
+    "deu": {
+      "official": "Ungarn",
+      "common": "Ungarn"
+    },
+    "fra": {
+      "official": "Hongrie",
+      "common": "Hongrie"
+    },
+    "hrv": {
+      "official": "Madžarska",
+      "common": "Mađarska"
+    },
+    "ita": {
+      "official": "Ungheria",
+      "common": "Ungheria"
+    },
+    "jpn": {
+      "official": "ハンガリー",
+      "common": "ハンガリー"
+    },
+    "nld": {
+      "official": "Hongarije",
+      "common": "Hongarije"
+    },
+    "por": {
+      "official": "Hungria",
+      "common": "Hungria"
+    },
+    "rus": {
+      "official": "Венгрия",
+      "common": "Венгрия"
+    },
+    "spa": {
+      "official": "Hungría",
+      "common": "Hungría"
+    },
+    "fin": {
+      "official": "Unkari",
+      "common": "Unkari"
+    }
+  },
+  "latlng": [
+    47,
+    20
+  ],
+  "demonym": "Hungarian",
+  "landlocked": true,
+  "borders": [
+    "AUT",
+    "HRV",
+    "ROU",
+    "SRB",
+    "SVK",
+    "SVN",
+    "UKR"
+  ],
+  "area": 93028,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Hungary.svg",
+  "codes": {
+    "cca2": "HU",
+    "ccn3": "348",
+    "cca3": "HUN",
+    "cioc": "HUN"
+  },
+  "provinces": [
+    "Bacs-Kiskun",
+    "Baranya",
+    "Bekes",
+    "Bekescsaba",
+    "Borsod-Abauj-Zemplen",
+    "Budapest",
+    "Csongrad",
+    "Debrecen",
+    "Dunaujvaros",
+    "Eger",
+    "Fejer",
+    "Gyor",
+    "Gyor-Moson-Sopron",
+    "Hajdu-Bihar",
+    "Heves",
+    "Hodmezovasarhely",
+    "Jasz-Nagykun-Szolnok",
+    "Kaposvar",
+    "Kecskemet",
+    "Komarom-Esztergom",
+    "Miskolc",
+    "Nagykanizsa",
+    "Nograd",
+    "Nyiregyhaza",
+    "Pecs",
+    "Pest",
+    "Somogy",
+    "Sopron",
+    "Szabolcs-Szatmar-Bereg",
+    "Szeged",
+    "Szekesfehervar",
+    "Szolnok",
+    "Szombathely",
+    "Tatabanya",
+    "Tolna",
+    "Vas",
+    "Veszprem",
+    "Veszprem",
+    "Zala",
+    "Zalaegerszeg"
+  ],
+  "geoJSON": {}
+}

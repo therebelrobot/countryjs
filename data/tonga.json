@@ -1,1 +1,98 @@
-{"name":"Tonga","altSpellings":["TO"],"area":747,"borders":[],"callingCodes":["676"],"capital":"Nuku'alofa","currencies":["TOP"],"demonym":"Tongan","flag":"","geoJSON":{},"ISO":{"alpha2":"TO","alpha3":"TON"},"languages":["en","to"],"latlng":[-20,-175],"nativeName":"Tonga","population":103252,"provinces":["Ha'apai","Tongatapu","Vava'u"],"region":"Oceania","subregion":"Polynesia","timezones":["UTC+13:00"],"tld":[".to"],"translations":{"de":"Tonga","es":"Tonga","fr":"Tonga","ja":"トンガ","it":"Tonga"},"wiki":"http://en.wikipedia.org/wiki/tonga"}
+{
+  "name": {
+    "common": "Tonga",
+    "official": "Kingdom of Tonga",
+    "native": {
+      "eng": {
+        "official": "Kingdom of Tonga",
+        "common": "Tonga"
+      },
+      "ton": {
+        "official": "Kingdom of Tonga",
+        "common": "Tonga"
+      }
+    }
+  },
+  "tld": [
+    ".to"
+  ],
+  "currency": [
+    "TOP"
+  ],
+  "callingCode": [
+    "676"
+  ],
+  "capital": "Nuku'alofa",
+  "altSpellings": [
+    "TO"
+  ],
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "languages": {
+    "eng": "English",
+    "ton": "Tongan"
+  },
+  "translations": {
+    "deu": {
+      "official": "Königreich Tonga",
+      "common": "Tonga"
+    },
+    "fra": {
+      "official": "Royaume des Tonga",
+      "common": "Tonga"
+    },
+    "hrv": {
+      "official": "Kraljevina Tonga",
+      "common": "Tonga"
+    },
+    "ita": {
+      "official": "Regno di Tonga",
+      "common": "Tonga"
+    },
+    "jpn": {
+      "official": "トンガ王国",
+      "common": "トンガ"
+    },
+    "nld": {
+      "official": "Koninkrijk Tonga",
+      "common": "Tonga"
+    },
+    "por": {
+      "official": "Reino de Tonga",
+      "common": "Tonga"
+    },
+    "rus": {
+      "official": "Королевство Тонга",
+      "common": "Тонга"
+    },
+    "spa": {
+      "official": "Reino de Tonga",
+      "common": "Tonga"
+    },
+    "fin": {
+      "official": "Tongan kuningaskunta",
+      "common": "Tonga"
+    }
+  },
+  "latlng": [
+    -20,
+    -175
+  ],
+  "demonym": "Tongan",
+  "landlocked": false,
+  "borders": [],
+  "area": 747,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Tonga.svg",
+  "codes": {
+    "cca2": "TO",
+    "ccn3": "776",
+    "cca3": "TON",
+    "cioc": "TGA"
+  },
+  "provinces": [
+    "Ha'apai",
+    "Tongatapu",
+    "Vava'u"
+  ],
+  "geoJSON": {}
+}

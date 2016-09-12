@@ -1,0 +1,95 @@
+{
+  "name": {
+    "common": "Myanmar",
+    "official": "Republic of the Union of Myanmar",
+    "native": {
+      "mya": {
+        "official": "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်",
+        "common": "မြန်မာ"
+      }
+    }
+  },
+  "tld": [
+    ".mm"
+  ],
+  "currency": [
+    "MMK"
+  ],
+  "callingCode": [
+    "95"
+  ],
+  "capital": "Naypyidaw",
+  "altSpellings": [
+    "MM",
+    "Burma",
+    "Republic of the Union of Myanmar",
+    "Pyidaunzu Thanmăda Myăma Nainngandaw"
+  ],
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "languages": {
+    "mya": "Burmese"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik der Union von Myanmar",
+      "common": "Myanmar"
+    },
+    "fra": {
+      "official": "République de l'Union du Myanmar",
+      "common": "Birmanie"
+    },
+    "hrv": {
+      "official": "Republika Unije Mijanmar",
+      "common": "Mijanmar"
+    },
+    "ita": {
+      "official": "Repubblica dell'Unione di Myanmar",
+      "common": "Birmania"
+    },
+    "jpn": {
+      "official": "ミャンマー連邦共和国",
+      "common": "ミャンマー"
+    },
+    "nld": {
+      "official": "Republiek van de Unie van Myanmar",
+      "common": "Myanmar"
+    },
+    "por": {
+      "official": "República da União de Myanmar",
+      "common": "Myanmar"
+    },
+    "rus": {
+      "official": "Республика Союза Мьянма",
+      "common": "Мьянма"
+    },
+    "spa": {
+      "official": "República de la Unión de Myanmar",
+      "common": "Myanmar"
+    },
+    "fin": {
+      "official": "Myanmarin liiton tasavalta",
+      "common": "Myanmar"
+    }
+  },
+  "latlng": [
+    22,
+    98
+  ],
+  "demonym": "Bamar",
+  "landlocked": false,
+  "borders": [
+    "BGD",
+    "CHN",
+    "IND",
+    "LAO",
+    "THA"
+  ],
+  "area": 676578,
+  "codes": {
+    "cca2": "MM",
+    "ccn3": "104",
+    "cca3": "MMR",
+    "cioc": "MYA"
+  }
+}

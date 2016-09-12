@@ -1,0 +1,95 @@
+{
+  "name": {
+    "common": "Isle of Man",
+    "official": "Isle of Man",
+    "native": {
+      "eng": {
+        "official": "Isle of Man",
+        "common": "Isle of Man"
+      },
+      "glv": {
+        "official": "Ellan Vannin or Mannin",
+        "common": "Mannin"
+      }
+    }
+  },
+  "tld": [
+    ".im"
+  ],
+  "currency": [
+    "GBP"
+  ],
+  "callingCode": [
+    "44"
+  ],
+  "capital": "Douglas",
+  "altSpellings": [
+    "IM",
+    "Ellan Vannin",
+    "Mann",
+    "Mannin"
+  ],
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "languages": {
+    "eng": "English",
+    "glv": "Manx"
+  },
+  "translations": {
+    "deu": {
+      "official": "Isle of Man",
+      "common": "Insel Man"
+    },
+    "fra": {
+      "official": "Isle of Man",
+      "common": "Île de Man"
+    },
+    "hrv": {
+      "official": "Mana ostrvo",
+      "common": "Otok Man"
+    },
+    "ita": {
+      "official": "Isola di Man",
+      "common": "Isola di Man"
+    },
+    "jpn": {
+      "official": "マン島",
+      "common": "マン島"
+    },
+    "nld": {
+      "official": "Isle of Man",
+      "common": "Isle of Man"
+    },
+    "por": {
+      "official": "Isle of Man",
+      "common": "Ilha de Man"
+    },
+    "rus": {
+      "official": "Остров Мэн",
+      "common": "Остров Мэн"
+    },
+    "spa": {
+      "official": "Isla de Man",
+      "common": "Isla de Man"
+    },
+    "fin": {
+      "official": "Mansaari",
+      "common": "Mansaari"
+    }
+  },
+  "latlng": [
+    54.25,
+    -4.5
+  ],
+  "demonym": "Manx",
+  "landlocked": false,
+  "borders": [],
+  "area": 572,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of the Isle of Mann.svg",
+  "codes": {
+    "cca2": "IM",
+    "ccn3": "833",
+    "cca3": "IMN",
+    "cioc": ""
+  }
+}

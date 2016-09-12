@@ -1,6 +1,6 @@
 {
   "name": "countryjs",
-  "version": "1.5.2",
+  "version": "2.0.0",
   "description": "A utility library for returning country data, ISO info and states/provinces within them.",
   "main": "index.js",
   "author": "Trent Oswald <trentoswald@therebelrobot.com> (http://therebelrobot.com)",
@@ -16,8 +16,11 @@
     "node"
   ],
   "scripts": {
-    "pretest": "./node_modules/standard/bin/cmd.js",
-    "test": "./node_modules/istanbul/lib/cli.js cover _mocha --"
+    "pretest": "standard",
+    "test": "tape test/*.test.js",
+    "build:countries": "node build/countryjs.build.js",
+    "build:script": "browserify -e index.js -s countryjs -o dist/country.js",
+    "build": "build:countries && build:script"
   },
   "keywords": [
     "country",
@@ -34,12 +37,34 @@
   "homepage": "https://github.com/therebelrobot/countryjs",
   "dependencies": {
     "bulk-require": "^0.2.1",
+    "debug": "^2.2.0",
     "lodash": "^4.2.1"
   },
   "devDependencies": {
+    "babelify": "^7.2.0",
+    "browserify": "^13.0.0",
+    "bulkify": "^1.1.1",
     "chai": "^2.1.0",
     "istanbul": "^0.3.7",
     "mocha": "^2.1.0",
-    "standard": "^2.11.0"
+    "node-wikipedia": "0.0.2",
+    "standard": "^2.11.0",
+    "tap-nyan": "0.0.2",
+    "tape": "^4.5.1",
+    "through2": "^2.0.0",
+    "to-snake-case": "^0.1.2",
+    "unirest": "^0.4.2",
+    "wtf_wikipedia": "^0.3.1"
+  },
+  "browserify": {
+    "transform": [
+      "bulkify"
+    ]
+  },
+  "standard": {
+    "ignore": [
+      "dist/*.js",
+      "coverage/**/*.js"
+    ]
   }
 }

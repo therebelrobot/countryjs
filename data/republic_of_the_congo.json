@@ -1,0 +1,109 @@
+{
+  "name": {
+    "common": "Republic of the Congo",
+    "official": "Republic of the Congo",
+    "native": {
+      "fra": {
+        "official": "République du Congo",
+        "common": "République du Congo"
+      },
+      "kon": {
+        "official": "Repubilika ya Kongo",
+        "common": "Repubilika ya Kongo"
+      },
+      "lin": {
+        "official": "Republíki ya Kongó",
+        "common": "Republíki ya Kongó"
+      }
+    }
+  },
+  "tld": [
+    ".cg"
+  ],
+  "currency": [
+    "XAF"
+  ],
+  "callingCode": [
+    "242"
+  ],
+  "capital": "Brazzaville",
+  "altSpellings": [
+    "CG",
+    "Congo",
+    "Congo-Brazzaville"
+  ],
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "languages": {
+    "fra": "French",
+    "kon": "Kikongo",
+    "lin": "Lingala"
+  },
+  "translations": {
+    "cym": {
+      "official": "Republic of the Congo",
+      "common": "Gweriniaeth y Congo"
+    },
+    "deu": {
+      "official": "Republik Kongo",
+      "common": "Kongo"
+    },
+    "fra": {
+      "official": "République du Congo",
+      "common": "Congo"
+    },
+    "hrv": {
+      "official": "Republika Kongo",
+      "common": "Kongo"
+    },
+    "ita": {
+      "official": "Repubblica del Congo",
+      "common": "Congo"
+    },
+    "jpn": {
+      "official": "コンゴ共和国",
+      "common": "コンゴ共和国"
+    },
+    "nld": {
+      "official": "Republiek Congo",
+      "common": "Congo"
+    },
+    "por": {
+      "official": "República do Congo",
+      "common": "Congo"
+    },
+    "rus": {
+      "official": "Республика Конго",
+      "common": "Республика Конго"
+    },
+    "spa": {
+      "official": "República del Congo",
+      "common": "Congo"
+    },
+    "fin": {
+      "official": "Kongon tasavalta",
+      "common": "Kongo-Brazzaville"
+    }
+  },
+  "latlng": [
+    -1,
+    15
+  ],
+  "demonym": "Congolese",
+  "landlocked": false,
+  "borders": [
+    "AGO",
+    "CMR",
+    "CAF",
+    "COD",
+    "GAB"
+  ],
+  "area": 342000,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of the Republic of the Congo.svg",
+  "codes": {
+    "cca2": "CG",
+    "ccn3": "178",
+    "cca3": "COG",
+    "cioc": "CGO"
+  }
+}

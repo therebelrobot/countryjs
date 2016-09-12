@@ -1,1 +1,153 @@
-{"name":"Brunei","altSpellings":["BN","Nation of Brunei"," the Abode of Peace"],"area":5765,"borders":["MYS"],"callingCodes":["673"],"capital":"Bandar Seri Begawan","currencies":["BND"],"demonym":"Bruneian","flag":"","geoJSON":{"type":"FeatureCollection","features":[{"type":"Feature","id":"BRN","properties":{"name":"Brunei"},"geometry":{"type":"Polygon","coordinates":[[[114.204017,4.525874],[114.599961,4.900011],[115.45071,5.44773],[115.4057,4.955228],[115.347461,4.316636],[114.869557,4.348314],[114.659596,4.007637],[114.204017,4.525874]]]}}]},"ISO":{"alpha2":"BN","alpha3":"BRN"},"languages":["ms"],"latlng":[4.5,114.66666666],"nativeName":"Negara Brunei Darussalam","population":393372,"provinces":["Belait","Brunei and Muara","Temburong","Tutong"],"region":"Asia","subregion":"South-Eastern Asia","timezones":["UTC+08:00"],"tld":[".bn"],"translations":{"de":"Brunei","es":"Brunei","fr":"Brunei","ja":"ブルネイ・ダルサラーム","it":"Brunei"},"wiki":"http://en.wikipedia.org/wiki/brunei"}
+{
+  "name": {
+    "common": "Brunei",
+    "official": "Nation of Brunei, Abode of Peace",
+    "native": {
+      "msa": {
+        "official": "Nation of Brunei, Abode Damai",
+        "common": "Negara Brunei Darussalam"
+      }
+    }
+  },
+  "tld": [
+    ".bn"
+  ],
+  "currency": [
+    "BND"
+  ],
+  "callingCode": [
+    "673"
+  ],
+  "capital": "Bandar Seri Begawan",
+  "altSpellings": [
+    "BN",
+    "Brunei Darussalam",
+    "Nation of Brunei",
+    "the Abode of Peace"
+  ],
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "languages": {
+    "msa": "Malay"
+  },
+  "translations": {
+    "cym": {
+      "official": "Nation of Brunei, Abode of Peace",
+      "common": "Brunei"
+    },
+    "deu": {
+      "official": "Nation von Brunei, Wohnung des Friedens",
+      "common": "Brunei"
+    },
+    "fra": {
+      "official": "État de Brunei Darussalam",
+      "common": "Brunei"
+    },
+    "hrv": {
+      "official": "Nacija od Bruneja, Kuću Mira",
+      "common": "Brunej"
+    },
+    "ita": {
+      "official": "Nazione di Brunei, Dimora della Pace",
+      "common": "Brunei"
+    },
+    "jpn": {
+      "official": "ブルネイ、平和の精舎の国家",
+      "common": "ブルネイ・ダルサラーム"
+    },
+    "nld": {
+      "official": "Natie van Brunei, de verblijfplaats van de Vrede",
+      "common": "Brunei"
+    },
+    "por": {
+      "official": "Nação do Brunei, Morada da Paz",
+      "common": "Brunei"
+    },
+    "rus": {
+      "official": "Нация Бруней, обитель мира",
+      "common": "Бруней"
+    },
+    "spa": {
+      "official": "Nación de Brunei, Morada de la Paz",
+      "common": "Brunei"
+    },
+    "fin": {
+      "official": "Brunei Darussalamin valtio",
+      "common": "Brunei"
+    }
+  },
+  "latlng": [
+    4.5,
+    114.66666666
+  ],
+  "demonym": "Bruneian",
+  "landlocked": false,
+  "borders": [
+    "MYS"
+  ],
+  "area": 5765,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Brunei.svg",
+  "codes": {
+    "cca2": "BN",
+    "ccn3": "096",
+    "cca3": "BRN",
+    "cioc": "BRU"
+  },
+  "provinces": [
+    "Belait",
+    "Brunei and Muara",
+    "Temburong",
+    "Tutong"
+  ],
+  "geoJSON": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "BRN",
+        "properties": {
+          "name": "Brunei"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                114.204017,
+                4.525874
+              ],
+              [
+                114.599961,
+                4.900011
+              ],
+              [
+                115.45071,
+                5.44773
+              ],
+              [
+                115.4057,
+                4.955228
+              ],
+              [
+                115.347461,
+                4.316636
+              ],
+              [
+                114.869557,
+                4.348314
+              ],
+              [
+                114.659596,
+                4.007637
+              ],
+              [
+                114.204017,
+                4.525874
+              ]
+            ]
+          ]
+        }
+      }
+    ]
+  }
+}

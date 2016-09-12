@@ -1,1 +1,106 @@
-{"name":"Barbados","altSpellings":["BB"],"area":430,"borders":[],"callingCodes":["1246"],"capital":"Bridgetown","currencies":["BBD"],"demonym":"Barbadian","flag":"","geoJSON":{},"ISO":{"alpha2":"BB","alpha3":"BRB"},"languages":["en"],"latlng":[13.16666666,-59.53333333],"nativeName":"Barbados","population":285000,"provinces":["Bridgetown","Christ Church","Saint Andrew","Saint George","Saint James","Saint John","Saint Joseph","Saint Lucy","Saint Michael","Saint Peter","Saint Philip","Saint Thomas"],"region":"Americas","subregion":"Caribbean","timezones":["UTC−04:00"],"tld":[".bb"],"translations":{"de":"Barbados","es":"Barbados","fr":"Barbade","ja":"バルバドス","it":"Barbados"},"wiki":"http://en.wikipedia.org/wiki/barbados"}
+{
+  "name": {
+    "common": "Barbados",
+    "official": "Barbados",
+    "native": {
+      "eng": {
+        "official": "Barbados",
+        "common": "Barbados"
+      }
+    }
+  },
+  "tld": [
+    ".bb"
+  ],
+  "currency": [
+    "BBD"
+  ],
+  "callingCode": [
+    "1246"
+  ],
+  "capital": "Bridgetown",
+  "altSpellings": [
+    "BB"
+  ],
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English"
+  },
+  "translations": {
+    "cym": {
+      "official": "Barbados",
+      "common": "Barbados"
+    },
+    "deu": {
+      "official": "Barbados",
+      "common": "Barbados"
+    },
+    "fra": {
+      "official": "Barbade",
+      "common": "Barbade"
+    },
+    "hrv": {
+      "official": "Barbados",
+      "common": "Barbados"
+    },
+    "ita": {
+      "official": "Barbados",
+      "common": "Barbados"
+    },
+    "jpn": {
+      "official": "バルバドス",
+      "common": "バルバドス"
+    },
+    "nld": {
+      "official": "Barbados",
+      "common": "Barbados"
+    },
+    "por": {
+      "official": "Barbados",
+      "common": "Barbados"
+    },
+    "rus": {
+      "official": "Барбадос",
+      "common": "Барбадос"
+    },
+    "spa": {
+      "official": "Barbados",
+      "common": "Barbados"
+    },
+    "fin": {
+      "official": "Barbados",
+      "common": "Barbados"
+    }
+  },
+  "latlng": [
+    13.16666666,
+    -59.53333333
+  ],
+  "demonym": "Barbadian",
+  "landlocked": false,
+  "borders": [],
+  "area": 430,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Barbados.svg",
+  "codes": {
+    "cca2": "BB",
+    "ccn3": "052",
+    "cca3": "BRB",
+    "cioc": "BAR"
+  },
+  "provinces": [
+    "Bridgetown",
+    "Christ Church",
+    "Saint Andrew",
+    "Saint George",
+    "Saint James",
+    "Saint John",
+    "Saint Joseph",
+    "Saint Lucy",
+    "Saint Michael",
+    "Saint Peter",
+    "Saint Philip",
+    "Saint Thomas"
+  ],
+  "geoJSON": {}
+}

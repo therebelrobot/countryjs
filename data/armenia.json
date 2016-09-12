@@ -1,1 +1,216 @@
-{"name":"Armenia","altSpellings":["AM","Hayastan","Republic of Armenia","Հայաստանի Հանրապետություն"],"area":29743,"borders":["AZE","GEO","IRN","TUR"],"callingCodes":["374"],"capital":"Yerevan","currencies":["AMD"],"demonym":"Armenian","flag":"http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg","geoJSON":{"type":"FeatureCollection","features":[{"type":"Feature","id":"ARM","properties":{"name":"Armenia"},"geometry":{"type":"Polygon","coordinates":[[[43.582746,41.092143],[44.97248,41.248129],[45.179496,40.985354],[45.560351,40.81229],[45.359175,40.561504],[45.891907,40.218476],[45.610012,39.899994],[46.034534,39.628021],[46.483499,39.464155],[46.50572,38.770605],[46.143623,38.741201],[45.735379,39.319719],[45.739978,39.473999],[45.298145,39.471751],[45.001987,39.740004],[44.79399,39.713003],[44.400009,40.005],[43.656436,40.253564],[43.752658,40.740201],[43.582746,41.092143]]]}}]},"ISO":{"alpha2":"AM","alpha3":"ARM"},"languages":["hy","ru"],"latlng":[40,45],"nativeName":"Հայաստան","population":3009800,"provinces":["Aragatsotn","Ararat","Armavir","Geghark'unik'","Kotayk'","Lorri","Shirak","Syunik'","Tavush","Vayots' Dzor","Yerevan"],"region":"Asia","subregion":"Western Asia","timezones":["UTC+04:00"],"tld":[".am"],"translations":{"de":"Armenien","es":"Armenia","fr":"Arménie","ja":"アルメニア","it":"Armenia"},"wiki":"http://en.wikipedia.org/wiki/armenia"}
+{
+  "name": {
+    "common": "Armenia",
+    "official": "Republic of Armenia",
+    "native": {
+      "hye": {
+        "official": "Հայաստանի Հանրապետություն",
+        "common": "Հայաստան"
+      },
+      "rus": {
+        "official": "Республика Армения",
+        "common": "Армения"
+      }
+    }
+  },
+  "tld": [
+    ".am"
+  ],
+  "currency": [
+    "AMD"
+  ],
+  "callingCode": [
+    "374"
+  ],
+  "capital": "Yerevan",
+  "altSpellings": [
+    "AM",
+    "Hayastan",
+    "Republic of Armenia",
+    "Հայաստանի Հանրապետություն"
+  ],
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "hye": "Armenian",
+    "rus": "Russian"
+  },
+  "translations": {
+    "cym": {
+      "official": "Republic of Armenia",
+      "common": "Armenia"
+    },
+    "deu": {
+      "official": "Republik Armenien",
+      "common": "Armenien"
+    },
+    "fra": {
+      "official": "République d'Arménie",
+      "common": "Arménie"
+    },
+    "hrv": {
+      "official": "Republika Armenija",
+      "common": "Armenija"
+    },
+    "ita": {
+      "official": "Repubblica di Armenia",
+      "common": "Armenia"
+    },
+    "jpn": {
+      "official": "アルメニア共和国",
+      "common": "アルメニア"
+    },
+    "nld": {
+      "official": "Republiek Armenië",
+      "common": "Armenië"
+    },
+    "por": {
+      "official": "República da Arménia",
+      "common": "Arménia"
+    },
+    "rus": {
+      "official": "Республика Армения",
+      "common": "Армения"
+    },
+    "spa": {
+      "official": "República de Armenia",
+      "common": "Armenia"
+    },
+    "fin": {
+      "official": "Armenian tasavalta",
+      "common": "Armenia"
+    }
+  },
+  "latlng": [
+    40,
+    45
+  ],
+  "demonym": "Armenian",
+  "landlocked": true,
+  "borders": [
+    "AZE",
+    "GEO",
+    "IRN",
+    "TUR"
+  ],
+  "area": 29743,
+  "flag": "http://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
+  "codes": {
+    "cca2": "AM",
+    "ccn3": "051",
+    "cca3": "ARM",
+    "cioc": "ARM"
+  },
+  "provinces": [
+    "Aragatsotn",
+    "Ararat",
+    "Armavir",
+    "Geghark'unik'",
+    "Kotayk'",
+    "Lorri",
+    "Shirak",
+    "Syunik'",
+    "Tavush",
+    "Vayots' Dzor",
+    "Yerevan"
+  ],
+  "geoJSON": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "ARM",
+        "properties": {
+          "name": "Armenia"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                43.582746,
+                41.092143
+              ],
+              [
+                44.97248,
+                41.248129
+              ],
+              [
+                45.179496,
+                40.985354
+              ],
+              [
+                45.560351,
+                40.81229
+              ],
+              [
+                45.359175,
+                40.561504
+              ],
+              [
+                45.891907,
+                40.218476
+              ],
+              [
+                45.610012,
+                39.899994
+              ],
+              [
+                46.034534,
+                39.628021
+              ],
+              [
+                46.483499,
+                39.464155
+              ],
+              [
+                46.50572,
+                38.770605
+              ],
+              [
+                46.143623,
+                38.741201
+              ],
+              [
+                45.735379,
+                39.319719
+              ],
+              [
+                45.739978,
+                39.473999
+              ],
+              [
+                45.298145,
+                39.471751
+              ],
+              [
+                45.001987,
+                39.740004
+              ],
+              [
+                44.79399,
+                39.713003
+              ],
+              [
+                44.400009,
+                40.005
+              ],
+              [
+                43.656436,
+                40.253564
+              ],
+              [
+                43.752658,
+                40.740201
+              ],
+              [
+                43.582746,
+                41.092143
+              ]
+            ]
+          ]
+        }
+      }
+    ]
+  }
+}

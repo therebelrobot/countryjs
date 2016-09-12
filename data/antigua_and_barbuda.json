@@ -1,1 +1,102 @@
-{"name":"Antigua and Barbuda","altSpellings":["AG"],"area":442,"borders":[],"callingCodes":["1268"],"capital":"Saint John's","currencies":["XCD"],"demonym":"Antiguan, Barbudan","flag":"http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg","geoJSON":{},"ISO":{"alpha2":"AG","alpha3":"ATG"},"languages":["en"],"latlng":[17.05,-61.8],"nativeName":"Antigua and Barbuda","population":86295,"provinces":["Barbuda","Redonda","Saint George","Saint John","Saint Mary","Saint Paul","Saint Peter","Saint Philip"],"region":"Americas","subregion":"Caribbean","timezones":["UTC−04:00"],"tld":[".ag"],"translations":{"de":"Antigua und Barbuda","es":"Antigua y Barbuda","fr":"Antigua-et-Barbuda","ja":"アンティグア・バーブーダ","it":"Antigua e Barbuda"},"wiki":"http://en.wikipedia.org/wiki/antigua_and_barbuda"}
+{
+  "name": {
+    "common": "Antigua and Barbuda",
+    "official": "Antigua and Barbuda",
+    "native": {
+      "eng": {
+        "official": "Antigua and Barbuda",
+        "common": "Antigua and Barbuda"
+      }
+    }
+  },
+  "tld": [
+    ".ag"
+  ],
+  "currency": [
+    "XCD"
+  ],
+  "callingCode": [
+    "1268"
+  ],
+  "capital": "Saint John's",
+  "altSpellings": [
+    "AG"
+  ],
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English"
+  },
+  "translations": {
+    "cym": {
+      "official": "Antigua and Barbuda",
+      "common": "Antigwa a Barbiwda"
+    },
+    "deu": {
+      "official": "Antigua und Barbuda",
+      "common": "Antigua und Barbuda"
+    },
+    "fra": {
+      "official": "Antigua -et-Barbuda",
+      "common": "Antigua-et-Barbuda"
+    },
+    "hrv": {
+      "official": "Antigva i Barbuda",
+      "common": "Antigva i Barbuda"
+    },
+    "ita": {
+      "official": "Antigua e Barbuda",
+      "common": "Antigua e Barbuda"
+    },
+    "jpn": {
+      "official": "アンチグアバーブーダ",
+      "common": "アンティグア・バーブーダ"
+    },
+    "nld": {
+      "official": "Antigua en Barbuda",
+      "common": "Antigua en Barbuda"
+    },
+    "por": {
+      "official": "Antigua e Barbuda",
+      "common": "Antígua e Barbuda"
+    },
+    "rus": {
+      "official": "Антигуа и Барбуда",
+      "common": "Антигуа и Барбуда"
+    },
+    "spa": {
+      "official": "Antigua y Barbuda",
+      "common": "Antigua y Barbuda"
+    },
+    "fin": {
+      "official": "Antigua ja Barbuda",
+      "common": "Antigua ja Barbuda"
+    }
+  },
+  "latlng": [
+    17.05,
+    -61.8
+  ],
+  "demonym": "Antiguan, Barbudan",
+  "landlocked": false,
+  "borders": [],
+  "area": 442,
+  "flag": "http://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg",
+  "codes": {
+    "cca2": "AG",
+    "ccn3": "028",
+    "cca3": "ATG",
+    "cioc": "ANT"
+  },
+  "provinces": [
+    "Barbuda",
+    "Redonda",
+    "Saint George",
+    "Saint John",
+    "Saint Mary",
+    "Saint Paul",
+    "Saint Peter",
+    "Saint Philip"
+  ],
+  "geoJSON": {}
+}

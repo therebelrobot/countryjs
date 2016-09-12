@@ -1,1 +1,96 @@
-{"name":"Niue","altSpellings":["NU"],"area":260,"borders":[],"callingCodes":["683"],"capital":"Alofi","currencies":["NZD"],"demonym":"Niuean","flag":"","geoJSON":{},"ISO":{"alpha2":"NU","alpha3":"NIU"},"languages":["en"],"latlng":[-19.03333333,-169.86666666],"nativeName":"Niuē","population":1613,"provinces":["Niue"],"region":"Oceania","subregion":"Polynesia","timezones":null,"tld":[".nu"],"translations":{"de":"Niue","es":"Niue","fr":"Niue","ja":"ニウエ","it":"Niue"},"wiki":"http://en.wikipedia.org/wiki/niue"}
+{
+  "name": {
+    "common": "Niue",
+    "official": "Niue",
+    "native": {
+      "eng": {
+        "official": "Niue",
+        "common": "Niue"
+      },
+      "niu": {
+        "official": "Niuē",
+        "common": "Niuē"
+      }
+    }
+  },
+  "tld": [
+    ".nu"
+  ],
+  "currency": [
+    "NZD"
+  ],
+  "callingCode": [
+    "683"
+  ],
+  "capital": "Alofi",
+  "altSpellings": [
+    "NU"
+  ],
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "languages": {
+    "eng": "English",
+    "niu": "Niuean"
+  },
+  "translations": {
+    "deu": {
+      "official": "Niue",
+      "common": "Niue"
+    },
+    "fra": {
+      "official": "Niue",
+      "common": "Niue"
+    },
+    "hrv": {
+      "official": "Niue",
+      "common": "Niue"
+    },
+    "ita": {
+      "official": "Niue",
+      "common": "Niue"
+    },
+    "jpn": {
+      "official": "ニウエ",
+      "common": "ニウエ"
+    },
+    "nld": {
+      "official": "Niue",
+      "common": "Niue"
+    },
+    "por": {
+      "official": "Niue",
+      "common": "Niue"
+    },
+    "rus": {
+      "official": "Ниуэ",
+      "common": "Ниуэ"
+    },
+    "spa": {
+      "official": "Niue",
+      "common": "Niue"
+    },
+    "fin": {
+      "official": "Niue",
+      "common": "Niue"
+    }
+  },
+  "latlng": [
+    -19.03333333,
+    -169.86666666
+  ],
+  "demonym": "Niuean",
+  "landlocked": false,
+  "borders": [],
+  "area": 260,
+  "codes": {
+    "cca2": "NU",
+    "ccn3": "570",
+    "cca3": "NIU",
+    "cioc": ""
+  },
+  "provinces": [
+    "Niue"
+  ],
+  "geoJSON": {},
+  "flag": ""
+}

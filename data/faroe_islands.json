@@ -1,1 +1,106 @@
-{"name":"Faroe Islands","altSpellings":["FO","Føroyar","Færøerne"],"area":1393,"borders":[],"callingCodes":["298"],"capital":"Tórshavn","currencies":["DKK"],"demonym":"Faroese","flag":"","geoJSON":{},"ISO":{"alpha2":"FO","alpha3":"FRO"},"languages":["fo"],"latlng":[62,-7],"nativeName":"Føroyar","population":48605,"provinces":["Bordoy","Eysturoy","Mykines","Sandoy","Skuvoy","Streymoy","Suduroy","Tvoroyri","Vagar"],"region":"Europe","subregion":"Northern Europe","timezones":null,"tld":[".fo"],"translations":{"de":"Färöer-Inseln","es":"Islas Faroe","fr":"Îles Féroé","ja":"フェロー諸島","it":"Isole Far Oer"},"wiki":"http://en.wikipedia.org/wiki/faroe_islands"}
+{
+  "name": {
+    "common": "Faroe Islands",
+    "official": "Faroe Islands",
+    "native": {
+      "dan": {
+        "official": "Færøerne",
+        "common": "Færøerne"
+      },
+      "fao": {
+        "official": "Føroyar",
+        "common": "Føroyar"
+      }
+    }
+  },
+  "tld": [
+    ".fo"
+  ],
+  "currency": [
+    "DKK"
+  ],
+  "callingCode": [
+    "298"
+  ],
+  "capital": "Tórshavn",
+  "altSpellings": [
+    "FO",
+    "Føroyar",
+    "Færøerne"
+  ],
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "languages": {
+    "dan": "Danish",
+    "fao": "Faroese"
+  },
+  "translations": {
+    "deu": {
+      "official": "Färöer",
+      "common": "Färöer-Inseln"
+    },
+    "fra": {
+      "official": "Îles Féroé",
+      "common": "Îles Féroé"
+    },
+    "hrv": {
+      "official": "Farski Otoci",
+      "common": "Farski Otoci"
+    },
+    "ita": {
+      "official": "Isole Faroe",
+      "common": "Isole Far Oer"
+    },
+    "jpn": {
+      "official": "フェロー諸島",
+      "common": "フェロー諸島"
+    },
+    "nld": {
+      "official": "Faeröer",
+      "common": "Faeröer"
+    },
+    "por": {
+      "official": "Ilhas Faroe",
+      "common": "Ilhas Faroé"
+    },
+    "rus": {
+      "official": "Фарерские острова",
+      "common": "Фарерские острова"
+    },
+    "spa": {
+      "official": "Islas Feroe",
+      "common": "Islas Faroe"
+    },
+    "fin": {
+      "official": "Färsaaret",
+      "common": "Färsaaret"
+    }
+  },
+  "latlng": [
+    62,
+    -7
+  ],
+  "demonym": "Faroese",
+  "landlocked": false,
+  "borders": [],
+  "area": 1393,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of the Faroe Islands.svg|border|100px",
+  "codes": {
+    "cca2": "FO",
+    "ccn3": "234",
+    "cca3": "FRO",
+    "cioc": ""
+  },
+  "provinces": [
+    "Bordoy",
+    "Eysturoy",
+    "Mykines",
+    "Sandoy",
+    "Skuvoy",
+    "Streymoy",
+    "Suduroy",
+    "Tvoroyri",
+    "Vagar"
+  ],
+  "geoJSON": {}
+}

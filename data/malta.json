@@ -1,1 +1,186 @@
-{"name":"Malta","altSpellings":["MT","Republic of Malta","Repubblika ta' Malta"],"area":316,"borders":[],"callingCodes":["356"],"capital":"Valletta","currencies":["EUR"],"demonym":"Maltese","flag":"","geoJSON":{"type":"FeatureCollection","features":[{"type":"Feature","id":"MLT","properties":{"name":"Malta"},"geometry":{"type":"MultiPolygon","coordinates":[[[[14.566171,35.852721],[14.532684,35.820191],[14.436463,35.821664],[14.352334,35.872281],[14.3513,35.978399],[14.448348,35.957444],[14.537025,35.886285],[14.566171,35.852721]]],[[[14.313473,36.027569],[14.253632,36.012143],[14.194204,36.042245],[14.180354,36.060383],[14.263243,36.075809],[14.303758,36.062295],[14.320914,36.03625],[14.313473,36.027569]]]]}}]},"ISO":{"alpha2":"MT","alpha3":"MLT"},"languages":["mt","en"],"latlng":[35.83333333,14.58333333],"nativeName":"Malta","population":416055,"provinces":["Valletta"],"region":"Europe","subregion":"Southern Europe","timezones":["UTC+01:00"],"tld":[".mt"],"translations":{"de":"Malta","es":"Malta","fr":"Malte","ja":"マルタ","it":"Malta"},"wiki":"http://en.wikipedia.org/wiki/malta"}
+{
+  "name": {
+    "common": "Malta",
+    "official": "Republic of Malta",
+    "native": {
+      "eng": {
+        "official": "Republic of Malta",
+        "common": "Malta"
+      },
+      "mlt": {
+        "official": "Repubblika ta ' Malta",
+        "common": "Malta"
+      }
+    }
+  },
+  "tld": [
+    ".mt"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "356"
+  ],
+  "capital": "Valletta",
+  "altSpellings": [
+    "MT",
+    "Republic of Malta",
+    "Repubblika ta' Malta"
+  ],
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "languages": {
+    "eng": "English",
+    "mlt": "Maltese"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik Malta",
+      "common": "Malta"
+    },
+    "fra": {
+      "official": "République de Malte",
+      "common": "Malte"
+    },
+    "hrv": {
+      "official": "Republika Malta",
+      "common": "Malta"
+    },
+    "ita": {
+      "official": "Repubblica di Malta",
+      "common": "Malta"
+    },
+    "jpn": {
+      "official": "マルタ共和国",
+      "common": "マルタ"
+    },
+    "nld": {
+      "official": "Republiek Malta",
+      "common": "Malta"
+    },
+    "por": {
+      "official": "República de Malta",
+      "common": "Malta"
+    },
+    "rus": {
+      "official": "Республика Мальта",
+      "common": "Мальта"
+    },
+    "spa": {
+      "official": "República de Malta",
+      "common": "Malta"
+    },
+    "fin": {
+      "official": "Maltan tasavalta",
+      "common": "Malta"
+    }
+  },
+  "latlng": [
+    35.83333333,
+    14.58333333
+  ],
+  "demonym": "Maltese",
+  "landlocked": false,
+  "borders": [],
+  "area": 316,
+  "codes": {
+    "cca2": "MT",
+    "ccn3": "470",
+    "cca3": "MLT",
+    "cioc": "MLT"
+  },
+  "provinces": [
+    "Valletta"
+  ],
+  "geoJSON": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "MLT",
+        "properties": {
+          "name": "Malta"
+        },
+        "geometry": {
+          "type": "MultiPolygon",
+          "coordinates": [
+            [
+              [
+                [
+                  14.566171,
+                  35.852721
+                ],
+                [
+                  14.532684,
+                  35.820191
+                ],
+                [
+                  14.436463,
+                  35.821664
+                ],
+                [
+                  14.352334,
+                  35.872281
+                ],
+                [
+                  14.3513,
+                  35.978399
+                ],
+                [
+                  14.448348,
+                  35.957444
+                ],
+                [
+                  14.537025,
+                  35.886285
+                ],
+                [
+                  14.566171,
+                  35.852721
+                ]
+              ]
+            ],
+            [
+              [
+                [
+                  14.313473,
+                  36.027569
+                ],
+                [
+                  14.253632,
+                  36.012143
+                ],
+                [
+                  14.194204,
+                  36.042245
+                ],
+                [
+                  14.180354,
+                  36.060383
+                ],
+                [
+                  14.263243,
+                  36.075809
+                ],
+                [
+                  14.303758,
+                  36.062295
+                ],
+                [
+                  14.320914,
+                  36.03625
+                ],
+                [
+                  14.313473,
+                  36.027569
+                ]
+              ]
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  "flag": ""
+}

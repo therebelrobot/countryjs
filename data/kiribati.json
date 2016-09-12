@@ -1,40 +1,101 @@
 {
-  "name": "Kiribati",
+  "name": {
+    "common": "Kiribati",
+    "official": "Independent and Sovereign Republic of Kiribati",
+    "native": {
+      "eng": {
+        "official": "Independent and Sovereign Republic of Kiribati",
+        "common": "Kiribati"
+      },
+      "gil": {
+        "official": "Ribaberiki Kiribati",
+        "common": "Kiribati"
+      }
+    }
+  },
+  "tld": [
+    ".ki"
+  ],
+  "currency": [
+    "AUD"
+  ],
+  "callingCode": [
+    "686"
+  ],
+  "capital": "South Tarawa",
   "altSpellings": [
     "KI",
     "Republic of Kiribati",
     "Ribaberiki Kiribati"
   ],
-  "area": 811,
-  "borders": [],
-  "callingCodes": [
-    "686"
-  ],
-  "capital": "South Tarawa",
-  "currencies": [
-    "AUD"
-  ],
-  "demonym": "I-Kiribati",
-  "flag": "",
-  "geoJSON": {},
-  "ISO": {
-    "alpha2": "KI",
-    "alpha3": "KIR"
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "languages": {
+    "eng": "English",
+    "gil": "Gilbertese"
   },
-  "languages": [
-    "en"
-  ],
+  "translations": {
+    "deu": {
+      "official": "Unabhängige und souveräne Republik Kiribati",
+      "common": "Kiribati"
+    },
+    "fra": {
+      "official": "République de Kiribati",
+      "common": "Kiribati"
+    },
+    "hrv": {
+      "official": "Samostalne i suverene Republike Kiribati",
+      "common": "Kiribati"
+    },
+    "ita": {
+      "official": "Repubblica indipendente e sovrano di Kiribati",
+      "common": "Kiribati"
+    },
+    "jpn": {
+      "official": "キリバスの独立と主権共和国",
+      "common": "キリバス"
+    },
+    "nld": {
+      "official": "Onafhankelijke en soevereine republiek Kiribati",
+      "common": "Kiribati"
+    },
+    "por": {
+      "official": "Independente e soberano República de Kiribati",
+      "common": "Kiribati"
+    },
+    "rus": {
+      "official": "Независимой и суверенной Республики Кирибати",
+      "common": "Кирибати"
+    },
+    "spa": {
+      "official": "República Independiente y Soberano de Kiribati",
+      "common": "Kiribati"
+    },
+    "fin": {
+      "official": "Kiribatin tasavalta",
+      "common": "Kiribati"
+    }
+  },
   "latlng": [
     1.41666666,
     173
   ],
-  "nativeName": "Kiribati",
-  "population": 106461,
+  "demonym": "I-Kiribati",
+  "landlocked": false,
+  "borders": [],
+  "area": 811,
+  "codes": {
+    "cca2": "KI",
+    "ccn3": "296",
+    "cca3": "KIR",
+    "cioc": "KIR"
+  },
   "provinces": [
     "Abaiang",
     "Abemama",
     "Aranuka",
     "Arorae",
+    "Banaba",
     "Banaba",
     "Beru",
     "Butaritari",
@@ -61,22 +122,6 @@
     "Tarawa",
     "Teraina"
   ],
-  "region": "Oceania",
-  "subregion": "Micronesia",
-  "timezones": [
-    "UTC+12:00",
-    "UTC+13:00",
-    "UTC+14:00"
-  ],
-  "tld": [
-    ".ki"
-  ],
-  "translations": {
-    "de": "Kiribati",
-    "es": "Kiribati",
-    "fr": "Kiribati",
-    "ja": "キリバス",
-    "it": "Kiribati"
-  },
-  "wiki": "http://en.wikipedia.org/wiki/kiribati"
+  "geoJSON": {},
+  "flag": ""
 }

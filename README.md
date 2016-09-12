@@ -459,7 +459,7 @@ Special thanks to johan for his work on [johan/world.geo.json](https://github.co
 
 *This project adheres to [Javascript Standard style](https://github.com/feross/standard)*
 
-To contribute code to this module, please follow this workflow: 
+To contribute code to this module, please follow this workflow:
 
 1. fork the repo
 2. make sure to install dev dependencies using
@@ -544,12 +544,24 @@ All notable changes to this project will be documented in this file.
 ## Disclaimer
 
 This is being maintained in the contributor's free time, and as such, may contain minor errors in regards to some countries.
-Most of the information included in this library is what is listed on Wikipedia. If there is an error, 
+Most of the information included in this library is what is listed on Wikipedia. If there is an error,
 please let me know and I will do my best to correct it.
 
 ## License (ISC)
 
-Copyright (c) 2015, Trent Oswald <trentoswald@therebelrobot.com>
+This software is dual licensed, as part of the data set was built from [mledoze/countries](https://github.com/mledoze/countries)
+
+#### For portions built from mledoze/country
+
+[tldr ODbL](https://tldrlegal.com/license/odc-open-database-license-(odbl))
+
+[official ODbL](http://opendatacommons.org/licenses/odbl/1.0/)
+
+#### For all other portions
+
+[tldr ISC](https://tldrlegal.com/license/-isc-license)
+
+Copyright (c) 2015-2016, Trent Oswald <trentoswald@therebelrobot.com>
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted,
 provided that the above copyright notice and this permission notice appear in all copies.

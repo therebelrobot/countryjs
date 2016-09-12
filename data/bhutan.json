@@ -1,1 +1,187 @@
-{"name":"Bhutan","altSpellings":["BT","Kingdom of Bhutan"],"area":38394,"borders":["CHN","IND"],"callingCodes":["975"],"capital":"Thimphu","currencies":["BTN","INR"],"demonym":"Bhutanese","flag":"","geoJSON":{"type":"FeatureCollection","features":[{"type":"Feature","id":"BTN","properties":{"name":"Bhutan"},"geometry":{"type":"Polygon","coordinates":[[[91.696657,27.771742],[92.103712,27.452614],[92.033484,26.83831],[91.217513,26.808648],[90.373275,26.875724],[89.744528,26.719403],[88.835643,27.098966],[88.814248,27.299316],[89.47581,28.042759],[90.015829,28.296439],[90.730514,28.064954],[91.258854,28.040614],[91.696657,27.771742]]]}}]},"ISO":{"alpha2":"BT","alpha3":"BTN"},"languages":["dz"],"latlng":[27.5,90.5],"nativeName":"ʼbrug-yul","population":755030,"provinces":["Bumthang","Chhukha","Chirang","Daga","Geylegphug","Ha","Lhuntshi","Mongar","Paro","Pemagatsel","Punakha","Samchi","Samdrup Jongkhar","Shemgang","Tashigang","Thimphu","Tongsa","Wangdi Phodrang"],"region":"Asia","subregion":"Southern Asia","timezones":["UTC+06:00"],"tld":[".bt"],"translations":{"de":"Bhutan","es":"Bután","fr":"Bhoutan","ja":"ブータン","it":"Bhutan"},"wiki":"http://en.wikipedia.org/wiki/bhutan"}
+{
+  "name": {
+    "common": "Bhutan",
+    "official": "Kingdom of Bhutan",
+    "native": {
+      "dzo": {
+        "official": "འབྲུག་རྒྱལ་ཁབ་",
+        "common": "འབྲུག་ཡུལ་"
+      }
+    }
+  },
+  "tld": [
+    ".bt"
+  ],
+  "currency": [
+    "BTN",
+    "INR"
+  ],
+  "callingCode": [
+    "975"
+  ],
+  "capital": "Thimphu",
+  "altSpellings": [
+    "BT",
+    "Kingdom of Bhutan"
+  ],
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "languages": {
+    "dzo": "Dzongkha"
+  },
+  "translations": {
+    "cym": {
+      "official": "Kingdom of Bhutan",
+      "common": "Bhwtan"
+    },
+    "deu": {
+      "official": "Königreich Bhutan",
+      "common": "Bhutan"
+    },
+    "fra": {
+      "official": "Royaume du Bhoutan",
+      "common": "Bhoutan"
+    },
+    "hrv": {
+      "official": "Kraljevina Butan",
+      "common": "Butan"
+    },
+    "ita": {
+      "official": "Regno del Bhutan",
+      "common": "Bhutan"
+    },
+    "jpn": {
+      "official": "ブータン王国",
+      "common": "ブータン"
+    },
+    "nld": {
+      "official": "Koninkrijk Bhutan",
+      "common": "Bhutan"
+    },
+    "por": {
+      "official": "Reino do Butão",
+      "common": "Butão"
+    },
+    "rus": {
+      "official": "Королевство Бутан",
+      "common": "Бутан"
+    },
+    "spa": {
+      "official": "Reino de Bután",
+      "common": "Bután"
+    },
+    "fin": {
+      "official": "Bhutanin kuningaskunta",
+      "common": "Bhutan"
+    }
+  },
+  "latlng": [
+    27.5,
+    90.5
+  ],
+  "demonym": "Bhutanese",
+  "landlocked": true,
+  "borders": [
+    "CHN",
+    "IND"
+  ],
+  "area": 38394,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Bhutan.svg",
+  "codes": {
+    "cca2": "BT",
+    "ccn3": "064",
+    "cca3": "BTN",
+    "cioc": "BHU"
+  },
+  "provinces": [
+    "Bumthang",
+    "Chhukha",
+    "Chirang",
+    "Daga",
+    "Geylegphug",
+    "Ha",
+    "Lhuntshi",
+    "Mongar",
+    "Paro",
+    "Pemagatsel",
+    "Punakha",
+    "Samchi",
+    "Samdrup Jongkhar",
+    "Shemgang",
+    "Tashigang",
+    "Thimphu",
+    "Tongsa",
+    "Wangdi Phodrang"
+  ],
+  "geoJSON": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "BTN",
+        "properties": {
+          "name": "Bhutan"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                91.696657,
+                27.771742
+              ],
+              [
+                92.103712,
+                27.452614
+              ],
+              [
+                92.033484,
+                26.83831
+              ],
+              [
+                91.217513,
+                26.808648
+              ],
+              [
+                90.373275,
+                26.875724
+              ],
+              [
+                89.744528,
+                26.719403
+              ],
+              [
+                88.835643,
+                27.098966
+              ],
+              [
+                88.814248,
+                27.299316
+              ],
+              [
+                89.47581,
+                28.042759
+              ],
+              [
+                90.015829,
+                28.296439
+              ],
+              [
+                90.730514,
+                28.064954
+              ],
+              [
+                91.258854,
+                28.040614
+              ],
+              [
+                91.696657,
+                27.771742
+              ]
+            ]
+          ]
+        }
+      }
+    ]
+  }
+}

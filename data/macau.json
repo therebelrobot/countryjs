@@ -1,1 +1,103 @@
-{"name":"Macau","altSpellings":["MO","澳门","Macao Special Administrative Region of the People's Republic of China","中華人民共和國澳門特別行政區","Região Administrativa Especial de Macau da República Popular da China"],"area":30,"borders":["CHN"],"callingCodes":["853"],"capital":"","currencies":["MOP"],"demonym":"Chinese","flag":"","geoJSON":{},"ISO":{"alpha2":"MO","alpha3":"MAC"},"languages":["zh","pt"],"latlng":[22.16666666,113.55],"nativeName":"澳門","population":631000,"provinces":["Macau"],"region":"Asia","subregion":"Eastern Asia","timezones":["UTC+08:00"],"tld":[".mo"],"translations":{"de":"Macao","es":"Macao","fr":"Macao","ja":"マカオ","it":"Macao"},"wiki":"http://en.wikipedia.org/wiki/macau"}
+{
+  "name": {
+    "common": "Macau",
+    "official": "Macao Special Administrative Region of the People's Republic of China",
+    "native": {
+      "por": {
+        "official": "Região Administrativa Especial de Macau da República Popular da China",
+        "common": "Macau"
+      },
+      "zho": {
+        "official": "澳门特别行政区中国人民共和国",
+        "common": "澳門"
+      }
+    }
+  },
+  "tld": [
+    ".mo"
+  ],
+  "currency": [
+    "MOP"
+  ],
+  "callingCode": [
+    "853"
+  ],
+  "capital": "",
+  "altSpellings": [
+    "MO",
+    "澳门",
+    "Macao",
+    "Macao Special Administrative Region of the People's Republic of China",
+    "中華人民共和國澳門特別行政區",
+    "Região Administrativa Especial de Macau da República Popular da China"
+  ],
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "languages": {
+    "por": "Portuguese",
+    "zho": "Chinese"
+  },
+  "translations": {
+    "deu": {
+      "official": "Sonderverwaltungsregion Macau der Volksrepublik China",
+      "common": "Macao"
+    },
+    "fra": {
+      "official": "Région administrative spéciale de Macao de la République populaire de Chine",
+      "common": "Macao"
+    },
+    "hrv": {
+      "official": "Makao Posebnog upravnog područjaNarodne Republike Kine",
+      "common": "Makao"
+    },
+    "ita": {
+      "official": "Macao Regione amministrativa speciale della Repubblica Popolare Cinese",
+      "common": "Macao"
+    },
+    "jpn": {
+      "official": "中華人民共和国マカオ特別行政区",
+      "common": "マカオ"
+    },
+    "nld": {
+      "official": "Speciale Administratieve Regio Macau van de Volksrepubliek China",
+      "common": "Macao"
+    },
+    "por": {
+      "official": "Macau Região Administrativa Especial da República Popular da China",
+      "common": "Macau"
+    },
+    "rus": {
+      "official": "Специальный административный район Макао Китайской Народной Республики Китай",
+      "common": "Макао"
+    },
+    "spa": {
+      "official": "Macao, Región Administrativa Especial de la República Popular China",
+      "common": "Macao"
+    },
+    "fin": {
+      "official": "Macaon Kiinan kansantasavallan erityishallintoalue",
+      "common": "Macao"
+    }
+  },
+  "latlng": [
+    22.16666666,
+    113.55
+  ],
+  "demonym": "Chinese",
+  "landlocked": false,
+  "borders": [
+    "CHN"
+  ],
+  "area": 30,
+  "codes": {
+    "cca2": "MO",
+    "ccn3": "446",
+    "cca3": "MAC",
+    "cioc": ""
+  },
+  "provinces": [
+    "Macau"
+  ],
+  "geoJSON": {},
+  "flag": ""
+}

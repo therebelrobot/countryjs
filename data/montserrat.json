@@ -1,1 +1,93 @@
-{"name":"Montserrat","altSpellings":["MS"],"area":102,"borders":[],"callingCodes":["1664"],"capital":"Plymouth","currencies":["XCD"],"demonym":"Montserratian","flag":"","geoJSON":{},"ISO":{"alpha2":"MS","alpha3":"MSR"},"languages":["en"],"latlng":[16.75,-62.2],"nativeName":"Montserrat","population":4922,"provinces":["Saint Anthony","Saint Georges","Saint Peter's"],"region":"Americas","subregion":"Caribbean","timezones":null,"tld":[".ms"],"translations":{"de":"Montserrat","es":"Montserrat","fr":"Montserrat","ja":"モントセラト","it":"Montserrat"},"wiki":"http://en.wikipedia.org/wiki/montserrat"}
+{
+  "name": {
+    "common": "Montserrat",
+    "official": "Montserrat",
+    "native": {
+      "eng": {
+        "official": "Montserrat",
+        "common": "Montserrat"
+      }
+    }
+  },
+  "tld": [
+    ".ms"
+  ],
+  "currency": [
+    "XCD"
+  ],
+  "callingCode": [
+    "1664"
+  ],
+  "capital": "Plymouth",
+  "altSpellings": [
+    "MS"
+  ],
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English"
+  },
+  "translations": {
+    "deu": {
+      "official": "Montserrat",
+      "common": "Montserrat"
+    },
+    "fra": {
+      "official": "Montserrat",
+      "common": "Montserrat"
+    },
+    "hrv": {
+      "official": "Montserrat",
+      "common": "Montserrat"
+    },
+    "ita": {
+      "official": "Montserrat",
+      "common": "Montserrat"
+    },
+    "jpn": {
+      "official": "モントセラト",
+      "common": "モントセラト"
+    },
+    "nld": {
+      "official": "Montserrat",
+      "common": "Montserrat"
+    },
+    "por": {
+      "official": "Montserrat",
+      "common": "Montserrat"
+    },
+    "rus": {
+      "official": "Монтсеррат",
+      "common": "Монтсеррат"
+    },
+    "spa": {
+      "official": "Montserrat",
+      "common": "Montserrat"
+    },
+    "fin": {
+      "official": "Montserrat",
+      "common": "Montserrat"
+    }
+  },
+  "latlng": [
+    16.75,
+    -62.2
+  ],
+  "demonym": "Montserratian",
+  "landlocked": false,
+  "borders": [],
+  "area": 102,
+  "codes": {
+    "cca2": "MS",
+    "ccn3": "500",
+    "cca3": "MSR",
+    "cioc": ""
+  },
+  "provinces": [
+    "Saint Anthony",
+    "Saint Georges",
+    "Saint Peter's"
+  ],
+  "geoJSON": {},
+  "flag": ""
+}

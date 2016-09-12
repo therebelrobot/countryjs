@@ -1,0 +1,90 @@
+{
+  "name": {
+    "common": "Saint Barthélemy",
+    "official": "Collectivity of Saint Barthélemy",
+    "native": {
+      "fra": {
+        "official": "Collectivité de Saint-Barthélemy",
+        "common": "Saint-Barthélemy"
+      }
+    }
+  },
+  "tld": [
+    ".bl"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "590"
+  ],
+  "capital": "Gustavia",
+  "altSpellings": [
+    "BL",
+    "St. Barthelemy",
+    "Collectivity of Saint Barthélemy",
+    "Collectivité de Saint-Barthélemy"
+  ],
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "fra": "French"
+  },
+  "translations": {
+    "deu": {
+      "official": "Gebietskörperschaft Saint -Barthélemy",
+      "common": "Saint-Barthélemy"
+    },
+    "fra": {
+      "official": "Collectivité de Saint-Barthélemy",
+      "common": "Saint-Barthélemy"
+    },
+    "hrv": {
+      "official": "Kolektivnost sv Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "ita": {
+      "official": "Collettività di Saint Barthélemy",
+      "common": "Antille Francesi"
+    },
+    "jpn": {
+      "official": "サン·バルテルミー島の集合体",
+      "common": "サン・バルテルミー"
+    },
+    "nld": {
+      "official": "Gemeenschap Saint Barthélemy",
+      "common": "Saint Barthélemy"
+    },
+    "por": {
+      "official": "Coletividade de Saint Barthélemy",
+      "common": "São Bartolomeu"
+    },
+    "rus": {
+      "official": "Коллективность Санкт -Бартельми",
+      "common": "Сен-Бартелеми"
+    },
+    "spa": {
+      "official": "Colectividad de San Barthélemy",
+      "common": "San Bartolomé"
+    },
+    "fin": {
+      "official": "Saint-Barthélemyn yhteisö",
+      "common": "Saint-Barthélemy"
+    }
+  },
+  "latlng": [
+    18.5,
+    -63.41666666
+  ],
+  "demonym": "Saint Barthélemy Islander",
+  "landlocked": false,
+  "borders": [],
+  "area": 21,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Saint Barthelemy (local).svg",
+  "codes": {
+    "cca2": "BL",
+    "ccn3": "652",
+    "cca3": "BLM",
+    "cioc": ""
+  }
+}
