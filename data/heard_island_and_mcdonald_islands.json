@@ -1,0 +1,86 @@
+{
+  "name": {
+    "common": "Heard Island and McDonald Islands",
+    "official": "Heard Island and McDonald Islands",
+    "native": {
+      "eng": {
+        "official": "Heard Island and McDonald Islands",
+        "common": "Heard Island and McDonald Islands"
+      }
+    }
+  },
+  "tld": [
+    ".hm",
+    ".aq"
+  ],
+  "currency": [
+    "AUD"
+  ],
+  "callingCode": [],
+  "capital": "",
+  "altSpellings": [
+    "HM",
+    "Heard Island and McDonald Mcdonald Islands"
+  ],
+  "region": "",
+  "subregion": "",
+  "languages": {
+    "eng": "English"
+  },
+  "translations": {
+    "deu": {
+      "official": "Heard und McDonaldinseln",
+      "common": "Heard und die McDonaldinseln"
+    },
+    "fra": {
+      "official": "Des îles Heard et McDonald",
+      "common": "Îles Heard-et-MacDonald"
+    },
+    "hrv": {
+      "official": "Otok Heard i otočje McDonald",
+      "common": "Otok Heard i otočje McDonald"
+    },
+    "ita": {
+      "official": "Isole Heard e McDonald",
+      "common": "Isole Heard e McDonald"
+    },
+    "jpn": {
+      "official": "ハード島とマクドナルド諸島",
+      "common": "ハード島とマクドナルド諸島"
+    },
+    "nld": {
+      "official": "Heard en McDonaldeilanden",
+      "common": "Heard-en McDonaldeilanden"
+    },
+    "por": {
+      "official": "Ilha Heard e Ilhas McDonald",
+      "common": "Ilha Heard e Ilhas McDonald"
+    },
+    "rus": {
+      "official": "Остров Херд и острова Макдональд",
+      "common": "Остров Херд и острова Макдональд"
+    },
+    "spa": {
+      "official": "Islas Heard y McDonald",
+      "common": "Islas Heard y McDonald"
+    },
+    "fin": {
+      "official": "Heard ja McDonaldinsaaret",
+      "common": "Heard ja McDonaldinsaaret"
+    }
+  },
+  "latlng": [
+    -53.1,
+    72.51666666
+  ],
+  "demonym": "Heard and McDonald Islander",
+  "landlocked": false,
+  "borders": [],
+  "area": 412,
+  "codes": {
+    "cca2": "HM",
+    "ccn3": "334",
+    "cca3": "HMD",
+    "cioc": ""
+  }
+}

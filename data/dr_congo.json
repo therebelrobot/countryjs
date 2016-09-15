@@ -1,0 +1,124 @@
+{
+  "name": {
+    "common": "DR Congo",
+    "official": "Democratic Republic of the Congo",
+    "native": {
+      "fra": {
+        "official": "République démocratique du Congo",
+        "common": "RD Congo"
+      },
+      "kon": {
+        "official": "Repubilika ya Kongo Demokratiki",
+        "common": "Repubilika ya Kongo Demokratiki"
+      },
+      "lin": {
+        "official": "Republiki ya Kongó Demokratiki",
+        "common": "Republiki ya Kongó Demokratiki"
+      },
+      "lua": {
+        "official": "Ditunga dia Kongu wa Mungalaata",
+        "common": "Ditunga dia Kongu wa Mungalaata"
+      },
+      "swa": {
+        "official": "Jamhuri ya Kidemokrasia ya Kongo",
+        "common": "Jamhuri ya Kidemokrasia ya Kongo"
+      }
+    }
+  },
+  "tld": [
+    ".cd"
+  ],
+  "currency": [
+    "CDF"
+  ],
+  "callingCode": [
+    "243"
+  ],
+  "capital": "Kinshasa",
+  "altSpellings": [
+    "CD",
+    "DR Congo",
+    "Congo-Kinshasa",
+    "Congo, the Democratic Republic of the",
+    "DRC"
+  ],
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "languages": {
+    "fra": "French",
+    "kon": "Kikongo",
+    "lin": "Lingala",
+    "lua": "Tshiluba",
+    "swa": "Swahili"
+  },
+  "translations": {
+    "cym": {
+      "official": "Democratic Republic of the Congo",
+      "common": "Gweriniaeth Ddemocrataidd Congo"
+    },
+    "deu": {
+      "official": "Demokratische Republik Kongo",
+      "common": "Kongo (Dem. Rep.)"
+    },
+    "fra": {
+      "official": "République démocratique du Congo",
+      "common": "Congo (Rép. dém.)"
+    },
+    "hrv": {
+      "official": "Demokratska Republika Kongo",
+      "common": "Kongo, Demokratska Republika"
+    },
+    "ita": {
+      "official": "Repubblica Democratica del Congo",
+      "common": "Congo (Rep. Dem.)"
+    },
+    "jpn": {
+      "official": "コンゴ民主共和国",
+      "common": "コンゴ民主共和国"
+    },
+    "nld": {
+      "official": "Democratische Republiek Congo",
+      "common": "Congo (DRC)"
+    },
+    "por": {
+      "official": "República Democrática do Congo",
+      "common": "República Democrática do Congo"
+    },
+    "rus": {
+      "official": "Демократическая Республика Конго",
+      "common": "Демократическая Республика Конго"
+    },
+    "spa": {
+      "official": "República Democrática del Congo",
+      "common": "Congo (Rep. Dem.)"
+    },
+    "fin": {
+      "official": "Kongon demokraattinen tasavalta",
+      "common": "Kongon demokraattinen tasavalta"
+    }
+  },
+  "latlng": [
+    0,
+    25
+  ],
+  "demonym": "Congolese",
+  "landlocked": false,
+  "borders": [
+    "AGO",
+    "BDI",
+    "CAF",
+    "COG",
+    "RWA",
+    "SSD",
+    "TZA",
+    "UGA",
+    "ZMB"
+  ],
+  "area": 2344858,
+  "codes": {
+    "cca2": "CD",
+    "ccn3": "180",
+    "cca3": "COD",
+    "cioc": "COD"
+  }
+}

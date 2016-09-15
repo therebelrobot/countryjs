@@ -1,1 +1,181 @@
-{"name":"Netherlands","altSpellings":["NL","Holland","Nederland"],"area":41850,"borders":["BEL","DEU"],"callingCodes":["31"],"capital":"Amsterdam","currencies":["EUR"],"demonym":"Dutch","flag":"","geoJSON":{"type":"FeatureCollection","features":[{"type":"Feature","id":"NLD","properties":{"name":"Netherlands"},"geometry":{"type":"Polygon","coordinates":[[[6.074183,53.510403],[6.90514,53.482162],[7.092053,53.144043],[6.84287,52.22844],[6.589397,51.852029],[5.988658,51.851616],[6.156658,50.803721],[5.606976,51.037298],[4.973991,51.475024],[4.047071,51.267259],[3.314971,51.345755],[3.830289,51.620545],[4.705997,53.091798],[6.074183,53.510403]]]}}]},"ISO":{"alpha2":"NL","alpha3":"NLD"},"languages":["nl"],"latlng":[52.5,5.75],"nativeName":"Nederland","population":16881000,"provinces":["Drenthe","Flevoland","Friesland","Gelderland","Groningen","Limburg","Noord-Brabant","Noord-Holland","Overijssel","Utrecht","Zeeland","Zuid-Holland"],"region":"Europe","subregion":"Western Europe","timezones":null,"tld":[".nl"],"translations":{"de":"Niederlande","es":"Países Bajos","fr":"Pays-Bas","ja":"オランダ","it":"Paesi Bassi"},"wiki":"http://en.wikipedia.org/wiki/netherlands"}
+{
+  "name": {
+    "common": "Netherlands",
+    "official": "Netherlands",
+    "native": {
+      "nld": {
+        "official": "Nederland",
+        "common": "Nederland"
+      }
+    }
+  },
+  "tld": [
+    ".nl"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "31"
+  ],
+  "capital": "Amsterdam",
+  "altSpellings": [
+    "NL",
+    "Holland",
+    "Nederland"
+  ],
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "languages": {
+    "nld": "Dutch"
+  },
+  "translations": {
+    "deu": {
+      "official": "Niederlande",
+      "common": "Niederlande"
+    },
+    "fra": {
+      "official": "Pays-Bas",
+      "common": "Pays-Bas"
+    },
+    "hrv": {
+      "official": "Holandija",
+      "common": "Nizozemska"
+    },
+    "ita": {
+      "official": "Paesi Bassi",
+      "common": "Paesi Bassi"
+    },
+    "jpn": {
+      "official": "オランダ",
+      "common": "オランダ"
+    },
+    "nld": {
+      "official": "Nederland",
+      "common": "Nederland"
+    },
+    "por": {
+      "official": "Holanda",
+      "common": "Holanda"
+    },
+    "rus": {
+      "official": "Нидерланды",
+      "common": "Нидерланды"
+    },
+    "spa": {
+      "official": "Países Bajos",
+      "common": "Países Bajos"
+    },
+    "fin": {
+      "official": "Alankomaat",
+      "common": "Alankomaat"
+    }
+  },
+  "latlng": [
+    52.5,
+    5.75
+  ],
+  "demonym": "Dutch",
+  "landlocked": false,
+  "borders": [
+    "BEL",
+    "DEU"
+  ],
+  "area": 41850,
+  "codes": {
+    "cca2": "NL",
+    "ccn3": "528",
+    "cca3": "NLD",
+    "cioc": "NED"
+  },
+  "provinces": [
+    "Drenthe",
+    "Flevoland",
+    "Friesland",
+    "Gelderland",
+    "Groningen",
+    "Limburg",
+    "Noord-Brabant",
+    "Noord-Holland",
+    "Overijssel",
+    "Utrecht",
+    "Zeeland",
+    "Zuid-Holland"
+  ],
+  "geoJSON": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "NLD",
+        "properties": {
+          "name": "Netherlands"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                6.074183,
+                53.510403
+              ],
+              [
+                6.90514,
+                53.482162
+              ],
+              [
+                7.092053,
+                53.144043
+              ],
+              [
+                6.84287,
+                52.22844
+              ],
+              [
+                6.589397,
+                51.852029
+              ],
+              [
+                5.988658,
+                51.851616
+              ],
+              [
+                6.156658,
+                50.803721
+              ],
+              [
+                5.606976,
+                51.037298
+              ],
+              [
+                4.973991,
+                51.475024
+              ],
+              [
+                4.047071,
+                51.267259
+              ],
+              [
+                3.314971,
+                51.345755
+              ],
+              [
+                3.830289,
+                51.620545
+              ],
+              [
+                4.705997,
+                53.091798
+              ],
+              [
+                6.074183,
+                53.510403
+              ]
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  "flag": ""
+}

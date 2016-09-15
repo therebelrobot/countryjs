@@ -1,0 +1,102 @@
+{
+  "name": {
+    "common": "Czech Republic",
+    "official": "Czech Republic",
+    "native": {
+      "ces": {
+        "official": "česká republika",
+        "common": "Česká republika"
+      },
+      "slk": {
+        "official": "Česká republika",
+        "common": "Česká republika"
+      }
+    }
+  },
+  "tld": [
+    ".cz"
+  ],
+  "currency": [
+    "CZK"
+  ],
+  "callingCode": [
+    "420"
+  ],
+  "capital": "Prague",
+  "altSpellings": [
+    "CZ",
+    "Česká republika",
+    "Česko"
+  ],
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "languages": {
+    "ces": "Czech",
+    "slk": "Slovak"
+  },
+  "translations": {
+    "cym": {
+      "official": "Czech Republic",
+      "common": "Y Weriniaeth Tsiec"
+    },
+    "deu": {
+      "official": "Tschechische Republik",
+      "common": "Tschechische Republik"
+    },
+    "fra": {
+      "official": "République tchèque",
+      "common": "République tchèque"
+    },
+    "hrv": {
+      "official": "Češka",
+      "common": "Češka"
+    },
+    "ita": {
+      "official": "Repubblica Ceca",
+      "common": "Repubblica Ceca"
+    },
+    "jpn": {
+      "official": "チェコ共和国",
+      "common": "チェコ"
+    },
+    "nld": {
+      "official": "Tsjechische Republiek",
+      "common": "Tsjechië"
+    },
+    "por": {
+      "official": "República Checa",
+      "common": "República Checa"
+    },
+    "rus": {
+      "official": "Чешская Республика",
+      "common": "Чехия"
+    },
+    "spa": {
+      "official": "República Checa",
+      "common": "República Checa"
+    },
+    "fin": {
+      "official": "Tšekin tasavalta",
+      "common": "Tšekki"
+    }
+  },
+  "latlng": [
+    49.75,
+    15.5
+  ],
+  "demonym": "Czech",
+  "landlocked": true,
+  "borders": [
+    "AUT",
+    "DEU",
+    "POL",
+    "SVK"
+  ],
+  "area": 78865,
+  "codes": {
+    "cca2": "CZ",
+    "ccn3": "203",
+    "cca3": "CZE",
+    "cioc": "CZE"
+  }
+}

@@ -1,1 +1,103 @@
-{"name":"San Marino","altSpellings":["SM","Republic of San Marino","Repubblica di San Marino"],"area":61,"borders":["ITA"],"callingCodes":["378"],"capital":"City of San Marino","currencies":["EUR"],"demonym":"Sammarinese","flag":"","geoJSON":{},"ISO":{"alpha2":"SM","alpha3":"SMR"},"languages":["it"],"latlng":[43.76666666,12.41666666],"nativeName":"San Marino","population":32743,"provinces":["Acquaviva","Borgo Maggiore","Chiesanuova","Domagnano","Faetano","Fiorentino","Monte Giardino","San Marino","Serravalle"],"region":"Europe","subregion":"Southern Europe","timezones":["UTC+01:00"],"tld":[".sm"],"translations":{"de":"San Marino","es":"San Marino","fr":"Saint-Marin","ja":"サンマリノ","it":"San Marino"},"wiki":"http://en.wikipedia.org/wiki/san_marino"}
+{
+  "name": {
+    "common": "San Marino",
+    "official": "Most Serene Republic of San Marino",
+    "native": {
+      "ita": {
+        "official": "Serenissima Repubblica di San Marino",
+        "common": "San Marino"
+      }
+    }
+  },
+  "tld": [
+    ".sm"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "378"
+  ],
+  "capital": "City of San Marino",
+  "altSpellings": [
+    "SM",
+    "Republic of San Marino",
+    "Repubblica di San Marino"
+  ],
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "languages": {
+    "ita": "Italian"
+  },
+  "translations": {
+    "deu": {
+      "official": "Republik San Marino",
+      "common": "San Marino"
+    },
+    "fra": {
+      "official": "République de Saint-Marin",
+      "common": "Saint-Marin"
+    },
+    "hrv": {
+      "official": "Većina Serene Republika San Marino",
+      "common": "San Marino"
+    },
+    "ita": {
+      "official": "Serenissima Repubblica di San Marino",
+      "common": "San Marino"
+    },
+    "jpn": {
+      "official": "サンマリノのほとんどセリーヌ共和国",
+      "common": "サンマリノ"
+    },
+    "nld": {
+      "official": "Meest Serene Republiek San Marino",
+      "common": "San Marino"
+    },
+    "por": {
+      "official": "Sereníssima República de San Marino",
+      "common": "San Marino"
+    },
+    "rus": {
+      "official": "Большинство Serene Республика Сан-Марино",
+      "common": "Сан-Марино"
+    },
+    "spa": {
+      "official": "Serenísima República de San Marino",
+      "common": "San Marino"
+    },
+    "fin": {
+      "official": "San Marinon seesteinen tasavalta",
+      "common": "San Marino"
+    }
+  },
+  "latlng": [
+    43.76666666,
+    12.41666666
+  ],
+  "demonym": "Sammarinese",
+  "landlocked": true,
+  "borders": [
+    "ITA"
+  ],
+  "area": 61,
+  "codes": {
+    "cca2": "SM",
+    "ccn3": "674",
+    "cca3": "SMR",
+    "cioc": "SMR"
+  },
+  "provinces": [
+    "Acquaviva",
+    "Borgo Maggiore",
+    "Chiesanuova",
+    "Domagnano",
+    "Faetano",
+    "Fiorentino",
+    "Monte Giardino",
+    "San Marino",
+    "Serravalle"
+  ],
+  "geoJSON": {},
+  "flag": ""
+}

@@ -1,0 +1,99 @@
+{
+  "name": {
+    "common": "Timor-Leste",
+    "official": "Democratic Republic of Timor-Leste",
+    "native": {
+      "por": {
+        "official": "República Democrática de Timor-Leste",
+        "common": "Timor-Leste"
+      },
+      "tet": {
+        "official": "Repúblika Demokrátika Timór-Leste",
+        "common": "Timór-Leste"
+      }
+    }
+  },
+  "tld": [
+    ".tl"
+  ],
+  "currency": [
+    "USD"
+  ],
+  "callingCode": [
+    "670"
+  ],
+  "capital": "Dili",
+  "altSpellings": [
+    "TL",
+    "East Timor",
+    "Democratic Republic of Timor-Leste",
+    "República Democrática de Timor-Leste",
+    "Repúblika Demokrátika Timór-Leste",
+    "Timór Lorosa'e",
+    "Timor Lorosae"
+  ],
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "languages": {
+    "por": "Portuguese",
+    "tet": "Tetum"
+  },
+  "translations": {
+    "deu": {
+      "official": "Demokratische Republik Timor-Leste",
+      "common": "Timor-Leste"
+    },
+    "fra": {
+      "official": "République démocratique du Timor oriental",
+      "common": "Timor oriental"
+    },
+    "hrv": {
+      "official": "Demokratska Republika Timor-Leste",
+      "common": "Istočni Timor"
+    },
+    "ita": {
+      "official": "Repubblica Democratica di Timor Est",
+      "common": "Timor Est"
+    },
+    "jpn": {
+      "official": "東ティモール民主共和国",
+      "common": "東ティモール"
+    },
+    "nld": {
+      "official": "Democratische Republiek Oost-Timor",
+      "common": "Oost-Timor"
+    },
+    "por": {
+      "official": "República Democrática de Timor-Leste",
+      "common": "Timor-Leste"
+    },
+    "rus": {
+      "official": "Демократическая Республика Тимор -Лешти",
+      "common": "Восточный Тимор"
+    },
+    "spa": {
+      "official": "República Democrática de Timor-Leste",
+      "common": "Timor Oriental"
+    },
+    "fin": {
+      "official": "Itä-Timorin demokraattinen tasavalta",
+      "common": "Itä-Timor"
+    }
+  },
+  "latlng": [
+    -8.83333333,
+    125.91666666
+  ],
+  "demonym": "East Timorese",
+  "landlocked": false,
+  "borders": [
+    "IDN"
+  ],
+  "area": 14874,
+  "codes": {
+    "cca2": "TL",
+    "ccn3": "626",
+    "cca3": "TLS",
+    "cioc": "TLS"
+  }
+}

@@ -1,1 +1,103 @@
-{"name":"Tokelau","altSpellings":["TK"],"area":12,"borders":[],"callingCodes":["690"],"capital":"Fakaofo","currencies":["NZD"],"demonym":"Tokelauan","flag":"","geoJSON":{},"ISO":{"alpha2":"TK","alpha3":"TKL"},"languages":["en"],"latlng":[-9,-172],"nativeName":"Tokelau","population":1411,"provinces":["Atafu","Fakaofo","Nukunonu"],"region":"Oceania","subregion":"Polynesia","timezones":null,"tld":[".tk"],"translations":{"de":"Tokelau","es":"Islas Tokelau","fr":"Tokelau","ja":"トケラウ","it":"Isole Tokelau"},"wiki":"http://en.wikipedia.org/wiki/tokelau"}
+{
+  "name": {
+    "common": "Tokelau",
+    "official": "Tokelau",
+    "native": {
+      "eng": {
+        "official": "Tokelau",
+        "common": "Tokelau"
+      },
+      "smo": {
+        "official": "Tokelau",
+        "common": "Tokelau"
+      },
+      "tkl": {
+        "official": "Tokelau",
+        "common": "Tokelau"
+      }
+    }
+  },
+  "tld": [
+    ".tk"
+  ],
+  "currency": [
+    "NZD"
+  ],
+  "callingCode": [
+    "690"
+  ],
+  "capital": "Fakaofo",
+  "altSpellings": [
+    "TK"
+  ],
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "languages": {
+    "eng": "English",
+    "smo": "Samoan",
+    "tkl": "Tokelauan"
+  },
+  "translations": {
+    "deu": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "fra": {
+      "official": "Îles Tokelau",
+      "common": "Tokelau"
+    },
+    "hrv": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "ita": {
+      "official": "Tokelau",
+      "common": "Isole Tokelau"
+    },
+    "jpn": {
+      "official": "トケラウ諸島",
+      "common": "トケラウ"
+    },
+    "nld": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "por": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    },
+    "rus": {
+      "official": "Токелау",
+      "common": "Токелау"
+    },
+    "spa": {
+      "official": "Tokelau",
+      "common": "Islas Tokelau"
+    },
+    "fin": {
+      "official": "Tokelau",
+      "common": "Tokelau"
+    }
+  },
+  "latlng": [
+    -9,
+    -172
+  ],
+  "demonym": "Tokelauan",
+  "landlocked": false,
+  "borders": [],
+  "area": 12,
+  "codes": {
+    "cca2": "TK",
+    "ccn3": "772",
+    "cca3": "TKL",
+    "cioc": ""
+  },
+  "provinces": [
+    "Atafu",
+    "Fakaofo",
+    "Nukunonu"
+  ],
+  "geoJSON": {},
+  "flag": ""
+}

@@ -1,1 +1,96 @@
-{"name":"Guadeloupe","altSpellings":["GP","Gwadloup"],"area":null,"borders":[],"callingCodes":["590"],"capital":"Basse-Terre","currencies":["EUR"],"demonym":"Guadeloupian","flag":"","geoJSON":{},"ISO":{"alpha2":"GP","alpha3":"GLP"},"languages":["fr"],"latlng":[16.25,-61.583333],"nativeName":"Guadeloupe","population":405739,"provinces":["Basse-Terre","Grande-Terre","Iles de la Petite Terre","Iles des Saintes","Marie-Galante"],"region":"Americas","subregion":"Caribbean","timezones":null,"tld":[".gp"],"translations":{"de":"Guadeloupe","es":"Guadalupe","fr":"Guadeloupe","ja":"グアドループ","it":"Guadeloupa"},"wiki":"http://en.wikipedia.org/wiki/guadeloupe"}
+{
+  "name": {
+    "common": "Guadeloupe",
+    "official": "Guadeloupe",
+    "native": {
+      "fra": {
+        "official": "Guadeloupe",
+        "common": "Guadeloupe"
+      }
+    }
+  },
+  "tld": [
+    ".gp"
+  ],
+  "currency": [
+    "EUR"
+  ],
+  "callingCode": [
+    "590"
+  ],
+  "capital": "Basse-Terre",
+  "altSpellings": [
+    "GP",
+    "Gwadloup"
+  ],
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "fra": "French"
+  },
+  "translations": {
+    "deu": {
+      "official": "Guadeloupe",
+      "common": "Guadeloupe"
+    },
+    "fra": {
+      "official": "Guadeloupe",
+      "common": "Guadeloupe"
+    },
+    "hrv": {
+      "official": "Gvadalupa",
+      "common": "Gvadalupa"
+    },
+    "ita": {
+      "official": "Guadeloupe",
+      "common": "Guadeloupa"
+    },
+    "jpn": {
+      "official": "グアドループ島",
+      "common": "グアドループ"
+    },
+    "nld": {
+      "official": "Guadeloupe",
+      "common": "Guadeloupe"
+    },
+    "por": {
+      "official": "Guadalupe",
+      "common": "Guadalupe"
+    },
+    "rus": {
+      "official": "Гваделупа",
+      "common": "Гваделупа"
+    },
+    "spa": {
+      "official": "Guadalupe",
+      "common": "Guadalupe"
+    },
+    "fin": {
+      "official": "Guadeloupen departmentti",
+      "common": "Guadeloupe"
+    }
+  },
+  "latlng": [
+    16.25,
+    -61.583333
+  ],
+  "demonym": "Guadeloupian",
+  "landlocked": false,
+  "borders": [],
+  "area": 1628,
+  "codes": {
+    "cca2": "GP",
+    "ccn3": "312",
+    "cca3": "GLP",
+    "cioc": ""
+  },
+  "provinces": [
+    "Basse-Terre",
+    "Grande-Terre",
+    "Iles de la Petite Terre",
+    "Iles des Saintes",
+    "Marie-Galante"
+  ],
+  "geoJSON": {},
+  "flag": ""
+}

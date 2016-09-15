@@ -1,1 +1,101 @@
-{"name":"Saint Lucia","altSpellings":["LC"],"area":616,"borders":[],"callingCodes":["1758"],"capital":"Castries","currencies":["XCD"],"demonym":"Saint Lucian","flag":"","geoJSON":{},"ISO":{"alpha2":"LC","alpha3":"LCA"},"languages":["en"],"latlng":[13.88333333,-60.96666666],"nativeName":"Saint Lucia","population":184000,"provinces":["Anse-la-Raye","Castries","Choiseul","Dauphin","Dennery","Gros Islet","Laborie","Micoud","Praslin","Soufriere","Vieux Fort"],"region":"Americas","subregion":"Caribbean","timezones":["UTC−04:00"],"tld":[".lc"],"translations":{"de":"Saint Lucia","es":"Santa Lucía","fr":"Saint-Lucie","ja":"セントルシア","it":"Santa Lucia"},"wiki":"http://en.wikipedia.org/wiki/saint_lucia"}
+{
+  "name": {
+    "common": "Saint Lucia",
+    "official": "Saint Lucia",
+    "native": {
+      "eng": {
+        "official": "Saint Lucia",
+        "common": "Saint Lucia"
+      }
+    }
+  },
+  "tld": [
+    ".lc"
+  ],
+  "currency": [
+    "XCD"
+  ],
+  "callingCode": [
+    "1758"
+  ],
+  "capital": "Castries",
+  "altSpellings": [
+    "LC"
+  ],
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "languages": {
+    "eng": "English"
+  },
+  "translations": {
+    "deu": {
+      "official": "St. Lucia",
+      "common": "Saint Lucia"
+    },
+    "fra": {
+      "official": "Sainte-Lucie",
+      "common": "Sainte-Lucie"
+    },
+    "hrv": {
+      "official": "Sveta Lucija",
+      "common": "Sveta Lucija"
+    },
+    "ita": {
+      "official": "Santa Lucia",
+      "common": "Santa Lucia"
+    },
+    "jpn": {
+      "official": "セントルシア",
+      "common": "セントルシア"
+    },
+    "nld": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    },
+    "por": {
+      "official": "Santa Lúcia",
+      "common": "Santa Lúcia"
+    },
+    "rus": {
+      "official": "Сент-Люсия",
+      "common": "Сент-Люсия"
+    },
+    "spa": {
+      "official": "Santa Lucía",
+      "common": "Santa Lucía"
+    },
+    "fin": {
+      "official": "Saint Lucia",
+      "common": "Saint Lucia"
+    }
+  },
+  "latlng": [
+    13.88333333,
+    -60.96666666
+  ],
+  "demonym": "Saint Lucian",
+  "landlocked": false,
+  "borders": [],
+  "area": 616,
+  "codes": {
+    "cca2": "LC",
+    "ccn3": "662",
+    "cca3": "LCA",
+    "cioc": "LCA"
+  },
+  "provinces": [
+    "Anse-la-Raye",
+    "Castries",
+    "Choiseul",
+    "Dauphin",
+    "Dennery",
+    "Gros Islet",
+    "Laborie",
+    "Micoud",
+    "Praslin",
+    "Soufriere",
+    "Vieux Fort"
+  ],
+  "geoJSON": {},
+  "flag": ""
+}

@@ -1,1 +1,268 @@
-{"name":"Costa Rica","altSpellings":["CR","Republic of Costa Rica","República de Costa Rica"],"area":51100,"borders":["NIC","PAN"],"callingCodes":["506"],"capital":"San José","currencies":["CRC"],"demonym":"Costa Rican","flag":"","geoJSON":{"type":"FeatureCollection","features":[{"type":"Feature","id":"CRI","properties":{"name":"Costa Rica"},"geometry":{"type":"Polygon","coordinates":[[[-82.965783,8.225028],[-83.508437,8.446927],[-83.711474,8.656836],[-83.596313,8.830443],[-83.632642,9.051386],[-83.909886,9.290803],[-84.303402,9.487354],[-84.647644,9.615537],[-84.713351,9.908052],[-84.97566,10.086723],[-84.911375,9.795992],[-85.110923,9.55704],[-85.339488,9.834542],[-85.660787,9.933347],[-85.797445,10.134886],[-85.791709,10.439337],[-85.659314,10.754331],[-85.941725,10.895278],[-85.71254,11.088445],[-85.561852,11.217119],[-84.903003,10.952303],[-84.673069,11.082657],[-84.355931,10.999226],[-84.190179,10.79345],[-83.895054,10.726839],[-83.655612,10.938764],[-83.40232,10.395438],[-83.015677,9.992982],[-82.546196,9.566135],[-82.932891,9.476812],[-82.927155,9.07433],[-82.719183,8.925709],[-82.868657,8.807266],[-82.829771,8.626295],[-82.913176,8.423517],[-82.965783,8.225028]]]}}]},"ISO":{"alpha2":"CR","alpha3":"CRI"},"languages":["es"],"latlng":[10,-84],"nativeName":"Costa Rica","population":4713168,"provinces":["Alajuela","Cartago","Guanacaste","Heredia","Limon","Puntarenas","San Jose"],"region":"Americas","subregion":"Central America","timezones":["UTC−06:00"],"tld":[".cr"],"translations":{"de":"Costa Rica","es":"Costa Rica","fr":"Costa Rica","ja":"コスタリカ","it":"Costa Rica"},"wiki":"http://en.wikipedia.org/wiki/costa_rica"}
+{
+  "name": {
+    "common": "Costa Rica",
+    "official": "Republic of Costa Rica",
+    "native": {
+      "spa": {
+        "official": "República de Costa Rica",
+        "common": "Costa Rica"
+      }
+    }
+  },
+  "tld": [
+    ".cr"
+  ],
+  "currency": [
+    "CRC"
+  ],
+  "callingCode": [
+    "506"
+  ],
+  "capital": "San José",
+  "altSpellings": [
+    "CR",
+    "Republic of Costa Rica",
+    "República de Costa Rica"
+  ],
+  "region": "Americas",
+  "subregion": "Central America",
+  "languages": {
+    "spa": "Spanish"
+  },
+  "translations": {
+    "cym": {
+      "official": "Republic of Costa Rica",
+      "common": "Costa Rica"
+    },
+    "deu": {
+      "official": "Republik Costa Rica",
+      "common": "Costa Rica"
+    },
+    "fra": {
+      "official": "République du Costa Rica",
+      "common": "Costa Rica"
+    },
+    "hrv": {
+      "official": "Republika Kostarika",
+      "common": "Kostarika"
+    },
+    "ita": {
+      "official": "Repubblica di Costa Rica",
+      "common": "Costa Rica"
+    },
+    "jpn": {
+      "official": "コスタリカ共和国",
+      "common": "コスタリカ"
+    },
+    "nld": {
+      "official": "Republiek Costa Rica",
+      "common": "Costa Rica"
+    },
+    "por": {
+      "official": "República da Costa Rica",
+      "common": "Costa Rica"
+    },
+    "rus": {
+      "official": "Республика Коста-Рика",
+      "common": "Коста-Рика"
+    },
+    "spa": {
+      "official": "República de Costa Rica",
+      "common": "Costa Rica"
+    },
+    "fin": {
+      "official": "Costa Rican tasavalta",
+      "common": "Costa Rica"
+    }
+  },
+  "latlng": [
+    10,
+    -84
+  ],
+  "demonym": "Costa Rican",
+  "landlocked": false,
+  "borders": [
+    "NIC",
+    "PAN"
+  ],
+  "area": 51100,
+  "codes": {
+    "cca2": "CR",
+    "ccn3": "188",
+    "cca3": "CRI",
+    "cioc": "CRC"
+  },
+  "provinces": [
+    "Alajuela",
+    "Cartago",
+    "Guanacaste",
+    "Heredia",
+    "Limon",
+    "Puntarenas",
+    "San Jose"
+  ],
+  "geoJSON": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "CRI",
+        "properties": {
+          "name": "Costa Rica"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -82.965783,
+                8.225028
+              ],
+              [
+                -83.508437,
+                8.446927
+              ],
+              [
+                -83.711474,
+                8.656836
+              ],
+              [
+                -83.596313,
+                8.830443
+              ],
+              [
+                -83.632642,
+                9.051386
+              ],
+              [
+                -83.909886,
+                9.290803
+              ],
+              [
+                -84.303402,
+                9.487354
+              ],
+              [
+                -84.647644,
+                9.615537
+              ],
+              [
+                -84.713351,
+                9.908052
+              ],
+              [
+                -84.97566,
+                10.086723
+              ],
+              [
+                -84.911375,
+                9.795992
+              ],
+              [
+                -85.110923,
+                9.55704
+              ],
+              [
+                -85.339488,
+                9.834542
+              ],
+              [
+                -85.660787,
+                9.933347
+              ],
+              [
+                -85.797445,
+                10.134886
+              ],
+              [
+                -85.791709,
+                10.439337
+              ],
+              [
+                -85.659314,
+                10.754331
+              ],
+              [
+                -85.941725,
+                10.895278
+              ],
+              [
+                -85.71254,
+                11.088445
+              ],
+              [
+                -85.561852,
+                11.217119
+              ],
+              [
+                -84.903003,
+                10.952303
+              ],
+              [
+                -84.673069,
+                11.082657
+              ],
+              [
+                -84.355931,
+                10.999226
+              ],
+              [
+                -84.190179,
+                10.79345
+              ],
+              [
+                -83.895054,
+                10.726839
+              ],
+              [
+                -83.655612,
+                10.938764
+              ],
+              [
+                -83.40232,
+                10.395438
+              ],
+              [
+                -83.015677,
+                9.992982
+              ],
+              [
+                -82.546196,
+                9.566135
+              ],
+              [
+                -82.932891,
+                9.476812
+              ],
+              [
+                -82.927155,
+                9.07433
+              ],
+              [
+                -82.719183,
+                8.925709
+              ],
+              [
+                -82.868657,
+                8.807266
+              ],
+              [
+                -82.829771,
+                8.626295
+              ],
+              [
+                -82.913176,
+                8.423517
+              ],
+              [
+                -82.965783,
+                8.225028
+              ]
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  "flag": ""
+}

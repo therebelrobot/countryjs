@@ -1,0 +1,94 @@
+{
+  "name": {
+    "common": "Palestine",
+    "official": "State of Palestine",
+    "native": {
+      "ara": {
+        "official": "دولة فلسطين",
+        "common": "فلسطين"
+      }
+    }
+  },
+  "tld": [
+    ".ps",
+    "فلسطين."
+  ],
+  "currency": [
+    "ILS"
+  ],
+  "callingCode": [
+    "970"
+  ],
+  "capital": "Ramallah",
+  "altSpellings": [
+    "PS",
+    "Palestine, State of",
+    "State of Palestine",
+    "Dawlat Filasṭin"
+  ],
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "languages": {
+    "ara": "Arabic"
+  },
+  "translations": {
+    "deu": {
+      "official": "Staat Palästina",
+      "common": "Palästina"
+    },
+    "fra": {
+      "official": "État de Palestine",
+      "common": "Palestine"
+    },
+    "hrv": {
+      "official": "State of Palestine",
+      "common": "Palestina"
+    },
+    "ita": {
+      "official": "Stato di Palestina",
+      "common": "Palestina"
+    },
+    "jpn": {
+      "official": "パレスチナ自治政府",
+      "common": "パレスチナ"
+    },
+    "nld": {
+      "official": "Staat Palestina",
+      "common": "Palestijnse gebieden"
+    },
+    "por": {
+      "official": "Estado da Palestina",
+      "common": "Palestina"
+    },
+    "rus": {
+      "official": "Государство Палестина",
+      "common": "Палестина"
+    },
+    "spa": {
+      "official": "Estado de Palestina",
+      "common": "Palestina"
+    },
+    "fin": {
+      "official": "Palestiinan valtio",
+      "common": "Palestiina"
+    }
+  },
+  "latlng": [
+    31.9,
+    35.2
+  ],
+  "demonym": "Palestinian",
+  "landlocked": false,
+  "borders": [
+    "ISR",
+    "EGY",
+    "JOR"
+  ],
+  "area": 6220,
+  "codes": {
+    "cca2": "PS",
+    "ccn3": "275",
+    "cca3": "PSE",
+    "cioc": "PLE"
+  }
+}

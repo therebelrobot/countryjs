@@ -1,1 +1,106 @@
-{"name":"Liechtenstein","altSpellings":["LI","Principality of Liechtenstein","Fürstentum Liechtenstein"],"area":160,"borders":["AUT","CHE"],"callingCodes":["423"],"capital":"Vaduz","currencies":["CHF"],"demonym":"Liechtensteiner","flag":"","geoJSON":{},"ISO":{"alpha2":"LI","alpha3":"LIE"},"languages":["de"],"latlng":[47.26666666,9.53333333],"nativeName":"Liechtenstein","population":37132,"provinces":["Balzers","Eschen","Gamprin","Mauren","Planken","Ruggell","Schaan","Schellenberg","Triesen","Triesenberg","Vaduz"],"region":"Europe","subregion":"Western Europe","timezones":["UTC+01:00"],"tld":[".li"],"translations":{"de":"Liechtenstein","es":"Liechtenstein","fr":"Liechtenstein","ja":"リヒテンシュタイン","it":"Liechtenstein"},"wiki":"http://en.wikipedia.org/wiki/liechtenstein"}
+{
+  "name": {
+    "common": "Liechtenstein",
+    "official": "Principality of Liechtenstein",
+    "native": {
+      "deu": {
+        "official": "Fürstentum Liechtenstein",
+        "common": "Liechtenstein"
+      }
+    }
+  },
+  "tld": [
+    ".li"
+  ],
+  "currency": [
+    "CHF"
+  ],
+  "callingCode": [
+    "423"
+  ],
+  "capital": "Vaduz",
+  "altSpellings": [
+    "LI",
+    "Principality of Liechtenstein",
+    "Fürstentum Liechtenstein"
+  ],
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "languages": {
+    "deu": "German"
+  },
+  "translations": {
+    "deu": {
+      "official": "Fürstentum Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "fra": {
+      "official": "Principauté du Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "hrv": {
+      "official": "Kneževina Lihtenštajn",
+      "common": "Lihtenštajn"
+    },
+    "ita": {
+      "official": "Principato del Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "jpn": {
+      "official": "リヒテンシュタイン公国",
+      "common": "リヒテンシュタイン"
+    },
+    "nld": {
+      "official": "Vorstendom Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "por": {
+      "official": "Principado de Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "rus": {
+      "official": "Княжество Лихтенштейн",
+      "common": "Лихтенштейн"
+    },
+    "spa": {
+      "official": "Principado de Liechtenstein",
+      "common": "Liechtenstein"
+    },
+    "fin": {
+      "official": "Liechensteinin ruhtinaskunta",
+      "common": "Liechenstein"
+    }
+  },
+  "latlng": [
+    47.26666666,
+    9.53333333
+  ],
+  "demonym": "Liechtensteiner",
+  "landlocked": true,
+  "borders": [
+    "AUT",
+    "CHE"
+  ],
+  "area": 160,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Liechtenstein.svg",
+  "codes": {
+    "cca2": "LI",
+    "ccn3": "438",
+    "cca3": "LIE",
+    "cioc": "LIE"
+  },
+  "provinces": [
+    "Balzers",
+    "Eschen",
+    "Gamprin",
+    "Mauren",
+    "Planken",
+    "Ruggell",
+    "Schaan",
+    "Schellenberg",
+    "Triesen",
+    "Triesenberg",
+    "Vaduz"
+  ],
+  "geoJSON": {}
+}

@@ -1,1 +1,169 @@
-{"name":"Swaziland","altSpellings":["SZ","weSwatini","Swatini","Ngwane","Kingdom of Swaziland","Umbuso waseSwatini"],"area":17364,"borders":["MOZ","ZAF"],"callingCodes":["268"],"capital":"Lobamba","currencies":["SZL"],"demonym":"Swazi","flag":"","geoJSON":{"type":"FeatureCollection","features":[{"type":"Feature","id":"SWZ","properties":{"name":"Swaziland"},"geometry":{"type":"Polygon","coordinates":[[[32.071665,-26.73382],[31.86806,-27.177927],[31.282773,-27.285879],[30.685962,-26.743845],[30.676609,-26.398078],[30.949667,-26.022649],[31.04408,-25.731452],[31.333158,-25.660191],[31.837778,-25.843332],[31.985779,-26.29178],[32.071665,-26.73382]]]}}]},"ISO":{"alpha2":"SZ","alpha3":"SWZ"},"languages":["en","ss"],"latlng":[-26.5,31.5],"nativeName":"Swaziland","population":1106189,"provinces":["Hhohho","Lubombo","Manzini","Shiselweni"],"region":"Africa","subregion":"Southern Africa","timezones":["UTC+02:00"],"tld":[".sz"],"translations":{"de":"Swasiland","es":"Suazilandia","fr":"Swaziland","ja":"スワジランド","it":"Swaziland"},"wiki":"http://en.wikipedia.org/wiki/swaziland"}
+{
+  "name": {
+    "common": "Swaziland",
+    "official": "Kingdom of Swaziland",
+    "native": {
+      "eng": {
+        "official": "Kingdom of Swaziland",
+        "common": "Swaziland"
+      },
+      "ssw": {
+        "official": "Kingdom of Swaziland",
+        "common": "Swaziland"
+      }
+    }
+  },
+  "tld": [
+    ".sz"
+  ],
+  "currency": [
+    "SZL"
+  ],
+  "callingCode": [
+    "268"
+  ],
+  "capital": "Lobamba",
+  "altSpellings": [
+    "SZ",
+    "weSwatini",
+    "Swatini",
+    "Ngwane",
+    "Kingdom of Swaziland",
+    "Umbuso waseSwatini"
+  ],
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "languages": {
+    "eng": "English",
+    "ssw": "Swazi"
+  },
+  "translations": {
+    "deu": {
+      "official": "Königreich Swasiland",
+      "common": "Swasiland"
+    },
+    "fra": {
+      "official": "Royaume du Swaziland",
+      "common": "Swaziland"
+    },
+    "hrv": {
+      "official": "Kraljevina Svazi",
+      "common": "Svazi"
+    },
+    "ita": {
+      "official": "Regno dello Swaziland",
+      "common": "Swaziland"
+    },
+    "jpn": {
+      "official": "スワジランド王国",
+      "common": "スワジランド"
+    },
+    "nld": {
+      "official": "Koninkrijk Swaziland",
+      "common": "Swaziland"
+    },
+    "por": {
+      "official": "Reino da Suazilândia",
+      "common": "Suazilândia"
+    },
+    "rus": {
+      "official": "Королевство Свазиленд",
+      "common": "Свазиленд"
+    },
+    "spa": {
+      "official": "Reino de Swazilandia",
+      "common": "Suazilandia"
+    },
+    "fin": {
+      "official": "Swazimaan kuningaskunta",
+      "common": "Swazimaa"
+    }
+  },
+  "latlng": [
+    -26.5,
+    31.5
+  ],
+  "demonym": "Swazi",
+  "landlocked": true,
+  "borders": [
+    "MOZ",
+    "ZAF"
+  ],
+  "area": 17364,
+  "flag": "https://en.m.wikipedia.org/wiki/File:Flag of Swaziland.svg",
+  "codes": {
+    "cca2": "SZ",
+    "ccn3": "748",
+    "cca3": "SWZ",
+    "cioc": "SWZ"
+  },
+  "provinces": [
+    "Hhohho",
+    "Lubombo",
+    "Manzini",
+    "Shiselweni"
+  ],
+  "geoJSON": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "id": "SWZ",
+        "properties": {
+          "name": "Swaziland"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                32.071665,
+                -26.73382
+              ],
+              [
+                31.86806,
+                -27.177927
+              ],
+              [
+                31.282773,
+                -27.285879
+              ],
+              [
+                30.685962,
+                -26.743845
+              ],
+              [
+                30.676609,
+                -26.398078
+              ],
+              [
+                30.949667,
+                -26.022649
+              ],
+              [
+                31.04408,
+                -25.731452
+              ],
+              [
+                31.333158,
+                -25.660191
+              ],
+              [
+                31.837778,
+                -25.843332
+              ],
+              [
+                31.985779,
+                -26.29178
+              ],
+              [
+                32.071665,
+                -26.73382
+              ]
+            ]
+          ]
+        }
+      }
+    ]
+  }
+}
