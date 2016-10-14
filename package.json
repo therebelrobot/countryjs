@@ -1,5 +1,5 @@
 {
-  "name": "countryjs",
+  "name": "countryjs-progressclaim-fork",
   "version": "1.5.2",
   "description": "A utility library for returning country data, ISO info and states/provinces within them.",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "Michael Scott Hertzberg <mshertzberg@gmail.com> [@moimikey] (http://michael.hertzberg.co)",
     "Loris Guignard <loris.guignard@gmail.com> [@loris]"
   ],
-  "repository": "therebelrobot/countryjs",
+  "repository": "progressclaim/countryjs",
   "engines": [
     "node"
   ],
