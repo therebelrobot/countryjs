@@ -11,8 +11,8 @@
 // DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS
 // ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
-function requireAll(requireContext) {
-  return requireContext.keys().map(requireContext);
+function requireAll (requireContext) {
+  return requireContext.keys().map(requireContext)
 }
 
 var fileList = requireAll(require.context(__dirname, true, /.*json$/))
