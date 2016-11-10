@@ -11,7 +11,7 @@
     "Michael Scott Hertzberg <mshertzberg@gmail.com> [@moimikey] (http://michael.hertzberg.co)",
     "Loris Guignard <loris.guignard@gmail.com> [@loris]"
   ],
-  "repository": "therebelrobot/countryjs",
+  "repository": "progressclaim/countryjs",
   "engines": [
     "node"
   ],
