@@ -1,6 +1,6 @@
 {
   "name": "countryjs",
-  "version": "1.5.5",
+  "version": "1.5.6",
   "description": "A utility library for returning country data, ISO info and states/provinces within them.",
   "main": "index.js",
   "author": "Trent Oswald <trentoswald@therebelrobot.com> (http://therebelrobot.com)",
@@ -9,7 +9,8 @@
     "Trent Oswald <trentoswald@therebelrobot.com> [@therebelrobot] (http://therebelrobot.com)",
     "Scott Hillman <hillmanov@gmail.com> [@hillmanov]",
     "Michael Scott Hertzberg <mshertzberg@gmail.com> [@moimikey] (http://michael.hertzberg.co)",
-    "Loris Guignard <loris.guignard@gmail.com> [@loris]"
+    "Loris Guignard <loris.guignard@gmail.com> [@loris]",
+    "Brandon Copley <copley.brandon@gmail.com> [@brandoncopley]"
   ],
   "repository": "progressclaim/countryjs",
   "engines": [
