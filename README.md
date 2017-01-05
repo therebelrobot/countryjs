@@ -1,5 +1,7 @@
 # country.js
 
+[![Join the chat at https://gitter.im/Growmies/countryjs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Growmies/countryjs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![NPM](https://nodei.co/npm/countryjs.png?downloads=true)](https://nodei.co/npm/countryjs/)
 [![NPM](https://nodei.co/npm-dl/countryjs.png?months=3&height=2)](https://nodei.co/npm/countryjs/)
 
