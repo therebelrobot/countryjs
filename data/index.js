@@ -11,16 +11,17 @@
 // DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS
 // ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
-var bulkify = require('bulk-require')
+var requireAll = require('require-all')
 var _ = require('lodash')
 
 module.exports = function () {
-  var totalList = []
-  var fileList = bulkify(__dirname, ['*.json'])
-  _.forEach(fileList, function (file) {
+  var fileData = requireAll({
+    dirname: __dirname,
+    filter: /.+\.json$/
+  })
+  return _.values(fileData).map(function (file) {
     file.ISO[2] = file.ISO.alpha2
     file.ISO[3] = file.ISO.alpha3
-    totalList.push(file)
+    return file
   })
-  return totalList
 }
