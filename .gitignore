@@ -3,3 +3,4 @@ build.js
 npm-debug.log
 coverage
 .DS_STORE
+.idea
