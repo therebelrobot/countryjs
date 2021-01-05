@@ -1,4 +1,4 @@
-# country.js
+# [UNMAINTAINED] country.js
 
 [![NPM](https://nodei.co/npm/countryjs.png?downloads=true)](https://nodei.co/npm/countryjs/)
 [![NPM](https://nodei.co/npm-dl/countryjs.png?months=3&height=2)](https://nodei.co/npm/countryjs/)
