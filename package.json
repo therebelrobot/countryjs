@@ -35,8 +35,7 @@
   "homepage": "https://github.com/therebelrobot/countryjs",
   "dependencies": {
     "lodash": "^4.17.2",
-    "minimatch": "^3.0.3",
-    "require-all": "^2.2.0"
+    "minimatch": "^3.0.3"
   },
   "devDependencies": {
     "chai": "^2.1.0",
