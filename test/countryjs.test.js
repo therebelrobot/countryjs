@@ -8,7 +8,7 @@ describe('countryjs', function () {
   it('should get all country information', function (done) {
     var tester = country.all()
     expect(tester).to.be.an('array')
-    expect(tester.length).to.equal(251)
+    expect(tester.length).to.equal(264)
     expect(tester[0]).to.be.an('object')
     done()
   })
